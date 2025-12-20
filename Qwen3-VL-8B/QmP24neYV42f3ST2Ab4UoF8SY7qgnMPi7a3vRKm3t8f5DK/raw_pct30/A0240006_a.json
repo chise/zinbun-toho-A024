@@ -1,0 +1,40 @@
+```json
+[
+	{
+		"text": "小三八九十六",
+		"bbox": [807, 264, 837, 394],
+		"type": "text_line",
+		"comment": "页码或章节标识"
+	},
+	{
+		"text": "楊永",
+		"bbox": [815, 795, 842, 852],
+		"type": "text_line",
+		"comment": "作者署名"
+	},
+	{
+		"text": "二",
+		"bbox": [824, 657, 844, 684],
+		"type": "text_line",
+		"comment": "页码"
+	},
+	{
+		"text": "諳文",
+		"bbox": [815, 394, 842, 521],
+		"type": "text_line",
+		"comment": "书名或标题"
+	},
+	{
+		"text": "津橋之梓園",
+		"bbox": [358, 270, 405, 385],
+		"type": "text_line",
+		"comment": "出版者或刻印者"
+	},
+	{
+		"text": "玉裁跋",
+		"bbox": [358, 385, 405, 481],
+		"type": "text_line",
+		"comment": "跋文作者"
+	}
+]
+```

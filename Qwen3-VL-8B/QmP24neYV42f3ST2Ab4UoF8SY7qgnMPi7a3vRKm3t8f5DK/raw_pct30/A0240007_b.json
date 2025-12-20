@@ -1,0 +1,194 @@
+```json
+[
+	{
+		"text": "說文解字標目",
+		"bbox": [798, 264, 883, 501],
+		"type": "text_line"
+	},
+	{
+		"text": "銀青光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百戶徐鍾奉",
+		"bbox": [710, 281, 778, 845],
+		"type": "text_line"
+	},
+	{
+		"text": "敕校定",
+		"bbox": [608, 281, 660, 348],
+		"type": "text_line"
+	},
+	{
+		"text": "說文解字弟一",
+		"bbox": [502, 264, 590, 498],
+		"type": "text_line"
+	},
+	{
+		"text": "一",
+		"bbox": [400, 272, 482, 333],
+		"type": "text_line"
+	},
+	{
+		"text": "一於",
+		"bbox": [400, 333, 482, 383],
+		"type": "text_line"
+	},
+	{
+		"text": "悉切",
+		"bbox": [400, 383, 482, 432],
+		"type": "text_line"
+	},
+	{
+		"text": "王",
+		"bbox": [300, 272, 383, 333],
+		"type": "text_line"
+	},
+	{
+		"text": "王雨",
+		"bbox": [300, 333, 383, 383],
+		"type": "text_line"
+	},
+	{
+		"text": "方切",
+		"bbox": [300, 383, 383, 432],
+		"type": "text_line"
+	},
+	{
+		"text": "士",
+		"bbox": [198, 272, 281, 333],
+		"type": "text_line"
+	},
+	{
+		"text": "士鉏",
+		"bbox": [198, 333, 281, 383],
+		"type": "text_line"
+	},
+	{
+		"text": "里切",
+		"bbox": [198, 383, 281, 432],
+		"type": "text_line"
+	},
+	{
+		"text": "丨",
+		"bbox": [198, 432, 281, 483],
+		"type": "text_line"
+	},
+	{
+		"text": "本切",
+		"bbox": [198, 483, 281, 532],
+		"type": "text_line"
+	},
+	{
+		"text": "丨古",
+		"bbox": [299, 432, 383, 483],
+		"type": "text_line"
+	},
+	{
+		"text": "欲切",
+		"bbox": [299, 483, 383, 532],
+		"type": "text_line"
+	},
+	{
+		"text": "玉魚",
+		"bbox": [299, 532, 383, 583],
+		"type": "text_line"
+	},
+	{
+		"text": "王",
+		"bbox": [299, 583, 383, 632],
+		"type": "text_line"
+	},
+	{
+		"text": "王古",
+		"bbox": [299, 632, 383, 683],
+		"type": "text_line"
+	},
+	{
+		"text": "岳切",
+		"bbox": [299, 683, 383, 732],
+		"type": "text_line"
+	},
+	{
+		"text": "中丑",
+		"bbox": [198, 632, 281, 683],
+		"type": "text_line"
+	},
+	{
+		"text": "劉切",
+		"bbox": [198, 683, 281, 732],
+		"type": "text_line"
+	},
+	{
+		"text": "丿",
+		"bbox": [198, 732, 281, 783],
+		"type": "text_line"
+	},
+	{
+		"text": "老切",
+		"bbox": [198, 783, 281, 833],
+		"type": "text_line"
+	},
+	{
+		"text": "帥倉",
+		"bbox": [198, 833, 281, 883],
+		"type": "text_line"
+	},
+	{
+		"text": "丿",
+		"bbox": [299, 732, 383, 783],
+		"type": "text_line"
+	},
+	{
+		"text": "既氣去",
+		"bbox": [299, 783, 383, 833],
+		"type": "text_line"
+	},
+	{
+		"text": "甘三鯀",
+		"bbox": [400, 732, 482, 783],
+		"type": "text_line"
+	},
+	{
+		"text": "三",
+		"bbox": [400, 783, 482, 833],
+		"type": "text_line"
+	},
+	{
+		"text": "至切",
+		"bbox": [400, 632, 482, 683],
+		"type": "text_line"
+	},
+	{
+		"text": "示神",
+		"bbox": [400, 683, 482, 732],
+		"type": "text_line"
+	},
+	{
+		"text": "掌切",
+		"bbox": [400, 483, 482, 532],
+		"type": "text_line"
+	},
+	{
+		"text": "上時",
+		"bbox": [400, 532, 482, 583],
+		"type": "text_line"
+	},
+	{
+		"text": "土",
+		"bbox": [198, 583, 281, 632],
+		"type": "text_line"
+	},
+	{
+		"text": "中",
+		"bbox": [198, 532, 281, 583],
+		"type": "text_line"
+	},
+	{
+		"text": "張佑",
+		"bbox": [166, 815, 187, 846],
+		"type": "text_line"
+	},
+	{
+		"text": "大二十四",
+		"bbox": [156, 264, 178, 306],
+		"type": "text_line"
+	}
+]
+```

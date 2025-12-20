@@ -1,0 +1,262 @@
+```json
+[
+	{
+		"text": "小石芒、",
+		"bbox": [809, 265, 830, 315],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "目",
+		"bbox": [827, 406, 842, 422],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "蜀幕而",
+		"bbox": [718, 268, 794, 394],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "並模",
+		"bbox": [718, 499, 794, 550],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "朗切",
+		"bbox": [718, 499, 794, 550],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "說文解字弟二",
+		"bbox": [620, 266, 700, 501],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "小私",
+		"bbox": [535, 279, 601, 384],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "兆切",
+		"bbox": [535, 384, 601, 435],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "八博",
+		"bbox": [535, 435, 601, 550],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "拔切",
+		"bbox": [535, 550, 601, 599],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "采蒲",
+		"bbox": [535, 599, 601, 701],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "半博",
+		"bbox": [535, 701, 601, 846],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "牛語",
+		"bbox": [423, 279, 502, 384],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "求切",
+		"bbox": [423, 384, 502, 435],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "聲莫",
+		"bbox": [423, 435, 502, 550],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "交切",
+		"bbox": [423, 550, 502, 599],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "告古",
+		"bbox": [423, 599, 502, 701],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "口苦",
+		"bbox": [423, 701, 502, 846],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "止諸",
+		"bbox": [312, 279, 391, 384],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "犯切",
+		"bbox": [312, 384, 391, 435],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "囗泥",
+		"bbox": [312, 435, 391, 550],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "袁切",
+		"bbox": [312, 550, 391, 599],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "哭苦",
+		"bbox": [312, 599, 391, 701],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "苟子",
+		"bbox": [312, 701, 391, 846],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "正之",
+		"bbox": [199, 279, 279, 384],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "市切",
+		"bbox": [199, 384, 279, 435],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "止北",
+		"bbox": [199, 435, 279, 550],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "步薄",
+		"bbox": [199, 550, 279, 701],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "此雌",
+		"bbox": [199, 701, 279, 846],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "盛正",
+		"bbox": [106, 279, 186, 384],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "盛切",
+		"bbox": [106, 384, 186, 435],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "是承",
+		"bbox": [106, 435, 186, 550],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "故切",
+		"bbox": [106, 550, 186, 599],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "氏切",
+		"bbox": [106, 599, 186, 701],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "亦丑",
+		"bbox": [106, 701, 186, 846],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "是承",
+		"bbox": [106, 435, 186, 550],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "旨切",
+		"bbox": [106, 550, 186, 599],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "危丑",
+		"bbox": [106, 599, 186, 701],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "略切",
+		"bbox": [106, 701, 186, 846],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "是承",
+		"bbox": [106, 435, 186, 550],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "旨切",
+		"bbox": [106, 550, 186, 599],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "危丑",
+		"bbox": [106, 599, 186, 701],
+		"type": "text",
+		"comment": "竖排文字"
+	},
+	{
+		"text": "略切",
+		"bbox": [106, 701, 186, 846],
+		"type": "text",
+		"comment": "竖排文字"
+	}
+]
+```
