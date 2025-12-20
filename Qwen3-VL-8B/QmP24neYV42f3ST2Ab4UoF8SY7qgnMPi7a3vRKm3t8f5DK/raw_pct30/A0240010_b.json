@@ -1,0 +1,284 @@
+```json
+[
+	{
+		"text": "說文解字弟五",
+		"bbox": [503, 274, 586, 512],
+		"type": "text_line"
+	},
+	{
+		"text": "骨",
+		"bbox": [794, 274, 880, 364],
+		"type": "text_line"
+	},
+	{
+		"text": "角",
+		"bbox": [603, 274, 698, 364],
+		"type": "text_line"
+	},
+	{
+		"text": "刃",
+		"bbox": [703, 274, 790, 364],
+		"type": "text_line"
+	},
+	{
+		"text": "骨古",
+		"bbox": [794, 364, 880, 410],
+		"type": "text_line"
+	},
+	{
+		"text": "忽切",
+		"bbox": [794, 410, 880, 458],
+		"type": "text_line"
+	},
+	{
+		"text": "月",
+		"bbox": [794, 458, 880, 508],
+		"type": "text_line"
+	},
+	{
+		"text": "肉如",
+		"bbox": [794, 508, 880, 558],
+		"type": "text_line"
+	},
+	{
+		"text": "六切",
+		"bbox": [794, 558, 880, 606],
+		"type": "text_line"
+	},
+	{
+		"text": "筋居",
+		"bbox": [794, 606, 880, 656],
+		"type": "text_line"
+	},
+	{
+		"text": "筋居",
+		"bbox": [794, 656, 880, 706],
+		"type": "text_line"
+	},
+	{
+		"text": "銀切",
+		"bbox": [794, 706, 880, 756],
+		"type": "text_line"
+	},
+	{
+		"text": "刀都",
+		"bbox": [794, 756, 880, 806],
+		"type": "text_line"
+	},
+	{
+		"text": "牢切",
+		"bbox": [794, 806, 880, 856],
+		"type": "text_line"
+	},
+	{
+		"text": "未盧",
+		"bbox": [794, 856, 880, 906],
+		"type": "text_line"
+	},
+	{
+		"text": "對切",
+		"bbox": [794, 906, 880, 956],
+		"type": "text_line"
+	},
+	{
+		"text": "木",
+		"bbox": [603, 364, 698, 410],
+		"type": "text_line"
+	},
+	{
+		"text": "角古",
+		"bbox": [603, 410, 698, 458],
+		"type": "text_line"
+	},
+	{
+		"text": "振切",
+		"bbox": [603, 458, 698, 508],
+		"type": "text_line"
+	},
+	{
+		"text": "八切",
+		"bbox": [603, 508, 698, 558],
+		"type": "text_line"
+	},
+	{
+		"text": "韌恪",
+		"bbox": [603, 558, 698, 606],
+		"type": "text_line"
+	},
+	{
+		"text": "丰古",
+		"bbox": [603, 606, 698, 656],
+		"type": "text_line"
+	},
+	{
+		"text": "拜切",
+		"bbox": [603, 656, 698, 706],
+		"type": "text_line"
+	},
+	{
+		"text": "聿",
+		"bbox": [603, 706, 698, 756],
+		"type": "text_line"
+	},
+	{
+		"text": "竹",
+		"bbox": [403, 274, 498, 364],
+		"type": "text_line"
+	},
+	{
+		"text": "竹陟",
+		"bbox": [403, 364, 498, 410],
+		"type": "text_line"
+	},
+	{
+		"text": "箕居",
+		"bbox": [403, 410, 498, 458],
+		"type": "text_line"
+	},
+	{
+		"text": "之切",
+		"bbox": [403, 458, 498, 508],
+		"type": "text_line"
+	},
+	{
+		"text": "丁居",
+		"bbox": [403, 508, 498, 558],
+		"type": "text_line"
+	},
+	{
+		"text": "左則",
+		"bbox": [403, 558, 498, 606],
+		"type": "text_line"
+	},
+	{
+		"text": "箇切",
+		"bbox": [403, 606, 498, 656],
+		"type": "text_line"
+	},
+	{
+		"text": "甘古",
+		"bbox": [403, 656, 498, 706],
+		"type": "text_line"
+	},
+	{
+		"text": "三切",
+		"bbox": [403, 706, 498, 756],
+		"type": "text_line"
+	},
+	{
+		"text": "可肯",
+		"bbox": [403, 756, 498, 806],
+		"type": "text_line"
+	},
+	{
+		"text": "工",
+		"bbox": [299, 274, 394, 364],
+		"type": "text_line"
+	},
+	{
+		"text": "工古",
+		"bbox": [299, 364, 394, 410],
+		"type": "text_line"
+	},
+	{
+		"text": "紅切",
+		"bbox": [299, 410, 394, 458],
+		"type": "text_line"
+	},
+	{
+		"text": "巫武",
+		"bbox": [299, 458, 394, 508],
+		"type": "text_line"
+	},
+	{
+		"text": "之切",
+		"bbox": [299, 508, 394, 558],
+		"type": "text_line"
+	},
+	{
+		"text": "夫切",
+		"bbox": [299, 558, 394, 606],
+		"type": "text_line"
+	},
+	{
+		"text": "巫切",
+		"bbox": [299, 606, 394, 656],
+		"type": "text_line"
+	},
+	{
+		"text": "甘古",
+		"bbox": [299, 656, 394, 706],
+		"type": "text_line"
+	},
+	{
+		"text": "三切",
+		"bbox": [299, 706, 394, 756],
+		"type": "text_line"
+	},
+	{
+		"text": "可肯",
+		"bbox": [299, 756, 394, 806],
+		"type": "text_line"
+	},
+	{
+		"text": "自",
+		"bbox": [194, 274, 289, 364],
+		"type": "text_line"
+	},
+	{
+		"text": "日王",
+		"bbox": [194, 364, 289, 410],
+		"type": "text_line"
+	},
+	{
+		"text": "伐切",
+		"bbox": [194, 410, 289, 458],
+		"type": "text_line"
+	},
+	{
+		"text": "乃奴",
+		"bbox": [194, 458, 289, 508],
+		"type": "text_line"
+	},
+	{
+		"text": "玄切",
+		"bbox": [194, 508, 289, 558],
+		"type": "text_line"
+	},
+	{
+		"text": "万苦",
+		"bbox": [194, 558, 289, 606],
+		"type": "text_line"
+	},
+	{
+		"text": "浩切",
+		"bbox": [194, 606, 289, 656],
+		"type": "text_line"
+	},
+	{
+		"text": "我切",
+		"bbox": [194, 656, 289, 706],
+		"type": "text_line"
+	},
+	{
+		"text": "可肯",
+		"bbox": [194, 706, 289, 756],
+		"type": "text_line"
+	},
+	{
+		"text": "大",
+		"bbox": [158, 274, 189, 364],
+		"type": "text_line"
+	},
+	{
+		"text": "大切十九",
+		"bbox": [158, 274, 189, 324],
+		"type": "text_line"
+	},
+	{
+		"text": "沈錫",
+		"bbox": [158, 806, 189, 856],
+		"type": "text_line"
+	}
+]
+```

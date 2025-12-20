@@ -1,0 +1,520 @@
+```json
+[
+	{
+		"text": "小二百四",
+		"bbox": [809, 273, 835, 326],
+		"type": "text",
+		"comment": "页码或章节标识"
+	},
+	{
+		"text": "鵝",
+		"bbox": [706, 280, 794, 346],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "習似",
+		"bbox": [706, 512, 805, 563],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "羽王",
+		"bbox": [706, 659, 805, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "佳職",
+		"bbox": [706, 785, 805, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "追佳切職",
+		"bbox": [706, 785, 805, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "首模",
+		"bbox": [605, 785, 705, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "結市切",
+		"bbox": [504, 785, 605, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "流雛切",
+		"bbox": [404, 785, 504, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "潘華切北",
+		"bbox": [304, 785, 404, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "縁責切職",
+		"bbox": [204, 785, 304, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "小受切平",
+		"bbox": [104, 785, 204, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "瓦丹切古",
+		"bbox": [104, 785, 204, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "人",
+		"bbox": [104, 709, 204, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "受",
+		"bbox": [204, 709, 304, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "車",
+		"bbox": [304, 709, 404, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "華",
+		"bbox": [404, 709, 504, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "雕",
+		"bbox": [504, 709, 605, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "首",
+		"bbox": [605, 709, 705, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "瓦切工",
+		"bbox": [605, 659, 705, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "瞿九",
+		"bbox": [504, 659, 605, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "遇切",
+		"bbox": [404, 659, 504, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "烏哀",
+		"bbox": [304, 659, 404, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "都切",
+		"bbox": [204, 659, 304, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "於",
+		"bbox": [104, 659, 204, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "放甫",
+		"bbox": [204, 659, 304, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "妾切",
+		"bbox": [104, 659, 204, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "究息",
+		"bbox": [104, 659, 204, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "姉切息",
+		"bbox": [104, 659, 204, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "放",
+		"bbox": [204, 584, 304, 659],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "呂尹切",
+		"bbox": [204, 512, 304, 563],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "支五",
+		"bbox": [104, 512, 204, 563],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "割切",
+		"bbox": [104, 512, 204, 563],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "干奴切昨",
+		"bbox": [104, 356, 204, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "涓玄切胡",
+		"bbox": [204, 356, 304, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "候葬切古",
+		"bbox": [304, 356, 404, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "合切祖",
+		"bbox": [404, 356, 504, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "龕切",
+		"bbox": [504, 356, 605, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "章切與",
+		"bbox": [504, 356, 605, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "羊與",
+		"bbox": [504, 356, 605, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "遺切",
+		"bbox": [605, 356, 705, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "奎息",
+		"bbox": [605, 356, 705, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "利切彼",
+		"bbox": [706, 356, 805, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "百切彼",
+		"bbox": [706, 356, 805, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "習似",
+		"bbox": [706, 512, 805, 563],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "羽王",
+		"bbox": [706, 659, 805, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "佳職",
+		"bbox": [706, 785, 805, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "追佳切職",
+		"bbox": [706, 785, 805, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "首模",
+		"bbox": [605, 785, 705, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "結市切",
+		"bbox": [504, 785, 605, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "流雛切",
+		"bbox": [404, 785, 504, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "潘華切北",
+		"bbox": [304, 785, 404, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "縁責切職",
+		"bbox": [204, 785, 304, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "小受切平",
+		"bbox": [104, 785, 204, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "瓦丹切古",
+		"bbox": [104, 785, 204, 836],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "人",
+		"bbox": [104, 709, 204, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "受",
+		"bbox": [204, 709, 304, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "車",
+		"bbox": [304, 709, 404, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "華",
+		"bbox": [404, 709, 504, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "雕",
+		"bbox": [504, 709, 605, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "首",
+		"bbox": [605, 709, 705, 784],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "瓦切工",
+		"bbox": [605, 659, 705, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "瞿九",
+		"bbox": [504, 659, 605, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "遇切",
+		"bbox": [404, 659, 504, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "烏哀",
+		"bbox": [304, 659, 404, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "都切",
+		"bbox": [204, 659, 304, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "於",
+		"bbox": [104, 659, 204, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "放甫",
+		"bbox": [204, 659, 304, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "妾切",
+		"bbox": [104, 659, 204, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "究息",
+		"bbox": [104, 659, 204, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "姉切息",
+		"bbox": [104, 659, 204, 710],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "放",
+		"bbox": [204, 584, 304, 659],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "呂尹切",
+		"bbox": [204, 512, 304, 563],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "支五",
+		"bbox": [104, 512, 204, 563],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "割切",
+		"bbox": [104, 512, 204, 563],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "干奴切昨",
+		"bbox": [104, 356, 204, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "涓玄切胡",
+		"bbox": [204, 356, 304, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "候葬切古",
+		"bbox": [304, 356, 404, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "合切祖",
+		"bbox": [404, 356, 504, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "龕切",
+		"bbox": [504, 356, 605, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "章切與",
+		"bbox": [504, 356, 605, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "羊與",
+		"bbox": [504, 356, 605, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "遺切",
+		"bbox": [605, 356, 705, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "奎息",
+		"bbox": [605, 356, 705, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "利切彼",
+		"bbox": [706, 356, 805, 417],
+		"type": "text",
+		"comment": "部首字"
+	},
+	{
+		"text": "百切彼",
+		"bbox": [706, 356, 805, 417],
+		"type": "text",
+		"comment": "部首字"
+	}
+]
+```

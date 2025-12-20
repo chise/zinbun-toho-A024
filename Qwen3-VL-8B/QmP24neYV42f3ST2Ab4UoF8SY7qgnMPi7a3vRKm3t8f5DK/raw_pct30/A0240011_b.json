@@ -1,0 +1,39 @@
+```json
+[
+	{
+		"text": "說文解字第 六",
+		"bbox": [195, 274, 268, 513],
+		"type": "text_line"
+	},
+	{
+		"text": "倉七",
+		"bbox": [820, 274, 878, 396],
+		"type": "text_line"
+	},
+	{
+		"text": "入人",
+		"bbox": [820, 396, 878, 494],
+		"type": "text_line"
+	},
+	{
+		"text": "矢式",
+		"bbox": [820, 494, 878, 513],
+		"type": "text_line"
+	},
+	{
+		"text": "視切",
+		"bbox": [820, 513, 878, 532],
+		"type": "text_line"
+	},
+	{
+		"text": "矢式",
+		"bbox": [820, 494, 878, 513],
+		"type": "text_line"
+	},
+	{
+		"text": "視切",
+		"bbox": [820, 513, 878, 532],
+		"type": "text_line"
+	}
+]
+```
