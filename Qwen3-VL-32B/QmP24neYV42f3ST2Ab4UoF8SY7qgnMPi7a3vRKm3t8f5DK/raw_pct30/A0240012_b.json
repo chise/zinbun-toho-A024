@@ -1,0 +1,178 @@
+```json
+[
+	{
+		"text": "說文解字第七",
+		"bbox": [805, 283, 874, 639],
+		"type": "title",
+		"comment": "页面标题，位于右上角"
+	},
+	{
+		"text": "日人質切",
+		"bbox": [716, 289, 783, 420],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "旦得案切",
+		"bbox": [716, 425, 783, 558],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "叀古案切",
+		"bbox": [716, 563, 783, 695],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "於愷切",
+		"bbox": [716, 700, 783, 831],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "冥莫經切",
+		"bbox": [625, 289, 692, 420],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "晶子盈切",
+		"bbox": [625, 425, 692, 558],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "月魚厥切",
+		"bbox": [625, 563, 692, 695],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "有云九切",
+		"bbox": [625, 700, 692, 831],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "明武兵切",
+		"bbox": [534, 289, 601, 420],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "冏俱永切",
+		"bbox": [534, 425, 601, 558],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "夕祥易切",
+		"bbox": [534, 563, 601, 695],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "多得何切",
+		"bbox": [534, 700, 601, 831],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "毋古丸切",
+		"bbox": [443, 289, 510, 420],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "弓乎感切",
+		"bbox": [443, 425, 510, 558],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "東胡感切",
+		"bbox": [443, 563, 510, 695],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "卤徒遼切",
+		"bbox": [443, 700, 510, 831],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "齊徂兮切",
+		"bbox": [352, 289, 419, 420],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "束七賜切",
+		"bbox": [352, 425, 419, 558],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "片匹見切",
+		"bbox": [352, 563, 419, 695],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "鼎都挺切",
+		"bbox": [352, 700, 419, 831],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "克苦得切",
+		"bbox": [261, 289, 328, 420],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "录盧谷切",
+		"bbox": [261, 425, 328, 558],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "禾戸戈切",
+		"bbox": [261, 563, 328, 695],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "称郎擊切",
+		"bbox": [261, 700, 328, 831],
+		"type": "character_entry",
+		"comment": "小篆字形与反切注音"
+	},
+	{
+		"text": "大五十二",
+		"bbox": [159, 278, 180, 325],
+		"type": "page_number",
+		"comment": "页码或卷数标记"
+	},
+	{
+		"text": "月",
+		"bbox": [150, 418, 170, 441],
+		"type": "section_marker",
+		"comment": "章节或部分标识"
+	},
+	{
+		"text": "六",
+		"bbox": [150, 677, 170, 700],
+		"type": "section_marker",
+		"comment": "章节或部分标识"
+	},
+	{
+		"text": "仲奇",
+		"bbox": [159, 808, 180, 844],
+		"type": "name_or_publisher",
+		"comment": "可能是刻工、校对者或出版者姓名"
+	}
+]
+```

@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "3790", "bbox": [826, 142, 905, 162], "type": "text", "comment": ""},
+	{"text": "毛奇龄书七题字", "bbox": [769, 284, 870, 842], "type": "text", "comment": ""},
+	{"text": "家刻说文校改第四次样本", "bbox": [668, 286, 745, 762], "type": "text", "comment": ""},
+	{"text": "癸巳年修板第五次凡上方有青圈者要修无者不动", "bbox": [589, 329, 657, 827], "type": "text", "comment": ""},
+	{"text": "若大字内要增者边头增小字", "bbox": [521, 327, 580, 625], "type": "text", "comment": ""},
+	{"text": "第一册", "bbox": [448, 288, 506, 393], "type": "text", "comment": ""},
+	{"text": "标目 一上下 二上下 三上下", "bbox": [362, 341, 421, 814], "type": "text", "comment": ""},
+	{"text": "第二册", "bbox": [277, 288, 336, 394], "type": "text", "comment": ""},
+	{"text": "四上下 五上下 六上下", "bbox": [190, 341, 250, 694], "type": "text", "comment": ""},
+	{"text": "大字七", "bbox": [156, 282, 182, 345], "type": "text", "comment": ""},
+	{"text": "乙二更政", "bbox": [155, 432, 181, 527], "type": "text", "comment": ""},
+	{"text": "东生", "bbox": [156, 800, 182, 838], "type": "text", "comment": ""},
+	{"text": "東文化学院附書院研究所", "bbox": [731, 677, 764, 835], "type": "text", "comment": ""}
+]
+```

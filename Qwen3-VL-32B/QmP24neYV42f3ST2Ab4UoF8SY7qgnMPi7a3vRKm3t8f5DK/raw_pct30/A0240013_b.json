@@ -1,0 +1,166 @@
+```json
+[
+	{
+		"text": "說文解字第八",
+		"bbox": [708, 265, 773, 494],
+		"type": "title",
+		"comment": "页面主标题，竖排"
+	},
+	{
+		"text": "帛 陌切 帛旁",
+		"bbox": [806, 268, 875, 400],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "白 陌切 白旁",
+		"bbox": [806, 418, 875, 548],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "示 祭切 尚毗",
+		"bbox": [806, 566, 875, 696],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "米 几切 萧陟",
+		"bbox": [806, 714, 875, 844],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "人如 鄰切",
+		"bbox": [627, 268, 694, 400],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "匕 匕呼 跨切",
+		"bbox": [627, 418, 694, 548],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "丌 丌卑 履切",
+		"bbox": [627, 566, 694, 696],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "从疾 容切",
+		"bbox": [627, 714, 694, 844],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "比毗 至切",
+		"bbox": [537, 268, 603, 400],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "北博 墨切",
+		"bbox": [537, 418, 603, 548],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "亡去 鳩切",
+		"bbox": [537, 566, 603, 696],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "仏魚 音切",
+		"bbox": [537, 714, 603, 844],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "王他 鼎切",
+		"bbox": [448, 268, 513, 400],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "重柱 用切",
+		"bbox": [448, 418, 513, 548],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "衷巨 鳩切",
+		"bbox": [448, 566, 513, 696],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "老盧 皓切",
+		"bbox": [448, 714, 513, 844],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "毛莫 袍切",
+		"bbox": [358, 268, 423, 400],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "毳此 芮切",
+		"bbox": [358, 418, 423, 548],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "尸式 脂切",
+		"bbox": [358, 566, 423, 696],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "尺昌 石切",
+		"bbox": [358, 714, 423, 844],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "尾無 斐切",
+		"bbox": [268, 268, 333, 400],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "臥吾 貨切",
+		"bbox": [268, 418, 333, 548],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "身失 人切",
+		"bbox": [268, 566, 333, 696],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "身於 機切",
+		"bbox": [268, 714, 333, 844],
+		"type": "character_entry",
+		"comment": "篆书字形及反切注音"
+	},
+	{
+		"text": "大寫本一",
+		"bbox": [161, 268, 180, 317],
+		"type": "page_number",
+		"comment": "左侧页码或卷册标识"
+	},
+	{
+		"text": "陳威",
+		"bbox": [161, 796, 180, 844],
+		"type": "signature",
+		"comment": "左下角署名"
+	}
+]
+```

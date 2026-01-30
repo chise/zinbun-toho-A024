@@ -1,0 +1,148 @@
+```json
+[
+	{
+		"text": "說文解字弟九",
+		"bbox": [218, 265, 301, 547],
+		"type": "title",
+		"comment": "页面标题，竖排文字"
+	},
+	{
+		"text": "見頁胡結切",
+		"bbox": [115, 265, 198, 404],
+		"type": "character_entry",
+		"comment": "篆书“見”字及其反切注音"
+	},
+	{
+		"text": "目百書九切",
+		"bbox": [115, 423, 198, 562],
+		"type": "character_entry",
+		"comment": "篆书“目”字及其反切注音"
+	},
+	{
+		"text": "面彌箭切",
+		"bbox": [115, 570, 198, 708],
+		"type": "character_entry",
+		"comment": "篆书“面”字及其反切注音"
+	},
+	{
+		"text": "丐丏彌克切",
+		"bbox": [115, 715, 198, 854],
+		"type": "character_entry",
+		"comment": "篆书“丐”字及其反切注音"
+	},
+	{
+		"text": "元居未切",
+		"bbox": [319, 265, 401, 404],
+		"type": "character_entry",
+		"comment": "篆书“元”字及其反切注音"
+	},
+	{
+		"text": "覬弋笑切",
+		"bbox": [419, 265, 501, 404],
+		"type": "character_entry",
+		"comment": "篆书“覬”字及其反切注音"
+	},
+	{
+		"text": "久去劒切",
+		"bbox": [419, 423, 501, 562],
+		"type": "character_entry",
+		"comment": "篆书“久”字及其反切注音"
+	},
+	{
+		"text": "欽於錦切",
+		"bbox": [419, 570, 501, 708],
+		"type": "character_entry",
+		"comment": "篆书“欽”字及其反切注音"
+	},
+	{
+		"text": "次叙連切",
+		"bbox": [419, 715, 501, 854],
+		"type": "character_entry",
+		"comment": "篆书“次”字及其反切注音"
+	},
+	{
+		"text": "兆公户切",
+		"bbox": [518, 265, 600, 404],
+		"type": "character_entry",
+		"comment": "篆书“兆”字及其反切注音"
+	},
+	{
+		"text": "先蘇前切",
+		"bbox": [518, 423, 600, 562],
+		"type": "character_entry",
+		"comment": "篆书“先”字及其反切注音"
+	},
+	{
+		"text": "禿他谷切",
+		"bbox": [518, 570, 600, 708],
+		"type": "character_entry",
+		"comment": "篆书“禿”字及其反切注音"
+	},
+	{
+		"text": "見古甸切",
+		"bbox": [518, 715, 600, 854],
+		"type": "character_entry",
+		"comment": "篆书“見”字及其反切注音"
+	},
+	{
+		"text": "儿如鄰切",
+		"bbox": [617, 265, 700, 404],
+		"type": "character_entry",
+		"comment": "篆书“儿”字及其反切注音"
+	},
+	{
+		"text": "兄許榮切",
+		"bbox": [617, 423, 700, 562],
+		"type": "character_entry",
+		"comment": "篆书“兄”字及其反切注音"
+	},
+	{
+		"text": "先側岑切",
+		"bbox": [617, 570, 700, 708],
+		"type": "character_entry",
+		"comment": "篆书“先”字（另一形）及其反切注音"
+	},
+	{
+		"text": "兒莫敎切",
+		"bbox": [617, 715, 700, 854],
+		"type": "character_entry",
+		"comment": "篆书“兒”字及其反切注音"
+	},
+	{
+		"text": "衣於希切",
+		"bbox": [718, 265, 800, 404],
+		"type": "character_entry",
+		"comment": "篆书“衣”字及其反切注音"
+	},
+	{
+		"text": "履良止切",
+		"bbox": [718, 423, 800, 562],
+		"type": "character_entry",
+		"comment": "篆书“履”字及其反切注音"
+	},
+	{
+		"text": "舟職流切",
+		"bbox": [718, 570, 800, 708],
+		"type": "character_entry",
+		"comment": "篆书“舟”字及其反切注音"
+	},
+	{
+		"text": "方府良切",
+		"bbox": [718, 715, 800, 854],
+		"type": "character_entry",
+		"comment": "篆书“方”字及其反切注音"
+	},
+	{
+		"text": "小豆大十口",
+		"bbox": [811, 265, 836, 325],
+		"type": "annotation",
+		"comment": "页码或卷次标注"
+	},
+	{
+		"text": "繩三",
+		"bbox": [811, 797, 836, 835],
+		"type": "annotation",
+		"comment": "卷轴编号或页码"
+	}
+]
+```

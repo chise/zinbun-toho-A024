@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "小", "bbox": [807, 279, 835, 294], "type": "text", "comment": ""},
+	{"text": "二", "bbox": [807, 296, 835, 311], "type": "text", "comment": ""},
+	{"text": "石", "bbox": [807, 313, 835, 328], "type": "text", "comment": ""},
+	{"text": "字", "bbox": [807, 330, 835, 345], "type": "text", "comment": ""},
+	{"text": "文", "bbox": [807, 347, 835, 362], "type": "text", "comment": ""},
+	{"text": "說", "bbox": [807, 365, 835, 380], "type": "text", "comment": ""},
+	{"text": "文", "bbox": [807, 382, 835, 397], "type": "text", "comment": ""},
+	{"text": "一", "bbox": [807, 675, 835, 690], "type": "text", "comment": ""},
+	{"text": "祁", "bbox": [807, 798, 835, 813], "type": "text", "comment": ""},
+	{"text": "三", "bbox": [807, 815, 835, 830], "type": "text", "comment": ""},
+	{"text": "第三冊", "bbox": [724, 287, 800, 385], "type": "text", "comment": ""},
+	{"text": "七上下", "bbox": [649, 334, 705, 426], "type": "text", "comment": ""},
+	{"text": "八上下", "bbox": [634, 466, 705, 557], "type": "text", "comment": ""},
+	{"text": "九上", "bbox": [649, 601, 705, 634], "type": "text", "comment": ""},
+	{"text": "第四冊", "bbox": [561, 284, 618, 392], "type": "text", "comment": ""},
+	{"text": "九下", "bbox": [465, 333, 526, 399], "type": "text", "comment": ""},
+	{"text": "十上下", "bbox": [465, 463, 526, 556], "type": "text", "comment": ""},
+	{"text": "十一上下", "bbox": [465, 598, 526, 704], "type": "text", "comment": ""},
+	{"text": "十二上", "bbox": [465, 732, 526, 819], "type": "text", "comment": ""},
+	{"text": "第五冊", "bbox": [366, 284, 426, 392], "type": "text", "comment": ""},
+	{"text": "十二下", "bbox": [288, 333, 349, 424], "type": "text", "comment": ""},
+	{"text": "十三上下", "bbox": [288, 463, 349, 574], "type": "text", "comment": ""},
+	{"text": "十四上下", "bbox": [288, 598, 349, 704], "type": "text", "comment": ""},
+	{"text": "十五上下", "bbox": [288, 732, 349, 839], "type": "text", "comment": ""},
+	{"text": "毛斧季校說文弟四次樣書來顯字洪琴西都轉", "bbox": [224, 333, 285, 839], "type": "text", "comment": ""},
+	{"text": "命鈞刻坿封面之後以存其真使讀是書者知當日", "bbox": [157, 333, 218, 839], "type": "text", "comment": ""},
+	{"text": "校書精細如此光緒辛巳八月閩高行篤謹識", "bbox": [91, 333, 152, 777], "type": "text", "comment": ""}
+]
+```

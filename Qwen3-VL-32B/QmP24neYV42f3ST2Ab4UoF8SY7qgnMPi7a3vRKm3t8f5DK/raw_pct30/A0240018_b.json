@@ -1,0 +1,226 @@
+```json
+[
+	{
+		"text": "說文解字標目",
+		"bbox": [306, 274, 382, 503],
+		"type": "title",
+		"comment": "主标题，竖排"
+	},
+	{
+		"text": "癸巳四月朔日从昂恕先汗简目录校一过方知徐骑省之是萝英石刻之谬也",
+		"bbox": [245, 310, 298, 835],
+		"type": "note",
+		"comment": "校勘说明文字，竖排"
+	},
+	{
+		"text": "但恕先亦有倒置处必以骑省本为正也 汲古阁毛扆昔年亡有四",
+		"bbox": [196, 314, 242, 835],
+		"type": "note",
+		"comment": "补充说明文字，竖排"
+	},
+	{
+		"text": "大十五",
+		"bbox": [164, 274, 185, 313],
+		"type": "page_number",
+		"comment": "页码或卷数标记"
+	},
+	{
+		"text": "十三",
+		"bbox": [164, 658, 185, 695],
+		"type": "page_number",
+		"comment": "页码或卷数标记"
+	},
+	{
+		"text": "藏板",
+		"bbox": [164, 812, 185, 844],
+		"type": "publisher_mark",
+		"comment": "出版或藏版标记"
+	},
+	{
+		"text": "了盧",
+		"bbox": [860, 338, 893, 414],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "鳥切",
+		"bbox": [807, 370, 848, 414],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "丩",
+		"bbox": [820, 278, 884, 340],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "丩",
+		"bbox": [820, 424, 884, 498],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "充切",
+		"bbox": [807, 487, 848, 533],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "去他",
+		"bbox": [860, 651, 893, 703],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "骨切",
+		"bbox": [807, 659, 848, 705],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "丑敕",
+		"bbox": [860, 800, 893, 848],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "久切",
+		"bbox": [807, 800, 848, 848],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "己詳",
+		"bbox": [860, 717, 893, 778],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "里切",
+		"bbox": [807, 800, 848, 848],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "辰植",
+		"bbox": [860, 618, 893, 674],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "鄰切",
+		"bbox": [807, 651, 848, 703],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "卯莫",
+		"bbox": [860, 431, 893, 487],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "飽切",
+		"bbox": [807, 487, 848, 533],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "寅弋",
+		"bbox": [860, 278, 893, 338],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "真切",
+		"bbox": [807, 370, 848, 414],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "午疑",
+		"bbox": [649, 340, 688, 402],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "古切",
+		"bbox": [600, 370, 641, 414],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "未無",
+		"bbox": [649, 487, 688, 548],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "沸切",
+		"bbox": [600, 518, 641, 562],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "申失",
+		"bbox": [649, 628, 688, 690],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "人切",
+		"bbox": [600, 659, 641, 705],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "酉與",
+		"bbox": [649, 758, 688, 820],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "久切",
+		"bbox": [600, 800, 641, 848],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "亥胡",
+		"bbox": [542, 634, 582, 696],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "改切",
+		"bbox": [495, 659, 536, 705],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "戌辛",
+		"bbox": [542, 487, 582, 548],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "聿切",
+		"bbox": [495, 518, 536, 562],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "酋字",
+		"bbox": [542, 354, 582, 414],
+		"type": "character",
+		"comment": "篆书字形"
+	},
+	{
+		"text": "秋切",
+		"bbox": [495, 370, 536, 414],
+		"type": "phonetic_annotation",
+		"comment": "反切注音"
+	}
+]
+```

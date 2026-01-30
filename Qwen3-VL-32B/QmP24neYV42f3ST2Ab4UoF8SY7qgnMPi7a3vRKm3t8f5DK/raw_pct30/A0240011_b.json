@@ -1,0 +1,298 @@
+```json
+[
+	{
+		"text": "說文解字第六",
+		"bbox": [193, 270, 276, 518],
+		"type": "title",
+		"comment": "书名及卷次"
+	},
+	{
+		"text": "倉七",
+		"bbox": [840, 281, 894, 395],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "岡切",
+		"bbox": [801, 366, 853, 400],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "入人",
+		"bbox": [840, 404, 894, 518],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "汁切",
+		"bbox": [801, 492, 853, 525],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "击方",
+		"bbox": [840, 526, 894, 640],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "久切",
+		"bbox": [801, 607, 853, 640],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "矢式",
+		"bbox": [840, 643, 894, 757],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "視切",
+		"bbox": [801, 726, 853, 759],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "高舌",
+		"bbox": [750, 281, 801, 395],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "牢切",
+		"bbox": [710, 366, 762, 400],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "冂古",
+		"bbox": [750, 404, 801, 518],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "熒切",
+		"bbox": [710, 492, 762, 525],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "郭古",
+		"bbox": [750, 526, 801, 640],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "博切",
+		"bbox": [710, 607, 762, 640],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "京舉",
+		"bbox": [750, 643, 801, 757],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "卿切",
+		"bbox": [710, 726, 762, 759],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "昌許",
+		"bbox": [656, 281, 708, 395],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "兩切",
+		"bbox": [615, 366, 668, 400],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "昻胡",
+		"bbox": [656, 404, 708, 518],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "口切",
+		"bbox": [615, 492, 668, 525],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "畗芳",
+		"bbox": [656, 526, 708, 640],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "逼切",
+		"bbox": [615, 607, 668, 640],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "尙力",
+		"bbox": [656, 643, 708, 757],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "甚切",
+		"bbox": [615, 726, 668, 759],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "嗇所",
+		"bbox": [556, 281, 608, 395],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "力切",
+		"bbox": [515, 366, 568, 400],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "來洛",
+		"bbox": [556, 404, 608, 518],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "哀切",
+		"bbox": [515, 492, 568, 525],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "麥模",
+		"bbox": [556, 526, 608, 640],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "獲切",
+		"bbox": [515, 607, 568, 640],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "夊山",
+		"bbox": [556, 643, 608, 757],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "危切",
+		"bbox": [515, 726, 568, 759],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "舛昌",
+		"bbox": [456, 281, 508, 395],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "克切",
+		"bbox": [415, 366, 468, 400],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "聶舒",
+		"bbox": [456, 404, 508, 518],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "閑切",
+		"bbox": [415, 492, 468, 525],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "韋宇",
+		"bbox": [456, 526, 508, 640],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "非切",
+		"bbox": [415, 607, 468, 640],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "弟特",
+		"bbox": [456, 643, 508, 757],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "計切",
+		"bbox": [415, 726, 468, 759],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "夂陟",
+		"bbox": [356, 281, 408, 395],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "俊切",
+		"bbox": [315, 366, 368, 400],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "久舉",
+		"bbox": [356, 404, 408, 518],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "友切",
+		"bbox": [315, 492, 368, 525],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "桀渠",
+		"bbox": [356, 526, 408, 640],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "列切",
+		"bbox": [315, 607, 368, 640],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "出久",
+		"bbox": [356, 643, 408, 757],
+		"type": "character",
+		"comment": "汉字及其注音"
+	},
+	{
+		"text": "申奇",
+		"bbox": [315, 726, 368, 759],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	}
+]
+```

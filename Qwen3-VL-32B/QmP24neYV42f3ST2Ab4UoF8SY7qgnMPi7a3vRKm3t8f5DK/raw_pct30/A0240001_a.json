@@ -1,0 +1,14 @@
+```json
+[
+	{"text": "Kodak Gray Scale", "bbox": [539, 227, 580, 389], "type": "text", "comment": "Main title of the color chart"},
+	{"text": "A 1 2 3 4 5 6 M 8 9 10 11 12 13 14 15 B 17 18 19", "bbox": [485, 228, 509, 789], "type": "text", "comment": "Labels for gray scale steps"},
+	{"text": "© Kodak 2007 The Kodak", "bbox": [544, 700, 562, 789], "type": "text", "comment": "Copyright notice"},
+	{"text": "C", "bbox": [562, 541, 601, 569], "type": "text", "comment": "Cyan color label"},
+	{"text": "Y", "bbox": [562, 581, 601, 609], "type": "text", "comment": "Yellow color label"},
+	{"text": "M", "bbox": [562, 621, 601, 649], "type": "text", "comment": "Magenta color label"},
+	{"text": "cm", "bbox": [154, 148, 181, 166], "type": "text", "comment": "Centimeter unit label"},
+	{"text": "cm", "bbox": [154, 446, 181, 465], "type": "text", "comment": "Centimeter unit label"},
+	{"text": "cm", "bbox": [154, 724, 181, 743], "type": "text", "comment": "Centimeter unit label"},
+	{"text": "5 6 7 8 9 20 1 2 3 4 5 6 7 8 9 50 1 2 3 4 5 6 7 8 9 60 1 2 3 4 5 6 7 8 9", "bbox": [139, 9, 178, 998], "type": "text", "comment": "Ruler markings in centimeters"}
+]
+```

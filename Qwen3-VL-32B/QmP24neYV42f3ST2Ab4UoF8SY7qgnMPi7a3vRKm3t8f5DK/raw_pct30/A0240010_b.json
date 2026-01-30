@@ -1,0 +1,148 @@
+```json
+[
+	{
+		"text": "說文解字第五",
+		"bbox": [503, 272, 585, 514],
+		"type": "title",
+		"comment": "主标题，位于页面中央偏右"
+	},
+	{
+		"text": "骨忽切 骨古",
+		"bbox": [811, 360, 895, 415],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "肉如六切",
+		"bbox": [811, 510, 895, 565],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "筋居銀切",
+		"bbox": [811, 656, 895, 710],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "刀都牢切",
+		"bbox": [811, 797, 895, 851],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "刃而振切",
+		"bbox": [698, 360, 782, 415],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "勅恪八切",
+		"bbox": [698, 510, 782, 565],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "丰古拜切",
+		"bbox": [698, 656, 782, 710],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "未盧對切",
+		"bbox": [698, 797, 782, 851],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "角古岳切",
+		"bbox": [585, 360, 669, 415],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "竹陟玉切",
+		"bbox": [471, 360, 555, 415],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "箕居之切",
+		"bbox": [471, 510, 555, 565],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "丁居之切",
+		"bbox": [471, 656, 555, 710],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "左則箇切",
+		"bbox": [471, 797, 555, 851],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "工古紅切",
+		"bbox": [357, 360, 441, 415],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "亞知衍切",
+		"bbox": [357, 510, 441, 565],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "巫武夫切",
+		"bbox": [357, 656, 441, 710],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "甘古三切",
+		"bbox": [357, 797, 441, 851],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "日王伐切",
+		"bbox": [243, 360, 327, 415],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "乃奴亥切",
+		"bbox": [243, 510, 327, 565],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "丐苦浩切",
+		"bbox": [243, 656, 327, 710],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "可肯我切",
+		"bbox": [243, 797, 327, 851],
+		"type": "annotation",
+		"comment": "注音与释义"
+	},
+	{
+		"text": "太和乙九",
+		"bbox": [158, 275, 182, 328],
+		"type": "page_marker",
+		"comment": "页码或卷次标记"
+	},
+	{
+		"text": "沈錫",
+		"bbox": [162, 811, 186, 849],
+		"type": "signature",
+		"comment": "出版者或刻工署名"
+	}
+]
+```

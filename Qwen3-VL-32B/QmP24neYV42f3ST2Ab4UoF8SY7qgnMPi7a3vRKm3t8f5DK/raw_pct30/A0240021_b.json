@@ -1,0 +1,208 @@
+```json
+[
+	{
+		"text": "天神引出萬物者也",
+		"bbox": [850, 269, 894, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从示申聲食鄰切",
+		"bbox": [805, 269, 848, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "神也从示必",
+		"bbox": [757, 269, 799, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲兵媚切",
+		"bbox": [710, 269, 752, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禱己圈潔祀也一曰精意以享",
+		"bbox": [664, 269, 708, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "為禋从示里聲於真切",
+		"bbox": [617, 269, 660, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祭祀也从示以",
+		"bbox": [570, 269, 614, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "手持肉子例切",
+		"bbox": [524, 269, 567, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燒柴焚燎以祭天神从示此聲",
+		"bbox": [478, 269, 521, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虞書曰至于岱宗柴仕皆切",
+		"bbox": [432, 269, 475, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以事類祭天神从",
+		"bbox": [385, 269, 428, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "示類聲力遂切",
+		"bbox": [338, 269, 381, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "後死者合食於先祖",
+		"bbox": [292, 269, 335, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从示付聲符遇切",
+		"bbox": [246, 269, 289, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "地祇提出萬物者也",
+		"bbox": [850, 362, 894, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从示氏聲巨支切",
+		"bbox": [805, 362, 848, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戒潔也从示齊",
+		"bbox": [757, 362, 799, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲側皆切",
+		"bbox": [710, 362, 752, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文齋从",
+		"bbox": [664, 362, 708, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "襲省襲音",
+		"bbox": [617, 362, 660, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [570, 362, 614, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从尸",
+		"bbox": [524, 362, 567, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祭祀或",
+		"bbox": [478, 362, 521, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从異",
+		"bbox": [432, 362, 475, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文柴",
+		"bbox": [385, 362, 428, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从隋省",
+		"bbox": [338, 362, 381, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祔祧祖也从示",
+		"bbox": [292, 362, 335, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "危聲過委切",
+		"bbox": [246, 362, 289, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "始廟也从示",
+		"bbox": [246, 455, 289, 543],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "且聲則古切",
+		"bbox": [246, 548, 289, 636],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大二十七",
+		"bbox": [164, 265, 185, 338],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乙又二",
+		"bbox": [164, 405, 185, 478],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三",
+		"bbox": [164, 680, 185, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "仲奇",
+		"bbox": [164, 811, 185, 849],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
