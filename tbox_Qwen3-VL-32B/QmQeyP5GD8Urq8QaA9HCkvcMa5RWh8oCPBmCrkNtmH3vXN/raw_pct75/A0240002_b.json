@@ -1,0 +1,8 @@
+```json
+[
+	{"text": "謝", "bbox": [534, 290, 840, 565], "size": "large", "type": "character", "comment": "faint, light gray Chinese character"},
+	{"text": "真", "bbox": [224, 285, 484, 552], "size": "large", "type": "character", "comment": "faint, light gray Chinese character"},
+	{"text": "木", "bbox": [244, 578, 460, 835], "size": "large", "type": "character", "comment": "faint, light gray Chinese character"},
+	{"text": "文", "bbox": [564, 574, 830, 835], "size": "large", "type": "character", "comment": "faint, light gray Chinese character"}
+]
+```
