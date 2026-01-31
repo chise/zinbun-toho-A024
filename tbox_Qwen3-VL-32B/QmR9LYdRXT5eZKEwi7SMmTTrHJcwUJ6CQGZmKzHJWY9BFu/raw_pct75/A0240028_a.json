@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "玉", "bbox": [507, 274, 599, 352], "type": "large-character", "comment": "玉字，占据两行宽度"},
+	{"text": "瑒", "bbox": [612, 377, 700, 444], "type": "large-character", "comment": "瑒字，占据两行宽度"},
+	{"text": "瑰", "bbox": [612, 587, 700, 655], "type": "large-character", "comment": "瑰字，占据两行宽度"},
+	{"text": "珍", "bbox": [712, 533, 800, 601], "type": "large-character", "comment": "珍字，占据两行宽度"},
+	{"text": "瓊", "bbox": [712, 715, 800, 783], "type": "large-character", "comment": "瓊字，占据两行宽度"},
+	{"text": "現", "bbox": [110, 393, 198, 461], "type": "large-character", "comment": "現字，占据两行宽度"},
+	{"text": "瑰", "bbox": [110, 635, 198, 703], "type": "large-character", "comment": "瑰字，占据两行宽度"},
+	{"text": "瑕", "bbox": [212, 667, 300, 735], "type": "large-character", "comment": "瑕字，占据两行宽度"},
+	{"text": "玖", "bbox": [314, 740, 402, 808], "type": "large-character", "comment": "玖字，占据两行宽度"},
+	{"text": "璽", "bbox": [414, 473, 499, 541], "type": "large-character", "comment": "璽字，占据两行宽度"},
+	{"text": "琚", "bbox": [414, 687, 500, 755], "type": "large-character", "comment": "琚字，占据两行宽度"},
+	{"text": "玲", "bbox": [514, 767, 602, 835], "type": "large-character", "comment": "玲字，占据两行宽度"}
+]
+```
