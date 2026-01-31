@@ -1,0 +1,5 @@
+[
+	{"bbox": [530, 220, 576, 389], "type": "text-box", "comment": "Kodak Gray Scale label with numbered scale from A1 to B19"},
+	{"bbox": [544, 532, 604, 651], "type": "text-box", "comment": "Color-coded circles labeled C (cyan), Y (yellow), M (magenta)"},
+	{"bbox": [539, 676, 564, 783], "type": "text-box", "comment": "Copyright notice: © Kodak 2007 TM. KODAK"}
+]
