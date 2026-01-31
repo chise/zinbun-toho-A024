@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "玉", "bbox": [514, 274, 592, 354], "type": "large-character", "comment": "古文玉"},
+	{"text": "瓊", "bbox": [507, 400, 599, 480], "type": "large-character", "comment": "玉也从玉煑"},
+	{"text": "璡", "bbox": [507, 618, 599, 698], "type": "large-character", "comment": "玉也从玉崔"},
+	{"text": "璣", "bbox": [405, 350, 498, 430], "type": "large-character", "comment": "玉也从玉敬"},
+	{"text": "璣", "bbox": [405, 582, 498, 662], "type": "large-character", "comment": "玉也从玉典"},
+	{"text": "璣", "bbox": [304, 270, 398, 350], "type": "large-character", "comment": "玉也从玉戔"},
+	{"text": "璣", "bbox": [304, 524, 398, 604], "type": "large-character", "comment": "玉也从玉毄"},
+	{"text": "璣", "bbox": [304, 774, 398, 854], "type": "large-character", "comment": "玉也从玉番"},
+	{"text": "璣", "bbox": [104, 270, 198, 350], "type": "large-character", "comment": "與聲以諸切"},
+	{"text": "璣", "bbox": [104, 478, 198, 558], "type": "large-character", "comment": "璡瑜美玉也从"},
+	{"text": "璣", "bbox": [104, 706, 198, 786], "type": "large-character", "comment": "美玉"}
+]
+```
