@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "彭", "bbox": [707, 262, 800, 352], "type": "large-character", "comment": "彭字，占据两行宽度"},
+	{"text": "祰", "bbox": [609, 264, 699, 352], "type": "large-character", "comment": "祰字，占据两行宽度"},
+	{"text": "祴", "bbox": [614, 484, 699, 564], "type": "large-character", "comment": "祴字，占据两行宽度"},
+	{"text": "祠", "bbox": [509, 407, 603, 484], "type": "large-character", "comment": "祠字，占据两行宽度"},
+	{"text": "祵", "bbox": [509, 758, 603, 835], "type": "large-character", "comment": "祵字，占据两行宽度"},
+	{"text": "祰", "bbox": [305, 352, 399, 430], "type": "large-character", "comment": "祰字，占据两行宽度"},
+	{"text": "祴", "bbox": [305, 684, 399, 762], "type": "large-character", "comment": "祴字，占据两行宽度"},
+	{"text": "祰", "bbox": [205, 508, 299, 586], "type": "large-character", "comment": "祰字，占据两行宽度"},
+	{"text": "祳", "bbox": [205, 730, 299, 808], "type": "large-character", "comment": "祳字，占据两行宽度"},
+	{"text": "祱", "bbox": [105, 768, 200, 846], "type": "large-character", "comment": "祱字，占据两行宽度"},
+	{"text": "祰", "bbox": [707, 644, 800, 722], "type": "large-character", "comment": "祰字，占据两行宽度"},
+	{"text": "祴", "bbox": [409, 714, 503, 792], "type": "large-character", "comment": "祴字，占据两行宽度"},
+	{"text": "祰", "bbox": [409, 352, 503, 430], "type": "large-character", "comment": "祰字，占据两行宽度"},
+	{"text": "祴", "bbox": [509, 352, 603, 430], "type": "large-character", "comment": "祴字，占据两行宽度"},
+	{"text": "祰", "bbox": [305, 484, 399, 564], "type": "large-character", "comment": "祰字，占据两行宽度"},
+	{"text": "祴", "bbox": [205, 644, 299, 722], "type": "large-character", "comment": "祴字，占据两行宽度"},
+	{"text": "祰", "bbox": [105, 508, 200, 586], "type": "large-character", "comment": "祰字，占据两行宽度"},
+	{"text": "祳", "bbox": [105, 644, 200, 722], "type": "large-character", "comment": "祳字，占据两行宽度"},
+	{"text": "祰", "bbox": [105, 352, 200, 430], "type": "large-character", "comment": "祰字，占据两行宽度"},
+	{"text": "祴", "bbox": [105, 484, 200, 564], "type": "large-character", "comment": "祴字，占据两行宽度"},
+	{"text": "祰", "bbox": [105, 714, 200, 792], "type": "large-character", "comment": "祰字，占据两行宽度"},
+	{"text": "祳", "bbox": [105, 836, 200, 914], "type": "large-character", "comment": "祳字，占据两行宽度"}
+]
+```
