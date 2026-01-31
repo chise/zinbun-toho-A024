@@ -1,0 +1,12 @@
+```json
+[
+	{"text": "玉", "bbox": [707, 277, 798, 335], "type": "large-character", "comment": "石之似玉者从玉厶"},
+	{"text": "瓊", "bbox": [607, 277, 698, 348], "type": "large-character", "comment": "玉屬从玉殳聲"},
+	{"text": "碧", "bbox": [507, 270, 598, 342], "type": "large-character", "comment": "石之青美者从玉"},
+	{"text": "環", "bbox": [407, 274, 498, 348], "type": "large-character", "comment": "現或从貫"},
+	{"text": "珠", "bbox": [307, 382, 398, 450], "type": "large-character", "comment": "蚌之陰精从玉朱聲"},
+	{"text": "璣", "bbox": [207, 434, 298, 504], "type": "large-character", "comment": "玖樂从玉樂"},
+	{"text": "璣", "bbox": [107, 450, 198, 522], "type": "large-character", "comment": "夏書玭"},
+	{"text": "璣", "bbox": [107, 624, 198, 694], "type": "large-character", "comment": "禮佩刀士璣琫"}
+]
+```
