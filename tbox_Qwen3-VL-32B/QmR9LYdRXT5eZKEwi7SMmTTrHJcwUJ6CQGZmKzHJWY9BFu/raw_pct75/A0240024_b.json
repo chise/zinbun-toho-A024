@@ -1,0 +1,14 @@
+```json
+[
+	{"text": "王", "bbox": [495, 272, 579, 336], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "王", "bbox": [495, 344, 579, 408], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "王", "bbox": [495, 416, 579, 480], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "王", "bbox": [495, 488, 579, 552], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "王", "bbox": [495, 560, 579, 624], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "王", "bbox": [495, 632, 579, 696], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "王", "bbox": [495, 704, 579, 768], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "王", "bbox": [495, 776, 579, 840], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "王", "bbox": [495, 848, 579, 912], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "王", "bbox": [495, 920, 579, 984], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```

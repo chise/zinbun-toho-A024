@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "說文解字弟一上", "bbox": [800, 259, 878, 507], "type": "large-character", "comment": "占据两行宽度的大字标题"},
+	{"text": "漢太尉祭酒許慎記", "bbox": [808, 544, 888, 830], "type": "large-character", "comment": "占据两行宽度的大字作者署名"}
+]
+```

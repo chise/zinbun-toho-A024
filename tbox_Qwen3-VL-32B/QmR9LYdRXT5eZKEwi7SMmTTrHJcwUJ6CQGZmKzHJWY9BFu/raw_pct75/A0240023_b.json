@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "示", "bbox": [800, 457, 888, 537], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [697, 380, 786, 460], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [697, 624, 786, 704], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [495, 590, 594, 670], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [495, 267, 594, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [390, 487, 488, 567], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [390, 267, 488, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [190, 267, 280, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [190, 347, 280, 427], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [190, 427, 280, 507], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [190, 507, 280, 587], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [190, 587, 280, 667], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [190, 667, 280, 747], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [190, 747, 280, 827], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [190, 827, 280, 907], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```

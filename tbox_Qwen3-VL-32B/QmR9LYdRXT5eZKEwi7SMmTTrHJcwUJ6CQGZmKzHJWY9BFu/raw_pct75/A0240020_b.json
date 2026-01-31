@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "示", "bbox": [504, 265, 588, 344], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [504, 344, 588, 423], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [504, 423, 588, 502], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [504, 502, 588, 581], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [504, 581, 588, 660], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [504, 660, 588, 739], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [504, 739, 588, 818], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [504, 818, 588, 897], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "示", "bbox": [504, 897, 588, 976], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
