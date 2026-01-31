@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "瓊", "bbox": [694, 270, 785, 358], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璚", "bbox": [734, 487, 792, 575], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [734, 610, 792, 698], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [599, 458, 685, 524], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [599, 661, 685, 735], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [495, 302, 585, 380], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [495, 707, 585, 785], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [425, 358, 485, 442], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [385, 365, 445, 442], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [315, 402, 375, 485], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [315, 605, 375, 685], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [245, 275, 275, 355], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璣", "bbox": [195, 565, 280, 635], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```

@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "瓌", "bbox": [204, 270, 298, 350], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [102, 270, 196, 350], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璣", "bbox": [305, 362, 398, 442], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璜", "bbox": [405, 432, 498, 512], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "琮", "bbox": [305, 564, 398, 644], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "琬", "bbox": [204, 564, 298, 644], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璋", "bbox": [102, 564, 196, 644], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "環", "bbox": [505, 524, 598, 604], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璣", "bbox": [405, 634, 498, 714], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璧", "bbox": [605, 534, 698, 614], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [705, 564, 798, 644], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "球", "bbox": [705, 312, 798, 392], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [705, 270, 798, 350], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [605, 312, 698, 392], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [605, 270, 698, 350], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [505, 312, 598, 392], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [505, 270, 598, 350], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [405, 270, 498, 350], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [305, 270, 398, 350], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [204, 270, 298, 350], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "璿", "bbox": [102, 270, 196, 350], "type": "large-character", "comment": "占据两行宽度的大字"}
+]
+```
