@@ -1,0 +1,6 @@
+```json
+[
+  {"text": "Kodak", "bbox": [535, 225, 573, 295], "type": "large_text", "comment": "Large text spanning two lines of width"},
+  {"text": "Gray Scale", "bbox": [535, 295, 573, 390], "type": "large_text", "comment": "Large text spanning two lines of width"}
+]
+```
