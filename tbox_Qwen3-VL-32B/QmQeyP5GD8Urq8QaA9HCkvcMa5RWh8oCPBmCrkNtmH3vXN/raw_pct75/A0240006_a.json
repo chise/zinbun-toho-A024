@@ -1,0 +1,14 @@
+```json
+[
+	{"text": "小三百九十六", "bbox": [814, 264, 838, 344], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "楊永", "bbox": [814, 795, 838, 848], "size": "small", "type": "text", "comment": "人名或作者"},
+	{"text": "學但知淂汲古本為善，豈知汲古刊刻有功而剜改有罪哉。向時王光稱跋，欣抱沖", "bbox": [750, 267, 797, 848], "size": "medium", "type": "text", "comment": "正文内容"},
+	{"text": "而嚴初印本云汲古近一學究校改至第八卷已下，學究倦而中輟，故已下無異同。此先祖", "bbox": [673, 267, 718, 848], "size": "medium", "type": "text", "comment": "正文内容"},
+	{"text": "聽錢景開肌祝，只卷後未細勘。如此本第季小山主記筆，具在非他學究所為", "bbox": [596, 267, 639, 848], "size": "medium", "type": "text", "comment": "正文内容"},
+	{"text": "又六卷已下，與今版齟齬，尚甚多。嘉慶丁巳，周君漪塘以借閱宿疑，多為之核", "bbox": [517, 267, 560, 848], "size": "medium", "type": "text", "comment": "正文内容"},
+	{"text": "釋別作摘錄，並成此以贈。今之談說文者，六月廿四日，空壇段玉裁跋於下", "bbox": [438, 267, 481, 848], "size": "medium", "type": "text", "comment": "正文内容"},
+	{"text": "津橋之校園", "bbox": [361, 267, 399, 385], "size": "medium", "type": "text", "comment": "地点或机构名"},
+	{"text": "王秉", "bbox": [356, 390, 414, 425], "size": "medium", "type": "text", "comment": "印章或署名"},
+	{"text": "四昌", "bbox": [356, 435, 414, 469], "size": "medium", "type": "text", "comment": "印章或署名"}
+]
+```
