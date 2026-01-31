@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "祳", "bbox": [708, 414, 804, 498], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "禱", "bbox": [608, 372, 699, 455], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "禍", "bbox": [504, 572, 600, 655], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "社", "bbox": [402, 498, 498, 581], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "祿", "bbox": [402, 318, 498, 401], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "祿", "bbox": [200, 262, 296, 345], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "禍", "bbox": [200, 650, 296, 733], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "祿", "bbox": [304, 642, 400, 725], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "社", "bbox": [304, 508, 400, 591], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "禍", "bbox": [104, 750, 200, 833], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "禍", "bbox": [104, 572, 200, 655], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "禍", "bbox": [104, 348, 200, 431], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
