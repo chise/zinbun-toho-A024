@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "祰", "bbox": [835, 610, 891, 675], "type": "large-character", "comment": "祝稲也从示"},
+	{"text": "祱", "bbox": [800, 610, 842, 675], "type": "large-character", "comment": "雷聲力救切"},
+	{"text": "祴", "bbox": [692, 265, 785, 340], "type": "large-character", "comment": "除惡祭也从示"},
+	{"text": "祳", "bbox": [698, 515, 790, 585], "type": "large-character", "comment": "求福也从示"},
+	{"text": "禱", "bbox": [698, 720, 790, 805], "type": "large-character", "comment": "告事"},
+	{"text": "祱", "bbox": [595, 410, 682, 485], "type": "large-character", "comment": "禱或"},
+	{"text": "禱", "bbox": [595, 535, 682, 610], "type": "large-character", "comment": "籀文"},
+	{"text": "禱", "bbox": [595, 675, 682, 750], "type": "large-character", "comment": "設縣菀"},
+	{"text": "禱", "bbox": [595, 805, 682, 845], "type": "large-character", "comment": "為營以"},
+	{"text": "禱", "bbox": [390, 265, 482, 340], "type": "large-character", "comment": "求福也从示"},
+	{"text": "禱", "bbox": [390, 410, 482, 485], "type": "large-character", "comment": "壽聲都浩切"},
+	{"text": "禱", "bbox": [390, 535, 482, 610], "type": "large-character", "comment": "禳風雨雪霜水旱癘疫於日月星辰山川也从示禜省"},
+	{"text": "禱", "bbox": [390, 675, 482, 750], "type": "large-character", "comment": "聲一曰禜衛使災不生禮記曰雩禜祭水旱為命切"},
+	{"text": "禱", "bbox": [390, 805, 482, 845], "type": "large-character", "comment": "磔禳祀除癘殃也古者燧人"},
+	{"text": "禱", "bbox": [390, 935, 482, 975], "type": "large-character", "comment": "禜子所造从示襄聲汝羊切"},
+	{"text": "禱", "bbox": [390, 1065, 482, 1105], "type": "large-character", "comment": "會福祭也"},
+	{"text": "禱", "bbox": [390, 1195, 482, 1235], "type": "large-character", "comment": "从示从會"},
+	{"text": "禱", "bbox": [290, 460, 382, 535], "type": "large-character", "comment": "會亦聲周禮曰禬"},
+	{"text": "禱", "bbox": [290, 585, 382, 660], "type": "large-character", "comment": "之祝號古外切"},
+	{"text": "禱", "bbox": [290, 710, 382, 785], "type": "large-character", "comment": "單聲時戰切"},
+	{"text": "禱", "bbox": [290, 840, 382, 915], "type": "large-character", "comment": "示御聲"},
+	{"text": "禱", "bbox": [190, 330, 280, 405], "type": "large-character", "comment": "魚舉"},
+	{"text": "禱", "bbox": [190, 455, 280, 530], "type": "large-character", "comment": "祝也从示昏"},
+	{"text": "禱", "bbox": [190, 580, 280, 655], "type": "large-character", "comment": "祭也从示某"},
+	{"text": "禱", "bbox": [190, 705, 280, 780], "type": "large-character", "comment": "聲莫梧切"},
+	{"text": "禱", "bbox": [190, 830, 280, 905], "type": "large-character", "comment": "切"}
+]
+```
