@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "制", "bbox": [845, 277, 890, 388], "type": "large-character", "comment": "石之似玉者从玉進"},
+	{"text": "琁", "bbox": [800, 388, 890, 618], "type": "large-character", "comment": "聲讀若津將鄰切"},
+	{"text": "璿", "bbox": [748, 277, 793, 388], "type": "large-character", "comment": "石之似玉者从玉恩"},
+	{"text": "瑰", "bbox": [700, 388, 793, 618], "type": "large-character", "comment": "聲讀若葱倉紅切"},
+	{"text": "瑠", "bbox": [648, 277, 693, 388], "type": "large-character", "comment": "石之似玉者从玉號"},
+	{"text": "瑤", "bbox": [600, 388, 693, 618], "type": "large-character", "comment": "聲讀若鎬乎到切"},
+	{"text": "璽", "bbox": [548, 277, 593, 388], "type": "large-character", "comment": "石之似玉者从玉叀"},
+	{"text": "璣", "bbox": [500, 388, 593, 618], "type": "large-character", "comment": "聲讀若曷胡捌切"},
+	{"text": "璽", "bbox": [448, 277, 493, 388], "type": "large-character", "comment": "石之似玉者从玉叀"},
+	{"text": "璽", "bbox": [400, 388, 493, 618], "type": "large-character", "comment": "玉叀聲烏貫切"},
+	{"text": "璽", "bbox": [348, 277, 393, 388], "type": "large-character", "comment": "石之似玉者从玉句"},
+	{"text": "璽", "bbox": [300, 388, 393, 618], "type": "large-character", "comment": "聲讀若苟古厚切"},
+	{"text": "璽", "bbox": [248, 277, 293, 388], "type": "large-character", "comment": "石之似玉者从玉隹"},
+	{"text": "璽", "bbox": [200, 388, 293, 618], "type": "large-character", "comment": "聲讀若維以追切"},
+	{"text": "璽", "bbox": [148, 277, 193, 388], "type": "large-character", "comment": "石之似玉者从玉眉"},
+	{"text": "璽", "bbox": [100, 388, 193, 618], "type": "large-character", "comment": "聲讀若睂武悲切"},
+	{"text": "璽", "bbox": [48, 277, 93, 388], "type": "large-character", "comment": "石之似玉者从玉登"},
+	{"text": "璽", "bbox": [0, 388, 93, 618], "type": "large-character", "comment": "聲讀若都騰切"}
+]
+```
