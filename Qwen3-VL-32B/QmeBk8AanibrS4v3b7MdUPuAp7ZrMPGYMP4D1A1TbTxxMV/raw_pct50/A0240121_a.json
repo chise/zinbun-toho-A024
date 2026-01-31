@@ -1,0 +1,4 @@
+[
+	{"bbox": [537, 224, 579, 388], "type": "text-box", "comment": "Kodak Gray Scale label with numbered scale A to B (1-19)"},
+	{"bbox": [539, 426, 578, 786], "type": "text-box", "comment": "Numerical scale labels M, 8-19, including color indicators C, Y, M"}
+]
