@@ -1,0 +1,7 @@
+```json
+[
+	{"text": "真本", "bbox": [514, 285, 775, 830], "size": "large", "type": "seal", "comment": "Seal characters in vertical orientation, likely indicating authenticity or ownership."},
+	{"text": "寳", "bbox": [160, 295, 455, 565], "size": "large", "type": "seal", "comment": "Seal character, possibly part of a larger seal or mark."},
+	{"text": "印", "bbox": [160, 575, 432, 830], "size": "large", "type": "seal", "comment": "Seal character, completing the phrase '寳印' (treasure seal) or similar."}
+]
+```
