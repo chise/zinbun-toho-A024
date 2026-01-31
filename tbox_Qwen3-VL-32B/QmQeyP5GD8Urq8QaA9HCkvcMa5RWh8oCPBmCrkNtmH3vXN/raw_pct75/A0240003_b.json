@@ -1,0 +1,8 @@
+```json
+[
+	{"text": "說文", "bbox": [544, 297, 845, 565], "size": "large", "type": "title", "comment": "Top-right character in seal script"},
+	{"text": "真本", "bbox": [234, 289, 488, 555], "size": "large", "type": "title", "comment": "Top-left character in seal script"},
+	{"text": "文", "bbox": [578, 577, 835, 837], "size": "large", "type": "title", "comment": "Bottom-right character in seal script"},
+	{"text": "本", "bbox": [261, 583, 461, 837], "size": "large", "type": "title", "comment": "Bottom-left character in seal script"}
+]
+```
