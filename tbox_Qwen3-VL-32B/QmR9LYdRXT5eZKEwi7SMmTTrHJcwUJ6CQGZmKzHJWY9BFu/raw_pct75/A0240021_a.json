@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "示", "bbox": [718, 267, 800, 340], "type": "large-character", "comment": "古文示"},
+	{"text": "祜", "bbox": [718, 340, 800, 475], "type": "large-character", "comment": "上讳"},
+	{"text": "禮", "bbox": [610, 260, 697, 335], "type": "large-character", "comment": "礼"},
+	{"text": "祘", "bbox": [510, 398, 602, 475], "type": "large-character", "comment": "祘"},
+	{"text": "祿", "bbox": [510, 627, 602, 704], "type": "large-character", "comment": "祿"},
+	{"text": "禎", "bbox": [109, 260, 202, 335], "type": "large-character", "comment": "禎"},
+	{"text": "祤", "bbox": [209, 260, 300, 335], "type": "large-character", "comment": "祤"},
+	{"text": "祘", "bbox": [314, 365, 404, 440], "type": "large-character", "comment": "祘"},
+	{"text": "福", "bbox": [314, 575, 404, 650], "type": "large-character", "comment": "福"},
+	{"text": "禎", "bbox": [109, 475, 202, 550], "type": "large-character", "comment": "禎"},
+	{"text": "祺", "bbox": [209, 475, 300, 550], "type": "large-character", "comment": "祺"},
+	{"text": "祺", "bbox": [209, 685, 300, 760], "type": "large-character", "comment": "祺"},
+	{"text": "禎", "bbox": [109, 770, 202, 845], "type": "large-character", "comment": "禎"},
+	{"text": "祿", "bbox": [610, 610, 697, 685], "type": "large-character", "comment": "祿"},
+	{"text": "祿", "bbox": [610, 745, 697, 820], "type": "large-character", "comment": "祿"},
+	{"text": "祥", "bbox": [412, 695, 502, 770], "type": "large-character", "comment": "祥"},
+	{"text": "禎", "bbox": [412, 260, 502, 335], "type": "large-character", "comment": "禎"},
+	{"text": "禎", "bbox": [412, 475, 502, 550], "type": "large-character", "comment": "禎"}
+]
+```
