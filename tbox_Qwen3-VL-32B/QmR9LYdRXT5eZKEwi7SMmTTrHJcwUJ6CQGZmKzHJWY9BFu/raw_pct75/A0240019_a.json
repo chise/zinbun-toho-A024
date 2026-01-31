@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "小六十九", "bbox": [805, 269, 830, 316], "type": "large-character", "comment": "位于右侧边栏，竖排，占两行宽度"},
+	{"text": "嚴華", "bbox": [810, 807, 835, 844], "type": "large-character", "comment": "位于右下角，竖排，占两行宽度"}
+]
+```
