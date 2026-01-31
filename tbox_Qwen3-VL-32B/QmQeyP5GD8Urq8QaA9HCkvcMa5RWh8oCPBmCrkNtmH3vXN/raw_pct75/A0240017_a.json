@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "小一百九十六", "bbox": [807, 268, 825, 323], "size": "small", "type": "page_number", "comment": "页码"},
+	{"text": "說文解字第十三", "bbox": [315, 270, 392, 538], "size": "large", "type": "title", "comment": "书名及卷次"},
+	{"text": "戈 戈古 禾切 成 戌王 伐切 我 我五 可切 丿 月切 衛", "bbox": [712, 270, 805, 845], "size": "medium", "type": "character_entry", "comment": "篆书字形及注音"},
+	{"text": "琴 琴巨 今切 丿 丿於 謹切 丿 亾武 方切 丿 亾胡 禮切", "bbox": [610, 270, 703, 845], "size": "medium", "type": "character_entry", "comment": "篆书字形及注音"},
+	{"text": "匚 匚府 良切 曲丘 玉切 曲 岱側 詞切 瓦五 寡切", "bbox": [508, 270, 601, 845], "size": "medium", "type": "character_entry", "comment": "篆书字形及注音"},
+	{"text": "弓 弓居 戎切 弓其 兩切 弦胡 田切 系胡 計切", "bbox": [406, 270, 499, 845], "size": "medium", "type": "character_entry", "comment": "篆书字形及注音"},
+	{"text": "糸 糸莫 狄切 繫桑 故切 絲息 茲切 率所 律切", "bbox": [204, 270, 297, 845], "size": "medium", "type": "character_entry", "comment": "篆书字形及注音"},
+	{"text": "虫 虫許 偉切 虫古 虫切 蟲直 弓切 風方 戎切", "bbox": [102, 270, 195, 845], "size": "medium", "type": "character_entry", "comment": "篆书字形及注音"},
+	{"text": "魏三", "bbox": [807, 803, 825, 845], "size": "small", "type": "publisher_or_section", "comment": "出版者或章节标识"}
+]
+```
