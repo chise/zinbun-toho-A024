@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "瑱", "bbox": [705, 270, 800, 350], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璏", "bbox": [705, 350, 800, 480], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璊", "bbox": [607, 440, 702, 530], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璏", "bbox": [607, 680, 702, 770], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璿", "bbox": [508, 350, 603, 440], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璿", "bbox": [508, 680, 603, 770], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璿", "bbox": [409, 350, 504, 460], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璿", "bbox": [409, 630, 504, 720], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璿", "bbox": [409, 720, 504, 840], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璿", "bbox": [310, 550, 405, 640], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璿", "bbox": [211, 270, 306, 350], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璿", "bbox": [211, 520, 306, 590], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璿", "bbox": [112, 480, 207, 560], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璿", "bbox": [112, 720, 207, 800], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
