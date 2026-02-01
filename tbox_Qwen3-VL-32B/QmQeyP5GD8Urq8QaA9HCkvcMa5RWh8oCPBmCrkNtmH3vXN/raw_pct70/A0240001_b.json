@@ -1,0 +1,5 @@
+```json
+[
+  {"text": "1", "bbox": [152, 58, 165, 74], "size": "10.0", "type": "text", "comment": "Small number '1' in the top-left corner, possibly a page or item identifier."}
+]
+```
