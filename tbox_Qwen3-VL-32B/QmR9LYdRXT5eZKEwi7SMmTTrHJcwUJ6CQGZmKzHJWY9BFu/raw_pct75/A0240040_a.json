@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "蓮", "bbox": [711, 425, 802, 504], "type": "large-character", "comment": "芙蕖之實也从艸田"},
+	{"text": "荷", "bbox": [611, 318, 695, 399], "type": "large-character", "comment": "芙蕖葉从艸"},
+	{"text": "莔", "bbox": [611, 534, 695, 615], "type": "large-character", "comment": "芙蕖本从艸"},
+	{"text": "蘆", "bbox": [509, 425, 595, 504], "type": "large-character", "comment": "天蘥也从艸"},
+	{"text": "蓉", "bbox": [509, 638, 595, 718], "type": "large-character", "comment": "蒿屬生千"},
+	{"text": "苽", "bbox": [408, 638, 494, 718], "type": "large-character", "comment": "香蒿也从艸"},
+	{"text": "莪", "bbox": [308, 425, 394, 504], "type": "large-character", "comment": "蘿莪蒿屬从艸"},
+	{"text": "薴", "bbox": [308, 638, 394, 718], "type": "large-character", "comment": "莪也从艸"},
+	{"text": "茖", "bbox": [208, 425, 294, 504], "type": "large-character", "comment": "蒿屬从艸林"},
+	{"text": "蒝", "bbox": [208, 534, 294, 615], "type": "large-character", "comment": "牡蒿也从艸"},
+	{"text": "蕭", "bbox": [208, 728, 294, 808], "type": "large-character", "comment": "艾蒿"},
+	{"text": "艸", "bbox": [108, 598, 194, 678], "type": "large-character", "comment": "鳧茈也从艸"},
+	{"text": "艸", "bbox": [108, 378, 194, 458], "type": "large-character", "comment": "蕭也从艸秋"},
+	{"text": "艸", "bbox": [108, 288, 194, 368], "type": "large-character", "comment": "也从艸蕭"}
+]
+```
