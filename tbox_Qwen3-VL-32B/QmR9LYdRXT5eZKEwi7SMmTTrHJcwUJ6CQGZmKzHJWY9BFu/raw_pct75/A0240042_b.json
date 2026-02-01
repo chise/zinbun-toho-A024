@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "莢", "bbox": [700, 262, 786, 348], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "移", "bbox": [805, 420, 887, 507], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "荣", "bbox": [805, 627, 887, 714], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蔭", "bbox": [700, 690, 792, 788], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莢", "bbox": [604, 372, 686, 458], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莢", "bbox": [604, 594, 686, 680], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莢", "bbox": [504, 594, 586, 680], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莢", "bbox": [504, 280, 586, 366], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莢", "bbox": [404, 548, 486, 634], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莢", "bbox": [304, 262, 386, 348], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莢", "bbox": [304, 538, 386, 624], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莢", "bbox": [204, 262, 286, 348], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莢", "bbox": [204, 578, 286, 664], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
