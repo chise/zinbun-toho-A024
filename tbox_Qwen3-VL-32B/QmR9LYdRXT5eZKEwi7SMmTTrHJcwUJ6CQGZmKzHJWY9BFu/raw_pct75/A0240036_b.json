@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "艸", "bbox": [800, 265, 888, 358], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [700, 295, 790, 388], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [600, 335, 690, 428], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [500, 375, 590, 468], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [400, 415, 490, 508], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [300, 455, 390, 548], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [200, 495, 290, 588], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [100, 535, 190, 628], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [700, 475, 790, 568], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [600, 515, 690, 608], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [500, 555, 590, 648], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [400, 595, 490, 688], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [300, 635, 390, 728], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [200, 675, 290, 768], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [100, 715, 190, 808], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [700, 615, 790, 708], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [600, 655, 690, 748], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [500, 695, 590, 788], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [400, 735, 490, 828], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [300, 775, 390, 868], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [200, 815, 290, 908], "type": "large-character", "comment": "篆书大字，占两行宽度"},
+	{"text": "艸", "bbox": [100, 855, 190, 948], "type": "large-character", "comment": "篆书大字，占两行宽度"}
+]
+```
