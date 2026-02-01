@@ -1,0 +1,8 @@
+```json
+[
+	{"text": "單", "bbox": [804, 475, 894, 565], "type": "large-character", "comment": "大也从口卑口"},
+	{"text": "哭", "bbox": [605, 265, 678, 355], "type": "large-character", "comment": "哀聲也从口獄省聲凡哭之屬皆"},
+	{"text": "歨", "bbox": [403, 267, 484, 355], "type": "large-character", "comment": "亡也从哭从亡會意亡亦聲息郎切"},
+	{"text": "走", "bbox": [293, 267, 377, 355], "type": "large-character", "comment": "趨也从夭止夭止者屈也凡走之屬皆从走徐鍇曰走則足屈故从夭子苟切"}
+]
+```
