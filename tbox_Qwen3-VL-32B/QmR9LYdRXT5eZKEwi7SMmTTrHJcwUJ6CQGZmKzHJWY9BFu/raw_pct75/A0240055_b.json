@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "喉", "bbox": [805, 400, 894, 489], "type": "large-character", "comment": "喉字，占据两行宽度"},
+	{"text": "嚕", "bbox": [700, 377, 794, 455], "type": "large-character", "comment": "嚕字，占据两行宽度"},
+	{"text": "咽", "bbox": [698, 597, 792, 657], "type": "large-character", "comment": "咽字，占据两行宽度"},
+	{"text": "嚥", "bbox": [805, 628, 894, 688], "type": "large-character", "comment": "嚥字，占据两行宽度"},
+	{"text": "嚥", "bbox": [604, 482, 688, 574], "type": "large-character", "comment": "嚥字，占据两行宽度"},
+	{"text": "嚥", "bbox": [604, 718, 688, 824], "type": "large-character", "comment": "嚥字，占据两行宽度"},
+	{"text": "嚥", "bbox": [500, 597, 594, 674], "type": "large-character", "comment": "嚥字，占据两行宽度"},
+	{"text": "嚥", "bbox": [394, 345, 492, 430], "type": "large-character", "comment": "嚥字，占据两行宽度"},
+	{"text": "嚥", "bbox": [394, 597, 492, 674], "type": "large-character", "comment": "嚥字，占据两行宽度"},
+	{"text": "嚥", "bbox": [300, 330, 394, 400], "type": "large-character", "comment": "嚥字，占据两行宽度"},
+	{"text": "嚥", "bbox": [300, 650, 394, 734], "type": "large-character", "comment": "嚥字，占据两行宽度"},
+	{"text": "嚥", "bbox": [200, 377, 294, 455], "type": "large-character", "comment": "嚥字，占据两行宽度"},
+	{"text": "嚥", "bbox": [200, 684, 294, 754], "type": "large-character", "comment": "嚥字，占据两行宽度"}
+]
+```

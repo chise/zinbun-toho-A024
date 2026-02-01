@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "牣", "bbox": [400, 271, 488, 360], "type": "large-character", "comment": "牛完全从牛"},
+	{"text": "犆", "bbox": [502, 440, 590, 515], "type": "large-character", "comment": "牛马牢也从牛告声周书"},
+	{"text": "犉", "bbox": [602, 277, 689, 360], "type": "large-character", "comment": "牛纯色从牛"},
+	{"text": "犎", "bbox": [602, 500, 689, 584], "type": "large-character", "comment": "引前也从"},
+	{"text": "犐", "bbox": [700, 298, 788, 388], "type": "large-character", "comment": "牛鸣也从牛象其声"},
+	{"text": "犉", "bbox": [700, 605, 788, 688], "type": "large-character", "comment": "畜牲也从牛"},
+	{"text": "犆", "bbox": [800, 325, 888, 415], "type": "large-character", "comment": "牛息声从牛隹"},
+	{"text": "犐", "bbox": [800, 605, 888, 688], "type": "large-character", "comment": "声一曰牛名赤"},
+	{"text": "犐", "bbox": [196, 400, 284, 484], "type": "large-character", "comment": "耕也从牛黎"},
+	{"text": "犐", "bbox": [196, 630, 284, 714], "type": "large-character", "comment": "牛非声一曰"},
+	{"text": "犐", "bbox": [300, 705, 388, 788], "type": "large-character", "comment": "易曰犐牛"},
+	{"text": "犐", "bbox": [300, 460, 388, 544], "type": "large-character", "comment": "牛柔谨也从牛"},
+	{"text": "犐", "bbox": [400, 625, 488, 708], "type": "large-character", "comment": "以芻莝养牛"},
+	{"text": "犐", "bbox": [400, 705, 488, 788], "type": "large-character", "comment": "也从牛芻芻"}
+]
+```

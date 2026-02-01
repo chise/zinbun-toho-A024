@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "名", "bbox": [804, 331, 873, 400], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "問", "bbox": [807, 538, 892, 615], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "唯", "bbox": [807, 750, 892, 830], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [196, 410, 283, 488], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "哉", "bbox": [196, 495, 283, 573], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "嘆", "bbox": [196, 650, 283, 728], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [300, 275, 380, 355], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [300, 515, 380, 595], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [300, 715, 380, 795], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [398, 335, 485, 415], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [398, 545, 485, 625], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [498, 355, 585, 435], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [498, 575, 585, 655], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [600, 280, 685, 345], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [600, 625, 685, 695], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [700, 415, 785, 480], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [700, 615, 785, 685], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```

@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "揭", "bbox": [707, 412, 800, 488], "type": "large-character", "comment": "牛羊無子也从牛曷聲"},
+	{"text": "犂", "bbox": [609, 382, 699, 468], "type": "large-character", "comment": "牛跟衛也从牛"},
+	{"text": "犆", "bbox": [505, 468, 600, 544], "type": "large-character", "comment": "牛卻下骨也从牛巫聲春秋"},
+	{"text": "犉", "bbox": [405, 270, 498, 356], "type": "large-character", "comment": "牛舌病也从牛"},
+	{"text": "犕", "bbox": [410, 514, 498, 598], "type": "large-character", "comment": "南徼外牛一角在鼻一"},
+	{"text": "犕", "bbox": [305, 324, 398, 408], "type": "large-character", "comment": "物滿也从牛刅聲詩"},
+	{"text": "物", "bbox": [305, 622, 398, 706], "type": "large-character", "comment": "萬物也牛為"},
+	{"text": "犧", "bbox": [205, 462, 298, 546], "type": "large-character", "comment": "宗廟之牲也从牛羲聲賈"},
+	{"text": "犠", "bbox": [115, 438, 190, 588], "type": "large-character", "comment": "文四十五 重一"}
+]
+```
