@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "屮", "bbox": [410, 265, 490, 350], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [410, 480, 490, 565], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [410, 695, 490, 780], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [310, 355, 390, 440], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [310, 565, 390, 650], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [210, 265, 290, 350], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [210, 480, 290, 565], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [210, 695, 290, 780], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [110, 265, 190, 350], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [110, 480, 190, 565], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [110, 695, 190, 780], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
