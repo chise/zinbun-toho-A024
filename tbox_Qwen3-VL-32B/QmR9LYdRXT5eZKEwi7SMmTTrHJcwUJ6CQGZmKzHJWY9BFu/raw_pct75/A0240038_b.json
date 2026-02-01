@@ -1,0 +1,12 @@
+```json
+[
+	{"text": "草", "bbox": [698, 267, 787, 357], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [805, 267, 885, 357], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [698, 488, 787, 578], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [805, 570, 885, 660], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [698, 660, 787, 750], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [805, 750, 885, 840], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [698, 840, 787, 930], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [805, 930, 885, 1020], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
