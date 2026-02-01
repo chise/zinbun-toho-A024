@@ -1,0 +1,12 @@
+```json
+[
+	{"text": "小一百二十七", "bbox": [811, 258, 835, 331], "size": "10", "type": "text", "comment": ""},
+	{"text": "談文", "bbox": [817, 412, 841, 468], "size": "10", "type": "text", "comment": ""},
+	{"text": "三", "bbox": [822, 664, 843, 697], "size": "10", "type": "text", "comment": ""},
+	{"text": "景高", "bbox": [811, 800, 835, 845], "size": "10", "type": "text", "comment": ""},
+	{"text": "塘周丈識是以歸之時在土洗馬巷黃氏之思適寓", "bbox": [731, 258, 781, 845], "size": "10", "type": "text", "comment": ""},
+	{"text": "齋元和顧廣圻", "bbox": [631, 258, 675, 454], "size": "10", "type": "text", "comment": ""},
+	{"text": "顧廣圻", "bbox": [631, 460, 678, 492], "size": "10", "type": "text", "comment": ""},
+	{"text": "里", "bbox": [631, 508, 675, 537], "size": "10", "type": "text", "comment": ""}
+]
+```

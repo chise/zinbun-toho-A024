@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "真本", "bbox": [514, 284, 775, 550], "size": "large", "type": "seal", "comment": "Seal character '真本' (true copy) in seal script, vertically aligned"},
+	{"text": "張介", "bbox": [160, 292, 455, 560], "size": "large", "type": "seal", "comment": "Seal character '張介' (Zhang Jie) in seal script, vertically aligned"}
+]
+```

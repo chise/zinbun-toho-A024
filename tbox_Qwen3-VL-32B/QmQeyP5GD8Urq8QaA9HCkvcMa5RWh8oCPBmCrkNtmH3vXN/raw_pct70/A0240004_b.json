@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "3790", "bbox": [829, 141, 906, 162], "size": "small", "type": "number", "comment": "top-right corner number"},
+	{"text": "毛奇齡書七題字", "bbox": [770, 282, 872, 840], "size": "large", "type": "title", "comment": "main title in large seal script"},
+	{"text": "家刻說文校改第四次樣本", "bbox": [664, 284, 748, 750], "size": "medium", "type": "subtitle", "comment": "subtitle describing the edition"},
+	{"text": "癸巳年修板第五次凡上方有青圈者要修無者不動", "bbox": [592, 331, 654, 848], "size": "medium", "type": "instruction", "comment": "editing instructions for the fifth revision"},
+	{"text": "若大字內要增者邊頭增小字", "bbox": [520, 329, 574, 628], "size": "medium", "type": "instruction", "comment": "instruction for adding small characters beside large ones"},
+	{"text": "第一冊", "bbox": [436, 288, 507, 394], "size": "large", "type": "section", "comment": "section title for first volume"},
+	{"text": "標目 一上下 二上下 三上下", "bbox": [356, 342, 420, 810], "size": "medium", "type": "table of contents", "comment": "table of contents for first volume"},
+	{"text": "第二冊", "bbox": [270, 288, 342, 394], "size": "large", "type": "section", "comment": "section title for second volume"},
+	{"text": "四上下 五上下 六上下", "bbox": [190, 342, 260, 694], "size": "medium", "type": "table of contents", "comment": "table of contents for second volume"},
+	{"text": "大字七", "bbox": [154, 282, 182, 340], "size": "small", "type": "note", "comment": "note on large characters"},
+	{"text": "陳生", "bbox": [158, 798, 184, 844], "size": "small", "type": "signature", "comment": "signature or name at bottom left"},
+	{"text": "東方文化學院京都研究所", "bbox": [730, 678, 764, 844], "size": "small", "type": "institution", "comment": "institution name in red stamp"},
+	{"text": "題跋", "bbox": [154, 480, 182, 530], "size": "small", "type": "note", "comment": "note on colophon or跋"}
+]
+```

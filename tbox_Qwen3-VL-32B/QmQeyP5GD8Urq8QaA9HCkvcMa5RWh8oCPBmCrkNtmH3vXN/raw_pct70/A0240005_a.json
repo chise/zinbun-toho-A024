@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小乙万七十七", "bbox": [807, 278, 834, 362], "size": "10", "type": "text", "comment": ""},
+	{"text": "說文", "bbox": [815, 422, 844, 474], "size": "10", "type": "text", "comment": ""},
+	{"text": "一", "bbox": [820, 678, 838, 695], "size": "10", "type": "text", "comment": ""},
+	{"text": "祁三", "bbox": [810, 798, 838, 842], "size": "10", "type": "text", "comment": ""},
+	{"text": "第三冊", "bbox": [723, 286, 797, 387], "size": "20", "type": "text", "comment": ""},
+	{"text": "七上下", "bbox": [637, 340, 702, 428], "size": "18", "type": "text", "comment": ""},
+	{"text": "八上下", "bbox": [635, 464, 704, 558], "size": "18", "type": "text", "comment": ""},
+	{"text": "九上", "bbox": [644, 594, 709, 651], "size": "18", "type": "text", "comment": ""},
+	{"text": "第四冊", "bbox": [549, 284, 619, 394], "size": "20", "type": "text", "comment": ""},
+	{"text": "九下", "bbox": [464, 338, 527, 398], "size": "18", "type": "text", "comment": ""},
+	{"text": "十上下", "bbox": [464, 464, 525, 558], "size": "18", "type": "text", "comment": ""},
+	{"text": "十一上下", "bbox": [464, 594, 525, 708], "size": "18", "type": "text", "comment": ""},
+	{"text": "十二上", "bbox": [464, 730, 527, 818], "size": "18", "type": "text", "comment": ""},
+	{"text": "第五冊", "bbox": [364, 284, 437, 394], "size": "20", "type": "text", "comment": ""},
+	{"text": "十二下", "bbox": [280, 340, 345, 422], "size": "18", "type": "text", "comment": ""},
+	{"text": "十三上下", "bbox": [288, 464, 352, 578], "size": "18", "type": "text", "comment": ""},
+	{"text": "十四上下", "bbox": [288, 594, 352, 708], "size": "18", "type": "text", "comment": ""},
+	{"text": "十五上下", "bbox": [288, 730, 352, 842], "size": "18", "type": "text", "comment": ""},
+	{"text": "毛斧季校說文第四次樣本書衣題字洪琴西都轉", "bbox": [215, 336, 264, 844], "size": "16", "type": "text", "comment": ""},
+	{"text": "命鉤刻坿封面之後以存其眞使讀是書者知當日", "bbox": [158, 336, 206, 844], "size": "16", "type": "text", "comment": ""},
+	{"text": "校書精細如此光緒辛巳八月閩高行篤謹識", "bbox": [98, 336, 144, 780], "size": "16", "type": "text", "comment": ""}
+]
+```
