@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "艸", "bbox": [620, 263, 698, 338], "type": "large-character", "comment": "地黄也从艸下聲禮曰銒毛"},
+	{"text": "艸", "bbox": [618, 642, 698, 734], "type": "large-character", "comment": "艸僉聲良"},
+	{"text": "艸", "bbox": [512, 263, 602, 378], "type": "large-character", "comment": "蒼或艸"},
+	{"text": "艸", "bbox": [512, 435, 599, 508], "type": "large-character", "comment": "金聲巨今切"},
+	{"text": "艸", "bbox": [512, 642, 599, 734], "type": "large-character", "comment": "艸也从艸"},
+	{"text": "艸", "bbox": [412, 358, 498, 454], "type": "large-character", "comment": "鹿藿也从艸麃聲讀若"},
+	{"text": "艸", "bbox": [412, 694, 498, 786], "type": "large-character", "comment": "緩也"},
+	{"text": "艸", "bbox": [312, 418, 400, 508], "type": "large-character", "comment": "芰也从艸凌聲楚謂之"},
+	{"text": "艸", "bbox": [312, 750, 400, 842], "type": "large-character", "comment": ""},
+	{"text": "艸", "bbox": [212, 358, 300, 454], "type": "large-character", "comment": "菱也从艸支"},
+	{"text": "艸", "bbox": [212, 578, 298, 670], "type": "large-character", "comment": "杜林說"},
+	{"text": "艸", "bbox": [212, 750, 298, 842], "type": "large-character", "comment": ""},
+	{"text": "艸", "bbox": [112, 390, 198, 470], "type": "large-character", "comment": "薛若也从艸"},
+	{"text": "艸", "bbox": [112, 614, 198, 706], "type": "large-character", "comment": "雞頭也从艸"},
+	{"text": "艸", "bbox": [112, 790, 198, 842], "type": "large-character", "comment": ""}
+]
+```
