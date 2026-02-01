@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "芥", "bbox": [714, 265, 795, 350], "type": "large-character", "comment": "菜也从艸介"},
+	{"text": "葱", "bbox": [714, 475, 795, 560], "type": "large-character", "comment": "菜也从艸悤"},
+	{"text": "藿", "bbox": [714, 685, 795, 770], "type": "large-character", "comment": "艸也从艸"},
+	{"text": "单", "bbox": [614, 435, 698, 520], "type": "large-character", "comment": "亭歴也从艸"},
+	{"text": "苟", "bbox": [614, 645, 698, 730], "type": "large-character", "comment": "艸也从艸"},
+	{"text": "蕨", "bbox": [511, 285, 597, 370], "type": "large-character", "comment": "鼈也从艸厥"},
+	{"text": "沙", "bbox": [511, 505, 597, 590], "type": "large-character", "comment": "鎬侯也从艸"},
+	{"text": "萍", "bbox": [511, 725, 597, 810], "type": "large-character", "comment": "苹也"},
+	{"text": "堇", "bbox": [410, 365, 495, 450], "type": "large-character", "comment": "艸也根如薺葉如細柳蒸"},
+	{"text": "菲", "bbox": [410, 715, 495, 800], "type": "large-character", "comment": "芴也"},
+	{"text": "勿", "bbox": [308, 375, 393, 460], "type": "large-character", "comment": "菲也从艸勿"},
+	{"text": "薊", "bbox": [308, 585, 393, 670], "type": "large-character", "comment": "艸也从艸鶴"},
+	{"text": "葦", "bbox": [206, 265, 291, 350], "type": "large-character", "comment": "亂也从艸崔"},
+	{"text": "草", "bbox": [206, 475, 291, 560], "type": "large-character", "comment": "大藪也从艸"},
+	{"text": "段", "bbox": [206, 685, 291, 770], "type": "large-character", "comment": "葦之未秀者从"},
+	{"text": "莱", "bbox": [104, 355, 189, 440], "type": "large-character", "comment": "蔓華也从艸"},
+	{"text": "芴", "bbox": [104, 575, 189, 660], "type": "large-character", "comment": "艸也似蒲而小根"}
+]
+```
