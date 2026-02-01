@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小乙万七十七", "bbox": [807, 278, 834, 375], "type": "text", "comment": ""},
+	{"text": "詩文", "bbox": [813, 420, 846, 479], "type": "text", "comment": ""},
+	{"text": "一", "bbox": [810, 674, 835, 702], "type": "text", "comment": ""},
+	{"text": "祁三", "bbox": [809, 796, 836, 824], "type": "text", "comment": ""},
+	{"text": "第三冊", "bbox": [722, 287, 796, 388], "type": "text", "comment": ""},
+	{"text": "七上下", "bbox": [641, 338, 703, 426], "type": "text", "comment": ""},
+	{"text": "八上下", "bbox": [638, 463, 702, 560], "type": "text", "comment": ""},
+	{"text": "九上", "bbox": [645, 595, 707, 651], "type": "text", "comment": ""},
+	{"text": "第四冊", "bbox": [551, 284, 620, 390], "type": "text", "comment": ""},
+	{"text": "九下", "bbox": [464, 337, 528, 398], "type": "text", "comment": ""},
+	{"text": "十上下", "bbox": [464, 463, 525, 559], "type": "text", "comment": ""},
+	{"text": "十一上下", "bbox": [464, 595, 525, 705], "type": "text", "comment": ""},
+	{"text": "十二上", "bbox": [468, 732, 531, 820], "type": "text", "comment": ""},
+	{"text": "第五冊", "bbox": [367, 284, 437, 394], "type": "text", "comment": ""},
+	{"text": "十二下", "bbox": [281, 338, 345, 424], "type": "text", "comment": ""},
+	{"text": "十三上下", "bbox": [290, 463, 352, 579], "type": "text", "comment": ""},
+	{"text": "十四上下", "bbox": [288, 594, 351, 706], "type": "text", "comment": ""},
+	{"text": "十五上下", "bbox": [291, 732, 353, 846], "type": "text", "comment": ""},
+	{"text": "毛斧季校說文弟四次樣本書衣題字洪琴西都轉", "bbox": [211, 335, 263, 847], "type": "text", "comment": ""},
+	{"text": "命鉤刻坿封面之後以存其真使讀是書者知當日", "bbox": [157, 335, 208, 826], "type": "text", "comment": ""},
+	{"text": "校書精細如此光緒辛巳八月閩高行篤謹識", "bbox": [97, 335, 146, 778], "type": "text", "comment": ""}
+]
+```
