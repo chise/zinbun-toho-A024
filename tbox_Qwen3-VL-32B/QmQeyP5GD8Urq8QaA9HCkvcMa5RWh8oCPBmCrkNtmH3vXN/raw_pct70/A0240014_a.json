@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "說文解字弟九", "bbox": [219, 270, 295, 500], "size": "20", "type": "title", "comment": "书名及卷次"},
+	{"text": "衣於希切", "bbox": [720, 273, 804, 407], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "履良止切", "bbox": [720, 410, 804, 544], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "舟職流切", "bbox": [720, 547, 804, 681], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "方府良切", "bbox": [720, 684, 804, 818], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "儿如鄰切", "bbox": [620, 273, 704, 407], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "兄許榮切", "bbox": [620, 410, 704, 544], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "先側岑切", "bbox": [620, 547, 704, 681], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "兒莫敎切", "bbox": [620, 684, 704, 818], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "兆公户切", "bbox": [520, 273, 604, 407], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "先穌前切", "bbox": [520, 410, 604, 544], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "秃他谷切", "bbox": [520, 547, 604, 681], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "見古甸切", "bbox": [520, 684, 604, 818], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "覬弋笑切", "bbox": [420, 273, 504, 407], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "欠去劒切", "bbox": [420, 410, 504, 544], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "歛於錦切", "bbox": [420, 547, 504, 681], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "次叙連切", "bbox": [420, 684, 504, 818], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "先居未切", "bbox": [320, 273, 404, 407], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "頁胡結切", "bbox": [120, 273, 204, 407], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "百書九切", "bbox": [120, 410, 204, 544], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "面彌箭切", "bbox": [120, 547, 204, 681], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "丏彌克切", "bbox": [120, 684, 204, 818], "size": "20", "type": "text", "comment": "篆字及其反切注音"},
+	{"text": "小一百九十四", "bbox": [809, 268, 832, 325], "size": "12", "type": "page_number", "comment": "页码"},
+	{"text": "魏三", "bbox": [812, 794, 835, 818], "size": "12", "type": "note", "comment": "可能为版本或校勘标记"}
+]
+```
