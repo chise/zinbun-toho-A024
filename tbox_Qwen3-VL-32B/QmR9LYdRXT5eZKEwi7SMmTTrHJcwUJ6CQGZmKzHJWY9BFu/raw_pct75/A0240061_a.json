@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "咢", "bbox": [708, 260, 798, 340], "type": "large-character", "comment": "大鳴也从口"},
+	{"text": "嘷", "bbox": [607, 344, 697, 425], "type": "large-character", "comment": "譚長說"},
+	{"text": "嘷", "bbox": [708, 470, 798, 551], "type": "large-character", "comment": "嘷也从口包"},
+	{"text": "嘷", "bbox": [708, 698, 798, 779], "type": "large-character", "comment": "咆也"},
+	{"text": "嘷", "bbox": [607, 515, 697, 596], "type": "large-character", "comment": "鳥鳴聲从口皆聲一曰"},
+	{"text": "嘷", "bbox": [507, 260, 597, 340], "type": "large-character", "comment": "豕驚聲也从口"},
+	{"text": "嘷", "bbox": [507, 500, 597, 581], "type": "large-character", "comment": "雞聲也从口"},
+	{"text": "嘷", "bbox": [507, 704, 597, 785], "type": "large-character", "comment": "喔也"},
+	{"text": "嘷", "bbox": [407, 344, 497, 425], "type": "large-character", "comment": "鳥口也从口"},
+	{"text": "嘷", "bbox": [407, 574, 497, 655], "type": "large-character", "comment": "鳥鳴也从口"},
+	{"text": "嘷", "bbox": [307, 260, 397, 340], "type": "large-character", "comment": "鳥食也从口"},
+	{"text": "嘷", "bbox": [307, 470, 397, 551], "type": "large-character", "comment": "唬聲也一曰虎聲从口"},
+	{"text": "嘷", "bbox": [207, 260, 297, 340], "type": "large-character", "comment": "鹿鳴聲也从口"},
+	{"text": "嘷", "bbox": [207, 500, 297, 581], "type": "large-character", "comment": "呦或"},
+	{"text": "嘷", "bbox": [207, 624, 297, 705], "type": "large-character", "comment": "麋鹿羣口相"},
+	{"text": "嘷", "bbox": [107, 398, 197, 479], "type": "large-character", "comment": "魚口上見从口"},
+	{"text": "嘷", "bbox": [107, 640, 197, 721], "type": "large-character", "comment": "促也从口"},
+	{"text": "嘷", "bbox": [107, 750, 197, 831], "type": "large-character", "comment": "在尺下復"}
+]
+```
