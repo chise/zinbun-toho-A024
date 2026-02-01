@@ -1,0 +1,11 @@
+```json
+[
+	{"text": "壯", "bbox": [798, 263, 887, 342], "type": "large-character", "comment": "大也从士爿"},
+	{"text": "壜", "bbox": [800, 468, 889, 558], "type": "large-character", "comment": "舞也从士尊聲詩曰"},
+	{"text": "丨", "bbox": [620, 263, 645, 342], "type": "large-character", "comment": "上下通也引而上行讀若匈引而"},
+	{"text": "中", "bbox": [407, 267, 474, 342], "type": "large-character", "comment": "和也从口丨上"},
+	{"text": "屮", "bbox": [410, 495, 474, 588], "type": "large-character", "comment": "古文"},
+	{"text": "艸", "bbox": [407, 628, 480, 707], "type": "large-character", "comment": "籀文"},
+	{"text": "艸", "bbox": [400, 765, 496, 845], "type": "large-character", "comment": ""}
+]
+```
