@@ -1,0 +1,7 @@
+```json
+[
+	{"text": "小六十九", "bbox": [809, 270, 831, 314], "size": "small", "type": "label", "comment": "页码或编号"},
+	{"text": "嚴華", "bbox": [815, 804, 837, 839], "size": "small", "type": "label", "comment": "作者或校对者姓名"},
+	{"text": "一", "bbox": [815, 668, 837, 690], "size": "small", "type": "label", "comment": "可能为页码或章节编号"}
+]
+```
