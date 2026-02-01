@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "咮", "bbox": [805, 398, 897, 485], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "吝", "bbox": [502, 335, 594, 435], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "否", "bbox": [605, 425, 696, 505], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "噓", "bbox": [605, 635, 696, 705], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "吝", "bbox": [502, 555, 594, 645], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [402, 585, 494, 675], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咲", "bbox": [302, 265, 394, 335], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "嘆", "bbox": [302, 485, 394, 565], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咅", "bbox": [302, 705, 394, 785], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [202, 405, 294, 475], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "咢", "bbox": [202, 525, 294, 605], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
