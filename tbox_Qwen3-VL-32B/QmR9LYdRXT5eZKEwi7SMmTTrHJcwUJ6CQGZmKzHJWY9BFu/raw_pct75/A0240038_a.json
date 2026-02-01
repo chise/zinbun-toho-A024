@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "鹹", "bbox": [714, 387, 799, 470], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "鹵", "bbox": [618, 260, 687, 337], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薑", "bbox": [512, 337, 594, 430], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薑", "bbox": [417, 400, 492, 482], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薑", "bbox": [309, 258, 397, 344], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薑", "bbox": [314, 482, 394, 564], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薑", "bbox": [220, 475, 294, 558], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薑", "bbox": [110, 344, 200, 426], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薑", "bbox": [110, 426, 200, 508], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薑", "bbox": [110, 570, 194, 652], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薑", "bbox": [214, 694, 302, 776], "type": "large-character", "comment": "占据两行宽度的大字"}
+]
+```
