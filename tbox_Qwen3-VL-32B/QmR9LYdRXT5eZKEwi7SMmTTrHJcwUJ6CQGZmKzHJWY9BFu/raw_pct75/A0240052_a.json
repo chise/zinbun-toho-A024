@@ -1,0 +1,10 @@
+```json
+[
+	{"text": "番", "bbox": [607, 260, 694, 338], "type": "large-character", "comment": "古文番"},
+	{"text": "番", "bbox": [607, 392, 694, 478], "type": "large-character", "comment": "篆文番"},
+	{"text": "悉", "bbox": [507, 480, 594, 570], "type": "large-character", "comment": "从采息七切"},
+	{"text": "悉", "bbox": [507, 685, 594, 775], "type": "large-character", "comment": "古文悉"},
+	{"text": "半", "bbox": [202, 260, 288, 338], "type": "large-character", "comment": "物中分也"},
+	{"text": "半", "bbox": [202, 392, 288, 478], "type": "large-character", "comment": "物中分也"}
+]
+```
