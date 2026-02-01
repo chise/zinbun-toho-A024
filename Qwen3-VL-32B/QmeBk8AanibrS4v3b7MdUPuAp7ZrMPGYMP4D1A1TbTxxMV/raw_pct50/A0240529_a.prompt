@@ -1,0 +1,6 @@
+<image> Locate the text-box and report it.
+For example:
+[
+ {"bbox": [X1, Y1, X2, Y2], "type": "...", "comment": "..."},
+...
+]
