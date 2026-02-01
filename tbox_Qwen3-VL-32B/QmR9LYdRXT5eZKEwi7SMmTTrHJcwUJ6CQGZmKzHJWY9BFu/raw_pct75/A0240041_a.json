@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "艹", "bbox": [707, 258, 795, 345], "type": "large-character", "comment": "艹字，占两行宽度"},
+	{"text": "艹", "bbox": [608, 285, 695, 372], "type": "large-character", "comment": "艹字，占两行宽度"},
+	{"text": "艹", "bbox": [510, 365, 597, 452], "type": "large-character", "comment": "艹字，占两行宽度"},
+	{"text": "艹", "bbox": [412, 258, 499, 345], "type": "large-character", "comment": "艹字，占两行宽度"},
+	{"text": "艹", "bbox": [314, 388, 401, 475], "type": "large-character", "comment": "艹字，占两行宽度"},
+	{"text": "艹", "bbox": [216, 258, 303, 345], "type": "large-character", "comment": "艹字，占两行宽度"},
+	{"text": "艹", "bbox": [118, 318, 205, 405], "type": "large-character", "comment": "艹字，占两行宽度"},
+	{"text": "艹", "bbox": [118, 528, 205, 615], "type": "large-character", "comment": "艹字，占两行宽度"},
+	{"text": "艹", "bbox": [118, 745, 205, 832], "type": "large-character", "comment": "艹字，占两行宽度"}
+]
+```
