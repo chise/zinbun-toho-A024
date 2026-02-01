@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "嗷", "bbox": [705, 257, 802, 335], "type": "large-character", "comment": "众口愁也从口敖声诗曰哀鸣嗷嗷五牢切"},
+	{"text": "吟", "bbox": [728, 588, 802, 675], "type": "large-character", "comment": "吟也从口念声诗曰民之方唸"},
+	{"text": "嚴", "bbox": [615, 548, 700, 628], "type": "large-character", "comment": "呻也从口嚴声五衔切"},
+	{"text": "呻", "bbox": [615, 761, 700, 841], "type": "large-character", "comment": "呻也从口嚴声五衔切"},
+	{"text": "吟", "bbox": [508, 400, 600, 480], "type": "large-character", "comment": "呻也从口今声鱼音切"},
+	{"text": "訢", "bbox": [508, 620, 600, 698], "type": "large-character", "comment": "吟或从音訢"},
+	{"text": "訢", "bbox": [508, 761, 600, 841], "type": "large-character", "comment": "吟或从音訢"},
+	{"text": "咘", "bbox": [410, 315, 500, 380], "type": "large-character", "comment": "嗟也从口兹声子之切"},
+	{"text": "咘", "bbox": [410, 535, 500, 625], "type": "large-character", "comment": "唯异之言从口龙声一曰杂语读若龙莫"},
+	{"text": "咘", "bbox": [308, 285, 395, 365], "type": "large-character", "comment": "江咘噱也从口丩声古吊切"},
+	{"text": "嘆", "bbox": [308, 498, 400, 585], "type": "large-character", "comment": "嘆也从口旣声诗曰既其嘆矣苦盖切"},
+	{"text": "嘆", "bbox": [208, 505, 300, 585], "type": "large-character", "comment": "吞歎也从口歎省声一曰太息也他案切"},
+	{"text": "嘆", "bbox": [108, 257, 195, 335], "type": "large-character", "comment": "歠也从口曷声於介切"},
+	{"text": "嘆", "bbox": [108, 470, 195, 550], "type": "large-character", "comment": "不容也从口肖声才肖切"},
+	{"text": "嘆", "bbox": [108, 680, 195, 760], "type": "large-character", "comment": "动也从口化声"}
+]
+```
