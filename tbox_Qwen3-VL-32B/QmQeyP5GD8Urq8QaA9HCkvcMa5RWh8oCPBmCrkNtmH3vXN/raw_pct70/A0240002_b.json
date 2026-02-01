@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "尊木", "bbox": [225, 283, 483, 834], "size": "large", "type": "character", "comment": "Faint, vertically aligned Chinese characters in a light gray tone, possibly a watermark or embossed design."},
+	{"text": "敬文", "bbox": [538, 288, 838, 834], "size": "large", "type": "character", "comment": "Faint, vertically aligned Chinese characters in a light gray tone, possibly a watermark or embossed design."}
+]
+```
