@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "艸", "bbox": [804, 398, 889, 490], "type": "large-character", "comment": "木耳也从艸耎聲"},
+	{"text": "艸", "bbox": [804, 675, 889, 767], "type": "large-character", "comment": "桑實也"},
+	{"text": "艸", "bbox": [697, 540, 789, 632], "type": "large-character", "comment": "从艸比聲房脂切"},
+	{"text": "艸", "bbox": [607, 260, 689, 352], "type": "large-character", "comment": "木堇朝華暮落者从艸羆"},
+	{"text": "艸", "bbox": [504, 260, 589, 352], "type": "large-character", "comment": "茱萸茱屬从艸"},
+	{"text": "艸", "bbox": [504, 507, 589, 599], "type": "large-character", "comment": "茉茉从艸未"},
+	{"text": "艸", "bbox": [504, 715, 589, 807], "type": "large-character", "comment": "榝茱"},
+	{"text": "艸", "bbox": [400, 435, 484, 527], "type": "large-character", "comment": "楚木也从艸"},
+	{"text": "艸", "bbox": [300, 260, 384, 352], "type": "large-character", "comment": "水衣从艸治"},
+	{"text": "艸", "bbox": [300, 475, 384, 567], "type": "large-character", "comment": "萌芽也从艸"},
+	{"text": "艸", "bbox": [300, 715, 384, 807], "type": "large-character", "comment": "艸芽"},
+	{"text": "艸", "bbox": [200, 360, 284, 452], "type": "large-character", "comment": "艸初生出地皃从艸出聲"},
+	{"text": "艸", "bbox": [200, 695, 284, 787], "type": "large-character", "comment": "枝枉从艸"}
+]
+```
