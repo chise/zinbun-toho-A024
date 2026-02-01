@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "說文", "bbox": [548, 295, 847, 567], "size": "large", "type": "title", "comment": "篆书字体，位于右侧"},
+	{"text": "真本", "bbox": [235, 288, 490, 555], "size": "large", "type": "title", "comment": "篆书字体，位于左侧"}
+]
+```
