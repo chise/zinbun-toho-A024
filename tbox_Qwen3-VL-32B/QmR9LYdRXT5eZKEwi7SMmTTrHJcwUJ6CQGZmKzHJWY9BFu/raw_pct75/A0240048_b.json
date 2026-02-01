@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "文四百四十五", "bbox": [407, 362, 485, 594], "type": "large-character", "comment": "大字，占据两行宽度"},
+	{"text": "重三十一", "bbox": [407, 658, 485, 801], "type": "large-character", "comment": "大字，占据两行宽度"}
+]
+```
