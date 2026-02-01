@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "勸", "bbox": [800, 270, 880, 354], "type": "large-character", "comment": "瓜菹也从艸"},
+	{"text": "漬", "bbox": [602, 270, 682, 354], "type": "large-character", "comment": "从潦"},
+	{"text": "槡", "bbox": [720, 270, 798, 354], "type": "large-character", "comment": "乾梅之屬从艸"},
+	{"text": "菹", "bbox": [800, 485, 880, 569], "type": "large-character", "comment": "菹也从艸汙"},
+	{"text": "漬", "bbox": [800, 689, 880, 773], "type": "large-character", "comment": "从皿"},
+	{"text": "蘄", "bbox": [602, 485, 682, 569], "type": "large-character", "comment": "煎茱萸从艸顔聲漢律"},
+	{"text": "蘄", "bbox": [602, 689, 682, 773], "type": "large-character", "comment": "羹菜"},
+	{"text": "蔞", "bbox": [720, 485, 798, 569], "type": "large-character", "comment": "實乾蘄後漢長沙王始煮艸為蘄盧皓切"},
+	{"text": "蔞", "bbox": [720, 689, 798, 773], "type": "large-character", "comment": "也"},
+	{"text": "蔞", "bbox": [500, 270, 580, 354], "type": "large-character", "comment": "也从艸宰"},
+	{"text": "蔞", "bbox": [500, 485, 580, 569], "type": "large-character", "comment": "擇菜也从艸右右手也"},
+	{"text": "蔞", "bbox": [500, 689, 580, 773], "type": "large-character", "comment": "蒲叢也从"},
+	{"text": "蔞", "bbox": [400, 270, 480, 354], "type": "large-character", "comment": "艸專聲"},
+	{"text": "蔞", "bbox": [400, 485, 480, 569], "type": "large-character", "comment": "以艸補缺从艸丂聲讀若陸或"},
+	{"text": "蔞", "bbox": [400, 689, 480, 773], "type": "large-character", "comment": "常倫切"},
+	{"text": "蔞", "bbox": [300, 270, 380, 354], "type": "large-character", "comment": "叢艸也从艸"},
+	{"text": "蔞", "bbox": [300, 485, 380, 569], "type": "large-character", "comment": "艸田器从艸條省聲論語曰"},
+	{"text": "蔞", "bbox": [300, 689, 380, 773], "type": "large-character", "comment": "尊聲慈損切"},
+	{"text": "蔞", "bbox": [200, 270, 280, 354], "type": "large-character", "comment": "兩衣一曰裹衣从艸卑聲"},
+	{"text": "蔞", "bbox": [200, 485, 280, 569], "type": "large-character", "comment": "一曰草薦似烏韭扶歷切"},
+	{"text": "蔞", "bbox": [200, 689, 280, 773], "type": "large-character", "comment": "艸也从艸是"},
+	{"text": "蔞", "bbox": [100, 270, 180, 354], "type": "large-character", "comment": "大三十一"},
+	{"text": "蔞", "bbox": [100, 485, 180, 569], "type": "large-character", "comment": "兑文二下"},
+	{"text": "蔞", "bbox": [100, 689, 180, 773], "type": "large-character", "comment": "萬松"}
+]
+```
