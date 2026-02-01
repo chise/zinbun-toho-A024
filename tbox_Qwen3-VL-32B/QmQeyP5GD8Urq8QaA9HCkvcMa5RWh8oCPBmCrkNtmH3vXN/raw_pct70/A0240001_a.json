@@ -1,0 +1,11 @@
+```json
+[
+	{"text": "Kodak Gray Scale", "bbox": [535, 225, 575, 391], "size": "12", "type": "text", "comment": "Main title of the color chart"},
+	{"text": "A 1 2 3 4 5 6 M 8 9 10 11 12 13 14 15 B 17 18 19", "bbox": [483, 225, 509, 787], "size": "10", "type": "text", "comment": "Gray scale step labels"},
+	{"text": "C", "bbox": [560, 541, 603, 570], "size": "12", "type": "text", "comment": "Cyan color label"},
+	{"text": "Y", "bbox": [560, 582, 603, 611], "size": "12", "type": "text", "comment": "Yellow color label"},
+	{"text": "M", "bbox": [560, 623, 603, 652], "size": "12", "type": "text", "comment": "Magenta color label"},
+	{"text": "© Kodak, 2007 TM: Kodak", "bbox": [542, 699, 557, 787], "size": "6", "type": "text", "comment": "Copyright and trademark information"},
+	{"text": "5 6 7 8 9 40 1 2 3 4 5 6 7 8 9 50 1 2 3 4 5 6 7 8 9 60 1 2 3 4 5 6 7 8 9", "bbox": [130, 7, 175, 997], "size": "10", "type": "text", "comment": "Ruler markings in centimeters and millimeters"}
+]
+```
