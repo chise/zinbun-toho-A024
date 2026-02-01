@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "艸", "bbox": [720, 271, 798, 355], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [715, 485, 807, 570], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [718, 695, 805, 780], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [620, 355, 700, 438], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [515, 438, 600, 522], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [415, 271, 500, 355], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [315, 295, 400, 378], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [215, 378, 300, 462], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [115, 271, 200, 355], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [115, 515, 200, 598], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [215, 598, 300, 682], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [315, 515, 400, 598], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [415, 515, 500, 598], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [515, 650, 600, 733], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [620, 650, 700, 733], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [315, 733, 400, 817], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [415, 733, 500, 817], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [515, 733, 600, 817], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [620, 733, 700, 817], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [718, 733, 805, 817], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
