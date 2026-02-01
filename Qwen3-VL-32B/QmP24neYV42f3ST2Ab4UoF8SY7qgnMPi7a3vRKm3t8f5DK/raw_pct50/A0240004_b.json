@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "3790", "bbox": [824, 141, 909, 162], "type": "text", "comment": ""},
+	{"text": "毛奇齡書衣題字", "bbox": [768, 285, 872, 847], "type": "text", "comment": ""},
+	{"text": "家刻說文校改第四次樣本", "bbox": [664, 285, 751, 756], "type": "text", "comment": ""},
+	{"text": "東方文化學院京都研究所", "bbox": [733, 676, 768, 838], "type": "text", "comment": ""},
+	{"text": "癸巳年修板第五次凡上方有青圈者要修無者不動", "bbox": [588, 332, 654, 851], "type": "text", "comment": ""},
+	{"text": "若大字內要增者邊頭增小字", "bbox": [519, 329, 572, 629], "type": "text", "comment": ""},
+	{"text": "第一冊", "bbox": [434, 290, 509, 392], "type": "text", "comment": ""},
+	{"text": "標目　一上下　二上下　三上下", "bbox": [350, 342, 422, 815], "type": "text", "comment": ""},
+	{"text": "第二冊", "bbox": [269, 288, 346, 394], "type": "text", "comment": ""},
+	{"text": "四上下　五上下　六上下", "bbox": [191, 342, 261, 690], "type": "text", "comment": ""},
+	{"text": "大字七", "bbox": [153, 283, 187, 352], "type": "text", "comment": ""},
+	{"text": "題跋", "bbox": [152, 474, 185, 533], "type": "text", "comment": ""},
+	{"text": "凍生", "bbox": [157, 800, 187, 837], "type": "text", "comment": ""}
+]
+```
