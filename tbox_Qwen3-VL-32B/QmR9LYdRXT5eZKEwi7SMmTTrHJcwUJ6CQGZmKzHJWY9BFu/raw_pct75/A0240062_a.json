@@ -1,0 +1,9 @@
+```json
+[
+	{"text": "口", "bbox": [614, 262, 685, 330], "type": "large-character", "comment": "张口也象形凡口之属皆从口"},
+	{"text": "口", "bbox": [408, 272, 489, 328], "type": "large-character", "comment": "驚嘑也从二口凡口之屬皆从口"},
+	{"text": "口", "bbox": [202, 262, 294, 340], "type": "large-character", "comment": "亂也从交工交口一曰窐噦讀若禳徐鍇曰二"},
+	{"text": "口", "bbox": [103, 488, 189, 572], "type": "large-character", "comment": "敎命急也从口"},
+	{"text": "口", "bbox": [103, 724, 196, 814], "type": "large-character", "comment": "古文"}
+]
+```
