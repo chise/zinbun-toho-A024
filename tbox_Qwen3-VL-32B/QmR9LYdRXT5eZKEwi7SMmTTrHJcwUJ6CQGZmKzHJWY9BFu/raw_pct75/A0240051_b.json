@@ -1,0 +1,10 @@
+```json
+[
+	{"text": "兌", "bbox": [504, 263, 595, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "分", "bbox": [612, 425, 686, 510], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "八", "bbox": [708, 632, 792, 716], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "采", "bbox": [305, 263, 378, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "余", "bbox": [504, 502, 590, 586], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "余", "bbox": [504, 740, 590, 837], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```

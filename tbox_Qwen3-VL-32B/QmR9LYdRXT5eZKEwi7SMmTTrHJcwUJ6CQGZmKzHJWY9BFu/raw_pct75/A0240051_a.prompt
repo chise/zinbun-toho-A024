@@ -1,0 +1,7 @@
+<image> Locate every text written in large characters that take up two lines of width.
+Report bbox coordinates of each line in JSON format.
+For example:
+[
+ {"text": ".",  "bbox": [X1, Y1, X2, Y2], "type": "...", "comment": "..."},
+...
+]
