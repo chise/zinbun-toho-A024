@@ -1,0 +1,166 @@
+```json
+[
+	{
+		"text": "說文解字第七",
+		"bbox": [796, 284, 880, 505],
+		"type": "title",
+		"comment": "书名及卷次"
+	},
+	{
+		"text": "日 日人 質切",
+		"bbox": [712, 293, 787, 419],
+		"type": "character_entry",
+		"comment": "汉字“日”及其注音和释义"
+	},
+	{
+		"text": "旦 旦得 案切",
+		"bbox": [712, 435, 787, 561],
+		"type": "character_entry",
+		"comment": "汉字“旦”及其注音和释义"
+	},
+	{
+		"text": "乾古 案切",
+		"bbox": [712, 568, 787, 694],
+		"type": "character_entry",
+		"comment": "汉字“乾”及其注音和释义"
+	},
+	{
+		"text": "於於 憶切",
+		"bbox": [712, 701, 787, 845],
+		"type": "character_entry",
+		"comment": "汉字“於”及其注音和释义"
+	},
+	{
+		"text": "冖 冥莫 經切",
+		"bbox": [606, 293, 681, 419],
+		"type": "character_entry",
+		"comment": "汉字“冖”及其注音和释义"
+	},
+	{
+		"text": "晶子 盈切",
+		"bbox": [606, 435, 681, 561],
+		"type": "character_entry",
+		"comment": "汉字“晶”及其注音和释义"
+	},
+	{
+		"text": "月魚 厥切",
+		"bbox": [606, 568, 681, 694],
+		"type": "character_entry",
+		"comment": "汉字“月”及其注音和释义"
+	},
+	{
+		"text": "有云 九切",
+		"bbox": [606, 701, 681, 845],
+		"type": "character_entry",
+		"comment": "汉字“有”及其注音和释义"
+	},
+	{
+		"text": "明武 兵切",
+		"bbox": [501, 293, 576, 419],
+		"type": "character_entry",
+		"comment": "汉字“明”及其注音和释义"
+	},
+	{
+		"text": "冏俱 永切",
+		"bbox": [501, 435, 576, 561],
+		"type": "character_entry",
+		"comment": "汉字“冏”及其注音和释义"
+	},
+	{
+		"text": "夕祥 易切",
+		"bbox": [501, 568, 576, 694],
+		"type": "character_entry",
+		"comment": "汉字“夕”及其注音和释义"
+	},
+	{
+		"text": "多得 何切",
+		"bbox": [501, 701, 576, 845],
+		"type": "character_entry",
+		"comment": "汉字“多”及其注音和释义"
+	},
+	{
+		"text": "毋古 丸切",
+		"bbox": [396, 293, 471, 419],
+		"type": "character_entry",
+		"comment": "汉字“毋”及其注音和释义"
+	},
+	{
+		"text": "弓乎 感切",
+		"bbox": [396, 435, 471, 561],
+		"type": "character_entry",
+		"comment": "汉字“弓”及其注音和释义"
+	},
+	{
+		"text": "東胡 感切",
+		"bbox": [396, 568, 471, 694],
+		"type": "character_entry",
+		"comment": "汉字“東”及其注音和释义"
+	},
+	{
+		"text": "鹵徒 遼切",
+		"bbox": [396, 701, 471, 845],
+		"type": "character_entry",
+		"comment": "汉字“鹵”及其注音和释义"
+	},
+	{
+		"text": "齊徂 兮切",
+		"bbox": [292, 293, 367, 419],
+		"type": "character_entry",
+		"comment": "汉字“齊”及其注音和释义"
+	},
+	{
+		"text": "束七 賜切",
+		"bbox": [292, 435, 367, 561],
+		"type": "character_entry",
+		"comment": "汉字“束”及其注音和释义"
+	},
+	{
+		"text": "片匹 見切",
+		"bbox": [292, 568, 367, 694],
+		"type": "character_entry",
+		"comment": "汉字“片”及其注音和释义"
+	},
+	{
+		"text": "鼎都 挺切",
+		"bbox": [292, 701, 367, 845],
+		"type": "character_entry",
+		"comment": "汉字“鼎”及其注音和释义"
+	},
+	{
+		"text": "克苦 得切",
+		"bbox": [187, 293, 262, 419],
+		"type": "character_entry",
+		"comment": "汉字“克”及其注音和释义"
+	},
+	{
+		"text": "录盧 谷切",
+		"bbox": [187, 435, 262, 561],
+		"type": "character_entry",
+		"comment": "汉字“录”及其注音和释义"
+	},
+	{
+		"text": "禾戸 戈切",
+		"bbox": [187, 568, 262, 694],
+		"type": "character_entry",
+		"comment": "汉字“禾”及其注音和释义"
+	},
+	{
+		"text": "稱郎 擊切",
+		"bbox": [187, 701, 262, 845],
+		"type": "character_entry",
+		"comment": "汉字“稱”及其注音和释义"
+	},
+	{
+		"text": "大五十二",
+		"bbox": [158, 278, 182, 328],
+		"type": "page_number",
+		"comment": "页码标记"
+	},
+	{
+		"text": "仲奇",
+		"bbox": [158, 805, 182, 835],
+		"type": "signature_or_note",
+		"comment": "可能为校勘者或抄写者署名"
+	}
+]
+```
