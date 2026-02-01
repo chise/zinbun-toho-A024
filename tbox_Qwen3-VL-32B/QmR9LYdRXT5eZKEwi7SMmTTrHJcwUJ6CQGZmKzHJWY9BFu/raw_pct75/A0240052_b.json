@@ -1,0 +1,10 @@
+```json
+[
+	{"text": "半", "bbox": [805, 272, 895, 352], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "牀", "bbox": [298, 278, 391, 355], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "犮", "bbox": [198, 390, 285, 468], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "犢", "bbox": [298, 498, 391, 575], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "犢", "bbox": [298, 698, 391, 775], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "犢", "bbox": [198, 698, 285, 775], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```

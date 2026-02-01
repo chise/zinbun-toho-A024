@@ -1,0 +1,11 @@
+```json
+[
+	{"text": "小", "bbox": [611, 259, 690, 347], "type": "large-character", "comment": "大字‘小’，占两行宽度"},
+	{"text": "少", "bbox": [611, 475, 690, 563], "type": "large-character", "comment": "大字‘少’，占两行宽度"},
+	{"text": "八", "bbox": [414, 259, 488, 347], "type": "large-character", "comment": "大字‘八’，占两行宽度"},
+	{"text": "从", "bbox": [210, 259, 288, 347], "type": "large-character", "comment": "大字‘从’，占两行宽度"},
+	{"text": "曾", "bbox": [105, 290, 188, 378], "type": "large-character", "comment": "大字‘曾’，占两行宽度"},
+	{"text": "尚", "bbox": [105, 563, 188, 651], "type": "large-character", "comment": "大字‘尚’，占两行宽度"},
+	{"text": "仌", "bbox": [208, 552, 288, 640], "type": "large-character", "comment": "大字‘仌’，占两行宽度"}
+]
+```
