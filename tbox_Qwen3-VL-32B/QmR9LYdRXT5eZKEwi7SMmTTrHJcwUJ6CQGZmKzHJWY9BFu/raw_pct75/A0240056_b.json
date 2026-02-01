@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "哰", "bbox": [800, 275, 890, 355], "type": "large-character", "comment": "小食也从口"},
+	{"text": "噦", "bbox": [798, 487, 890, 570], "type": "large-character", "comment": "噍兒从口專"},
+	{"text": "含", "bbox": [800, 690, 890, 770], "type": "large-character", "comment": "嗛也从口"},
+	{"text": "噣", "bbox": [700, 355, 790, 435], "type": "large-character", "comment": "哺咀也从口"},
+	{"text": "味", "bbox": [700, 565, 790, 635], "type": "large-character", "comment": "滋味也从口"},
+	{"text": "囓", "bbox": [700, 765, 790, 845], "type": "large-character", "comment": "从口"},
+	{"text": "窶", "bbox": [598, 435, 688, 515], "type": "large-character", "comment": "口滿食从口"},
+	{"text": "噁", "bbox": [598, 635, 688, 730], "type": "large-character", "comment": "飽食息也"},
+	{"text": "嘆", "bbox": [500, 325, 590, 405], "type": "large-character", "comment": "喘息也一曰喜也从口單"},
+	{"text": "唾", "bbox": [498, 675, 588, 745], "type": "large-character", "comment": "口液也"},
+	{"text": "涎", "bbox": [398, 330, 488, 410], "type": "large-character", "comment": "唾或"},
+	{"text": "咦", "bbox": [398, 460, 488, 540], "type": "large-character", "comment": "南陽謂大呼曰咦"},
+	{"text": "呴", "bbox": [398, 725, 488, 795], "type": "large-character", "comment": "東夷"},
+	{"text": "咘", "bbox": [298, 515, 388, 595], "type": "large-character", "comment": "疾息也从口"},
+	{"text": "呼", "bbox": [298, 725, 388, 810], "type": "large-character", "comment": "外息"},
+	{"text": "吸", "bbox": [198, 385, 288, 465], "type": "large-character", "comment": "内息也从口"},
+	{"text": "噓", "bbox": [198, 590, 288, 670], "type": "large-character", "comment": "吹也从口虛"}
+]
+```
