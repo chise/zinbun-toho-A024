@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "虜", "bbox": [808, 267, 888, 352], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "茭", "bbox": [808, 540, 892, 625], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "時", "bbox": [704, 267, 788, 352], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "田", "bbox": [704, 490, 788, 575], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "苛", "bbox": [704, 725, 788, 810], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莽", "bbox": [604, 267, 688, 352], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蕪", "bbox": [604, 375, 688, 460], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "歲", "bbox": [604, 590, 688, 675], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蕪", "bbox": [504, 267, 588, 352], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蘆", "bbox": [504, 575, 588, 660], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莘", "bbox": [404, 320, 488, 405], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "落", "bbox": [404, 540, 488, 625], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蔽", "bbox": [304, 267, 388, 352], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "擇", "bbox": [304, 510, 388, 595], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蘆", "bbox": [204, 345, 288, 430], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "菸", "bbox": [204, 675, 288, 760], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
