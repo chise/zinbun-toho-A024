@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "壯", "bbox": [698, 260, 784, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "上諱", "bbox": [700, 347, 784, 428], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "古文", "bbox": [744, 770, 792, 822], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "莊", "bbox": [698, 690, 744, 798], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒔", "bbox": [594, 260, 684, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "生", "bbox": [497, 260, 586, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "薑", "bbox": [398, 260, 486, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "合", "bbox": [398, 505, 486, 588], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "萁", "bbox": [398, 715, 486, 800], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "荊", "bbox": [298, 350, 386, 455], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "穀", "bbox": [298, 620, 386, 705], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "穀", "bbox": [198, 315, 286, 400], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "穀", "bbox": [198, 660, 286, 745], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "穀", "bbox": [198, 800, 286, 885], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
