@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "於乾", "bbox": [724, 264, 805, 318], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [724, 318, 805, 400], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "榮", "bbox": [724, 588, 805, 675], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "薺", "bbox": [614, 338, 702, 425], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "茂", "bbox": [514, 327, 598, 412], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "菜", "bbox": [514, 574, 598, 659], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "薄", "bbox": [408, 562, 498, 659], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [408, 318, 498, 405], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "數", "bbox": [312, 524, 398, 611], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艸", "bbox": [312, 264, 398, 350], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "田", "bbox": [216, 750, 298, 835], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
