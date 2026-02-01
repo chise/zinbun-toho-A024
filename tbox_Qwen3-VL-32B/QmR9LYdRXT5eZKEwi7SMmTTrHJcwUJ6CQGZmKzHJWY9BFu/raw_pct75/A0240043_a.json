@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "艸", "bbox": [707, 263, 795, 345], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [608, 352, 694, 434], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [503, 352, 590, 434], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [400, 352, 487, 434], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [296, 378, 383, 460], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [202, 397, 288, 479], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [108, 397, 194, 479], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [108, 585, 194, 667], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [202, 685, 288, 767], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [300, 685, 386, 767], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [400, 685, 487, 767], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [503, 685, 590, 767], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [608, 685, 694, 767], "type": "large-character", "comment": "艸字，占据两行宽度"},
+	{"text": "艸", "bbox": [707, 685, 795, 767], "type": "large-character", "comment": "艸字，占据两行宽度"}
+]
+```
