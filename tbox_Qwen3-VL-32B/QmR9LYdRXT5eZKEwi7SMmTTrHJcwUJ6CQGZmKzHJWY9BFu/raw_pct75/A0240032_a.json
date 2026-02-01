@@ -1,0 +1,9 @@
+```json
+[
+	{"text": "繩火舞件衆", "bbox": [718, 262, 792, 475], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "繩火", "bbox": [618, 667, 688, 745], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "繩火", "bbox": [504, 707, 574, 785], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "繩火", "bbox": [210, 347, 288, 485], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "繩火", "bbox": [210, 595, 288, 675], "type": "large-character", "comment": "占据两行宽度的大字"}
+]
+```
