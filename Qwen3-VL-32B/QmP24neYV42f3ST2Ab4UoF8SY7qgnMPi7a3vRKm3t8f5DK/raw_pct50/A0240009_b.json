@@ -1,0 +1,148 @@
+```json
+[
+	{
+		"text": "說文解字第 四",
+		"bbox": [400, 283, 480, 526],
+		"type": "title",
+		"comment": "书名及卷次"
+	},
+	{
+		"text": "臣 臣植 鄰切",
+		"bbox": [807, 290, 884, 417],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "収 受币 朱切",
+		"bbox": [807, 426, 884, 553],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "殺 殺所 八切",
+		"bbox": [807, 562, 884, 688],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "凡 几市 朱切",
+		"bbox": [807, 700, 884, 847],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "又 寸倉 困切",
+		"bbox": [714, 288, 788, 415],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "皮符 蠲切",
+		"bbox": [714, 428, 788, 555],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "覧而 克切",
+		"bbox": [714, 564, 788, 690],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "支普 木切",
+		"bbox": [714, 704, 788, 847],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "敎 教古 孝切",
+		"bbox": [607, 287, 681, 415],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "卜博 木切",
+		"bbox": [607, 428, 681, 555],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "用余 訟切",
+		"bbox": [607, 566, 681, 690],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "交胡 茅切",
+		"bbox": [607, 704, 681, 847],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "効 効力 几切",
+		"bbox": [500, 287, 575, 415],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "目 莫 六切",
+		"bbox": [308, 428, 380, 555],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "眀九 遇切",
+		"bbox": [308, 570, 380, 690],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "眉武 悲切",
+		"bbox": [308, 704, 380, 847],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "昰 昃火 岁切",
+		"bbox": [308, 287, 380, 415],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "盾 盾食 閏切",
+		"bbox": [200, 287, 275, 415],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "自 自疾 二切",
+		"bbox": [200, 428, 275, 555],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "白 白疾 二切",
+		"bbox": [200, 570, 275, 690],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "鼻 鼻父 二切",
+		"bbox": [200, 704, 275, 847],
+		"type": "character_entry",
+		"comment": "小篆字形与注音"
+	},
+	{
+		"text": "大四十九",
+		"bbox": [160, 278, 182, 323],
+		"type": "page_number",
+		"comment": "页码或卷册编号"
+	},
+	{
+		"text": "沈錫",
+		"bbox": [165, 812, 190, 847],
+		"type": "name",
+		"comment": "可能为刻工或校勘者姓名"
+	}
+]
+```
