@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "薑", "bbox": [714, 255, 795, 343], "type": "large-character", "comment": "大荫也从艸"},
+	{"text": "藍", "bbox": [412, 255, 494, 343], "type": "large-character", "comment": "香艸也从艸"},
+	{"text": "艸", "bbox": [518, 417, 585, 505], "type": "large-character", "comment": "营或从弓"},
+	{"text": "艸", "bbox": [616, 495, 698, 583], "type": "large-character", "comment": "宣"},
+	{"text": "艸", "bbox": [714, 715, 795, 803], "type": "large-character", "comment": "人"},
+	{"text": "艸", "bbox": [114, 365, 195, 453], "type": "large-character", "comment": "从艸臣聲"},
+	{"text": "艸", "bbox": [210, 475, 292, 563], "type": "large-character", "comment": "離聲呂之切"},
+	{"text": "艸", "bbox": [316, 395, 398, 483], "type": "large-character", "comment": "曰芄蘭之枝"},
+	{"text": "艸", "bbox": [412, 465, 494, 553], "type": "large-character", "comment": "艸姦聲古顏切"},
+	{"text": "艸", "bbox": [518, 625, 585, 713], "type": "large-character", "comment": "窮聲渠弓切"},
+	{"text": "艸", "bbox": [616, 695, 698, 783], "type": "large-character", "comment": "艸"},
+	{"text": "艸", "bbox": [114, 595, 195, 683], "type": "large-character", "comment": "熏聲許云切"},
+	{"text": "艸", "bbox": [210, 725, 292, 813], "type": "large-character", "comment": "也"},
+	{"text": "艸", "bbox": [316, 705, 398, 793], "type": "large-character", "comment": "之離"},
+	{"text": "艸", "bbox": [412, 715, 494, 803], "type": "large-character", "comment": "可以"},
+	{"text": "艸", "bbox": [518, 725, 585, 813], "type": "large-character", "comment": "艸"},
+	{"text": "艸", "bbox": [616, 725, 698, 813], "type": "large-character", "comment": "艸"}
+]
+```
