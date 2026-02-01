@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "滿", "bbox": [800, 267, 884, 352], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薦", "bbox": [800, 485, 884, 570], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "先", "bbox": [800, 703, 884, 788], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "氏", "bbox": [600, 267, 684, 352], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薊", "bbox": [699, 355, 784, 440], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "牆", "bbox": [699, 573, 784, 658], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "宛", "bbox": [600, 485, 684, 570], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "芮", "bbox": [600, 703, 684, 788], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "貞", "bbox": [499, 428, 584, 513], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "薑", "bbox": [499, 641, 584, 726], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "豈", "bbox": [400, 355, 484, 440], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "至", "bbox": [400, 573, 484, 658], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "豬", "bbox": [290, 267, 374, 352], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "豈", "bbox": [290, 485, 374, 570], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "屬", "bbox": [290, 703, 374, 788], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "皋", "bbox": [199, 378, 284, 463], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "杏", "bbox": [199, 616, 284, 701], "type": "large-character", "comment": "占据两行宽度的大字"}
+]
+```
