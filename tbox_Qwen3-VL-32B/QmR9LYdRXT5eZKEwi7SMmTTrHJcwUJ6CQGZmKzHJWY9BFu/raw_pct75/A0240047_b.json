@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "蒙", "bbox": [807, 330, 888, 418], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "藻", "bbox": [707, 444, 792, 530], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒭", "bbox": [710, 745, 792, 833], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒔", "bbox": [608, 408, 688, 495], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒞", "bbox": [608, 638, 688, 725], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒼", "bbox": [502, 275, 588, 362], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒼", "bbox": [502, 585, 588, 672], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒔", "bbox": [400, 275, 488, 362], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒔", "bbox": [400, 485, 488, 572], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒔", "bbox": [400, 695, 488, 782], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒔", "bbox": [298, 355, 385, 442], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒔", "bbox": [298, 595, 385, 682], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒔", "bbox": [195, 330, 281, 418], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蒔", "bbox": [195, 555, 281, 642], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
