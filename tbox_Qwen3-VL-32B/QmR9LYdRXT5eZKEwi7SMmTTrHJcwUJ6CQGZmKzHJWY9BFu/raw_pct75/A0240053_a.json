@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "牜", "bbox": [607, 278, 694, 354], "type": "large-character", "comment": "四歲牛从牛从四"},
+	{"text": "牜", "bbox": [705, 393, 795, 470], "type": "large-character", "comment": "市聲博蓋切"},
+	{"text": "牜", "bbox": [705, 600, 795, 677], "type": "large-character", "comment": "參聲穌含切"},
+	{"text": "牜", "bbox": [607, 550, 694, 627], "type": "large-character", "comment": "从貳"},
+	{"text": "牜", "bbox": [607, 707, 694, 784], "type": "large-character", "comment": "也从"},
+	{"text": "牜", "bbox": [505, 354, 594, 431], "type": "large-character", "comment": "白黑雜毛牛从"},
+	{"text": "牜", "bbox": [505, 580, 594, 657], "type": "large-character", "comment": "牻牛也从牛京聲"},
+	{"text": "牜", "bbox": [505, 707, 594, 784], "type": "large-character", "comment": "春秋傳曰牻犉呂"},
+	{"text": "牜", "bbox": [403, 304, 492, 381], "type": "large-character", "comment": "牛白晉也从牛"},
+	{"text": "牜", "bbox": [403, 540, 492, 617], "type": "large-character", "comment": "黃牛虎文从牛余"},
+	{"text": "牜", "bbox": [403, 707, 492, 784], "type": "large-character", "comment": "聲讀若塗同都切"},
+	{"text": "牜", "bbox": [301, 270, 390, 354], "type": "large-character", "comment": "駁牛也从牛勞"},
+	{"text": "牜", "bbox": [301, 517, 390, 594], "type": "large-character", "comment": "牛白晉也从牛"},
+	{"text": "牜", "bbox": [301, 754, 390, 831], "type": "large-character", "comment": "乎聲力輟切"},
+	{"text": "牜", "bbox": [200, 434, 289, 511], "type": "large-character", "comment": "牛黃白色从牛"},
+	{"text": "牜", "bbox": [200, 677, 289, 754], "type": "large-character", "comment": "黃牛黑"},
+	{"text": "牜", "bbox": [200, 804, 289, 881], "type": "large-character", "comment": "脣也从"},
+	{"text": "牜", "bbox": [100, 434, 189, 511], "type": "large-character", "comment": "白牛也从牛"},
+	{"text": "牜", "bbox": [100, 657, 189, 734], "type": "large-character", "comment": "牛長晉也"},
+	{"text": "牜", "bbox": [100, 784, 189, 861], "type": "large-character", "comment": "从牛畺聲"},
+	{"text": "牜", "bbox": [100, 434, 189, 511], "type": "large-character", "comment": "白牛也从牛"},
+	{"text": "牜", "bbox": [100, 657, 189, 734], "type": "large-character", "comment": "牛長晉也"},
+	{"text": "牜", "bbox": [100, 784, 189, 861], "type": "large-character", "comment": "从牛畺聲"}
+]
+```
