@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "田", "bbox": [817, 355, 882, 435], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "誦", "bbox": [805, 494, 892, 573], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "華", "bbox": [708, 610, 784, 690], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "斬", "bbox": [607, 494, 688, 573], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "弗", "bbox": [510, 418, 584, 497], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "設", "bbox": [400, 338, 492, 417], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "方", "bbox": [400, 540, 492, 620], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "賁", "bbox": [400, 760, 492, 840], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "樂", "bbox": [300, 418, 388, 497], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "薈", "bbox": [300, 638, 388, 717], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "席", "bbox": [200, 458, 282, 537], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "芸", "bbox": [200, 678, 282, 757], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
