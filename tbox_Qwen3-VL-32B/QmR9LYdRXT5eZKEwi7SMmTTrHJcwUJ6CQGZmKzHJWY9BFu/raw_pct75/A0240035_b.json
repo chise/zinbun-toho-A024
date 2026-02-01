@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "溝", "bbox": [798, 259, 891, 350], "type": "large-character", "comment": "水菴筑从艸从水毒聲讀若督徒沃切"},
+	{"text": "菴", "bbox": [800, 568, 885, 660], "type": "large-character", "comment": "菴筑也从艸扁聲方沔切"},
+	{"text": "埂", "bbox": [693, 259, 785, 349], "type": "large-character", "comment": "菴筑也从艸筑省聲陟玉切"},
+	{"text": "槆", "bbox": [695, 504, 788, 595], "type": "large-character", "comment": "茇輿也从艸揭聲去謁切"},
+	{"text": "艸", "bbox": [705, 728, 788, 819], "type": "large-character", "comment": "茇輿"},
+	{"text": "莢", "bbox": [598, 374, 685, 465], "type": "large-character", "comment": "馬苺也从艸母聲母皐切"},
+	{"text": "苟", "bbox": [600, 590, 685, 681], "type": "large-character", "comment": "艸也从艸各聲古額切"},
+	{"text": "苜", "bbox": [498, 259, 585, 349], "type": "large-character", "comment": "甘艸也从艸从甘古三切"},
+	{"text": "芉", "bbox": [500, 479, 585, 570], "type": "large-character", "comment": "艸也从艸予聲可以為繩直呂切"},
+	{"text": "薑", "bbox": [498, 748, 585, 839], "type": "large-character", "comment": ""},
+	{"text": "艸", "bbox": [400, 394, 485, 485], "type": "large-character", "comment": "艸也从艸述聲食聿切"},
+	{"text": "茡", "bbox": [400, 614, 485, 705], "type": "large-character", "comment": "葱冬艸从艸忍聲而軫切"},
+	{"text": "荅", "bbox": [295, 259, 385, 349], "type": "large-character", "comment": ""},
+	{"text": "薺", "bbox": [295, 568, 385, 659], "type": "large-character", "comment": "芙也从艸劍聲古詣切"},
+	{"text": "堇", "bbox": [198, 259, 285, 349], "type": "large-character", "comment": ""},
+	{"text": "薑", "bbox": [198, 504, 285, 595], "type": "large-character", "comment": "艸也从艸里聲讀若釐里之切"},
+	{"text": "薑", "bbox": [198, 728, 285, 819], "type": "large-character", "comment": "釐艸也一曰拜商薑从艸翟聲徒弔切"}
+]
+```
