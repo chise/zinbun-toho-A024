@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "吹", "bbox": [707, 272, 798, 358], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "嘆", "bbox": [610, 272, 697, 358], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "噓", "bbox": [508, 330, 595, 408], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "噤", "bbox": [405, 272, 495, 358], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "吾", "bbox": [305, 330, 395, 408], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "哲", "bbox": [205, 272, 295, 358], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "君", "bbox": [205, 572, 295, 650], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "命", "bbox": [105, 436, 195, 514], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "說", "bbox": [105, 646, 195, 724], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "喟", "bbox": [707, 494, 798, 572], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "嘆", "bbox": [610, 568, 697, 646], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "唸", "bbox": [508, 568, 595, 646], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "名", "bbox": [405, 494, 495, 572], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "哲", "bbox": [305, 568, 395, 646], "type": "large-character", "comment": "占据两行宽度的大字"}
+]
+```
