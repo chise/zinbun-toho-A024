@@ -1,0 +1,11 @@
+```json
+[
+	{"text": "氣", "bbox": [614, 270, 700, 357], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "雨", "bbox": [616, 487, 699, 574], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "士", "bbox": [407, 270, 496, 331], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "文二", "bbox": [518, 433, 593, 509], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "重一", "bbox": [520, 612, 595, 688], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "足", "bbox": [109, 270, 199, 331], "type": "large-character", "comment": "占据两行宽度的大字"},
+	{"text": "女", "bbox": [109, 707, 199, 783], "type": "large-character", "comment": "占据两行宽度的大字"}
+]
+```

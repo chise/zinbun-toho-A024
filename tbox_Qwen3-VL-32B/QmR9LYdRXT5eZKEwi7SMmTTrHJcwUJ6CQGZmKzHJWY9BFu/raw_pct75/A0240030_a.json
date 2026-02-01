@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "靈", "bbox": [715, 447, 802, 528], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "珈", "bbox": [505, 275, 602, 345], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "琖", "bbox": [505, 585, 602, 660], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "琜", "bbox": [405, 268, 500, 345], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璫", "bbox": [305, 275, 400, 345], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "珠", "bbox": [305, 478, 400, 550], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "珂", "bbox": [305, 722, 400, 795], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "玗", "bbox": [205, 355, 300, 428], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "珝", "bbox": [205, 562, 300, 638], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璀", "bbox": [205, 770, 300, 845], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "璨", "bbox": [105, 435, 200, 508], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "琡", "bbox": [105, 645, 200, 718], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "琡", "bbox": [105, 850, 200, 925], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
