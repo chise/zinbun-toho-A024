@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "艹", "bbox": [708, 267, 794, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [708, 564, 794, 644], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [608, 267, 694, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [608, 564, 694, 644], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [508, 267, 594, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [508, 564, 594, 644], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [408, 267, 494, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [408, 564, 494, 644], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [308, 267, 394, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [308, 564, 394, 644], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [208, 267, 294, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [208, 564, 294, 644], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [108, 267, 194, 347], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "艹", "bbox": [108, 564, 194, 644], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
