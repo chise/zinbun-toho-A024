@@ -1,0 +1,11 @@
+```json
+[
+	{"text": "律", "bbox": [798, 298, 885, 381], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "御", "bbox": [798, 511, 885, 595], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "馭", "bbox": [700, 410, 787, 494], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "彳", "bbox": [718, 592, 778, 676], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "廷", "bbox": [298, 270, 385, 354], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "征", "bbox": [298, 487, 385, 571], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "律", "bbox": [298, 700, 385, 784], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
