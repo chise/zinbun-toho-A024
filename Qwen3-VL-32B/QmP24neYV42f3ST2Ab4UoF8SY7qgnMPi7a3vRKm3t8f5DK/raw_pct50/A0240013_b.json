@@ -1,0 +1,166 @@
+```json
+[
+	{
+		"text": "大四十五",
+		"bbox": [158, 270, 183, 314],
+		"type": "text",
+		"comment": "页码或卷次标记"
+	},
+	{
+		"text": "說文解字第八",
+		"bbox": [700, 269, 780, 495],
+		"type": "title",
+		"comment": "书名与卷数标题"
+	},
+	{
+		"text": "皀 帛旁 陌切",
+		"bbox": [805, 268, 889, 403],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "白 白旁 陌切",
+		"bbox": [805, 416, 889, 550],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "示 甫毗 祭切",
+		"bbox": [805, 561, 889, 696],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "黹 萧陟 几切",
+		"bbox": [805, 707, 889, 841],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "刀 人如 鄰切",
+		"bbox": [604, 269, 686, 403],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "匕 匕呼 跨切",
+		"bbox": [604, 416, 686, 550],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "丮 匕卑 履切",
+		"bbox": [604, 561, 686, 696],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "仌 从疾 容切",
+		"bbox": [604, 707, 686, 841],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "爪 比毗 至切",
+		"bbox": [499, 269, 582, 403],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "爫 北博 墨切",
+		"bbox": [499, 416, 582, 550],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "皿 亡去 鳩切",
+		"bbox": [499, 561, 582, 696],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "伽 仏魚 音切",
+		"bbox": [499, 707, 582, 841],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "王 王他 鼎切",
+		"bbox": [395, 269, 479, 403],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "重 重柱 用切",
+		"bbox": [395, 416, 479, 550],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "衰 衷巨 鳩切",
+		"bbox": [395, 561, 479, 696],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "老 老盧 皓切",
+		"bbox": [395, 707, 479, 841],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "毛 毛莫 袍切",
+		"bbox": [292, 269, 375, 403],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "毳 虺此 芴切",
+		"bbox": [292, 416, 375, 550],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "尸 尸式 脂切",
+		"bbox": [292, 561, 375, 696],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "尺 尺昌 石切",
+		"bbox": [292, 707, 375, 841],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "尾 尾無 斐切",
+		"bbox": [188, 269, 272, 403],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "臥 臥吾 貸切",
+		"bbox": [188, 416, 272, 550],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "身 身失 人切",
+		"bbox": [188, 561, 272, 696],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "身於 機切",
+		"bbox": [188, 707, 272, 841],
+		"type": "character_entry",
+		"comment": "篆体字及其注释"
+	},
+	{
+		"text": "陳廣",
+		"bbox": [161, 798, 189, 840],
+		"type": "signature",
+		"comment": "刻工或校勘者署名"
+	}
+]
+```
