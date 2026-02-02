@@ -1,0 +1,322 @@
+```json
+[
+	{
+		"text": "小四百十五",
+		"bbox": [806, 275, 824, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文一上",
+		"bbox": [812, 409, 836, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十",
+		"bbox": [815, 683, 834, 701],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴華",
+		"bbox": [808, 808, 828, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉",
+		"bbox": [713, 283, 798, 333],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从玉厶",
+		"bbox": [757, 347, 798, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀與私同息吏切",
+		"bbox": [714, 347, 754, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [714, 565, 798, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从",
+		"bbox": [757, 634, 798, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉于聲羽俱切",
+		"bbox": [714, 634, 754, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓊",
+		"bbox": [611, 280, 697, 352],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉屬从玉旻聲",
+		"bbox": [656, 358, 697, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若沒莫恃切",
+		"bbox": [612, 358, 653, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瑙",
+		"bbox": [611, 516, 697, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黑石似玉者从玉皆",
+		"bbox": [656, 585, 697, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若諧戶皆切",
+		"bbox": [612, 585, 653, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "碧",
+		"bbox": [508, 272, 594, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之青美者从玉",
+		"bbox": [553, 354, 594, 516],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石白聲兵尺切",
+		"bbox": [509, 354, 550, 516],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "琨",
+		"bbox": [508, 524, 594, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之美者从玉昆聲虞書",
+		"bbox": [553, 598, 594, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰揚州貢瑤琨古渾切",
+		"bbox": [509, 598, 550, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "環",
+		"bbox": [405, 275, 491, 338],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "現或",
+		"bbox": [451, 352, 491, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从貫",
+		"bbox": [406, 352, 447, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "珉",
+		"bbox": [405, 404, 491, 481],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之美者从玉",
+		"bbox": [451, 486, 491, 629],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "民聲武巾切",
+		"bbox": [406, 486, 447, 629],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瑤",
+		"bbox": [405, 638, 491, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉之美者从",
+		"bbox": [451, 714, 491, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉吅聲詩曰",
+		"bbox": [406, 714, 447, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "報之以瓊",
+		"bbox": [352, 275, 438, 376],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瑤余招切",
+		"bbox": [300, 275, 386, 376],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "珠",
+		"bbox": [300, 384, 386, 445],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蚌之陰精从玉朱聲春秋國語",
+		"bbox": [344, 452, 386, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰珠以禦火災是也章俱切",
+		"bbox": [300, 452, 341, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玖",
+		"bbox": [300, 772, 386, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玖樂明珠色从",
+		"bbox": [248, 275, 334, 423],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉勹聲都歷切",
+		"bbox": [202, 275, 288, 423],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "璣",
+		"bbox": [202, 431, 288, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玖樂从玉樂",
+		"bbox": [248, 511, 334, 641],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲郎擊切",
+		"bbox": [202, 511, 288, 641],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玑",
+		"bbox": [202, 652, 288, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "珠也从玉比",
+		"bbox": [248, 721, 334, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲宋弘云淮",
+		"bbox": [202, 721, 288, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "水中出玭珠玭珠",
+		"bbox": [148, 275, 234, 452],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之有聲步因切",
+		"bbox": [102, 275, 188, 427],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "賓",
+		"bbox": [102, 438, 188, 522],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夏書玭",
+		"bbox": [148, 528, 234, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从虫賓",
+		"bbox": [102, 528, 188, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "珮",
+		"bbox": [102, 615, 188, 689],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蜃屬从玉勿聲",
+		"bbox": [148, 696, 234, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禮佩刀士珮琫",
+		"bbox": [102, 696, 188, 848],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

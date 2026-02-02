@@ -1,0 +1,256 @@
+```json
+[
+	{
+		"text": "而珧珌臣鉉等曰荔亦",
+		"bbox": [805, 277, 893, 406],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "音麗故以爲聲郎計切",
+		"bbox": [782, 277, 870, 406],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "而珧珌",
+		"bbox": [758, 277, 846, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "余昭切",
+		"bbox": [735, 277, 823, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "圜好公",
+		"bbox": [711, 277, 799, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "回切",
+		"bbox": [688, 277, 776, 331],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "珠不圜也从玉",
+		"bbox": [664, 410, 752, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幾聲居衣切",
+		"bbox": [640, 410, 728, 565],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "琅玕也从玉干聲禹貢",
+		"bbox": [617, 355, 705, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雖州球琳琅玕古寒切",
+		"bbox": [593, 355, 681, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "生於海或生於山从",
+		"bbox": [569, 277, 657, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉刪省聲穌干切",
+		"bbox": [546, 277, 634, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也出西胡中从",
+		"bbox": [522, 277, 610, 431],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉丣聲力求切",
+		"bbox": [498, 277, 586, 431],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "送死口中玉也从玉",
+		"bbox": [474, 410, 562, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从含含亦聲胡紺切",
+		"bbox": [450, 498, 538, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遺玉",
+		"bbox": [426, 793, 514, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [402, 793, 490, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉歛聲",
+		"bbox": [378, 277, 466, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以周切",
+		"bbox": [354, 277, 442, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "金之美者與玉同色从玉湯聲禮",
+		"bbox": [330, 410, 418, 769],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "佩刀諸侯壘琫而璆珌徒朗切",
+		"bbox": [306, 410, 394, 741],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大二十七",
+		"bbox": [162, 277, 191, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兒文上",
+		"bbox": [158, 406, 188, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十二",
+		"bbox": [158, 668, 188, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "萬松",
+		"bbox": [165, 809, 194, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蜃甲也所以飾物也从玉",
+		"bbox": [854, 589, 898, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兆聲禮云佩刀天子玉琫",
+		"bbox": [829, 589, 874, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "火齊玟瑰也一曰石之",
+		"bbox": [805, 426, 850, 663],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "美者从玉文聲莫梄切",
+		"bbox": [781, 426, 826, 663],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玫瑰从玉",
+		"bbox": [757, 755, 802, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鬼聲一曰",
+		"bbox": [733, 733, 778, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "琅玕似珠者从玉",
+		"bbox": [685, 668, 730, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "良聲魯當切",
+		"bbox": [661, 668, 706, 797],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [567, 650, 612, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玕",
+		"bbox": [543, 650, 588, 684],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "珊瑚",
+		"bbox": [567, 777, 612, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "色赤",
+		"bbox": [543, 793, 588, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之有",
+		"bbox": [470, 765, 515, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "光璧珊",
+		"bbox": [446, 765, 491, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "胡聲戶吳切",
+		"bbox": [422, 563, 467, 689],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "珊瑚也从玉",
+		"bbox": [446, 553, 491, 684],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
