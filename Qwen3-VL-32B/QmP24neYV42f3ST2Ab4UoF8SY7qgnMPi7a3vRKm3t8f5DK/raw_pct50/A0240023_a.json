@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "小四百十六",
+		"bbox": [809, 258, 830, 334],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文一上",
+		"bbox": [811, 397, 847, 467],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "四",
+		"bbox": [813, 673, 842, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "住三",
+		"bbox": [810, 806, 835, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祭具也从示",
+		"bbox": [766, 263, 804, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "胥聲私呂切",
+		"bbox": [722, 263, 760, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "社肉盛以蜃故謂之祳天子所以",
+		"bbox": [766, 496, 804, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "親遺同姓从示辰聲春秋傳曰石",
+		"bbox": [722, 496, 760, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尚來歸祳",
+		"bbox": [678, 263, 716, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宗廟奏禠樂从",
+		"bbox": [678, 456, 716, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "師行所止恐",
+		"bbox": [678, 696, 716, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "時忍切",
+		"bbox": [634, 263, 672, 333],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "示戒聲古哀切",
+		"bbox": [634, 456, 672, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "有慢其神下",
+		"bbox": [634, 696, 672, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "而祀之曰禡从示馬聲周禮",
+		"bbox": [590, 263, 628, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰禡於所征之地莫駕切",
+		"bbox": [546, 263, 584, 531],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禱牲馬祭也从示",
+		"bbox": [590, 652, 628, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周聲詩曰旣禡旣",
+		"bbox": [546, 652, 584, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謁都",
+		"bbox": [498, 263, 536, 333],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或从馬",
+		"bbox": [498, 396, 536, 491],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "地主也从示土春秋傳曰",
+		"bbox": [498, 573, 536, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皓切",
+		"bbox": [454, 263, 492, 333],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壽省聲",
+		"bbox": [454, 396, 492, 491],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "共工之子句龍爲社神周",
+		"bbox": [454, 573, 492, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禮二十五家爲社各樹",
+		"bbox": [410, 263, 448, 524],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [410, 573, 448, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "道上祭从示",
+		"bbox": [410, 696, 448, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "其土所宜之木常者切",
+		"bbox": [366, 263, 404, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "社",
+		"bbox": [366, 573, 404, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "易聲与章切",
+		"bbox": [366, 696, 404, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "精氣感祥从示侫省聲春秋",
+		"bbox": [322, 345, 360, 655],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰見赤黑之祲子林切",
+		"bbox": [278, 345, 316, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "害也神不",
+		"bbox": [278, 696, 316, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "福也从示",
+		"bbox": [234, 734, 272, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "咼聲胡",
+		"bbox": [190, 263, 228, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "神禍也从示",
+		"bbox": [190, 435, 228, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文祟",
+		"bbox": [190, 652, 228, 743],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "果切",
+		"bbox": [146, 263, 184, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从出雖遂切",
+		"bbox": [146, 435, 184, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从龜省",
+		"bbox": [146, 652, 184, 743],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
