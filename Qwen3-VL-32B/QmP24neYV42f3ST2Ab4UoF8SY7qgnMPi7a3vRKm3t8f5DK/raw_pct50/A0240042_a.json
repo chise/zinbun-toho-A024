@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "小三百十五",
+		"bbox": [809, 257, 831, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文一",
+		"bbox": [816, 398, 839, 453],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "魏三",
+		"bbox": [815, 802, 836, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "巫聲戶",
+		"bbox": [765, 265, 798, 333],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "莖也从艸廷",
+		"bbox": [765, 453, 802, 561],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸木之葉也从",
+		"bbox": [768, 658, 806, 814],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "耕切",
+		"bbox": [712, 265, 746, 320],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲特丁切",
+		"bbox": [714, 430, 751, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸茉聲与渉切",
+		"bbox": [716, 657, 755, 816],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸之小者从艸厠聲厠古",
+		"bbox": [662, 351, 700, 570],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文銳字讀若芮居例切",
+		"bbox": [615, 352, 653, 589],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "華盛从艸不",
+		"bbox": [667, 703, 705, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲一曰芣苢",
+		"bbox": [619, 703, 657, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "縛年",
+		"bbox": [564, 265, 599, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "華也从艸皅",
+		"bbox": [566, 353, 602, 534],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸之皇榮也从",
+		"bbox": [570, 617, 608, 771],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸尹聲羊捶切",
+		"bbox": [518, 617, 555, 782],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [513, 265, 547, 289],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲普巴切",
+		"bbox": [515, 400, 551, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黃華从艸雈聲",
+		"bbox": [460, 265, 498, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "茗之黃華也从艸奧",
+		"bbox": [464, 518, 501, 728],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若壞乎瓦切",
+		"bbox": [414, 265, 451, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲一曰末也方小切",
+		"bbox": [418, 518, 455, 728],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸榮",
+		"bbox": [422, 738, 459, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "而不實者一曰黃英",
+		"bbox": [362, 265, 400, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "華盛从艸爾聲詩",
+		"bbox": [366, 556, 403, 748],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰彼薾惟何兒氏切",
+		"bbox": [320, 564, 357, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从艸央聲於京切",
+		"bbox": [312, 265, 350, 448],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸盛从艸妻聲詩曰",
+		"bbox": [260, 265, 299, 469],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸盛从艸奉",
+		"bbox": [264, 562, 302, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "茂也",
+		"bbox": [268, 776, 306, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "萃萃萋萋七稽切",
+		"bbox": [216, 265, 254, 451],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲補蠓切",
+		"bbox": [220, 563, 258, 668],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从艸",
+		"bbox": [224, 798, 262, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疑聲詩曰黍稷",
+		"bbox": [164, 265, 202, 422],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸木華垂皃从",
+		"bbox": [168, 512, 206, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "青齊沉",
+		"bbox": [172, 764, 210, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "薿薿魚己切",
+		"bbox": [112, 265, 150, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸狹聲儒隹切",
+		"bbox": [116, 513, 154, 671],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冀謂木",
+		"bbox": [120, 764, 158, 843],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
