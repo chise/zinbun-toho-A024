@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "制",
+		"bbox": [850, 279, 893, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从玉進",
+		"bbox": [850, 304, 896, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [804, 279, 849, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉巢聲子皓切",
+		"bbox": [804, 304, 849, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若津將鄰切",
+		"bbox": [804, 623, 849, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从玉恩",
+		"bbox": [758, 304, 803, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王替聲側岑切",
+		"bbox": [758, 358, 803, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若葱倉紅切",
+		"bbox": [758, 596, 803, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从玉號",
+		"bbox": [712, 304, 757, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若鎬乎到切",
+		"bbox": [712, 358, 757, 539],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若曷胡捌切",
+		"bbox": [712, 640, 757, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从玉牽",
+		"bbox": [667, 304, 711, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从",
+		"bbox": [621, 304, 666, 452],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉取聲鳥貫切",
+		"bbox": [621, 452, 666, 517],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之次玉者从",
+		"bbox": [621, 583, 666, 749],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉燮聲蘇叶切",
+		"bbox": [621, 749, 666, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石",
+		"bbox": [575, 824, 620, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之",
+		"bbox": [575, 824, 620, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "次玉者从玉句聲",
+		"bbox": [529, 279, 574, 452],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若苟古厚切",
+		"bbox": [529, 452, 574, 539],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从",
+		"bbox": [529, 545, 574, 702],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉言聲語軒切",
+		"bbox": [529, 702, 574, 789],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似",
+		"bbox": [529, 789, 574, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉者从",
+		"bbox": [484, 824, 529, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉盡聲",
+		"bbox": [438, 279, 483, 358],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从玉隹",
+		"bbox": [438, 358, 483, 640],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若維以追切",
+		"bbox": [438, 640, 483, 789],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉",
+		"bbox": [438, 789, 483, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "者从玉烏",
+		"bbox": [438, 824, 483, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徐刃切",
+		"bbox": [393, 279, 437, 358],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从玉眉",
+		"bbox": [393, 358, 437, 640],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若眉武悲切",
+		"bbox": [393, 640, 437, 789],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从",
+		"bbox": [393, 789, 437, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉登聲都騰切",
+		"bbox": [393, 824, 437, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲安",
+		"bbox": [348, 279, 392, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古切",
+		"bbox": [348, 329, 392, 358],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "史攸",
+		"bbox": [164, 811, 194, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十",
+		"bbox": [164, 279, 194, 325],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
