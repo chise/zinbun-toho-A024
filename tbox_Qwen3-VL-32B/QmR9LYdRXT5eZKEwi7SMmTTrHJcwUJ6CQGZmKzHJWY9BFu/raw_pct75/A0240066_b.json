@@ -1,0 +1,9 @@
+```json
+[
+	{"text": "此讀若撥", "bbox": [811, 340, 890, 495], "type": "large-character", "comment": "此字占据两行宽度，为大字"},
+	{"text": "登", "bbox": [704, 255, 794, 338], "type": "large-character", "comment": "登字占据两行宽度，为大字"},
+	{"text": "登", "bbox": [704, 527, 794, 610], "type": "large-character", "comment": "登字占据两行宽度，为大字"},
+	{"text": "步", "bbox": [504, 255, 580, 338], "type": "large-character", "comment": "步字占据两行宽度，为大字"},
+	{"text": "歲", "bbox": [300, 255, 389, 338], "type": "large-character", "comment": "歲字占据两行宽度，为大字"}
+]
+```
