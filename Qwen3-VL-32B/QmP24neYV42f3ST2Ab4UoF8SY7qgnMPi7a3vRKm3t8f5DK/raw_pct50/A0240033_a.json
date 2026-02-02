@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "小一百十", "bbox": [809, 265, 834, 307], "type": "text", "comment": ""},
+	{"text": "言三十", "bbox": [811, 398, 836, 455], "type": "text", "comment": ""},
+	{"text": "孫佩", "bbox": [811, 809, 835, 845], "type": "text", "comment": ""},
+	{"text": "艸難也象艸木之初生屯然而難从屮貫一一", "bbox": [756, 265, 809, 687], "type": "text", "comment": ""},
+	{"text": "地也尾曲易曰屯剛柔始交而難生陟倫切", "bbox": [717, 265, 760, 787], "type": "text", "comment": ""},
+	{"text": "艸盛上出也从中母聲臣鉉等案左", "bbox": [678, 265, 718, 707], "type": "text", "comment": ""},
+	{"text": "傳原田每每今別作莓非是武罪切", "bbox": [637, 265, 679, 707], "type": "text", "comment": ""},
+	{"text": "害人厚也", "bbox": [638, 714, 717, 845], "type": "text", "comment": ""},
+	{"text": "之艸往往而生从屮古文毒", "bbox": [558, 265, 606, 607], "type": "text", "comment": ""},
+	{"text": "屮从毒徒沃切", "bbox": [519, 265, 560, 422], "type": "text", "comment": ""},
+	{"text": "从刀菑布从中从分分", "bbox": [518, 535, 561, 845], "type": "text", "comment": ""},
+	{"text": "亦聲撫文切", "bbox": [436, 265, 504, 315], "type": "text", "comment": ""},
+	{"text": "岑或从艸", "bbox": [475, 422, 504, 482], "type": "text", "comment": ""},
+	{"text": "菌尖地蕈叢生田中", "bbox": [475, 535, 504, 707], "type": "text", "comment": ""},
+	{"text": "从中六聲力竹切", "bbox": [435, 555, 469, 745], "type": "text", "comment": ""},
+	{"text": "籀文共", "bbox": [364, 265, 401, 325], "type": "text", "comment": ""},
+	{"text": "火煙上出也从中从黑", "bbox": [364, 422, 401, 657], "type": "text", "comment": ""},
+	{"text": "屮黑熏象也許云切", "bbox": [314, 422, 353, 632], "type": "text", "comment": ""},
+	{"text": "从三丶", "bbox": [314, 265, 353, 335], "type": "text", "comment": ""},
+	{"text": "文七", "bbox": [229, 405, 289, 475], "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [229, 597, 290, 677], "type": "text", "comment": ""},
+	{"text": "艸百艸也从二屮凡艸之屬皆从艸", "bbox": [120, 265, 197, 850], "type": "text", "comment": ""}
+]
+```
