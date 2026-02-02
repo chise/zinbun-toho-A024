@@ -1,0 +1,328 @@
+```json
+[
+	{
+		"text": "大二十九",
+		"bbox": [160, 274, 183, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从玉俞",
+		"bbox": [855, 279, 887, 355],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲羊朱切",
+		"bbox": [798, 275, 835, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [798, 388, 890, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉也从玉工",
+		"bbox": [857, 455, 891, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲戶工切",
+		"bbox": [798, 455, 836, 565],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "來",
+		"bbox": [804, 588, 888, 656],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "璾瓊玉也从玉",
+		"bbox": [855, 667, 890, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "來聲落哀切",
+		"bbox": [798, 667, 836, 801],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓊",
+		"bbox": [701, 274, 787, 355],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赤玉也从玉",
+		"bbox": [743, 360, 788, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夐聲渠營切",
+		"bbox": [703, 360, 741, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓊或",
+		"bbox": [743, 558, 788, 600],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓊或",
+		"bbox": [743, 695, 788, 737],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從喬",
+		"bbox": [703, 565, 741, 675],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [703, 683, 741, 737],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从雋",
+		"bbox": [703, 744, 741, 786],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [703, 789, 792, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓊或从旋省臣鉉",
+		"bbox": [643, 275, 688, 447],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "等曰今與璿同",
+		"bbox": [595, 275, 639, 434],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [598, 465, 687, 531],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉也从玉向",
+		"bbox": [643, 538, 688, 659],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲許亮切",
+		"bbox": [595, 538, 639, 638],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [598, 666, 687, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉也从玉",
+		"bbox": [643, 795, 688, 858],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "剌聲盧達",
+		"bbox": [595, 744, 639, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [547, 275, 583, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [501, 305, 583, 387],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "醫無間珣玗琪周書所謂夷玉也",
+		"bbox": [547, 387, 591, 705],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从玉旬聲一曰器讀若宣相倫切",
+		"bbox": [498, 387, 543, 705],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [501, 714, 583, 782],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉也",
+		"bbox": [547, 795, 583, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从玉",
+		"bbox": [498, 795, 543, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "路聲洛",
+		"bbox": [447, 275, 488, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "故切",
+		"bbox": [394, 275, 435, 330],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [394, 364, 484, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三玉二石也从玉贊聲禮天子用全純",
+		"bbox": [447, 451, 488, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉也上公用駹四玉一石侯用瓚伯用",
+		"bbox": [394, 451, 435, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "埒玉石半相",
+		"bbox": [343, 275, 383, 355],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "埒也徂贊切",
+		"bbox": [290, 275, 332, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [290, 408, 381, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉光也从玉",
+		"bbox": [343, 487, 383, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "英聲於京切",
+		"bbox": [290, 487, 332, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [290, 611, 381, 684],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三采玉也从玉",
+		"bbox": [343, 689, 383, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "無聲武扶切",
+		"bbox": [290, 689, 332, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [203, 274, 283, 355],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "朽玉也从玉有聲讀",
+		"bbox": [248, 360, 283, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若畜牧之畜許救切",
+		"bbox": [195, 360, 238, 556],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王",
+		"bbox": [195, 567, 283, 638],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "美玉也从玉睿聲春",
+		"bbox": [248, 642, 283, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋傳曰璿弁玉纓似",
+		"bbox": [195, 642, 238, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "程榭",
+		"bbox": [168, 805, 191, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "完文二十二",
+		"bbox": [154, 697, 190, 714],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
