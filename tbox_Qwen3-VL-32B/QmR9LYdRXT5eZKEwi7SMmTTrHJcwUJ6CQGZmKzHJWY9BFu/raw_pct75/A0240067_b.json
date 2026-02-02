@@ -1,0 +1,9 @@
+```json
+[
+	{"text": "說文解字弟二下", "bbox": [814, 267, 888, 522], "type": "large-character", "comment": "标题部分，占据两行宽度"},
+	{"text": "漢太尉祭酒許慎記", "bbox": [814, 545, 888, 825], "type": "large-character", "comment": "作者署名，占据两行宽度"},
+	{"text": "正", "bbox": [511, 272, 588, 335], "type": "large-character", "comment": "正文第一个大字，占据两行宽度"},
+	{"text": "文二", "bbox": [206, 464, 277, 545], "type": "large-character", "comment": "文二，占据两行宽度"},
+	{"text": "重二", "bbox": [206, 648, 277, 728], "type": "large-character", "comment": "重二，占据两行宽度"}
+]
+```
