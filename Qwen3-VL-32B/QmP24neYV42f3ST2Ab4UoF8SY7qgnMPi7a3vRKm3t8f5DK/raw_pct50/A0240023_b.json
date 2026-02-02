@@ -1,0 +1,178 @@
+```json
+[
+	{
+		"text": "地反物爲祔也从",
+		"bbox": [835, 270, 894, 463],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "示芙聲於喬切",
+		"bbox": [794, 270, 846, 440],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也讀若筭",
+		"bbox": [750, 270, 801, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蘇貫切",
+		"bbox": [699, 270, 748, 358],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [648, 270, 687, 294],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "明視以筭之从二示逸周書",
+		"bbox": [843, 546, 897, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰士分民之祘均分以祘之",
+		"bbox": [796, 546, 846, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "吉凶之忌也从",
+		"bbox": [752, 463, 801, 624],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "示林聲居蔭切",
+		"bbox": [701, 463, 750, 631],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "除服祭也从",
+		"bbox": [753, 700, 803, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "示覃聲徒感",
+		"bbox": [701, 700, 750, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文六十",
+		"bbox": [607, 432, 680, 548],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重十三",
+		"bbox": [612, 658, 683, 777],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "親廟也从示爾聲一本",
+		"bbox": [541, 354, 592, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "云古文禋也泥米切",
+		"bbox": [495, 354, 544, 564],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遷廟也从示",
+		"bbox": [542, 678, 592, 812],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兆聲他彫切",
+		"bbox": [495, 678, 544, 790],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "胡神也从示",
+		"bbox": [451, 354, 498, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "天聲火千切",
+		"bbox": [394, 354, 444, 481],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "福也从示乍聲臣鉉等曰",
+		"bbox": [451, 570, 498, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "凡祭必受胙胙即福也此",
+		"bbox": [394, 570, 444, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "字後人所",
+		"bbox": [341, 270, 388, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "加徂故切",
+		"bbox": [289, 270, 338, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文四 新附",
+		"bbox": [309, 492, 380, 624],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二二天地人之道也从三數凡三之屬",
+		"bbox": [196, 270, 279, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十",
+		"bbox": [159, 268, 183, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "元文一三",
+		"bbox": [155, 402, 179, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "五",
+		"bbox": [158, 678, 181, 704],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周太",
+		"bbox": [168, 806, 193, 841],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
