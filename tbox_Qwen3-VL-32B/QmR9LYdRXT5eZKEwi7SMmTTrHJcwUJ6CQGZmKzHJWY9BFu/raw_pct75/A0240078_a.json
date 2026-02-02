@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "蹏", "bbox": [714, 278, 808, 355], "type": "large-character", "comment": "足也从足虎聲杜兮切"},
+	{"text": "跟", "bbox": [714, 497, 808, 573], "type": "large-character", "comment": "足踵也从足見聲古痕切"},
+	{"text": "蹍", "bbox": [714, 697, 808, 773], "type": "large-character", "comment": "跟或从止"},
+	{"text": "踝", "bbox": [615, 278, 708, 355], "type": "large-character", "comment": "足踝也从足果聲胡瓦切"},
+	{"text": "跖", "bbox": [615, 497, 708, 573], "type": "large-character", "comment": "足下也从足石聲之石切"},
+	{"text": "踦", "bbox": [615, 697, 708, 773], "type": "large-character", "comment": "一足也从"},
+	{"text": "跪", "bbox": [515, 362, 608, 438], "type": "large-character", "comment": "拜也从足危聲去委切"},
+	{"text": "跼", "bbox": [515, 587, 608, 663], "type": "large-character", "comment": "長跪也从足忌聲渠几切"},
+	{"text": "踧", "bbox": [415, 278, 508, 355], "type": "large-character", "comment": "行平易也从足叔聲詩曰踧踧周道子六切"},
+	{"text": "躣", "bbox": [415, 597, 508, 673], "type": "large-character", "comment": "行皃从足瞿聲其俱切"},
+	{"text": "踖", "bbox": [315, 278, 408, 355], "type": "large-character", "comment": "長脛行也从足昔聲"},
+	{"text": "踴", "bbox": [315, 573, 408, 649], "type": "large-character", "comment": "䟽行皃从足禹聲"},
+	{"text": "踐", "bbox": [215, 278, 308, 355], "type": "large-character", "comment": "主切"},
+	{"text": "蹸", "bbox": [215, 597, 308, 673], "type": "large-character", "comment": "行皃从足將聲詩曰管磬蹸蹸七羊切"},
+	{"text": "蹣", "bbox": [215, 807, 308, 883], "type": "large-character", "comment": "踐處也从足斷省聲徒管切"},
+	{"text": "踰", "bbox": [115, 278, 208, 355], "type": "large-character", "comment": "趣越皃从足卜聲芳遇切"},
+	{"text": "踰", "bbox": [115, 483, 208, 559], "type": "large-character", "comment": "越也从足俞聲羊朱切"},
+	{"text": "踐", "bbox": [115, 687, 208, 763], "type": "large-character", "comment": "輕也从足戌聲"}
+]
+```
