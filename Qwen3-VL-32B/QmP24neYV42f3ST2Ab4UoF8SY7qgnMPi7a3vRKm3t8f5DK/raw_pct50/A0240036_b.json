@@ -1,0 +1,220 @@
+```json
+[
+	{
+		"text": "艸也从艸斬聲江夏有蘄春亭臣鉉等案說文",
+		"bbox": [854, 360, 894, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "無斬字他字書亦無此篇下有荇字注云江夏",
+		"bbox": [807, 360, 846, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "平春亭名疑相承誤",
+		"bbox": [759, 265, 799, 451],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重出一字渠支切",
+		"bbox": [711, 265, 750, 451],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸也可以作席从",
+		"bbox": [759, 574, 799, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸完聲胡官切",
+		"bbox": [711, 574, 750, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "莞屬从艸閨",
+		"bbox": [664, 265, 704, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲良刃切",
+		"bbox": [617, 265, 656, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黃蒢職也从艸",
+		"bbox": [664, 488, 704, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "除聲直魚切",
+		"bbox": [617, 488, 656, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "水艸也可以作席从",
+		"bbox": [664, 658, 704, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸浦聲",
+		"bbox": [570, 265, 609, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "薄胡切",
+		"bbox": [522, 265, 561, 338],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蒲子可以爲平席",
+		"bbox": [570, 488, 609, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从艸弱聲而灼切",
+		"bbox": [522, 445, 561, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蒲蒻之類也",
+		"bbox": [570, 702, 609, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从艸㴱聲式",
+		"bbox": [522, 702, 561, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箴",
+		"bbox": [475, 265, 515, 291],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "崔也从艸推聲詩曰",
+		"bbox": [475, 381, 515, 597],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "中谷有蓷他回切",
+		"bbox": [427, 381, 467, 574],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸多皃从艸",
+		"bbox": [475, 681, 515, 821],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隹聲職追切",
+		"bbox": [427, 681, 467, 821],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "缺盆也从艸",
+		"bbox": [379, 342, 418, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "圭聲苦圭切",
+		"bbox": [332, 342, 371, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牛藻也从艸君聲",
+		"bbox": [379, 566, 418, 751],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若威渠頗切",
+		"bbox": [332, 566, 371, 730],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夫離也从艸",
+		"bbox": [284, 265, 324, 392],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曉聲胡官切",
+		"bbox": [236, 265, 276, 387],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夫離上也从艸",
+		"bbox": [284, 528, 324, 651],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鬲聲力的切",
+		"bbox": [236, 500, 276, 621],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "芣苢一名",
+		"bbox": [284, 735, 324, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬舄其實",
+		"bbox": [236, 735, 276, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "六三十一",
+		"bbox": [164, 261, 186, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亢父二下",
+		"bbox": [164, 392, 186, 475],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "五",
+		"bbox": [164, 687, 186, 711],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張信",
+		"bbox": [164, 805, 186, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
