@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "走", "bbox": [104, 264, 197, 344], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [304, 264, 398, 344], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [505, 264, 598, 344], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [607, 299, 699, 379], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [704, 379, 797, 459], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [704, 484, 797, 564], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [704, 644, 797, 724], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [104, 474, 197, 554], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [204, 379, 297, 459], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [304, 484, 398, 564], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [402, 564, 495, 644], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [505, 534, 598, 614], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [607, 574, 699, 654], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [104, 724, 197, 804], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [204, 604, 297, 684], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [304, 724, 398, 804], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "走", "bbox": [505, 764, 598, 844], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
