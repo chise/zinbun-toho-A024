@@ -1,0 +1,226 @@
+```json
+[
+	{
+		"text": "从玉此聲詩曰新",
+		"bbox": [854, 276, 890, 453],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臺有玼千禮切",
+		"bbox": [803, 276, 842, 440],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉英華相帶如瑟弦从玉瑟",
+		"bbox": [854, 535, 892, 819],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲詩曰璱彼玉瓚所櫛切",
+		"bbox": [803, 535, 842, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉英華羅列秩秩从玉卓聲逸論語",
+		"bbox": [754, 276, 792, 708],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰玉粲之璱兮其瑽猛也力質切",
+		"bbox": [705, 276, 745, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "熒省聲一曰石之次玉者逸",
+		"bbox": [656, 276, 695, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "論語曰如玉之瑩烏定切",
+		"bbox": [606, 276, 646, 535],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉小赤也从玉",
+		"bbox": [557, 593, 595, 702],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "段聲乎加切",
+		"bbox": [507, 593, 547, 716],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "治玉也一曰石似玉",
+		"bbox": [458, 451, 498, 653],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从玉周聲都寮切",
+		"bbox": [409, 451, 449, 633],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "寶也从玉今",
+		"bbox": [360, 339, 398, 478],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲陟鄰切",
+		"bbox": [311, 339, 349, 448],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弄也从玉元",
+		"bbox": [360, 555, 398, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲五換切",
+		"bbox": [311, 555, 349, 662],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玩或",
+		"bbox": [360, 772, 398, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从貝",
+		"bbox": [311, 772, 349, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "治玉也从玉",
+		"bbox": [458, 716, 498, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "里聲良止切",
+		"bbox": [409, 683, 449, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从玉豕",
+		"bbox": [458, 276, 498, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲竹角切",
+		"bbox": [409, 276, 449, 376],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉聲从玉令",
+		"bbox": [252, 351, 291, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲郎丁切",
+		"bbox": [202, 351, 241, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉聲也从玉倉聲詩",
+		"bbox": [252, 559, 291, 772],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰犖革有玱七羊切",
+		"bbox": [202, 559, 241, 772],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大二十八",
+		"bbox": [161, 276, 184, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌之一一",
+		"bbox": [161, 408, 184, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "史攸",
+		"bbox": [171, 808, 196, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉色",
+		"bbox": [754, 792, 792, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从玉",
+		"bbox": [705, 792, 745, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉輕色也从玉莔聲",
+		"bbox": [656, 638, 695, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禾之赤苗謂之蘀寡言",
+		"bbox": [606, 638, 646, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "滿玉色如",
+		"bbox": [557, 276, 595, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "滿或",
+		"bbox": [557, 457, 595, 510],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从允",
+		"bbox": [507, 457, 547, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之莫奔切",
+		"bbox": [458, 276, 498, 343],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
