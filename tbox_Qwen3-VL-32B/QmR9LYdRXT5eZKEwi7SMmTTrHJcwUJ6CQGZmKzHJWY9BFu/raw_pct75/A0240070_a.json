@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "徙", "bbox": [702, 338, 799, 418], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "屮", "bbox": [702, 458, 799, 538], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [612, 478, 699, 558], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迍", "bbox": [612, 630, 699, 710], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迯", "bbox": [500, 262, 595, 342], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遯", "bbox": [500, 526, 595, 606], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "返", "bbox": [404, 498, 495, 578], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "還", "bbox": [404, 650, 495, 730], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遡", "bbox": [304, 292, 395, 372], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遜", "bbox": [304, 622, 395, 702], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遡", "bbox": [204, 262, 295, 342], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遯", "bbox": [204, 398, 295, 478], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遯", "bbox": [204, 602, 295, 682], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遯", "bbox": [104, 262, 195, 342], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遯", "bbox": [104, 582, 195, 662], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
