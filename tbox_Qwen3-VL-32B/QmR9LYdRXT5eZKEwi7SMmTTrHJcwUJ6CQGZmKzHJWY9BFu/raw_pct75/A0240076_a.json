@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "齜", "bbox": [750, 310, 799, 577], "type": "large-character", "comment": "齒相值也一曰齧也从齒"},
+	{"text": "齗", "bbox": [654, 295, 698, 577], "type": "large-character", "comment": "齒相斷也一曰開口見齒之皃"},
+	{"text": "齦", "bbox": [607, 295, 650, 577], "type": "large-character", "comment": "从齒柴省聲讀若柴仕街切"},
+	{"text": "齪", "bbox": [558, 310, 599, 577], "type": "large-character", "comment": "口張齒見从齒"},
+	{"text": "齬", "bbox": [508, 310, 550, 577], "type": "large-character", "comment": "只聲研繭切"},
+	{"text": "齪", "bbox": [460, 265, 495, 577], "type": "large-character", "comment": "齒擠也一曰齰也一曰馬口"},
+	{"text": "齲", "bbox": [400, 265, 445, 577], "type": "large-character", "comment": "中糜也从齒匆聲側鳩切"},
+	{"text": "齵", "bbox": [350, 295, 395, 577], "type": "large-character", "comment": "齬齒也从齒"},
+	{"text": "齶", "bbox": [300, 295, 345, 577], "type": "large-character", "comment": "虘聲側加切"},
+	{"text": "齳", "bbox": [250, 310, 295, 577], "type": "large-character", "comment": "齒差跌皃从齒佐聲春秋傳曰鄭有"},
+	{"text": "齴", "bbox": [200, 310, 245, 577], "type": "large-character", "comment": "子齧臣鉉等曰說文無佐字此字當"},
+	{"text": "齵", "bbox": [150, 310, 195, 577], "type": "large-character", "comment": "缺齒也一曰曲齒从齒"},
+	{"text": "齶", "bbox": [100, 310, 145, 577], "type": "large-character", "comment": "羙聲讀若權巨員切"}
+]
+```
