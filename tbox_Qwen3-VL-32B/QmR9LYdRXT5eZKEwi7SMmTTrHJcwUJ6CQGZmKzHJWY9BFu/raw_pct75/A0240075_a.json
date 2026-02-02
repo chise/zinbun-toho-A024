@@ -1,0 +1,11 @@
+```json
+[
+	{"text": "延", "bbox": [504, 264, 595, 342], "type": "large-character", "comment": "长行也从廴"},
+	{"text": "行", "bbox": [407, 264, 488, 342], "type": "large-character", "comment": "人之步趨也从彳从亍凡行之屬"},
+	{"text": "術", "bbox": [205, 264, 295, 342], "type": "large-character", "comment": "邑中道也从行"},
+	{"text": "街", "bbox": [205, 500, 295, 578], "type": "large-character", "comment": "四通道也从行"},
+	{"text": "衢", "bbox": [104, 380, 195, 458], "type": "large-character", "comment": "通道也从行童聲春秋傳"},
+	{"text": "衝", "bbox": [205, 700, 295, 778], "type": "large-character", "comment": "四達謂之"},
+	{"text": "洞", "bbox": [104, 738, 195, 816], "type": "large-character", "comment": "通街"}
+]
+```
