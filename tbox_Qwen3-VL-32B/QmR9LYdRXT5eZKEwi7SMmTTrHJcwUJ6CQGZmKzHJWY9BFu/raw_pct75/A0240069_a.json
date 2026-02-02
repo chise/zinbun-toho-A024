@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "迆", "bbox": [204, 261, 299, 340], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [308, 355, 399, 433], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遰", "bbox": [405, 294, 500, 372], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遶", "bbox": [405, 498, 500, 577], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遰", "bbox": [505, 397, 599, 475], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遡", "bbox": [505, 657, 599, 735], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遯", "bbox": [608, 294, 699, 372], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遡", "bbox": [608, 498, 699, 577], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遡", "bbox": [608, 657, 699, 735], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遡", "bbox": [705, 261, 799, 340], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遡", "bbox": [705, 508, 800, 587], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遡", "bbox": [705, 735, 800, 814], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [108, 397, 200, 475], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [108, 657, 200, 735], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [204, 577, 300, 655], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [204, 775, 300, 853], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [308, 657, 400, 735], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [405, 735, 500, 814], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [505, 735, 599, 814], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [608, 735, 699, 814], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迻", "bbox": [705, 735, 800, 814], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
