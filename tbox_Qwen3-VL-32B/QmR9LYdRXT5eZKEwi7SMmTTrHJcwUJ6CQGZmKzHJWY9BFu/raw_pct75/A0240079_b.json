@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "踏", "bbox": [805, 270, 894, 344], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蹸", "bbox": [805, 487, 894, 561], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "趿", "bbox": [805, 696, 894, 770], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蹟", "bbox": [718, 518, 794, 592], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蹟", "bbox": [718, 728, 794, 802], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "跲", "bbox": [608, 487, 692, 561], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "跩", "bbox": [608, 696, 692, 770], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蹵", "bbox": [500, 348, 588, 422], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "踐", "bbox": [500, 558, 588, 632], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "蹛", "bbox": [500, 768, 588, 842], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "踐", "bbox": [400, 487, 486, 561], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "踐", "bbox": [400, 728, 486, 802], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "踐", "bbox": [300, 418, 386, 492], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "踐", "bbox": [300, 630, 386, 704], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "踐", "bbox": [200, 270, 286, 344], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "踐", "bbox": [200, 487, 286, 561], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "踐", "bbox": [200, 718, 286, 792], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
