@@ -1,0 +1,82 @@
+```json
+[
+	{
+		"text": "說文解字第一下漢太尉祭酒許愼記",
+		"bbox": [806, 273, 895, 842],
+		"type": "title",
+		"comment": "书名及作者"
+	},
+	{
+		"text": "銀青光祿奕守右散騎常侍上柱國東海縣開國子食邑壹千戶徐鉉等奉",
+		"bbox": [725, 298, 779, 850],
+		"type": "note",
+		"comment": "校勘者或刊刻者信息"
+	},
+	{
+		"text": "敕挍定",
+		"bbox": [626, 292, 666, 349],
+		"type": "note",
+		"comment": "敕令校订"
+	},
+	{
+		"text": "屮艸木初生也象丨出形有枝莖也",
+		"bbox": [516, 282, 589, 848],
+		"type": "definition",
+		"comment": "对“屮”字的解释"
+	},
+	{
+		"text": "古文或以爲艸字讀若徹凡屮之",
+		"bbox": [414, 353, 488, 849],
+		"type": "definition",
+		"comment": "古文用法及读音说明"
+	},
+	{
+		"text": "屬皆从屮尹形說臣鉉等曰丨上下通",
+		"bbox": [312, 354, 385, 849],
+		"type": "definition",
+		"comment": "部首归属及注释"
+	},
+	{
+		"text": "也象艸木萌芽通徹",
+		"bbox": [302, 626, 354, 849],
+		"type": "definition",
+		"comment": "补充说明象形意义"
+	},
+	{
+		"text": "地上也",
+		"bbox": [252, 357, 291, 432],
+		"type": "definition",
+		"comment": "附加释义"
+	},
+	{
+		"text": "丑列切",
+		"bbox": [202, 357, 243, 430],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "大十二",
+		"bbox": [173, 267, 195, 304],
+		"type": "page_number",
+		"comment": "页码或卷次标记"
+	},
+	{
+		"text": "說文一下",
+		"bbox": [161, 404, 187, 477],
+		"type": "section_title",
+		"comment": "章节标识"
+	},
+	{
+		"text": "一",
+		"bbox": [165, 692, 187, 708],
+		"type": "page_number",
+		"comment": "页码"
+	},
+	{
+		"text": "程嶽",
+		"bbox": [171, 815, 194, 846],
+		"type": "publisher_or_editor",
+		"comment": "刊刻者或出版者"
+	}
+]
+```
