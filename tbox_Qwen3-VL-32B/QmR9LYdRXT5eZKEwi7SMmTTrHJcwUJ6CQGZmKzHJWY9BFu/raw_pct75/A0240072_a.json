@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "連", "bbox": [750, 268, 800, 308], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "前", "bbox": [750, 308, 800, 348], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "一", "bbox": [700, 308, 750, 348], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "迦", "bbox": [750, 348, 800, 388], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遼", "bbox": [400, 388, 498, 458], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遠", "bbox": [400, 588, 498, 658], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "逃", "bbox": [300, 348, 398, 418], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遙", "bbox": [300, 478, 398, 548], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遠", "bbox": [300, 688, 398, 758], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遯", "bbox": [200, 618, 298, 688], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "逮", "bbox": [100, 268, 200, 338], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "達", "bbox": [100, 498, 200, 568], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "遙", "bbox": [100, 688, 200, 758], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
