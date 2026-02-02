@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "大三十一",
+		"bbox": [163, 274, 180, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "九二",
+		"bbox": [163, 675, 180, 710],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "萬松",
+		"bbox": [164, 802, 183, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [205, 271, 273, 366],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓜菹也从艸",
+		"bbox": [854, 355, 893, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "監聲魯甘切",
+		"bbox": [802, 355, 840, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "菹也从艸汙",
+		"bbox": [854, 566, 893, 695],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲直宜切",
+		"bbox": [802, 566, 840, 675],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蒗或",
+		"bbox": [854, 789, 893, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从皿",
+		"bbox": [802, 789, 840, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皿器",
+		"bbox": [749, 274, 787, 312],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乾梅之屬从艸橑聲周禮曰饋食之籩其",
+		"bbox": [749, 411, 787, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [697, 274, 735, 298],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "實乾橑後漢長沙王始煮艸爲橑盧皓切",
+		"bbox": [697, 411, 735, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蔌或",
+		"bbox": [645, 274, 683, 312],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "煎茱萸从艸頴聲漢律",
+		"bbox": [645, 411, 683, 720],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从潦",
+		"bbox": [600, 355, 638, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會稽獻蘋一斗魚旣切",
+		"bbox": [600, 488, 638, 720],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羹",
+		"bbox": [645, 812, 683, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "菜",
+		"bbox": [600, 812, 638, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从艸宰",
+		"bbox": [548, 274, 586, 338],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "擇菜也从艸右手也",
+		"bbox": [548, 462, 586, 701],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲阻史切",
+		"bbox": [500, 274, 538, 365],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰杜若香艸而灼切",
+		"bbox": [500, 462, 538, 701],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蒲叢",
+		"bbox": [548, 789, 586, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [500, 789, 538, 830],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸專聲",
+		"bbox": [451, 274, 489, 352],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以艸補缺从艸丙聲讀若陸或",
+		"bbox": [451, 434, 489, 753],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "常倫切",
+		"bbox": [398, 274, 436, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以爲綴一曰約空也直例切",
+		"bbox": [398, 440, 436, 720],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "叢艸也从艸",
+		"bbox": [347, 274, 385, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸田器从艸條省聲論語曰",
+		"bbox": [347, 494, 385, 785],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尊聲慈損切",
+		"bbox": [295, 274, 333, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以杖荷莜今作蓧徒弔切",
+		"bbox": [295, 500, 333, 759],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雨衣一曰裘衣从艸卑聲",
+		"bbox": [243, 366, 281, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰草藨似烏韭扶歷切",
+		"bbox": [191, 366, 229, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸也从艸是",
+		"bbox": [243, 715, 281, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲是支切",
+		"bbox": [191, 715, 229, 821],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
