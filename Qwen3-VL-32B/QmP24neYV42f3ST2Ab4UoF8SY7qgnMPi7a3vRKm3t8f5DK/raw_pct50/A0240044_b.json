@@ -1,0 +1,238 @@
+```json
+[
+	{
+		"text": "字相亂",
+		"bbox": [839, 274, 896, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "側詞切",
+		"bbox": [806, 274, 860, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "茁或",
+		"bbox": [863, 434, 902, 493],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸盛皃人艸孫聲夏書",
+		"bbox": [859, 576, 898, 824],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰厥艸惟蘇余招切",
+		"bbox": [807, 576, 845, 787],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "除艸也明堂月令曰季夏",
+		"bbox": [754, 353, 794, 598],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燒薙从艸雉聲他計切",
+		"bbox": [713, 353, 753, 598],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "耕多艸从艸耒",
+		"bbox": [756, 688, 795, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "耒亦聲盧對切",
+		"bbox": [713, 688, 753, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸大也从艸",
+		"bbox": [660, 353, 699, 489],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "致聲陟利切",
+		"bbox": [609, 353, 648, 489],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸相蘄苞也从艸斬聲",
+		"bbox": [658, 576, 697, 814],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "書曰艸木蘄苞慈冉切",
+		"bbox": [607, 576, 647, 814],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蘄或",
+		"bbox": [555, 353, 595, 406],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "道多艸不可行从",
+		"bbox": [555, 493, 595, 684],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸弗聲分勿切",
+		"bbox": [504, 493, 543, 651],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馨香也",
+		"bbox": [555, 763, 595, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从艸必",
+		"bbox": [504, 763, 543, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲毗",
+		"bbox": [452, 270, 492, 316],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "香艸也从艸",
+		"text": "香艸也从艸",
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "設聲識列切",
+		"bbox": [401, 412, 440, 540],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "香艸也从艸",
+		"bbox": [452, 629, 492, 762],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "方聲敷方切",
+		"bbox": [401, 629, 440, 762],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雜香艸从艸",
+		"bbox": [350, 270, 389, 406],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "治病艸从艸",
+		"bbox": [350, 493, 389, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸木相附麗",
+		"bbox": [350, 705, 389, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "賁聲浮分切",
+		"bbox": [299, 270, 338, 406],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樂聲以勺切",
+		"bbox": [299, 493, 338, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "土而生从艸",
+		"bbox": [299, 705, 338, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "麗聲易曰百穀艸",
+		"bbox": [248, 270, 287, 489],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廣多也从艸",
+		"bbox": [248, 540, 287, 684],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刈艸也",
+		"bbox": [248, 758, 287, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木麗於地呂支切",
+		"bbox": [197, 270, 236, 452],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "席聲祥易切",
+		"bbox": [197, 540, 236, 684],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从艸从",
+		"bbox": [197, 763, 236, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十二",
+		"bbox": [167, 272, 188, 316],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文一下",
+		"bbox": [162, 406, 187, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十三",
+		"bbox": [162, 670, 187, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "萬松",
+		"bbox": [167, 798, 188, 840],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
