@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "祭主贊詞者从示从人口一曰从",
+		"bbox": [830, 269, 894, 597],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兄省易曰兄為口為巫之六切",
+		"bbox": [802, 269, 855, 572],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祝褔也从示",
+		"bbox": [858, 687, 895, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雷聲力救切",
+		"bbox": [809, 687, 855, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "除惡祭也从示",
+		"bbox": [751, 344, 791, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "求福也从示",
+		"bbox": [759, 579, 794, 711],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "告",
+		"bbox": [768, 814, 795, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "事",
+		"bbox": [718, 815, 747, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "斤聲渠稀切",
+		"bbox": [706, 579, 747, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "友聲敷勿切",
+		"bbox": [697, 344, 739, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "求福也从示",
+		"bbox": [648, 269, 688, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壽聲都浩切",
+		"bbox": [603, 269, 643, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禱或",
+		"bbox": [655, 517, 691, 571],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [655, 623, 691, 675],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "設緜蕝",
+		"bbox": [655, 778, 691, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "為營以",
+		"bbox": [604, 778, 643, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禱",
+		"bbox": [601, 623, 643, 769],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省",
+		"bbox": [606, 485, 638, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禳風雨雪霜水旱癘疫於日月星辰山川也从示榮省",
+		"bbox": [545, 269, 587, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲一曰榮衛使災不生禮記曰雩榮祭水旱為命切",
+		"bbox": [499, 269, 540, 799],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "磔禳祀除癘殃也古者燧人",
+		"bbox": [454, 344, 493, 654],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "崇子所造从示襄聲汝羊切",
+		"bbox": [398, 344, 438, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會福祭也",
+		"bbox": [450, 747, 489, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从示从會",
+		"bbox": [398, 747, 437, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會亦聲周禮曰繪",
+		"bbox": [341, 269, 380, 453],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祭天也从示",
+		"bbox": [342, 552, 380, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祀也从",
+		"bbox": [343, 778, 380, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "示御聲",
+		"bbox": [297, 778, 336, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "單聲時戰切",
+		"bbox": [297, 552, 336, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之祝號古外切",
+		"bbox": [297, 269, 336, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "魚舉",
+		"bbox": [243, 269, 280, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祀也从示昏",
+		"bbox": [243, 400, 280, 539],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祭也从示某",
+		"bbox": [243, 638, 280, 751],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲莫楛切",
+		"bbox": [197, 638, 234, 737],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲古末切",
+		"bbox": [197, 407, 234, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [197, 269, 234, 297],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大二十七",
+		"bbox": [159, 264, 185, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "己二一二",
+		"bbox": [155, 354, 178, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日",
+		"bbox": [157, 683, 179, 704],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "仲奇",
+		"bbox": [161, 809, 186, 844],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
