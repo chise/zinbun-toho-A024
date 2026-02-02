@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "小二百零五", "bbox": [804, 265, 827, 329], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "口从牛易曰僮牛之告凡告之屬", "bbox": [724, 354, 792, 839], "size": "large", "type": "text", "comment": "部首说明"},
+	{"text": "皆从告 古奥切", "bbox": [619, 348, 694, 495], "size": "medium", "type": "text", "comment": "部首字及注音"},
+	{"text": "誇 急告之甚也从告 學省聲 苦沃切", "bbox": [518, 265, 599, 502], "size": "medium", "type": "text", "comment": "字形、字义、注音"},
+	{"text": "文二", "bbox": [518, 648, 588, 723], "size": "large", "type": "text", "comment": "文数标记"},
+	{"text": "口 人所以言食也象形凡口之屬皆", "bbox": [412, 277, 488, 843], "size": "large", "type": "text", "comment": "部首“口”的释义"},
+	{"text": "从口 苦后切", "bbox": [312, 348, 392, 470], "size": "medium", "type": "text", "comment": "字形、注音"},
+	{"text": "噭 吼也从口斂聲 一曰噭呼也 古弔切", "bbox": [208, 265, 298, 539], "size": "medium", "type": "text", "comment": "字形、字义、注音"},
+	{"text": "囀 喙也从口蜀聲 陟救切", "bbox": [208, 539, 298, 729], "size": "medium", "type": "text", "comment": "字形、字义、注音"},
+	{"text": "口也从口彖聲 許穢切", "bbox": [108, 265, 195, 373], "size": "medium", "type": "text", "comment": "字形、字义、注音"},
+	{"text": "吻 口邊也从口勿聲 武粉切", "bbox": [108, 400, 195, 608], "size": "medium", "type": "text", "comment": "字形、字义、注音"},
+	{"text": "咽 吻或从肉从昬聲", "bbox": [108, 615, 195, 845], "size": "medium", "type": "text", "comment": "字形、字义、注音"},
+	{"text": "言文三", "bbox": [812, 400, 838, 445], "size": "small", "type": "text", "comment": "章节或卷数标记"},
+	{"text": "王", "bbox": [812, 675, 838, 697], "size": "small", "type": "text", "comment": "可能为页码或编号"},
+	{"text": "任三", "bbox": [807, 799, 834, 821], "size": "small", "type": "text", "comment": "可能为校对或编者标记"}
+]
+```
