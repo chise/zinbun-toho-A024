@@ -1,0 +1,490 @@
+```json
+[
+	{
+		"text": "大五十",
+		"bbox": [163, 279, 185, 341],
+		"type": "text",
+		"comment": "页码或卷册编号"
+	},
+	{
+		"text": "冒",
+		"bbox": [809, 281, 878, 358],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "冒書",
+		"bbox": [845, 366, 888, 421],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "九切",
+		"bbox": [803, 366, 847, 421],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "具古",
+		"bbox": [851, 505, 892, 557],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "須",
+		"bbox": [797, 561, 894, 647],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "須相",
+		"bbox": [851, 654, 892, 710],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "俞切",
+		"bbox": [799, 654, 845, 708],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "三",
+		"bbox": [801, 714, 887, 796],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "三所",
+		"bbox": [847, 816, 892, 858],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "銜切",
+		"bbox": [799, 816, 845, 858],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "文無",
+		"bbox": [750, 505, 792, 557],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "彭所",
+		"bbox": [752, 654, 795, 710],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "後胡",
+		"bbox": [752, 816, 795, 858],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "銜切",
+		"bbox": [701, 654, 747, 708],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "口切",
+		"bbox": [701, 816, 747, 858],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "彫",
+		"bbox": [704, 561, 792, 647],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "後",
+		"bbox": [704, 714, 789, 796],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "分切",
+		"bbox": [701, 366, 747, 421],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "文",
+		"bbox": [701, 425, 789, 501],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "司息",
+		"bbox": [652, 366, 694, 421],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "危章",
+		"bbox": [652, 505, 694, 557],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "月子",
+		"bbox": [652, 654, 694, 710],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "印於",
+		"bbox": [652, 816, 694, 858],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "結切",
+		"bbox": [602, 654, 648, 708],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "刄切",
+		"bbox": [602, 816, 648, 858],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "司",
+		"bbox": [604, 281, 684, 358],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "后",
+		"bbox": [604, 425, 692, 501],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "己",
+		"bbox": [604, 561, 689, 647],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "乏",
+		"bbox": [604, 714, 692, 796],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "茲切",
+		"bbox": [602, 366, 648, 421],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "移切",
+		"bbox": [602, 505, 648, 557],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "色所",
+		"bbox": [552, 366, 595, 421],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "卯去",
+		"bbox": [552, 505, 595, 557],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "辟必",
+		"bbox": [552, 654, 595, 710],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "勺布",
+		"bbox": [552, 816, 595, 858],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "交切",
+		"bbox": [502, 816, 547, 858],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "京切",
+		"bbox": [502, 505, 547, 557],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "益切",
+		"bbox": [502, 654, 547, 708],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "色",
+		"bbox": [504, 281, 584, 358],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "夘",
+		"bbox": [504, 425, 584, 501],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "醉",
+		"bbox": [504, 561, 592, 647],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "匸",
+		"bbox": [504, 714, 584, 796],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "力切",
+		"bbox": [502, 366, 547, 421],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "包布",
+		"bbox": [452, 366, 495, 421],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "苟已",
+		"bbox": [452, 505, 495, 557],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "鬼居",
+		"bbox": [452, 654, 495, 710],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "由敷",
+		"bbox": [452, 816, 495, 858],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "勿切",
+		"bbox": [402, 816, 447, 858],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "偉切",
+		"bbox": [402, 654, 447, 708],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "力切",
+		"bbox": [402, 505, 447, 557],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "交切",
+		"bbox": [402, 366, 447, 421],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "匸",
+		"bbox": [404, 281, 484, 358],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "苟",
+		"bbox": [404, 425, 484, 501],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "鬼",
+		"bbox": [404, 561, 484, 647],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "田",
+		"bbox": [404, 714, 484, 796],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "亼息",
+		"bbox": [352, 366, 395, 421],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "嵬五",
+		"bbox": [352, 505, 395, 557],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "山所",
+		"bbox": [352, 654, 395, 710],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "屾所",
+		"bbox": [352, 816, 395, 858],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "灰切",
+		"bbox": [302, 505, 347, 557],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "間切",
+		"bbox": [302, 654, 347, 708],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "臻切",
+		"bbox": [302, 816, 347, 858],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "丮",
+		"bbox": [304, 281, 384, 358],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "嵬",
+		"bbox": [304, 425, 384, 501],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "山",
+		"bbox": [304, 561, 384, 647],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "屾",
+		"bbox": [304, 714, 384, 796],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "吏切",
+		"bbox": [252, 366, 297, 421],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "厂魚",
+		"bbox": [252, 505, 297, 557],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "厂呼",
+		"bbox": [252, 654, 297, 710],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "丸胡",
+		"bbox": [252, 816, 297, 858],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "檢切",
+		"bbox": [202, 505, 247, 557],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "旱切",
+		"bbox": [202, 654, 247, 708],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "官切",
+		"bbox": [202, 816, 247, 858],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "屵",
+		"bbox": [204, 281, 284, 358],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "广",
+		"bbox": [204, 425, 284, 501],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "厂",
+		"bbox": [204, 561, 284, 647],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "兀",
+		"bbox": [204, 714, 284, 796],
+		"type": "character",
+		"comment": "篆书字符"
+	},
+	{
+		"text": "屵五",
+		"bbox": [252, 366, 297, 421],
+		"type": "text",
+		"comment": "注释文字"
+	},
+	{
+		"text": "葛切",
+		"bbox": [202, 366, 247, 421],
+		"type": "text",
+		"comment": "反切注音"
+	},
+	{
+		"text": "陳廣",
+		"bbox": [163, 804, 188, 850],
+		"type": "text",
+		"comment": "刻工或校勘者署名"
+	}
+]
+```
