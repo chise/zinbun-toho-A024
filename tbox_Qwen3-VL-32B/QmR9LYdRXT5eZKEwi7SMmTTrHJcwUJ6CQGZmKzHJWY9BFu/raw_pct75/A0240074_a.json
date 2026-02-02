@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "蹟", "bbox": [707, 347, 798, 425], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [707, 484, 798, 572], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "油", "bbox": [707, 702, 798, 788], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [609, 374, 698, 452], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [609, 588, 698, 666], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [509, 265, 598, 343], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [509, 562, 598, 640], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [509, 702, 598, 780], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [409, 265, 498, 343], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [409, 638, 498, 716], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [309, 265, 398, 343], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [309, 512, 398, 590], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [209, 300, 298, 378], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [209, 512, 298, 590], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [109, 338, 198, 416], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "従", "bbox": [109, 572, 198, 650], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
