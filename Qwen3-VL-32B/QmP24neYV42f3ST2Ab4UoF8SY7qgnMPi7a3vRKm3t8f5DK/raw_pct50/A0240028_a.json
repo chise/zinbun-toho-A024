@@ -1,0 +1,214 @@
+```json
+[
+	{
+		"text": "小雪二六",
+		"bbox": [809, 273, 825, 334],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文一上",
+		"bbox": [812, 406, 832, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴華",
+		"bbox": [816, 807, 836, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉聲也从王丁聲齊太公",
+		"bbox": [725, 274, 803, 371],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "子伋諡曰玎公當經切",
+		"bbox": [725, 273, 801, 520],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "爭聲楚耕切",
+		"bbox": [723, 614, 799, 736],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉聲也从玉",
+		"bbox": [724, 614, 802, 736],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲",
+		"bbox": [724, 816, 752, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从玉貟",
+		"bbox": [655, 274, 721, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲蘇果切",
+		"bbox": [613, 274, 653, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉聲也从玉",
+		"bbox": [654, 457, 707, 553],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皇聲乎光切",
+		"bbox": [613, 458, 664, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从",
+		"bbox": [655, 668, 708, 820],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉禹聲王矩切",
+		"bbox": [613, 669, 664, 823],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之次玉者以爲系璧从玉丰聲讀若",
+		"bbox": [543, 357, 609, 723],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰瓜瓞蓁蓁一曰若金蚌補蟬切",
+		"bbox": [506, 357, 565, 724],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玲墜石之次玉者",
+		"bbox": [458, 275, 501, 465],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从玉今聲古函切",
+		"bbox": [414, 274, 458, 371],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玲墜也从玉",
+		"bbox": [458, 548, 501, 668],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "勒聲盧則切",
+		"bbox": [414, 548, 458, 681],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓊琚从",
+		"bbox": [458, 767, 501, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉居聲",
+		"bbox": [414, 767, 458, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰報之以",
+		"bbox": [355, 274, 403, 371],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之次玉者从玉莠聲",
+		"bbox": [355, 500, 403, 723],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰充耳琇瑩息救切",
+		"bbox": [311, 500, 354, 723],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之",
+		"bbox": [311, 752, 354, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓊琚九魚切",
+		"bbox": [305, 274, 355, 371],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "次玉黑色者从玉久聲詩曰貽我佩玖",
+		"bbox": [253, 274, 303, 646],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若芑或曰若人句脊之句舉友切",
+		"bbox": [208, 274, 255, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若貽",
+		"bbox": [164, 274, 209, 371],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉者从",
+		"bbox": [164, 470, 209, 632],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石之似玉",
+		"bbox": [164, 719, 209, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "與之切",
+		"bbox": [110, 274, 158, 371],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玉艮聲語巾切",
+		"bbox": [110, 470, 158, 632],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从玉曳聲余",
+		"bbox": [110, 719, 158, 844],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
