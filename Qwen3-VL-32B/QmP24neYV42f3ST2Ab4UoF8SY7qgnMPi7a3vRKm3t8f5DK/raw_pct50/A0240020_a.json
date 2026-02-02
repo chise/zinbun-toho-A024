@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "小亘十四", "bbox": [805, 259, 831, 324], "type": "text", "comment": ""},
+	{"text": "說文一上", "bbox": [812, 397, 836, 473], "type": "text", "comment": ""},
+	{"text": "楊本", "bbox": [813, 802, 835, 839], "type": "text", "comment": ""},
+	{"text": "萬物凡一之屬皆从一於悉", "bbox": [722, 327, 793, 699], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [722, 667, 756, 699], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [661, 341, 699, 392], "type": "text", "comment": ""},
+	{"text": "始也从一从兀徐鍇曰元者", "bbox": [658, 472, 701, 742], "type": "text", "comment": ""},
+	{"text": "善之長也故从一愚袁切", "bbox": [614, 472, 656, 742], "type": "text", "comment": ""},
+	{"text": "顓也至高無上", "bbox": [566, 267, 603, 412], "type": "text", "comment": ""},
+	{"text": "从一大他前切", "bbox": [515, 267, 552, 412], "type": "text", "comment": ""},
+	{"text": "大也从一不", "bbox": [566, 497, 603, 624], "type": "text", "comment": ""},
+	{"text": "聲敷悲切", "bbox": [515, 502, 552, 605], "type": "text", "comment": ""},
+	{"text": "治人者也", "bbox": [566, 737, 603, 841], "type": "text", "comment": ""},
+	{"text": "从一从史", "bbox": [515, 737, 552, 841], "type": "text", "comment": ""},
+	{"text": "史亦聲徐鍇曰吏之治人", "bbox": [463, 267, 500, 520], "type": "text", "comment": ""},
+	{"text": "心主於一故从一力置切", "bbox": [411, 267, 448, 520], "type": "text", "comment": ""},
+	{"text": "文五", "bbox": [426, 594, 485, 672], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [426, 729, 485, 798], "type": "text", "comment": ""},
+	{"text": "上高也此古文上指事也凡上之", "bbox": [317, 267, 396, 841], "type": "text", "comment": ""},
+	{"text": "屬皆从上時掌", "bbox": [215, 344, 291, 565], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [215, 502, 250, 529], "type": "text", "comment": ""},
+	{"text": "篆文", "bbox": [163, 344, 197, 401], "type": "text", "comment": ""},
+	{"text": "諦也王天下之號也", "bbox": [163, 481, 200, 690], "type": "text", "comment": ""},
+	{"text": "从上束聲都計切", "bbox": [111, 486, 147, 667], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [163, 785, 197, 841], "type": "text", "comment": ""},
+	{"text": "帝古", "bbox": [128, 799, 163, 848], "type": "text", "comment": ""}
+]
+```
