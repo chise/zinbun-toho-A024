@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "𧾷", "bbox": [807, 375, 898, 457], "type": "large-character", "comment": "行聲也一曰不行皃从走"},
+	{"text": "𧾷", "bbox": [703, 330, 797, 408], "type": "large-character", "comment": "趍趙久也从走"},
+	{"text": "𧾷", "bbox": [605, 267, 697, 345], "type": "large-character", "comment": "行難也从走斤聲"},
+	{"text": "𧾷", "bbox": [505, 267, 598, 345], "type": "large-character", "comment": "遠也从走卓"},
+	{"text": "𧾷", "bbox": [405, 357, 498, 435], "type": "large-character", "comment": "起特也从走"},
+	{"text": "𧾷", "bbox": [305, 267, 398, 345], "type": "large-character", "comment": "走也从走弗"},
+	{"text": "𧾷", "bbox": [205, 357, 298, 435], "type": "large-character", "comment": "走也从走出聲讀若"},
+	{"text": "𧾷", "bbox": [105, 357, 198, 435], "type": "large-character", "comment": "無尾之屈瞿勿切"},
+	{"text": "𧾷", "bbox": [205, 648, 298, 726], "type": "large-character", "comment": "窮也从走"},
+	{"text": "𧾷", "bbox": [305, 708, 398, 786], "type": "large-character", "comment": "也从"},
+	{"text": "𧾷", "bbox": [405, 570, 498, 648], "type": "large-character", "comment": "走也从走幾"},
+	{"text": "𧾷", "bbox": [505, 488, 598, 566], "type": "large-character", "comment": "趠趠也从走"},
+	{"text": "𧾷", "bbox": [605, 534, 697, 612], "type": "large-character", "comment": "走意也从走夐聲"},
+	{"text": "𧾷", "bbox": [703, 566, 797, 644], "type": "large-character", "comment": "趍趙也从走"},
+	{"text": "𧾷", "bbox": [807, 698, 898, 776], "type": "large-character", "comment": "走氐聲"}
+]
+```
