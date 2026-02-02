@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "第7A17", "bbox": [805, 396, 842, 482], "type": "text", "comment": ""},
+	{"text": "十三", "bbox": [812, 670, 840, 699], "type": "text", "comment": ""},
+	{"text": "陳家", "bbox": [811, 814, 836, 843], "type": "text", "comment": ""},
+	{"text": "文", "bbox": [720, 265, 790, 515], "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [622, 670, 688, 751], "type": "text", "comment": ""},
+	{"text": "中", "bbox": [553, 557, 592, 612], "type": "text", "comment": ""},
+	{"text": "中", "bbox": [553, 670, 592, 725], "type": "text", "comment": ""},
+	{"text": "中", "bbox": [553, 748, 592, 804], "type": "text", "comment": ""},
+	{"text": "下通事品官", "bbox": [545, 344, 594, 440], "type": "text", "comment": ""},
+	{"text": "若句父口一", "bbox": [508, 344, 550, 451], "type": "text", "comment": ""},
+	{"text": "文", "bbox": [507, 578, 549, 633], "type": "text", "comment": ""},
+	{"text": "籍文", "bbox": [508, 705, 549, 760], "type": "text", "comment": ""},
+	{"text": "十", "bbox": [414, 266, 480, 334], "type": "text", "comment": ""},
+	{"text": "下作最和盛与一从愿和父一也", "bbox": [414, 344, 488, 836], "type": "text", "comment": ""},
+	{"text": "一斗作通书工作十作最和盛里作", "bbox": [313, 344, 389, 836], "type": "text", "comment": ""},
+	{"text": "文", "bbox": [214, 344, 286, 492], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [214, 602, 279, 680], "type": "text", "comment": ""},
+	{"text": "十", "bbox": [106, 266, 171, 334], "type": "text", "comment": ""},
+	{"text": "大为父千些", "bbox": [100, 344, 148, 471], "type": "text", "comment": ""},
+	{"text": "能为多于", "bbox": [98, 557, 146, 659], "type": "text", "comment": ""}
+]
+```
