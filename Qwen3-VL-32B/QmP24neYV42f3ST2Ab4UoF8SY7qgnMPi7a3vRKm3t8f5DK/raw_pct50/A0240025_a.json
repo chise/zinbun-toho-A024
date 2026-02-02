@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小三百零七", "bbox": [807, 269, 835, 342], "type": "text", "comment": ""},
+	{"text": "說文一上", "bbox": [807, 402, 841, 486], "type": "text", "comment": ""},
+	{"text": "六", "bbox": [813, 676, 839, 701], "type": "text", "comment": ""},
+	{"text": "柬元", "bbox": [809, 805, 837, 836], "type": "text", "comment": ""},
+	{"text": "之方也象三玉之連丨其貫也凡玉", "bbox": [716, 349, 798, 841], "type": "text", "comment": ""},
+	{"text": "之屬皆从玉陽氺曰三畫正均", "bbox": [623, 349, 700, 732], "type": "text", "comment": ""},
+	{"text": "如貫玉也魚欲切", "bbox": [611, 551, 657, 731], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [564, 351, 599, 401], "type": "text", "comment": ""},
+	{"text": "玉也从玉奐", "bbox": [562, 487, 602, 609], "type": "text", "comment": ""},
+	{"text": "玉也从玉翟", "bbox": [562, 705, 602, 842], "type": "text", "comment": ""},
+	{"text": "聲春秋傳曰", "bbox": [517, 705, 557, 842], "type": "text", "comment": ""},
+	{"text": "聲洛簫切", "bbox": [515, 487, 555, 591], "type": "text", "comment": ""},
+	{"text": "玉也从玉敬", "bbox": [461, 448, 500, 568], "type": "text", "comment": ""},
+	{"text": "聲居領切", "bbox": [409, 448, 450, 554], "type": "text", "comment": ""},
+	{"text": "玉也从玉典", "bbox": [460, 667, 499, 790], "type": "text", "comment": ""},
+	{"text": "聲多殄切", "bbox": [409, 667, 449, 770], "type": "text", "comment": ""},
+	{"text": "玉也从玉戞聲", "bbox": [358, 610, 397, 764], "type": "text", "comment": ""},
+	{"text": "讀若鬲郎擊切", "bbox": [307, 609, 348, 764], "type": "text", "comment": ""},
+	{"text": "玉也从玉夒聲", "bbox": [357, 361, 397, 482], "type": "text", "comment": ""},
+	{"text": "讀若柔耳由切", "bbox": [307, 361, 347, 518], "type": "text", "comment": ""},
+	{"text": "璵璠魯之寶玉从玉番聲孔子曰美哉璵璠遠而望之", "bbox": [254, 274, 295, 819], "type": "text", "comment": ""},
+	{"text": "奐若也近而視之瑟若也一則理勝二則孚勝附袁切", "bbox": [204, 273, 245, 820], "type": "text", "comment": ""},
+	{"text": "璵璠也从玉", "bbox": [152, 352, 192, 448], "type": "text", "comment": ""},
+	{"text": "與聲以諸切", "bbox": [102, 352, 143, 484], "type": "text", "comment": ""},
+	{"text": "瑾瑜美玉也从", "bbox": [152, 559, 192, 717], "type": "text", "comment": ""},
+	{"text": "玉堇聲居隱切", "bbox": [102, 567, 143, 714], "type": "text", "comment": ""},
+	{"text": "瑾瑜", "bbox": [152, 789, 192, 844], "type": "text", "comment": ""},
+	{"text": "美玉", "bbox": [102, 791, 143, 830], "type": "text", "comment": ""}
+]
+```
