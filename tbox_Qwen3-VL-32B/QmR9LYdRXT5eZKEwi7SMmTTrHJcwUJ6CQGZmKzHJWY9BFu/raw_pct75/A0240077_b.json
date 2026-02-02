@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "牙", "bbox": [714, 278, 788, 358], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "足", "bbox": [317, 278, 385, 358], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
