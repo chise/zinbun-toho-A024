@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "是", "bbox": [710, 262, 792, 340], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "直也从日正凡是之屬皆从是", "bbox": [710, 355, 792, 835], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "是", "bbox": [504, 262, 590, 340], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "古文正", "bbox": [504, 345, 590, 415], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "是", "bbox": [504, 455, 590, 533], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "曰犯五不韙于鬼切", "bbox": [504, 538, 590, 755], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "是", "bbox": [400, 262, 494, 340], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "从心", "bbox": [400, 345, 494, 415], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "是", "bbox": [400, 435, 494, 513], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "少賈侍中說酥典切", "bbox": [400, 518, 494, 735], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "是", "bbox": [205, 262, 288, 340], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "乍行乍止也从彳从止凡是之屬", "bbox": [205, 345, 288, 845], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "是", "bbox": [108, 262, 190, 340], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "皆从是讀若春秋公羊傳曰是階而", "bbox": [108, 345, 190, 845], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
