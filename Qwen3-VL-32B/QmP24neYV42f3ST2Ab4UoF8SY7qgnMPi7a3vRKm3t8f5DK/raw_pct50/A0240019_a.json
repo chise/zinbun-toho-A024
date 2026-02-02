@@ -1,0 +1,7 @@
+```json
+[
+	{"text": "小六十九", "bbox": [806, 269, 834, 317], "type": "text", "comment": ""},
+	{"text": "嚴華", "bbox": [811, 810, 835, 841], "type": "text", "comment": ""},
+	{"text": "丁山", "bbox": [814, 669, 844, 698], "type": "text", "comment": ""}
+]
+```
