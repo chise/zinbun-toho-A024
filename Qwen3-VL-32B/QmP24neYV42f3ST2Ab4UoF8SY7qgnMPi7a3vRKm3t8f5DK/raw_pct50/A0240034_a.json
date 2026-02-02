@@ -1,0 +1,364 @@
+```json
+[
+	{
+		"text": "小三百四十五",
+		"bbox": [807, 263, 829, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文二千",
+		"bbox": [814, 400, 837, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二",
+		"bbox": [837, 672, 859, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "孫佩",
+		"bbox": [814, 808, 835, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [718, 268, 796, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禾粟下生莠从艸秀",
+		"bbox": [756, 347, 806, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [719, 557, 798, 651],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "枲實也从艸",
+		"bbox": [756, 655, 806, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肥聲房未切",
+		"bbox": [719, 655, 755, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [653, 268, 700, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "施或从",
+		"bbox": [653, 347, 700, 424],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [620, 428, 691, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "麻母也从艸子聲一",
+		"bbox": [653, 507, 700, 682],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [620, 685, 691, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "芋也",
+		"bbox": [653, 787, 700, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰芋即枲也疾吏切",
+		"bbox": [616, 507, 651, 682],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "麻賁",
+		"bbox": [616, 347, 651, 424],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [551, 268, 602, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "異聲羊",
+		"bbox": [551, 347, 602, 424],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [518, 428, 593, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "桂荏也从艸",
+		"bbox": [551, 507, 602, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [518, 587, 593, 651],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "桂荏蘇从艸",
+		"bbox": [551, 655, 602, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "任聲如甚切",
+		"bbox": [518, 655, 551, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "酥聲素孤切",
+		"bbox": [518, 428, 551, 566],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "吏切",
+		"bbox": [518, 268, 551, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [455, 268, 511, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "菜也从艸矢",
+		"bbox": [455, 347, 500, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [423, 487, 493, 562],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "菜之美者雲夢之葦",
+		"bbox": [455, 566, 500, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从艸豈聲驅喜切",
+		"bbox": [423, 566, 455, 758],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲失匕切",
+		"bbox": [423, 347, 455, 464],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [351, 268, 410, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "菜也从艸",
+		"bbox": [351, 347, 388, 442],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [351, 447, 410, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禦溼之菜也从",
+		"bbox": [351, 507, 388, 682],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [320, 685, 388, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辛",
+		"bbox": [351, 787, 388, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲彊惟切",
+		"bbox": [320, 347, 351, 464],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [256, 268, 315, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "薔虞也从艸",
+		"bbox": [256, 347, 300, 442],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [224, 447, 297, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "菜也从艸祖",
+		"bbox": [256, 507, 300, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [224, 625, 297, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "菜也似蘇者",
+		"bbox": [256, 703, 300, 820],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从艸虜聲彊",
+		"bbox": [224, 823, 256, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蓼聲盧鳥切",
+		"bbox": [224, 268, 256, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [161, 268, 217, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "魚",
+		"bbox": [161, 347, 194, 377],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "菜也似藿从艸",
+		"bbox": [161, 379, 204, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [129, 557, 194, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [161, 627, 194, 675],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [129, 679, 194, 758],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "菜也从",
+		"bbox": [161, 760, 204, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "微聲無非切",
+		"bbox": [109, 383, 141, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [109, 517, 141, 562],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "薇省",
+		"bbox": [109, 627, 141, 675],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸",
+		"bbox": [109, 679, 141, 727],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唯聲",
+		"bbox": [109, 775, 141, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [109, 268, 141, 297],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
