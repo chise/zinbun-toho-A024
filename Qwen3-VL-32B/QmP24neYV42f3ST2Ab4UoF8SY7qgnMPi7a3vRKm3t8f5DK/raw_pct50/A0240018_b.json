@@ -1,0 +1,220 @@
+```json
+[
+	{
+		"text": "說文解字標目",
+		"bbox": [307, 276, 380, 500],
+		"type": "title",
+		"comment": "主标题，竖排，位于页面左侧"
+	},
+	{
+		"text": "癸巳四月初六日郭恕先汗簡目錄校一過方知徐騎省之是夢英石刻之謬也",
+		"bbox": [243, 313, 292, 842],
+		"type": "note",
+		"comment": "左侧竖排小字注释，记录校勘时间与观点"
+	},
+	{
+		"text": "但恕先亦有倒置處必以騎省本為準也汲古後人毛扆昔年七十有四",
+		"bbox": [204, 317, 241, 762],
+		"type": "note",
+		"comment": "继续左侧注释内容"
+	},
+	{
+		"text": "了盧",
+		"bbox": [859, 365, 892, 413],
+		"type": "character",
+		"comment": "篆书字符上方注音或释义"
+	},
+	{
+		"text": "鳥切",
+		"bbox": [807, 365, 842, 413],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "尋旨",
+		"bbox": [859, 508, 892, 558],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "兗切",
+		"bbox": [807, 508, 842, 558],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "去他",
+		"bbox": [859, 653, 892, 702],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "骨切",
+		"bbox": [807, 653, 842, 702],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "丑敕",
+		"bbox": [859, 797, 892, 846],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "久切",
+		"bbox": [807, 797, 842, 846],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "寅弋",
+		"bbox": [756, 365, 789, 413],
+		"type": "character",
+		"comment": "篆书字符上方注音或释义"
+	},
+	{
+		"text": "真切",
+		"bbox": [704, 365, 739, 413],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "邪莫",
+		"bbox": [756, 508, 789, 558],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "飽切",
+		"bbox": [704, 508, 739, 558],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "辰植",
+		"bbox": [756, 653, 789, 702],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "鄰切",
+		"bbox": [704, 653, 739, 702],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "已詳",
+		"bbox": [756, 797, 789, 846],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "里切",
+		"bbox": [704, 797, 739, 846],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "午疑",
+		"bbox": [652, 365, 686, 413],
+		"type": "character",
+		"comment": "篆书字符上方注音或释义"
+	},
+	{
+		"text": "古切",
+		"bbox": [600, 365, 635, 413],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "未無",
+		"bbox": [652, 508, 686, 558],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "沸切",
+		"bbox": [600, 508, 635, 558],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "申失",
+		"bbox": [652, 653, 686, 702],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "人切",
+		"bbox": [600, 653, 635, 702],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "酉與",
+		"bbox": [652, 797, 686, 846],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "久切",
+		"bbox": [600, 797, 635, 846],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "酋字",
+		"bbox": [548, 365, 581, 413],
+		"type": "character",
+		"comment": "篆书字符上方注音或释义"
+	},
+	{
+		"text": "秋切",
+		"bbox": [496, 365, 530, 413],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "戌辛",
+		"bbox": [548, 508, 581, 558],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "聿切",
+		"bbox": [496, 508, 530, 558],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "亥胡",
+		"bbox": [548, 653, 581, 702],
+		"type": "character",
+		"comment": "篆书字符下方注音或释义"
+	},
+	{
+		"text": "改切",
+		"bbox": [496, 653, 530, 702],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "大十五",
+		"bbox": [168, 275, 186, 312],
+		"type": "page_number",
+		"comment": "页码，位于左侧边栏"
+	},
+	{
+		"text": "十二",
+		"bbox": [168, 668, 186, 705],
+		"type": "page_number",
+		"comment": "页码，位于左侧边栏"
+	},
+	{
+		"text": "蘇振",
+		"bbox": [168, 813, 186, 846],
+		"type": "publisher_or_editor",
+		"comment": "出版者或编辑名，位于左下角"
+	}
+]
+```
