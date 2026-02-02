@@ -1,0 +1,136 @@
+```json
+[
+	{
+		"text": "小百八十六",
+		"bbox": [805, 270, 829, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [754, 355, 798, 380],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文一十",
+		"bbox": [812, 405, 842, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楊永",
+		"bbox": [812, 804, 839, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "氣",
+		"bbox": [614, 271, 702, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祥气也从气",
+		"bbox": [657, 361, 702, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "分聲符分切",
+		"bbox": [611, 361, 658, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "氛",
+		"bbox": [616, 490, 701, 577],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "氛或",
+		"bbox": [662, 581, 706, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从雨",
+		"bbox": [614, 581, 657, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [618, 728, 694, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [518, 434, 594, 513],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [521, 619, 595, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "士事也數始於一終於十从一从十",
+		"bbox": [406, 278, 499, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "孔子曰推十合一為士凡士之屬",
+		"bbox": [315, 352, 395, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皆从士",
+		"bbox": [220, 352, 294, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鉏里",
+		"bbox": [257, 473, 301, 526],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [215, 473, 251, 496],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夫也从士胥聲詩曰女也不爽士貳",
+		"bbox": [160, 355, 205, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "其行士者夫也讀與細同穌計切",
+		"bbox": [108, 355, 156, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "婿或",
+		"bbox": [162, 801, 207, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从女",
+		"bbox": [106, 795, 152, 828],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
