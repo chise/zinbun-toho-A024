@@ -1,0 +1,7 @@
+```json
+[
+	{"text": "彳", "bbox": [414, 265, 484, 350], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "之屬皆从彳", "bbox": [314, 348, 388, 550], "type": "large-character", "comment": "大字，占两行宽度"},
+	{"text": "文十三", "bbox": [515, 652, 590, 770], "type": "large-character", "comment": "大字，占两行宽度"}
+]
+```
