@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "說文解字弟三上", "bbox": [114, 267, 194, 548], "size": "24", "type": "title", "comment": "书名及卷次"},
+	{"text": "文三 重一", "bbox": [317, 448, 389, 672], "size": "24", "type": "section", "comment": "章节标识"},
+	{"text": "小孔十二", "bbox": [804, 268, 826, 322], "size": "10", "type": "page_number", "comment": "页码或小节编号"},
+	{"text": "齊謂之炊爨曰象持甑冂爲竈口", "bbox": [718, 265, 797, 835], "size": "24", "type": "definition", "comment": "对“爨”字的解释"},
+	{"text": "丌推林内火凡爨之屬皆从爨 七亂切", "bbox": [618, 339, 696, 835], "size": "24", "type": "definition", "comment": "说明“爨”字的构形及所属部首"},
+	{"text": "籀文", "bbox": [554, 337, 600, 390], "size": "18", "type": "annotation", "comment": "标注为籀文"},
+	{"text": "所以枝鬲者从爨", "bbox": [554, 472, 600, 660], "size": "18", "type": "annotation", "comment": "解释字形结构"},
+	{"text": "省鬲省渠容切", "bbox": [510, 472, 554, 630], "size": "18", "type": "annotation", "comment": "说明省略部分及读音"},
+	{"text": "血祭也", "bbox": [554, 765, 600, 835], "size": "18", "type": "annotation", "comment": "解释字义"},
+	{"text": "象祭竈", "bbox": [508, 765, 554, 835], "size": "18", "type": "annotation", "comment": "说明字形象意"},
+	{"text": "也从爨省从酉酉所以祭也从分", "bbox": [458, 268, 500, 610], "size": "18", "type": "definition", "comment": "解释字形构成"},
+	{"text": "分亦聲臣鉉等曰分布也虛振切", "bbox": [408, 268, 454, 610], "size": "18", "type": "definition", "comment": "说明读音及字义"}
+]
+```
