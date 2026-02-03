@@ -1,0 +1,304 @@
+```json
+[
+	{
+		"text": "詢或",
+		"bbox": [843, 279, 896, 330],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從包",
+		"bbox": [806, 279, 859, 330],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "合",
+		"bbox": [760, 279, 812, 330],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [715, 279, 767, 330],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言壯兒一曰數相怒也从",
+		"bbox": [668, 279, 720, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言雋聲讀若畫呼麥切",
+		"bbox": [620, 279, 672, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玄虎",
+		"bbox": [573, 279, 625, 330],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "橫切",
+		"bbox": [526, 279, 578, 330],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "部田",
+		"bbox": [480, 279, 531, 330],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [432, 279, 484, 330],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [385, 279, 437, 330],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "加也从言曾",
+		"bbox": [292, 279, 344, 415],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲作滕切",
+		"bbox": [244, 279, 296, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十二",
+		"bbox": [177, 273, 200, 321],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訝",
+		"bbox": [843, 330, 896, 415],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樂浪有詁邯縣汝閤切",
+		"bbox": [806, 330, 859, 636],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謎諧也从言",
+		"bbox": [760, 330, 812, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "杳聲徒合切",
+		"bbox": [715, 330, 767, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訝",
+		"bbox": [668, 330, 720, 415],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諍語訝訝也从",
+		"bbox": [620, 330, 672, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言开聲呼堅切",
+		"bbox": [573, 330, 625, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駿言聲从言勻省聲漢",
+		"bbox": [526, 330, 578, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "中西域有訇鄉又讀若",
+		"bbox": [480, 330, 531, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [526, 415, 578, 456],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "便巧言也从言扁聲周書曰",
+		"bbox": [526, 551, 578, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "截戳善論言論語曰友論佞",
+		"bbox": [480, 551, 531, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "匹也从言頻",
+		"bbox": [432, 415, 484, 536],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲符真切",
+		"bbox": [385, 415, 437, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言相說司也从",
+		"bbox": [338, 386, 390, 536],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言兒聲女家切",
+		"bbox": [292, 386, 344, 536],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "怭也从言失",
+		"bbox": [244, 495, 296, 615],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒結切",
+		"bbox": [198, 495, 250, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌之二上",
+		"bbox": [163, 408, 192, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "下",
+		"bbox": [162, 682, 192, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "仲奇",
+		"bbox": [173, 807, 195, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "語相反課也",
+		"bbox": [843, 707, 896, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言還聲他",
+		"bbox": [806, 707, 859, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言",
+		"bbox": [760, 707, 812, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言",
+		"bbox": [715, 707, 767, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言",
+		"bbox": [668, 707, 720, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言",
+		"bbox": [620, 707, 672, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言",
+		"bbox": [573, 707, 625, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言",
+		"bbox": [526, 707, 578, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言",
+		"bbox": [480, 707, 531, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "扣也如求婦先訃叕之",
+		"bbox": [432, 615, 484, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言从口口亦聲苦后",
+		"bbox": [385, 615, 437, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相呼誘也从言",
+		"bbox": [338, 615, 390, 768],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兆聲徒了切",
+		"bbox": [292, 615, 344, 737],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "忌也从言其",
+		"bbox": [244, 707, 296, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲周書曰上",
+		"bbox": [198, 707, 250, 846],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
