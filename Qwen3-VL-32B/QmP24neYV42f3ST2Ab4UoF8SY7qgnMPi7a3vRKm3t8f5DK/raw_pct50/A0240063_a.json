@@ -1,0 +1,256 @@
+```json
+[
+	{
+		"text": "小三百零六",
+		"bbox": [805, 273, 826, 335],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文二十三",
+		"bbox": [809, 401, 833, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十三",
+		"bbox": [818, 670, 839, 701],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "孫佩",
+		"bbox": [809, 806, 831, 830],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走也从走芻",
+		"bbox": [755, 335, 795, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲七逾切",
+		"bbox": [714, 349, 750, 454],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "趨也从走什省聲臣鉉等",
+		"bbox": [755, 585, 804, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰春秋傳赴告用此字今",
+		"bbox": [714, 585, 755, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俗作訃非",
+		"bbox": [655, 275, 694, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "是芳遇切",
+		"bbox": [605, 275, 645, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾也从走取",
+		"bbox": [655, 470, 695, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲七句切",
+		"bbox": [605, 470, 645, 572],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "跳也从走召",
+		"bbox": [655, 675, 695, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲敕宵切",
+		"bbox": [605, 675, 645, 785],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "善縁木走之才从走喬",
+		"bbox": [555, 275, 595, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若王子蹻去鄖切",
+		"bbox": [505, 349, 545, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "輕勁有才力也",
+		"bbox": [555, 675, 595, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走丩聲讀若",
+		"bbox": [505, 675, 545, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鐫居",
+		"bbox": [455, 275, 495, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "緣大木也一曰行皃",
+		"bbox": [455, 395, 495, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾也从走梟",
+		"bbox": [455, 705, 495, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲臣鉉等曰",
+		"bbox": [405, 695, 445, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "勲切",
+		"bbox": [405, 275, 445, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走支聲巨之切",
+		"bbox": [405, 395, 445, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "今俗別作躁",
+		"bbox": [355, 275, 395, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "踊也从走翟",
+		"bbox": [355, 470, 395, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蹠也从走厥",
+		"bbox": [355, 705, 395, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲居月切",
+		"bbox": [305, 705, 345, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "非是則到切",
+		"bbox": [305, 275, 345, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲以灼切",
+		"bbox": [305, 495, 345, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "度也从走戌",
+		"bbox": [255, 349, 295, 454],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲王伐切",
+		"bbox": [205, 349, 245, 454],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "趠也从走今聲",
+		"bbox": [255, 594, 295, 730],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若塵丑刃切",
+		"bbox": [205, 575, 245, 730],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "趁",
+		"bbox": [255, 740, 295, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [205, 815, 245, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走亶聲",
+		"bbox": [155, 275, 195, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "躂趙也一曰行皃",
+		"bbox": [155, 454, 195, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行輕皃一曰",
+		"bbox": [155, 720, 195, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "躂舉足也从",
+		"bbox": [105, 720, 145, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張連切",
+		"bbox": [105, 275, 145, 355],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走昔聲七崔切",
+		"bbox": [105, 454, 145, 645],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
