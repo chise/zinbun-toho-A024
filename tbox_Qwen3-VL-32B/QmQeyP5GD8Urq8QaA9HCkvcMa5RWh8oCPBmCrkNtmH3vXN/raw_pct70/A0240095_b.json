@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "文二百四十七 重三十三", "bbox": [314, 368, 388, 788], "size": "large", "type": "title", "comment": "页面中央大字标题，标明字数与重数"},
+	{"text": "訷 謀也 从言旬 聲相倫切", "bbox": [204, 262, 298, 454], "size": "medium", "type": "entry", "comment": "第一个字条目，包含字形、释义、构形及反切注音"},
+	{"text": "讜 直言也 从言 聲多朗切", "bbox": [204, 474, 298, 684], "size": "medium", "type": "entry", "comment": "第二个字条目，结构同上"},
+	{"text": "讖 籍録也 从言晉", "bbox": [204, 694, 298, 844], "size": "medium", "type": "entry", "comment": "第三个字条目，结构同上"},
+	{"text": "訸 諡也 从言耒 聲力軌切", "bbox": [814, 268, 904, 534], "size": "medium", "type": "entry", "comment": "右侧第一列第一个字条目"},
+	{"text": "譁 耻也 从言奚 聲胡禮切", "bbox": [814, 554, 904, 844], "size": "medium", "type": "entry", "comment": "右侧第一列第二个字条目"},
+	{"text": "謑 或 誘話恥也 从言 从夨 聲呼寇切", "bbox": [720, 268, 808, 534], "size": "medium", "type": "entry", "comment": "右侧第二列第一个字条目"},
+	{"text": "詾 話或 軍中反 从句 聲間也 从", "bbox": [720, 554, 808, 844], "size": "medium", "type": "entry", "comment": "右侧第二列第二个字条目"},
+	{"text": "訝 軍中約也 从言亥 聲讀 徒叶切", "bbox": [624, 268, 712, 644], "size": "medium", "type": "entry", "comment": "右侧第三列第一个字条目"},
+	{"text": "譯 傳譯四夷 之言者 从", "bbox": [624, 664, 712, 844], "size": "medium", "type": "entry", "comment": "右侧第三列第二个字条目"},
+	{"text": "詬 迫也 从言九 聲 羊昔切", "bbox": [528, 268, 616, 424], "size": "medium", "type": "entry", "comment": "右侧第四列第一个字条目"},
+	{"text": "讀若求巨鳩切", "bbox": [528, 424, 616, 574], "size": "medium", "type": "entry", "comment": "右侧第四列第一个字条目续"},
+	{"text": "詬 笑皃 从言益 聲伊 昔切又呼狄切", "bbox": [528, 594, 616, 824], "size": "medium", "type": "entry", "comment": "右侧第四列第二个字条目"},
+	{"text": "誨 疾言也 从三言 讀若沓徒合切", "bbox": [414, 268, 504, 504], "size": "medium", "type": "entry", "comment": "右侧第五列第一个字条目"},
+	{"text": "大三十九", "bbox": [178, 264, 200, 310], "size": "small", "type": "page_number", "comment": "左侧页码"},
+	{"text": "兑文三上", "bbox": [164, 400, 192, 478], "size": "small", "type": "section_marker", "comment": "左侧章节标记"},
+	{"text": "一三一", "bbox": [164, 664, 192, 704], "size": "small", "type": "page_number", "comment": "左侧页码"},
+	{"text": "表和", "bbox": [172, 794, 198, 834], "size": "small", "type": "publisher_or_editor", "comment": "左下角出版或校勘者标记"}
+]
+```
