@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "大九", "bbox": [164, 258, 190, 293], "type": "text", "comment": ""},
+	{"text": "完尺二上", "bbox": [157, 396, 187, 479], "type": "text", "comment": ""},
+	{"text": "十二", "bbox": [158, 657, 185, 695], "type": "text", "comment": ""},
+	{"text": "焦克", "bbox": [167, 804, 195, 842], "type": "text", "comment": ""},
+	{"text": "此讀若撥北末", "bbox": [813, 342, 895, 558], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [810, 507, 842, 532], "type": "text", "comment": ""},
+	{"text": "上車也从此豆象", "bbox": [760, 343, 799, 532], "type": "text", "comment": ""},
+	{"text": "登車形都滕切", "bbox": [717, 343, 752, 504], "type": "text", "comment": ""},
+	{"text": "帥从此从殳春秋傳曰", "bbox": [666, 257, 699, 504], "type": "text", "comment": ""},
+	{"text": "夌夷蘊宗之普活切", "bbox": [607, 257, 648, 484], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [622, 574, 686, 658], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [622, 731, 686, 804], "type": "text", "comment": ""},
+	{"text": "以足", "bbox": [770, 792, 798, 841], "type": "text", "comment": ""},
+	{"text": "蹋夷", "bbox": [717, 789, 751, 840], "type": "text", "comment": ""},
+	{"text": "籀文登", "bbox": [762, 618, 793, 688], "type": "text", "comment": ""},
+	{"text": "从収", "bbox": [717, 614, 754, 658], "type": "text", "comment": ""},
+	{"text": "行也从止少相背凡步之屬皆从步", "bbox": [514, 257, 589, 849], "type": "text", "comment": ""},
+	{"text": "薄故", "bbox": [458, 342, 494, 398], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [406, 343, 440, 368], "type": "text", "comment": ""},
+	{"text": "木星也越歷二十八宿宣徧陰陽十二月一", "bbox": [355, 343, 391, 750], "type": "text", "comment": ""},
+	{"text": "次从步戌聲律歷書名五星爲五步相銳切", "bbox": [300, 343, 338, 783], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [210, 410, 278, 493], "type": "text", "comment": ""}
+]
+```
