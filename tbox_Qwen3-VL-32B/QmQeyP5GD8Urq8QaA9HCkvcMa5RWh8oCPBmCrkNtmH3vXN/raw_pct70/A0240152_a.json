@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "小三百九十一", "bbox": [812, 269, 832, 325], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "說文四一", "bbox": [812, 407, 839, 480], "size": "small", "type": "text", "comment": "书名或卷号"},
+	{"text": "魏山", "bbox": [802, 814, 824, 847], "size": "small", "type": "text", "comment": "作者或校注者"},
+	{"text": "膚 肉膚也 从肉亶聲 詩曰膚裼暴虎 徒旱切", "bbox": [714, 270, 804, 548], "size": "medium", "type": "text", "comment": "字头‘膚’的释义与音切"},
+	{"text": "謂之膿 从肉襄聲 如兩切", "bbox": [704, 552, 800, 847], "size": "medium", "type": "text", "comment": "字头‘膿’的释义与音切"},
+	{"text": "膔 膿也 从肉皆聲 古諧切", "bbox": [608, 293, 700, 484], "size": "medium", "type": "text", "comment": "字头‘膔’的释义与音切"},
+	{"text": "膡 少肉也 从肉瞿聲 其俱切", "bbox": [604, 518, 698, 725], "size": "medium", "type": "text", "comment": "字头‘膡’的释义与音切"},
+	{"text": "脫 消肉 膿也 从肉兌聲 徒活切", "bbox": [508, 270, 602, 375], "size": "medium", "type": "text", "comment": "字头‘脫’的释义与音切"},
+	{"text": "膆 齊人謂膿朊也 从肉求聲 讀若休止 巨鳩切", "bbox": [504, 407, 600, 702], "size": "medium", "type": "text", "comment": "字头‘膆’的释义与音切"},
+	{"text": "膫 瘦也 从肉臡聲 資昔切", "bbox": [408, 270, 500, 702], "size": "medium", "type": "text", "comment": "字头‘膫’的释义与音切"},
+	{"text": "膚 从肉織聲 一曰切肉臡也 詩曰棘人臡臡 兮力沉切", "bbox": [404, 270, 498, 518], "size": "medium", "type": "text", "comment": "字头‘膚’的释义与音切"},
+	{"text": "膚 脣瘍也 从肉文古也", "bbox": [400, 730, 496, 847], "size": "medium", "type": "text", "comment": "字头‘膚’的释义与音切"},
+	{"text": "膚 験也 从肉丞聲 讀若丞署 陵切", "bbox": [304, 270, 398, 625], "size": "medium", "type": "text", "comment": "字头‘膚’的释义与音切"},
+	{"text": "膚 今聲之忍切", "bbox": [300, 630, 396, 847], "size": "medium", "type": "text", "comment": "字头‘膚’的音切"},
+	{"text": "膚 腫也 从肉氐聲 竹尼切", "bbox": [204, 630, 298, 810], "size": "medium", "type": "text", "comment": "字头‘膚’的释义与音切"},
+	{"text": "膚 癥胝也 从肉坐聲 竹坐切", "bbox": [200, 420, 296, 625], "size": "medium", "type": "text", "comment": "字头‘膚’的释义与音切"},
+	{"text": "膚 籀文胗", "bbox": [200, 268, 296, 418], "size": "medium", "type": "text", "comment": "字头‘膚’的籀文形式"},
+	{"text": "膚 从广", "bbox": [200, 345, 296, 400], "size": "medium", "type": "text", "comment": "字头‘膚’的构形说明"},
+	{"text": "膚 贅也 从肉尤聲 羽求切", "bbox": [104, 268, 200, 455], "size": "medium", "type": "text", "comment": "字头‘膚’的释义与音切"},
+	{"text": "膚 籀文朊", "bbox": [104, 485, 200, 640], "size": "medium", "type": "text", "comment": "字头‘膚’的籀文形式"},
+	{"text": "膚 搔生創也 从肉丸聲 胡岸切", "bbox": [100, 645, 196, 847], "size": "medium", "type": "text", "comment": "字头‘膚’的释义与音切"},
+	{"text": "膚 从黑", "bbox": [100, 565, 196, 625], "size": "medium", "type": "text", "comment": "字头‘膚’的构形说明"},
+	{"text": "膚 束束亦聲", "bbox": [304, 268, 398, 375], "size": "medium", "type": "text", "comment": "字头‘膚’的构形说明"}
+]
+```
