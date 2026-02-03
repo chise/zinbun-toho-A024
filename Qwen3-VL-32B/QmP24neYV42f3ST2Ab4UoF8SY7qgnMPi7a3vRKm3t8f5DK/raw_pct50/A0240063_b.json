@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "走堯聲",
+		"bbox": [834, 276, 897, 348],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牽遙切",
+		"bbox": [805, 276, 867, 348],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "急走也从走",
+		"bbox": [853, 432, 904, 543],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弦聲胡田切",
+		"bbox": [804, 432, 855, 566],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蒼卒也从走束聲",
+		"bbox": [853, 650, 904, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若資取私切",
+		"bbox": [804, 650, 855, 812],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "輕行也从走",
+		"bbox": [745, 349, 795, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "票聲撫招切",
+		"bbox": [698, 349, 748, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行皃从走臤聲",
+		"bbox": [745, 568, 795, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若鼓棄忍切",
+		"bbox": [698, 568, 748, 725],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行",
+		"bbox": [745, 795, 795, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皃",
+		"bbox": [698, 795, 748, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走酋聲",
+		"bbox": [643, 276, 694, 373],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "千牛切",
+		"bbox": [600, 276, 650, 348],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行皃从走蜀聲",
+		"bbox": [643, 461, 694, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若燭之欲切",
+		"bbox": [598, 461, 649, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行皃从走匠聲",
+		"bbox": [643, 682, 694, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若匠疾亮切",
+		"bbox": [598, 682, 649, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走皃从走敓聲讀若紖臣鉉等",
+		"bbox": [545, 349, 595, 663],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以爲敓聲遠疑从容詳遵切",
+		"bbox": [498, 349, 548, 649],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走意从走",
+		"bbox": [545, 759, 595, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走薊聲",
+		"bbox": [498, 759, 548, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若壂結之",
+		"bbox": [449, 276, 499, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "結古屑切",
+		"bbox": [398, 276, 448, 373],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走意从走困",
+		"bbox": [449, 484, 499, 590],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲亖念切",
+		"bbox": [398, 484, 448, 589],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走意从走坐",
+		"bbox": [449, 701, 499, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲蘇和切",
+		"bbox": [398, 701, 448, 807],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走意从走憲",
+		"bbox": [345, 349, 395, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲許建切",
+		"bbox": [297, 349, 347, 448],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走意从走鼻",
+		"bbox": [345, 568, 395, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲布賢切",
+		"bbox": [297, 568, 347, 663],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走也",
+		"bbox": [345, 795, 395, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走",
+		"bbox": [297, 795, 347, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戴聲讀若詩威",
+		"bbox": [247, 276, 297, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "儀秩秩直質切",
+		"bbox": [198, 276, 248, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走也从走有聲",
+		"bbox": [247, 515, 297, 663],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若又于救切",
+		"bbox": [198, 515, 248, 679],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走輕也",
+		"bbox": [247, 759, 297, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走鳥",
+		"bbox": [198, 759, 248, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十二",
+		"bbox": [162, 269, 186, 312],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "完文二十二",
+		"bbox": [158, 403, 185, 459],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "上四",
+		"bbox": [158, 662, 185, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳廣",
+		"bbox": [162, 809, 186, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
