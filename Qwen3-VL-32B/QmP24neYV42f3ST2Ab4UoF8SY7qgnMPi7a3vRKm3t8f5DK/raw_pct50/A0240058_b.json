@@ -1,0 +1,250 @@
+```json
+[
+	{
+		"text": "咸皆也悉也从口从",
+		"bbox": [806, 253, 901, 534],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戌戌悉也胡監切",
+		"bbox": [799, 334, 857, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "平也从口王",
+		"bbox": [849, 621, 903, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲直貞切",
+		"bbox": [802, 623, 853, 732],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "助也从口从又徐錯曰言不",
+		"bbox": [749, 263, 800, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足以左復手助之于救切",
+		"bbox": [703, 265, 753, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若鞮",
+		"bbox": [657, 259, 700, 336],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "施智切",
+		"bbox": [605, 261, 655, 338],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "善也从士",
+		"bbox": [658, 421, 702, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口居質切",
+		"bbox": [608, 424, 655, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "密也从用",
+		"bbox": [658, 621, 702, 734],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口職留切",
+		"bbox": [608, 623, 655, 734],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "帝聲一曰啻誤也",
+		"bbox": [705, 623, 753, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "語時不啻也从口",
+		"bbox": [750, 623, 800, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文周字",
+		"bbox": [559, 261, 604, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从古文及",
+		"bbox": [510, 263, 556, 366],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大言也从口",
+		"bbox": [560, 456, 603, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "庚聲徒郎切",
+		"bbox": [510, 459, 556, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文唐",
+		"bbox": [560, 675, 603, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从口昜",
+		"bbox": [510, 675, 556, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "誰也从口冐又聲",
+		"bbox": [457, 263, 501, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文疇直由切",
+		"bbox": [409, 265, 454, 456],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "含深也从口",
+		"bbox": [457, 542, 501, 657],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "覃聲徒感切",
+		"bbox": [409, 542, 454, 681],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飯窒也",
+		"bbox": [457, 764, 501, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从口壹",
+		"bbox": [409, 764, 454, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲烏",
+		"bbox": [361, 263, 406, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "結切",
+		"bbox": [311, 265, 356, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "咽也从口昷",
+		"bbox": [361, 392, 406, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲烏沒切",
+		"bbox": [311, 394, 356, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不歐而吐也从",
+		"bbox": [361, 598, 406, 764],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口見聲胡典切",
+		"bbox": [311, 598, 356, 764],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "寫也从口土",
+		"bbox": [262, 263, 306, 372],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲他魯切",
+		"bbox": [213, 265, 258, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "氣悟也从口",
+		"bbox": [262, 470, 306, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "歲聲於月切",
+		"bbox": [213, 470, 258, 605],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "違也从口弗聲",
+		"bbox": [262, 675, 306, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周書曰咈其耇",
+		"bbox": [213, 675, 258, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "史攸",
+		"bbox": [169, 804, 200, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "六三十二",
+		"bbox": [169, 261, 200, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文二上",
+		"bbox": [169, 403, 200, 490],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
