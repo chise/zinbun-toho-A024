@@ -1,0 +1,154 @@
+```json
+[
+	{
+		"text": "往來數也从走耑聲易",
+		"bbox": [849, 263, 897, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰吕事遄往市緣切",
+		"bbox": [803, 263, 852, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [758, 263, 806, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文从",
+		"bbox": [712, 263, 760, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "軟从言",
+		"bbox": [666, 263, 714, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾也从走卂聲",
+		"bbox": [620, 263, 668, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迎也从走弔聲關東曰",
+		"bbox": [574, 263, 622, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "逆關西曰迎宜戟切",
+		"bbox": [528, 263, 576, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會也从走交",
+		"bbox": [482, 263, 530, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "逢也从走禺",
+		"bbox": [436, 263, 484, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲牛具切",
+		"bbox": [390, 263, 438, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遇也从走冓聲一",
+		"bbox": [344, 263, 392, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰選行作曹切",
+		"bbox": [298, 263, 346, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相遇驚也从走从",
+		"bbox": [252, 263, 300, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "睪睪亦聲五各切",
+		"bbox": [206, 263, 254, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "道也从走",
+		"bbox": [160, 263, 208, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "由聲徒歷",
+		"bbox": [114, 263, 162, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "達也从走甬",
+		"bbox": [68, 263, 116, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲他紅切",
+		"bbox": [22, 263, 70, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "逐也",
+		"bbox": [23, 583, 71, 808],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走",
+		"bbox": [22, 808, 70, 998],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "焦克",
+		"bbox": [68, 975, 116, 998],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十六",
+		"bbox": [116, 263, 164, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亢文二下",
+		"bbox": [116, 327, 164, 498],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三一",
+		"bbox": [116, 665, 164, 712],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
