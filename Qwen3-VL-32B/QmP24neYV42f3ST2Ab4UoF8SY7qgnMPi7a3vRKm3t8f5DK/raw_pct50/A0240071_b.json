@@ -1,0 +1,190 @@
+```json
+[
+	{
+		"text": "追也从走从豚省徐锴曰豚",
+		"bbox": [843, 275, 906, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走而豕追之會意直六切",
+		"bbox": [800, 275, 860, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迫也从走酉",
+		"bbox": [758, 275, 817, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲字秋切",
+		"bbox": [716, 275, 774, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迺或",
+		"bbox": [716, 275, 774, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "附也从走斤",
+		"bbox": [716, 275, 774, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲渠遴切",
+		"bbox": [673, 275, 731, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [631, 275, 689, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "擠也从走鼠",
+		"bbox": [588, 275, 646, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲良涉切",
+		"bbox": [546, 275, 604, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "近也从走白",
+		"bbox": [503, 275, 561, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲博陌切",
+		"bbox": [461, 275, 519, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "近也从走爾",
+		"bbox": [418, 275, 476, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲兒氏切",
+		"bbox": [375, 275, 433, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [333, 275, 391, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "微止也从走曷聲讀",
+		"bbox": [290, 275, 348, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若桑蟲之蝎鳥割切",
+		"bbox": [247, 275, 305, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "過也从走庶",
+		"bbox": [204, 275, 262, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲止車切",
+		"bbox": [161, 275, 219, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遡也从走",
+		"bbox": [118, 275, 176, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羨聲于線切",
+		"bbox": [75, 275, 133, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "良辤",
+		"bbox": [32, 275, 90, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "進也从走干聲",
+		"bbox": [32, 275, 90, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若干古寒切",
+		"bbox": [32, 275, 90, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "過也从走侃",
+		"bbox": [32, 275, 90, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲去虔切",
+		"bbox": [32, 275, 90, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遮也从",
+		"bbox": [32, 275, 90, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走別聲",
+		"bbox": [32, 275, 90, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十三",
+		"bbox": [168, 273, 189, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文二",
+		"bbox": [156, 406, 176, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "萬松",
+		"bbox": [165, 810, 185, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
