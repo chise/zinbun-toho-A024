@@ -1,0 +1,202 @@
+```json
+[
+	{
+		"text": "切",
+		"bbox": [856, 263, 894, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訶聲啽喻也从口勹聲司馬相如",
+		"bbox": [856, 372, 898, 715],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說淮南宋蔡舞啽喻也補盲切",
+		"bbox": [808, 372, 851, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "高气",
+		"bbox": [814, 733, 898, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "多言也从口蠆省聲春",
+		"bbox": [760, 263, 799, 502],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋傳曰囁言訶介切",
+		"bbox": [711, 263, 752, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "高气也从口九聲臨",
+		"bbox": [760, 586, 799, 814],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "淮有呿猶縣巨鳩切",
+		"bbox": [711, 586, 752, 814],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "勞聲敕交切",
+		"bbox": [605, 346, 645, 481],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謹聲也从口奴聲詩",
+		"bbox": [657, 586, 698, 814],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰載號載呶女交切",
+		"bbox": [605, 586, 645, 814],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訶也从口七",
+		"bbox": [550, 346, 593, 472],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "託也从口貢聲一",
+		"bbox": [550, 564, 593, 736],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰鼓鼻普魂切",
+		"bbox": [501, 564, 544, 730],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲昌栗切",
+		"bbox": [501, 346, 544, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "噴也叱怒也从",
+		"bbox": [451, 263, 494, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "危也从口裔",
+		"bbox": [451, 512, 494, 611],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲余律切",
+		"bbox": [402, 512, 445, 606],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "驚也从口于",
+		"bbox": [353, 512, 396, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卒聲七內",
+		"bbox": [402, 733, 445, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "驚也从口辰",
+		"bbox": [353, 372, 396, 505],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲側鄰切",
+		"bbox": [304, 372, 347, 481],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲況于切",
+		"bbox": [304, 586, 347, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "懼也",
+		"bbox": [304, 807, 347, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從口堯聲詩曰唯予",
+		"bbox": [254, 263, 297, 462],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "音之嘵嘵許么切",
+		"bbox": [204, 263, 247, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大呼也从口",
+		"bbox": [254, 555, 297, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "責聲士革切",
+		"bbox": [204, 564, 247, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "噴或",
+		"bbox": [254, 775, 297, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言",
+		"bbox": [204, 784, 247, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十二",
+		"bbox": [168, 263, 196, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌文二上",
+		"bbox": [168, 394, 196, 455],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "史攸",
+		"bbox": [168, 807, 196, 847],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
