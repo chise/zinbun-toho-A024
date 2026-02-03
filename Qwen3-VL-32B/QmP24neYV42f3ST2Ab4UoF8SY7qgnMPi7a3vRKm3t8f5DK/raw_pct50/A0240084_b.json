@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "干於舌故从", "bbox": [853, 340, 900, 470], "type": "text", "comment": ""},
+	{"text": "干食剡切", "bbox": [814, 340, 856, 444], "type": "text", "comment": ""},
+	{"text": "歠也从舌沓", "bbox": [758, 340, 801, 470], "type": "text", "comment": ""},
+	{"text": "聲他合切", "bbox": [717, 340, 756, 444], "type": "text", "comment": ""},
+	{"text": "以舌取食也从", "bbox": [764, 554, 802, 706], "type": "text", "comment": ""},
+	{"text": "舌易聲神旨切", "bbox": [717, 554, 757, 706], "type": "text", "comment": ""},
+	{"text": "謁或", "bbox": [765, 710, 801, 760], "type": "text", "comment": ""},
+	{"text": "从也", "bbox": [718, 787, 756, 837], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [622, 405, 687, 490], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [622, 596, 687, 671], "type": "text", "comment": ""},
+	{"text": "犯也从反入从一凡干之屬皆从", "bbox": [510, 340, 597, 850], "type": "text", "comment": ""},
+	{"text": "古寒", "bbox": [456, 396, 497, 450], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [411, 349, 453, 412], "type": "text", "comment": ""},
+	{"text": "撳也从干入一為干入二為", "bbox": [364, 340, 398, 642], "type": "text", "comment": ""},
+	{"text": "羊讀若餠言稍甚也如審切", "bbox": [305, 340, 344, 642], "type": "text", "comment": ""},
+	{"text": "不順也从", "bbox": [358, 738, 396, 841], "type": "text", "comment": ""},
+	{"text": "干下口卝", "bbox": [307, 738, 345, 841], "type": "text", "comment": ""},
+	{"text": "之也魚", "bbox": [254, 264, 292, 345], "type": "text", "comment": ""},
+	{"text": "戟切", "bbox": [209, 264, 248, 318], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [216, 502, 282, 580], "type": "text", "comment": ""},
+	{"text": "大十三", "bbox": [172, 260, 193, 315], "type": "text", "comment": ""},
+	{"text": "先文三上", "bbox": [160, 396, 188, 480], "type": "text", "comment": ""},
+	{"text": "二", "bbox": [159, 667, 185, 687], "type": "text", "comment": ""},
+	{"text": "張信", "bbox": [170, 810, 198, 847], "type": "text", "comment": ""}
+]
+```

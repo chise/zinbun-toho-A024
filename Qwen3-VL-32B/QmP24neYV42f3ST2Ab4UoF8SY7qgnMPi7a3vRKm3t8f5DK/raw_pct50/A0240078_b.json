@@ -1,0 +1,286 @@
+```json
+[
+	{
+		"text": "王伐",
+		"bbox": [850, 276, 893, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舉足行高也从足喬聲",
+		"bbox": [850, 324, 893, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾也長也从",
+		"bbox": [850, 627, 893, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足攸聲式竹",
+		"bbox": [807, 708, 850, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [807, 276, 850, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰小子蹻蹻居勺切",
+		"bbox": [807, 324, 850, 638],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [763, 276, 807, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "動也从足倉",
+		"bbox": [763, 324, 807, 506],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲七羊切",
+		"bbox": [763, 506, 807, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "跳也从足甬",
+		"bbox": [763, 596, 807, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲余隴切",
+		"bbox": [763, 699, 807, 789],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "登",
+		"bbox": [763, 789, 807, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [719, 708, 763, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从足齊聲商書曰",
+		"bbox": [675, 276, 719, 460],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "予顚躋祖雞切",
+		"bbox": [675, 460, 719, 578],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迅也从足翟",
+		"bbox": [675, 578, 719, 668],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲以灼切",
+		"bbox": [675, 668, 719, 758],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蹴也一曰",
+		"bbox": [675, 758, 719, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "甲也綦也",
+		"bbox": [631, 708, 675, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从足全聲",
+		"bbox": [588, 276, 631, 388],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "莊緣切",
+		"bbox": [588, 388, 631, 460],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "躡也从足就",
+		"bbox": [588, 460, 631, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲七宿切",
+		"bbox": [588, 596, 631, 677],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蹈也从足聶",
+		"bbox": [588, 677, 631, 806],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲尼輒切",
+		"bbox": [588, 806, 631, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "渡也从足夸",
+		"bbox": [499, 345, 543, 471],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦化切",
+		"bbox": [499, 471, 543, 543],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "踐也从足朂",
+		"bbox": [499, 543, 543, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒盍切",
+		"bbox": [499, 688, 543, 758],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蹈也从",
+		"bbox": [499, 758, 543, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足步聲",
+		"bbox": [456, 769, 499, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "勥各切",
+		"bbox": [412, 276, 456, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "踐也从足舀",
+		"bbox": [412, 426, 456, 531],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒到切",
+		"bbox": [412, 531, 456, 602],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "踐也从足壓",
+		"bbox": [412, 652, 456, 769],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲直連切",
+		"bbox": [412, 769, 456, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "又音步",
+		"bbox": [369, 276, 412, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "履也从足戔",
+		"bbox": [369, 357, 412, 414],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "追也从足重聲二",
+		"bbox": [369, 495, 412, 641],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰往來皃之隴切",
+		"bbox": [369, 641, 412, 758],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "踶也从",
+		"bbox": [369, 758, 412, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足卓聲",
+		"bbox": [325, 769, 369, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲慈衍切",
+		"bbox": [281, 276, 325, 388],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大卅三",
+		"bbox": [171, 276, 198, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兒文二",
+		"bbox": [165, 404, 191, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "上三",
+		"bbox": [165, 666, 191, 708],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "柔和",
+		"bbox": [171, 794, 198, 827],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

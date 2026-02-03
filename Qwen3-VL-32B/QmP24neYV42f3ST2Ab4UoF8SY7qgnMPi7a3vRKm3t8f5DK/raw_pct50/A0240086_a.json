@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "小九十九", "bbox": [803, 259, 827, 314], "type": "text", "comment": ""},
+	{"text": "言文三十", "bbox": [806, 397, 834, 472], "type": "text", "comment": ""},
+	{"text": "三", "bbox": [818, 669, 844, 694], "type": "text", "comment": ""},
+	{"text": "春高", "bbox": [808, 815, 831, 846], "type": "text", "comment": ""},
+	{"text": "指止也从句从手", "bbox": [718, 265, 804, 506], "type": "text", "comment": ""},
+	{"text": "句亦聲舉朱切", "bbox": [708, 341, 774, 506], "type": "text", "comment": ""},
+	{"text": "筍曲竹捕魚笱也从竹", "bbox": [712, 507, 802, 793], "type": "text", "comment": ""},
+	{"text": "从句句亦聲古厚切", "bbox": [702, 581, 768, 793], "type": "text", "comment": ""},
+	{"text": "鉤曲也从金从句", "bbox": [618, 265, 702, 506], "type": "text", "comment": ""},
+	{"text": "句亦聲古矦切", "bbox": [607, 341, 672, 506], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [620, 648, 689, 725], "type": "text", "comment": ""},
+	{"text": "句相糾繚也一曰瓜瓠結句起象形", "bbox": [515, 265, 596, 842], "type": "text", "comment": ""},
+	{"text": "凡句之屬皆从句居虯切", "bbox": [415, 347, 489, 658], "type": "text", "comment": ""},
+	{"text": "紼紳之相句者从纟从句", "bbox": [359, 265, 431, 525], "type": "text", "comment": ""},
+	{"text": "句亦聲居虬切", "bbox": [309, 341, 373, 525], "type": "text", "comment": ""},
+	{"text": "絇繩三合也从", "bbox": [358, 547, 401, 753], "type": "text", "comment": ""},
+	{"text": "糸句居黝切", "bbox": [309, 626, 357, 753], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [218, 405, 284, 483], "type": "text", "comment": ""},
+	{"text": "古故也从十口識前言者也凡古之", "bbox": [107, 265, 195, 849], "type": "text", "comment": ""}
+]
+```

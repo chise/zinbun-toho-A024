@@ -1,0 +1,298 @@
+```json
+[
+	{
+		"text": "小四十四",
+		"bbox": [796, 275, 819, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言又三一",
+		"bbox": [804, 412, 829, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "景高",
+		"bbox": [799, 809, 820, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不諅于凶",
+		"bbox": [756, 280, 791, 380],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "誕也从言敢",
+		"bbox": [754, 458, 792, 578],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俗譀",
+		"bbox": [754, 655, 792, 706],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諏也",
+		"bbox": [756, 789, 792, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "德渠記切",
+		"bbox": [708, 280, 744, 380],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲下闞切",
+		"bbox": [708, 458, 744, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从忩",
+		"bbox": [708, 655, 744, 706],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言",
+		"bbox": [708, 789, 744, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夸聲苦",
+		"bbox": [662, 280, 696, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詞誕也从言",
+		"bbox": [662, 434, 696, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文誕",
+		"bbox": [662, 623, 696, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諏也从",
+		"bbox": [662, 762, 696, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓜切",
+		"bbox": [615, 280, 649, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "延聲徒早切",
+		"bbox": [615, 434, 649, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省正",
+		"bbox": [615, 623, 649, 666],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言萬聲",
+		"bbox": [615, 762, 649, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "莫話",
+		"bbox": [568, 280, 602, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戲也从言虗聲詩曰",
+		"bbox": [568, 412, 602, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "很戾也从言",
+		"bbox": [568, 688, 602, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [521, 280, 555, 301],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "善戲誰兮虛約切",
+		"bbox": [521, 406, 555, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艮聲乎懇切",
+		"bbox": [521, 688, 555, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀也从言工聲詩曰",
+		"bbox": [474, 354, 509, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "中止也从言貴聲",
+		"bbox": [474, 669, 509, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蝨賊内訌戸工切",
+		"bbox": [427, 354, 461, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "司馬法曰師多則",
+		"bbox": [427, 655, 461, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人讃讃止",
+		"bbox": [380, 280, 415, 380],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲也从言歲聲詩曰",
+		"bbox": [380, 458, 415, 655],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾言也从",
+		"bbox": [380, 739, 415, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也胡對切",
+		"bbox": [333, 280, 368, 375],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "有識其聲呼會切",
+		"bbox": [333, 458, 368, 637],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言咼聲呼",
+		"bbox": [333, 739, 368, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卦",
+		"bbox": [287, 280, 320, 301],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謬也从言魋",
+		"bbox": [287, 375, 320, 512],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "擾也从言梟",
+		"bbox": [287, 606, 320, 706],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大",
+		"bbox": [287, 809, 320, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [240, 280, 274, 301],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲杜回切",
+		"bbox": [240, 386, 274, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲蘇到切",
+		"bbox": [240, 596, 274, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "呼",
+		"bbox": [240, 818, 274, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从言丩聲春秋傳曰",
+		"bbox": [193, 280, 228, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "號也从言从",
+		"bbox": [193, 596, 228, 706],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "講也",
+		"bbox": [193, 789, 228, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或訶于宋太廟古弔切",
+		"bbox": [146, 280, 180, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虎乎刀切",
+		"bbox": [146, 596, 180, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言",
+		"bbox": [146, 789, 180, 837],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

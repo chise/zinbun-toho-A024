@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "大二十", "bbox": [172, 267, 192, 300], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "豈天五二", "bbox": [160, 404, 188, 480], "size": "small", "type": "text", "comment": "书名或卷次"},
+	{"text": "五", "bbox": [164, 668, 188, 692], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "丁山", "bbox": [180, 795, 198, 834], "size": "small", "type": "text", "comment": "作者或校注者"},
+	{"text": "箥 箜簧也 从竹 登聲 都滕切", "bbox": [810, 267, 900, 480], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 箜無柄也 从竹 立聲 力入切", "bbox": [810, 480, 900, 692], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 車大", "bbox": [810, 692, 900, 844], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 牝服也 从竹 相聲 息良切", "bbox": [738, 267, 800, 480], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 車笭也 从竹 匪聲 敷尾切", "bbox": [738, 480, 800, 692], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 車笭也 从竹 令聲 一曰笭籠也", "bbox": [738, 692, 800, 844], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 即丁切 搔馬也 从竹 剡聲 丑廉切", "bbox": [618, 267, 700, 480], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 馬箥也 从竹 束聲 楚革切", "bbox": [618, 480, 700, 692], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 馬擊", "bbox": [618, 692, 700, 844], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 也 从竹 坐聲 之壘切", "bbox": [540, 267, 600, 480], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 箜也 从竹 朵聲 陟瓜切", "bbox": [540, 480, 600, 692], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 芊車騶箥也 箑箴其耑長半分", "bbox": [540, 692, 600, 844], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 从竹 内聲 陟衛切", "bbox": [460, 267, 520, 480], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 所以盛弩矢人所負 也 从竹 閑聲 洛干切", "bbox": [460, 480, 520, 692], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 弩矢箥 也 从竹", "bbox": [460, 692, 520, 844], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 服聲 周禮仲秋 獻矢箥 房六切", "bbox": [380, 267, 440, 480], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 梓雙也 从竹 朱聲 陟輸切", "bbox": [380, 480, 440, 692], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 折竹箥也 从竹 占聲", "bbox": [380, 692, 440, 844], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 領川人名 小兒所 書寫為笞 失廉切", "bbox": [300, 267, 360, 480], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 笠也 从竹 旦聲 當割切", "bbox": [300, 480, 360, 692], "size": "large", "type": "text", "comment": "篆字及其释义"},
+	{"text": "箥 擊也 从 竹 台聲", "bbox": [300, 692, 360, 844], "size": "large", "type": "text", "comment": "篆字及其释义"}
+]
+```

@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "小三十三",
+		"bbox": [804, 257, 821, 319],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言夕三上",
+		"bbox": [806, 397, 833, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "信誠也从人从言",
+		"bbox": [735, 260, 798, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文从",
+		"bbox": [758, 575, 798, 658],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [760, 732, 798, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會意息晋切",
+		"bbox": [700, 335, 750, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言省",
+		"bbox": [712, 575, 750, 637],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "信",
+		"bbox": [714, 732, 750, 766],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燕代東齊謂信曰訦",
+		"bbox": [653, 335, 700, 550],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言宂聲是吟切",
+		"bbox": [602, 335, 650, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "信也从言成",
+		"bbox": [655, 632, 700, 764],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲氏征切",
+		"bbox": [604, 632, 650, 742],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敕也从言戒",
+		"bbox": [550, 260, 598, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "誠也从言忌",
+		"bbox": [552, 471, 598, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "認也从言韋",
+		"bbox": [554, 702, 598, 830],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲古拜切",
+		"bbox": [502, 260, 550, 371],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲渠記切",
+		"bbox": [504, 471, 550, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲許貴切",
+		"bbox": [506, 688, 550, 802],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "告也从言告",
+		"bbox": [452, 335, 498, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [454, 536, 498, 598],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "告也从言从召",
+		"bbox": [454, 677, 498, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲古到切",
+		"bbox": [402, 335, 448, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "誥",
+		"bbox": [404, 527, 448, 575],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "召亦聲之紹切",
+		"bbox": [404, 667, 448, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "約束也从言",
+		"bbox": [352, 335, 398, 471],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "問也从言僉聲周書",
+		"bbox": [352, 551, 398, 768],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日勿以諭人息廉切",
+		"bbox": [304, 551, 350, 764],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "折聲時制切",
+		"bbox": [304, 335, 350, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訓故言也从言古聲",
+		"bbox": [254, 260, 300, 478],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臣盡力之美从言葛聲詩",
+		"bbox": [254, 551, 300, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰詁訓公戸切",
+		"bbox": [204, 260, 250, 447],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰謁謁王多吉士於害切",
+		"bbox": [204, 575, 250, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鋪旋促也从言",
+		"bbox": [154, 335, 200, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "知也从言胥",
+		"bbox": [154, 582, 200, 716],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諫也",
+		"bbox": [154, 788, 200, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "束聲桑谷切",
+		"bbox": [104, 335, 150, 471],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲私呂切",
+		"bbox": [104, 588, 150, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言",
+		"bbox": [104, 798, 150, 842],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

@@ -1,0 +1,208 @@
+```json
+[
+	{
+		"text": "小三百四十",
+		"bbox": [804, 263, 825, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "而齜女七月生齒七歲",
+		"bbox": [753, 263, 804, 503],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "而齜从齒从七初堇切",
+		"bbox": [702, 263, 753, 503],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [652, 263, 702, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齒相斷也一曰開口見齒之兒",
+		"bbox": [652, 370, 702, 674],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从齒柴省聲讀若柴仕街切",
+		"bbox": [601, 370, 652, 661],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "介聲胡",
+		"bbox": [551, 263, 601, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "介切",
+		"bbox": [500, 263, 551, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "只聲研繭切",
+		"bbox": [500, 422, 551, 555],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口張齒見从齒",
+		"bbox": [551, 370, 601, 576],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齒差也从齒",
+		"bbox": [551, 647, 601, 799],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兼聲五銜切",
+		"bbox": [500, 664, 551, 799],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齒擠也一曰齰也一曰馬口",
+		"bbox": [450, 263, 500, 633],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "中糜也从齒芻聲側鳩切",
+		"bbox": [400, 345, 450, 604],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齒不正也从",
+		"bbox": [450, 633, 500, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齒禺聲五婁",
+		"bbox": [400, 702, 450, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [350, 263, 400, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齬齒也从齒",
+		"bbox": [350, 364, 400, 503],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虗聲側加切",
+		"bbox": [300, 370, 350, 503],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齵也从齒取",
+		"bbox": [350, 586, 400, 710],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲側鳩切",
+		"bbox": [300, 586, 350, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "參齒",
+		"bbox": [300, 731, 350, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "差从齒差",
+		"bbox": [250, 263, 300, 378],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲楚宜切",
+		"bbox": [200, 263, 250, 378],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齒差跌兒从齒佐聲春秋傳曰鄭有",
+		"bbox": [250, 465, 300, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "子窶臣鉉等曰說文無佐字此字當",
+		"bbox": [200, 465, 250, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从尩傳寫之",
+		"bbox": [150, 263, 200, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "誤昨何切",
+		"bbox": [100, 263, 150, 378],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "缺齒也一曰曲齒从齒",
+		"bbox": [100, 484, 150, 710],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奚聲讀若權巨員切",
+		"bbox": [100, 496, 150, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齒無",
+		"bbox": [100, 742, 150, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言又二",
+		"bbox": [804, 402, 825, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大",
+		"bbox": [819, 667, 837, 691],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳元",
+		"bbox": [808, 799, 827, 823],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

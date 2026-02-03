@@ -1,0 +1,130 @@
+```json
+[
+	{
+		"text": "品衆庶也从三口凡品之屬皆从品",
+		"bbox": [805, 263, 894, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丕飲",
+		"bbox": [755, 339, 797, 397],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [707, 340, 748, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "多言也从品相連春秋傳曰",
+		"bbox": [658, 340, 699, 643],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "次于喦北讀與聶同尼輒切",
+		"bbox": [608, 340, 649, 638],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥羣鳴也",
+		"bbox": [658, 737, 699, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从品在木",
+		"bbox": [608, 737, 649, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "上穌",
+		"bbox": [559, 261, 599, 312],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "到切",
+		"bbox": [509, 261, 549, 312],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文三",
+		"bbox": [512, 463, 588, 549],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "龠樂之竹管三孔以和衆聲也从品",
+		"bbox": [406, 261, 488, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以灼",
+		"bbox": [356, 769, 395, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "侖侖理也凡侖之屬皆从侖切",
+		"bbox": [305, 336, 388, 797],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籥音律管壎之樂也",
+		"bbox": [254, 340, 294, 545],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从龠炊聲昌坐切",
+		"bbox": [199, 340, 242, 524],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "管樂也从龠",
+		"bbox": [254, 626, 294, 756],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虎聲直离切",
+		"bbox": [199, 626, 242, 728],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十四",
+		"bbox": [168, 261, 191, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文二下",
+		"bbox": [159, 396, 189, 473],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "上五",
+		"bbox": [159, 662, 188, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蕭雲",
+		"bbox": [168, 799, 199, 844],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

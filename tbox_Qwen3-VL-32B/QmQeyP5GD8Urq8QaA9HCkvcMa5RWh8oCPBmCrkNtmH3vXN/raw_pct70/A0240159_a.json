@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "小二四七", "bbox": [804, 270, 825, 334], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "言三一", "bbox": [812, 399, 840, 470], "size": "small", "type": "text", "comment": "章节或卷次标识"},
+	{"text": "洪章", "bbox": [804, 785, 827, 835], "size": "small", "type": "text", "comment": "人名或校注者"},
+	{"text": "耒手耕曲木也从木推丰古者坐作", "bbox": [717, 265, 797, 844], "size": "large", "type": "definition", "comment": "对“耒”字的解释"},
+	{"text": "耒耜以振民也凡耒之属皆从耒", "bbox": [614, 344, 693, 844], "size": "large", "type": "definition", "comment": "对“耒”字的引申义及部首说明"},
+	{"text": "盧對", "bbox": [556, 344, 600, 404], "size": "medium", "type": "annotation", "comment": "注音或注释"},
+	{"text": "切", "bbox": [507, 344, 548, 374], "size": "medium", "type": "annotation", "comment": "反切注音"},
+	{"text": "耕犂也从耒井聲一曰古者井田古莖切", "bbox": [410, 265, 498, 524], "size": "large", "type": "definition", "comment": "对“耕”字的解释"},
+	{"text": "耒廣五寸爲伐二伐爲耦从耒禺聲五口", "bbox": [410, 544, 498, 844], "size": "large", "type": "definition", "comment": "对“耦”字的解释"},
+	{"text": "切帝耤千畞也古者使民如借故謂之耤从耒昔聲秦昔切", "bbox": [345, 265, 400, 660], "size": "large", "type": "definition", "comment": "对“耤”字的解释"},
+	{"text": "耒或从艹", "bbox": [308, 664, 395, 844], "size": "large", "type": "definition", "comment": "对“耒”字异体或构形说明"},
+	{"text": "用之从耒圭除苗間穢也从艹耒聲古構切", "bbox": [200, 265, 295, 570], "size": "large", "type": "definition", "comment": "对“耨”字的解释"},
+	{"text": "耒員聲羽文切", "bbox": [200, 570, 295, 660], "size": "large", "type": "definition", "comment": "对“耒”字的音义说明"},
+	{"text": "商人七十而耡耡耤稅也从耒助聲周禮曰以興耡利萌牀倨切", "bbox": [100, 265, 195, 570], "size": "large", "type": "definition", "comment": "对“耡”字的解释及引文"}
+]
+```

@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "小三百八十五", "bbox": [812, 259, 832, 320], "size": "small", "type": "text", "comment": "页码"},
+	{"text": "言", "bbox": [818, 400, 838, 424], "size": "small", "type": "text", "comment": "部首或分类"},
+	{"text": "五", "bbox": [818, 677, 840, 700], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "嚴華", "bbox": [812, 800, 832, 845], "size": "small", "type": "text", "comment": "人名或校注者"},
+	{"text": "朽 腐也 从攵丂 聲許久切", "bbox": [715, 260, 805, 444], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "朽 奸或 从木 聲徒亥切", "bbox": [715, 475, 805, 800], "size": "large", "type": "text", "comment": "异体字或相关字"},
+	{"text": "殠 咎也 从攵央 聲於良切", "bbox": [620, 260, 705, 444], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "殘 賊也 从攵戔 聲昨干切", "bbox": [620, 475, 705, 660], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "殄 盡也 从攵㐱 聲攵㐱聲", "bbox": [620, 690, 705, 845], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "徒典 古文殄 切 如此", "bbox": [520, 260, 605, 444], "size": "large", "type": "text", "comment": "古文或异体字"},
+	{"text": "殲 微盡也 从攵戩 聲春秋傳曰齊人殲于遂子廉切", "bbox": [520, 475, 605, 800], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "殫 姬盡也 从攵單 聲都寒切", "bbox": [425, 260, 510, 444], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "殝 敗也 从攵睪 聲商書曰彝倫攸殝當故切", "bbox": [425, 475, 510, 800], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "殠 畜産疫病也 从攵疒 聲五來切", "bbox": [330, 260, 415, 660], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "殠 殺羊出其胎也 从攵豆 聲五來切", "bbox": [330, 690, 415, 845], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "殠 禽獸所食餘也", "bbox": [330, 690, 415, 845], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "殠 从攵从肉 胎膏久殖也 从攵直 聲常職切", "bbox": [235, 260, 320, 660], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "枯 枯也 从攵古 聲苦孤切", "bbox": [235, 690, 320, 845], "size": "large", "type": "text", "comment": "字头及释义"},
+	{"text": "斞 棄也 从攵奇 聲俗語謂死曰大斞去其切", "bbox": [140, 260, 225, 845], "size": "large", "type": "text", "comment": "字头及释义"}
+]
+```

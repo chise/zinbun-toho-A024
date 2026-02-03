@@ -1,0 +1,8 @@
+```json
+[
+	{"text": "小十三", "bbox": [807, 254, 830, 294], "size": "small", "type": "text", "comment": "位于右侧边栏上方"},
+	{"text": "信", "bbox": [812, 398, 838, 424], "size": "small", "type": "text", "comment": "位于右侧边栏中间"},
+	{"text": "十", "bbox": [817, 663, 842, 689], "size": "small", "type": "text", "comment": "位于右侧边栏下方"},
+	{"text": "十三", "bbox": [807, 810, 832, 848], "size": "small", "type": "text", "comment": "位于右侧边栏最下方"}
+]
+```

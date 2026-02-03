@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "小四百十",
+		"bbox": [805, 269, 823, 320],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言又三十",
+		"bbox": [807, 403, 826, 462],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張褒",
+		"bbox": [808, 805, 829, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言習聲",
+		"bbox": [755, 270, 800, 366],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秦入切",
+		"bbox": [708, 269, 750, 340],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相毀也从言亞聲",
+		"bbox": [756, 450, 801, 630],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰畏亞宛古切",
+		"bbox": [709, 450, 752, 630],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相毀也从言",
+		"bbox": [756, 714, 802, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隨省聲雖遂",
+		"bbox": [709, 714, 752, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [662, 269, 698, 297],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嗑也从言闞",
+		"bbox": [663, 374, 699, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說也从言匈",
+		"bbox": [663, 583, 699, 710],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或",
+		"bbox": [663, 788, 699, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒盍切",
+		"bbox": [609, 374, 651, 489],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲許容切",
+		"bbox": [609, 583, 651, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省",
+		"bbox": [609, 788, 651, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訶或",
+		"bbox": [554, 352, 596, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从兌",
+		"bbox": [506, 352, 547, 397],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "爭也从言公聲一",
+		"bbox": [554, 486, 596, 654],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰訶訟似用切",
+		"bbox": [506, 486, 547, 638],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [554, 746, 596, 795],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訟",
+		"bbox": [506, 746, 547, 773],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "恚也从言真聲賈侍中說",
+		"bbox": [453, 352, 495, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謨笑一曰讀若振昌真切",
+		"bbox": [400, 352, 442, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "多言也从言聶",
+		"bbox": [453, 689, 495, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲河東有狐讘",
+		"bbox": [400, 689, 442, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "縣之",
+		"bbox": [347, 269, 389, 301],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大言而怒也从",
+		"bbox": [347, 399, 389, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訐也从言臣聲",
+		"bbox": [347, 644, 389, 797],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若指職雉切",
+		"bbox": [294, 644, 336, 797],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "涉切",
+		"bbox": [294, 269, 336, 308],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言可聲虎何切",
+		"bbox": [294, 400, 336, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "面相斥罪相告訐也",
+		"bbox": [242, 352, 284, 555],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言干聲居謁切",
+		"bbox": [189, 352, 231, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "告也从言斥省聲論",
+		"bbox": [242, 644, 284, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "語曰訴子路於季孫",
+		"bbox": [189, 644, 231, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臣鉉等曰斥非聲蓋古之字音多與今異如皀亦音香釁",
+		"bbox": [137, 269, 179, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦音門乃亦音仍他皆放此古今失傳不可詳究桑故切",
+		"bbox": [84, 269, 126, 844],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
