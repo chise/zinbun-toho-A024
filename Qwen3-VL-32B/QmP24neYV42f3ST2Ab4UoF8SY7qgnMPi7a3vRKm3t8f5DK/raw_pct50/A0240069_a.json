@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "小三百四",
+		"bbox": [807, 261, 829, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "往也从走折聲",
+		"bbox": [760, 334, 803, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若誓時制切",
+		"bbox": [716, 334, 759, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "往也从走且聲",
+		"bbox": [760, 577, 803, 742],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "退齊語全徒切",
+		"bbox": [716, 577, 759, 742],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或",
+		"bbox": [716, 787, 759, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李明",
+		"bbox": [812, 798, 833, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "循也从走术",
+		"bbox": [670, 334, 714, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲食聿切",
+		"bbox": [625, 334, 669, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [670, 577, 714, 742],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从林",
+		"bbox": [625, 577, 669, 742],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "循也从走尊",
+		"bbox": [580, 261, 624, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲將倫切",
+		"bbox": [535, 261, 579, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之也从走啻聲適",
+		"bbox": [580, 461, 624, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宋魯語施隻切",
+		"bbox": [535, 461, 579, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "度也从走",
+		"bbox": [580, 710, 624, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "咼聲古禾",
+		"bbox": [535, 710, 579, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "習也从走貫",
+		"bbox": [490, 261, 534, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [445, 261, 489, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲工惠切",
+		"bbox": [445, 368, 489, 533],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "媒遺也从走",
+		"bbox": [490, 577, 534, 742],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "賣聲徒谷切",
+		"bbox": [445, 577, 489, 742],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "登也",
+		"bbox": [490, 787, 534, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走",
+		"bbox": [445, 787, 489, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "闆省聲",
+		"bbox": [399, 261, 443, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "即刃切",
+		"bbox": [354, 261, 398, 341],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "就也从走告聲譚長",
+		"bbox": [399, 436, 443, 601],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說造上士也七到切",
+		"bbox": [354, 436, 398, 601],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文造",
+		"bbox": [399, 710, 443, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从舟",
+		"bbox": [354, 710, 398, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迍進也从走俞聲周書",
+		"bbox": [309, 261, 353, 577],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰無敢昏逾羊朱切",
+		"bbox": [264, 261, 308, 577],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迨也从走眾",
+		"bbox": [309, 636, 353, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒合切",
+		"bbox": [264, 636, 308, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "還也从走合",
+		"bbox": [219, 261, 263, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "追迮起也从走",
+		"bbox": [219, 461, 263, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "作省聲阻革切",
+		"bbox": [174, 461, 218, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迹遣也从走",
+		"bbox": [174, 671, 218, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "昔聲倉各切",
+		"bbox": [129, 671, 173, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲侯閤切",
+		"bbox": [129, 261, 173, 376],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
