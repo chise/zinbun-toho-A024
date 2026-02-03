@@ -1,0 +1,148 @@
+```json
+[
+	{
+		"text": "小豆卅一",
+		"bbox": [798, 259, 824, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文三十",
+		"bbox": [807, 396, 838, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "春高",
+		"bbox": [809, 813, 833, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大通也从十从専",
+		"bbox": [750, 262, 798, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "専布也補各切",
+		"bbox": [714, 262, 750, 425],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "材十人也从十",
+		"bbox": [775, 529, 804, 659],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "力聲盧則切",
+		"bbox": [714, 529, 756, 661],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二十幷",
+		"bbox": [765, 765, 805, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也古文",
+		"bbox": [714, 765, 753, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省人",
+		"bbox": [655, 262, 695, 312],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詞之卽矣从十",
+		"bbox": [655, 401, 696, 556],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "汁切曰",
+		"bbox": [610, 262, 649, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "骨聲秦入切",
+		"bbox": [610, 401, 649, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文九",
+		"bbox": [624, 618, 695, 690],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卅三十年幷也古文省凡卉之屬皆从",
+		"bbox": [507, 262, 587, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卉蘇杳",
+		"bbox": [454, 341, 493, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [417, 401, 454, 429],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三十年爲一世从卉而曳",
+		"bbox": [361, 341, 398, 605],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "長之亦取其聲也舒制切",
+		"bbox": [302, 341, 348, 605],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [324, 685, 386, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言直言曰言論難曰語从口辛聲凡",
+		"bbox": [210, 262, 292, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言之屬皆从言",
+		"bbox": [115, 347, 183, 581],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "語軒",
+		"bbox": [156, 582, 195, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [113, 582, 148, 605],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
