@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "小三百全",
+		"bbox": [805, 257, 824, 313],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文二十",
+		"bbox": [816, 401, 839, 478],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大",
+		"bbox": [816, 673, 839, 696],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴挙",
+		"bbox": [812, 800, 834, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "長符",
+		"bbox": [753, 266, 786, 315],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "語未定皃从口",
+		"bbox": [765, 403, 801, 554],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言蹇難也从口",
+		"bbox": [765, 651, 801, 802],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弗切",
+		"bbox": [716, 264, 748, 313],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "憂聲於求切",
+		"bbox": [716, 403, 752, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "气聲居乙切",
+		"bbox": [716, 651, 752, 784],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚐欲喜之也从",
+		"bbox": [657, 342, 699, 502],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口耆聲常利切",
+		"bbox": [616, 342, 657, 502],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "噍啖也从口炎聲",
+		"bbox": [657, 593, 699, 784],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰噉徒敢切",
+		"bbox": [616, 593, 657, 752],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "語為舌所介也从口更",
+		"bbox": [556, 342, 599, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若井級綆古杏切",
+		"bbox": [511, 342, 554, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "誇語也从口",
+		"bbox": [556, 759, 599, 802],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "參聲古肴切",
+		"bbox": [511, 673, 554, 813],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "喟嘗也从口",
+		"bbox": [453, 342, 495, 502],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周聲陟交切",
+		"bbox": [409, 342, 451, 502],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諂聲也从口圭聲",
+		"bbox": [453, 556, 495, 752],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若醫於佳切",
+		"bbox": [409, 556, 451, 723],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "語相訶歫也从口歫辛辛",
+		"bbox": [355, 264, 397, 502],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "惡聲也讀若檗五葛切",
+		"bbox": [310, 264, 352, 502],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "譎吺多言也从口",
+		"bbox": [355, 616, 397, 802],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "投省聲當侯切",
+		"bbox": [310, 616, 352, 784],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "苛也从口氐",
+		"bbox": [264, 342, 306, 465],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲都禮切",
+		"bbox": [218, 336, 260, 447],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "苛也从口此",
+		"bbox": [264, 562, 306, 680],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲將此切",
+		"bbox": [218, 548, 260, 657],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遮也从",
+		"bbox": [264, 767, 306, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口庶聲",
+		"bbox": [218, 767, 260, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之夜",
+		"bbox": [162, 264, 204, 313],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "妄語也从口夾聲",
+		"bbox": [162, 395, 204, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "多言也从口盍",
+		"bbox": [162, 666, 204, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [116, 264, 158, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若莢古叶切",
+		"bbox": [116, 395, 158, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若甲候榼",
+		"bbox": [116, 666, 158, 839],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
