@@ -1,0 +1,14 @@
+```json
+[
+	{"text": "小九十", "bbox": [805, 267, 824, 304], "size": "small", "type": "annotation", "comment": "页码或编号"},
+	{"text": "言二十三", "bbox": [809, 402, 837, 480], "size": "small", "type": "annotation", "comment": "章节或卷次标识"},
+	{"text": "共舉也从臼从丌凡舁之屬皆从", "bbox": [715, 347, 795, 842], "size": "large", "type": "main", "comment": "主要释义文字"},
+	{"text": "舁讀若余以諸切", "bbox": [616, 352, 692, 538], "size": "large", "type": "main", "comment": "读音与注释"},
+	{"text": "升高也从舁舁或从卩古文舁黨與", "bbox": [515, 347, 597, 842], "size": "large", "type": "main", "comment": "字义与古文异体"},
+	{"text": "也从舁从古文起也从舁从同", "bbox": [455, 264, 497, 734], "size": "medium", "type": "main", "comment": "字形结构说明"},
+	{"text": "与余吕切與同力也虚陵切", "bbox": [407, 264, 450, 734], "size": "medium", "type": "main", "comment": "音韵与同义字"},
+	{"text": "文四 重三", "bbox": [320, 416, 385, 640], "size": "large", "type": "heading", "comment": "条目编号"},
+	{"text": "义手也从𠀑𠀑凡臼之屬皆从臼", "bbox": [215, 355, 292, 842], "size": "large", "type": "main", "comment": "字义与部首说明"},
+	{"text": "居玉切", "bbox": [155, 359, 197, 410], "size": "medium", "type": "annotation", "comment": "反切注音"}
+]
+```
