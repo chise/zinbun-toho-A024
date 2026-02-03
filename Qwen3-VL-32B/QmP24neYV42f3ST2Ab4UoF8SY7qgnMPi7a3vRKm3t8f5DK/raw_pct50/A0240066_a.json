@@ -1,0 +1,208 @@
+```json
+[
+	{
+		"text": "小三百九十四",
+		"bbox": [805, 260, 832, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訁文二十",
+		"bbox": [807, 400, 834, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一六",
+		"bbox": [811, 669, 839, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李明",
+		"bbox": [810, 804, 838, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "寺聲直",
+		"bbox": [750, 262, 797, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "离切",
+		"bbox": [713, 262, 750, 313],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "止也从止巨聲一曰搶",
+		"bbox": [751, 414, 800, 671],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也一曰超距其吕切",
+		"bbox": [712, 414, 752, 640],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不行而",
+		"bbox": [750, 758, 798, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "進謂之",
+		"bbox": [713, 758, 752, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "歬从止在舟",
+		"bbox": [650, 262, 698, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "上昨先切",
+		"bbox": [608, 262, 650, 355],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "過也从止麻",
+		"bbox": [651, 491, 699, 634],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲郎擊切",
+		"bbox": [609, 491, 650, 600],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "至也从止叔",
+		"bbox": [650, 712, 699, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲昌六切",
+		"bbox": [608, 712, 650, 820],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人不能行也从",
+		"bbox": [552, 342, 599, 510],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "止辟聲必益切",
+		"bbox": [508, 342, 552, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "女嫁也从止从婦",
+		"bbox": [552, 585, 599, 795],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省皀聲舉韋切",
+		"bbox": [508, 585, 552, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [455, 342, 498, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾也从止从又又",
+		"bbox": [455, 491, 498, 676],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "手也中聲疾葉切",
+		"bbox": [409, 491, 455, 680],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "機下足",
+		"bbox": [455, 758, 498, 800],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "所履者",
+		"bbox": [409, 758, 455, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从止从又入",
+		"bbox": [357, 262, 398, 387],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲尼輒切",
+		"bbox": [305, 262, 350, 375],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蹈也从反止讀",
+		"bbox": [357, 469, 398, 640],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若撻他達切",
+		"bbox": [305, 469, 350, 602],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不滑也从四",
+		"bbox": [357, 712, 398, 820],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "止色立切",
+		"bbox": [305, 712, 350, 820],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文十四",
+		"bbox": [215, 422, 279, 538],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [215, 624, 279, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足剌此也从止少凡此之屬皆从",
+		"bbox": [107, 337, 191, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
