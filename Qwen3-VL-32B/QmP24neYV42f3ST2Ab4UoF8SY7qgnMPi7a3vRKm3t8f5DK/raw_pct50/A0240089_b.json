@@ -1,0 +1,262 @@
+```json
+[
+	{
+		"text": "正聲之",
+		"bbox": [859, 274, 906, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "証也从言柬",
+		"bbox": [859, 437, 906, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "深諫也从言念聲春",
+		"bbox": [859, 645, 906, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盛切",
+		"bbox": [810, 274, 856, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲古晏切",
+		"bbox": [810, 427, 856, 539],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋傳曰辛伯諗周桓",
+		"bbox": [810, 645, 856, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "公式",
+		"bbox": [762, 274, 808, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "試也从言果",
+		"bbox": [762, 416, 808, 539],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "用也从言式聲虞書",
+		"bbox": [762, 628, 808, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "荏切",
+		"bbox": [714, 274, 760, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦臥切",
+		"bbox": [714, 401, 760, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰明試以功式吏切",
+		"bbox": [714, 628, 760, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "和也从言咸聲周書曰",
+		"bbox": [666, 347, 712, 568],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不能誡于小民胡鳧切",
+		"bbox": [618, 347, 664, 568],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徒歌从言",
+		"bbox": [618, 663, 664, 768],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肉余招切",
+		"bbox": [618, 663, 664, 768],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "具也从言全",
+		"bbox": [570, 274, 616, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲此緣切",
+		"bbox": [570, 274, 616, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "喜也从言斤",
+		"bbox": [570, 488, 616, 628],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲許斤切",
+		"bbox": [570, 488, 616, 597],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說釋也从言",
+		"bbox": [570, 713, 616, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌一曰談說",
+		"bbox": [570, 713, 616, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "失熱切又",
+		"bbox": [522, 274, 568, 372],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會也筭也从言",
+		"bbox": [522, 458, 568, 615],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詥也从言皆",
+		"bbox": [522, 695, 568, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弋雪切",
+		"bbox": [474, 274, 520, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从十古詣切",
+		"bbox": [474, 460, 520, 586],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲戶皆切",
+		"bbox": [474, 695, 520, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諧也从言合",
+		"bbox": [426, 347, 472, 476],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "和也从言周",
+		"bbox": [426, 571, 472, 680],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "合會善",
+		"bbox": [426, 768, 472, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲候閤切",
+		"bbox": [378, 347, 424, 448],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒遼切",
+		"bbox": [378, 557, 424, 657],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言也从",
+		"bbox": [378, 774, 424, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言昏聲傳曰告",
+		"bbox": [330, 274, 376, 433],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文語",
+		"bbox": [330, 520, 376, 602],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謠謑纍也从言",
+		"bbox": [330, 680, 376, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之話言胡快切",
+		"bbox": [282, 274, 328, 433],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从會",
+		"bbox": [282, 518, 328, 571],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "坐聲竹寘切",
+		"bbox": [282, 678, 328, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十二",
+		"bbox": [172, 268, 197, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文三上",
+		"bbox": [165, 407, 190, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳廣",
+		"bbox": [165, 812, 190, 852],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
