@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "文七 重一", "bbox": [824, 373, 888, 634], "size": "24", "type": "heading", "comment": "页面标题，表示此页为‘文七’，‘重一’可能指重出或重复部分"},
+	{"text": "角獸角也象形角與刀魚相似凡角", "bbox": [718, 273, 798, 845], "size": "24", "type": "definition", "comment": "对‘角’字的释义，说明其为兽角，象形字，与刀、鱼相似，凡角部字皆从角"},
+	{"text": "之屬皆从角 古岳切", "bbox": [615, 350, 690, 575], "size": "24", "type": "definition", "comment": "说明角部字的归属，皆从角，古岳切为反切注音"},
+	{"text": "觽 挥角皃从角雚聲 梁隝縣", "bbox": [548, 273, 602, 612], "size": "24", "type": "character_entry", "comment": "‘觽’字条目，解释为‘挥角皃’，从角、雚声，出自梁隝县"},
+	{"text": "有觽亭又讀若織 沉袁切", "bbox": [505, 350, 558, 612], "size": "24", "type": "character_entry", "comment": "补充说明‘觽’字的读音和地名关联"},
+	{"text": "觨 角也从角樂聲", "bbox": [558, 612, 602, 845], "size": "24", "type": "character_entry", "comment": "‘觨’字条目，从角、樂声"},
+	{"text": "張掖有觨得縣", "bbox": [505, 612, 558, 845], "size": "24", "type": "character_entry", "comment": "补充说明‘觨’字的地名关联"},
+	{"text": "盧谷 角中骨也从角", "bbox": [458, 273, 500, 565], "size": "24", "type": "character_entry", "comment": "‘觡’字条目，解释为‘角中骨’，从角"},
+	{"text": "切 角 思聲穌來切", "bbox": [405, 273, 455, 535], "size": "24", "type": "character_entry", "comment": "‘觡’字反切注音：思声，穌来切"},
+	{"text": "觢 曲角也从角", "bbox": [458, 565, 500, 765], "size": "24", "type": "character_entry", "comment": "‘觢’字条目，解释为‘曲角’，从角"},
+	{"text": "尖聲巨員切", "bbox": [405, 565, 455, 765], "size": "24", "type": "character_entry", "comment": "‘觢’字反切注音：尖声，巨员切"},
+	{"text": "觤 角曲也从角兒聲 西", "bbox": [350, 273, 398, 505], "size": "24", "type": "character_entry", "comment": "‘觤’字条目，解释为‘角曲’，从角、兒声，西地"},
+	{"text": "河有觤氏縣 研啓切", "bbox": [300, 273, 348, 485], "size": "24", "type": "character_entry", "comment": "补充说明‘觤’字的地名关联，研啓切为反切"},
+	{"text": "觡 一角仰也从角韧聲 易曰", "bbox": [350, 505, 398, 845], "size": "24", "type": "character_entry", "comment": "‘觡’字条目，解释为‘一角仰’，从角、韧声，引《易》"},
+	{"text": "其牛觡臣鉉等曰當从契", "bbox": [300, 505, 348, 845], "size": "24", "type": "character_entry", "comment": "补充说明‘觡’字的字形来源，引臣鉉等观点"},
+	{"text": "省乃得聲", "bbox": [248, 273, 292, 385], "size": "24", "type": "character_entry", "comment": "‘觡’字构形分析，省略部分得声"},
+	{"text": "觡 角傾也从角", "bbox": [248, 385, 292, 585], "size": "24", "type": "character_entry", "comment": "‘觡’字条目，解释为‘角倾’，从角"},
+	{"text": "虎聲 敕承切", "bbox": [200, 385, 245, 585], "size": "24", "type": "character_entry", "comment": "‘觡’字反切注音：虎声，敕承切"},
+	{"text": "觡 角一俛一仰也从", "bbox": [248, 585, 292, 845], "size": "24", "type": "character_entry", "comment": "‘觡’字条目，解释为‘角一俯一仰’，从角"},
+	{"text": "角奇聲 去奇切", "bbox": [200, 585, 245, 825], "size": "24", "type": "character_entry", "comment": "‘觡’字反切注音：角奇声，去奇切"},
+	{"text": "尺制切", "bbox": [198, 273, 240, 355], "size": "24", "type": "character_entry", "comment": "‘觡’字反切注音：尺制切"},
+	{"text": "大艸", "bbox": [168, 275, 190, 325], "size": "18", "type": "margin_note", "comment": "页边注，可能为部首或分类标记"},
+	{"text": "兌天四下", "bbox": [158, 410, 185, 485], "size": "18", "type": "margin_note", "comment": "页边注，可能为卷册或页码标记"},
+	{"text": "十二", "bbox": [158, 655, 185, 695], "size": "18", "type": "margin_note", "comment": "页边注，可能为页码或章节编号"},
+	{"text": "唐文", "bbox": [175, 790, 198, 825], "size": "18", "type": "margin_note", "comment": "页边注，可能为校勘或版本标记"}
+]
+```
