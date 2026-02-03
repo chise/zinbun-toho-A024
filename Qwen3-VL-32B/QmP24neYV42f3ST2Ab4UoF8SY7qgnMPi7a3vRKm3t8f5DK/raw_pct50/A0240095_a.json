@@ -1,0 +1,394 @@
+```json
+[
+	{
+		"text": "小三百七十九",
+		"bbox": [804, 273, 825, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言二十三",
+		"bbox": [805, 404, 827, 476],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一三",
+		"bbox": [815, 679, 834, 702],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "森慶",
+		"bbox": [805, 809, 827, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从",
+		"bbox": [763, 273, 794, 297],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訝",
+		"bbox": [724, 297, 802, 377],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "慰也从言夗",
+		"bbox": [758, 377, 802, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屈",
+		"bbox": [719, 273, 752, 301],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訝",
+		"bbox": [719, 301, 798, 375],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲於願切",
+		"bbox": [719, 377, 764, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从",
+		"bbox": [762, 508, 795, 533],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詣",
+		"bbox": [714, 533, 802, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "知處告言之从",
+		"bbox": [758, 594, 802, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "贖",
+		"bbox": [714, 738, 802, 801],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "流",
+		"bbox": [764, 801, 798, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言",
+		"bbox": [718, 828, 752, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从言夐",
+		"bbox": [657, 273, 699, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲火縣切",
+		"bbox": [613, 273, 657, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詆",
+		"bbox": [613, 381, 698, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奇也一曰訶也从",
+		"bbox": [657, 458, 699, 644],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隹",
+		"bbox": [613, 644, 698, 710],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "何也从言佳",
+		"bbox": [657, 710, 699, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲示隹切",
+		"bbox": [613, 710, 657, 823],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諌",
+		"bbox": [511, 273, 600, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飾也一曰更也从言",
+		"bbox": [556, 350, 599, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "革聲讀若戒古覈切",
+		"bbox": [511, 350, 556, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讕",
+		"bbox": [511, 563, 599, 634],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詆讕也从言",
+		"bbox": [556, 634, 599, 771],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "闌聲洛于切",
+		"bbox": [511, 634, 556, 771],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謁",
+		"bbox": [511, 771, 599, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讕或",
+		"bbox": [453, 273, 496, 322],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訢",
+		"bbox": [453, 322, 500, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "視也从言今聲直",
+		"bbox": [453, 404, 496, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从閒",
+		"bbox": [410, 273, 453, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訢",
+		"bbox": [410, 307, 496, 394],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刃切又之刃切",
+		"bbox": [410, 394, 453, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訢",
+		"bbox": [410, 563, 496, 660],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "悲聲也从言斯",
+		"bbox": [453, 660, 496, 812],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲先稽切",
+		"bbox": [410, 660, 453, 800],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詠",
+		"bbox": [307, 273, 400, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罪也从言尤聲周書",
+		"bbox": [352, 350, 398, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰報以庶說羽求切",
+		"bbox": [307, 350, 352, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "誅",
+		"bbox": [307, 563, 400, 644],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "討也从言朱",
+		"bbox": [352, 644, 398, 771],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲陟輸切",
+		"bbox": [307, 644, 352, 745],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詛",
+		"bbox": [307, 771, 400, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "治也从言从",
+		"bbox": [253, 273, 298, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詣",
+		"bbox": [253, 404, 298, 476],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "悉也从言音",
+		"bbox": [253, 476, 298, 614],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "田田",
+		"bbox": [253, 614, 298, 685],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禱也累功德以",
+		"bbox": [253, 685, 298, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "寸他皓切",
+		"bbox": [207, 273, 253, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詣",
+		"bbox": [207, 381, 253, 476],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲烏含切",
+		"bbox": [207, 476, 253, 586],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詣",
+		"bbox": [207, 586, 253, 677],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "求福論語云謁",
+		"bbox": [207, 677, 253, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰禱尔于上下神祇",
+		"bbox": [161, 273, 207, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "田",
+		"bbox": [161, 487, 207, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或不",
+		"bbox": [161, 542, 207, 614],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行之迹也从言",
+		"bbox": [161, 614, 207, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言纍省聲力軌切",
+		"bbox": [116, 273, 161, 491],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詣",
+		"bbox": [116, 491, 161, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省",
+		"bbox": [116, 563, 161, 600],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詣",
+		"bbox": [116, 600, 161, 685],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兮皿闕徐鍇曰",
+		"bbox": [116, 685, 161, 847],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
