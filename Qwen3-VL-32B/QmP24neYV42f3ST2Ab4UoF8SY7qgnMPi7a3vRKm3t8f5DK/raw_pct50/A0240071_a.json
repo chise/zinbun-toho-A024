@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "小三百九十",
+		"bbox": [806, 257, 823, 349],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文二下",
+		"bbox": [808, 398, 832, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "四",
+		"bbox": [813, 684, 833, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李明",
+		"bbox": [808, 806, 830, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行不相遇也从走牽聲",
+		"bbox": [753, 260, 798, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰挑兮達兮徒葛切",
+		"bbox": [720, 260, 750, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或曰迭",
+		"bbox": [717, 515, 747, 656],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "逐也从",
+		"bbox": [717, 671, 747, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行謹逯",
+		"bbox": [753, 671, 797, 762],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "連或从大",
+		"bbox": [753, 515, 797, 656],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走录聲",
+		"bbox": [661, 257, 692, 349],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迴迭也从走",
+		"bbox": [661, 364, 692, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "更迭也从走失聲",
+		"bbox": [661, 621, 692, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盧谷切",
+		"bbox": [604, 257, 635, 349],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "同聲徒弄切",
+		"bbox": [604, 364, 635, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰达徒結切",
+		"bbox": [604, 621, 635, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "惑也从走米",
+		"bbox": [550, 325, 581, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲莫兮切",
+		"bbox": [503, 325, 535, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "負連也从走",
+		"bbox": [550, 534, 581, 678],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从車力延切",
+		"bbox": [503, 534, 535, 678],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "歛聚也",
+		"bbox": [550, 770, 581, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走求",
+		"bbox": [503, 770, 535, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲虞書曰勿述孱功又",
+		"bbox": [450, 257, 481, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰怨匹曰逑巨鳩切",
+		"bbox": [404, 257, 435, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敕也从走貝聲周書口",
+		"bbox": [450, 534, 481, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "我興受其退薄邁切",
+		"bbox": [404, 534, 435, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兆也从走官",
+		"bbox": [357, 325, 388, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲胡玩切",
+		"bbox": [307, 325, 338, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "逭或从",
+		"bbox": [357, 534, 388, 634],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "崔从兆",
+		"bbox": [307, 534, 338, 634],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "逃也从走从",
+		"bbox": [357, 648, 388, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "豚徒困切",
+		"bbox": [307, 648, 338, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亡也从走甫",
+		"bbox": [254, 325, 285, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲博孤切",
+		"bbox": [204, 325, 235, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文逋",
+		"bbox": [254, 534, 285, 634],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从捕",
+		"bbox": [204, 534, 235, 634],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亡也从走賢",
+		"bbox": [254, 648, 285, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲以追切",
+		"bbox": [204, 648, 235, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亡也从走豕",
+		"bbox": [154, 325, 185, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徐醉切",
+		"bbox": [104, 325, 135, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [154, 534, 185, 634],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遂",
+		"bbox": [104, 534, 135, 634],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亡也从走兆",
+		"bbox": [154, 648, 185, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒刀切",
+		"bbox": [104, 648, 135, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
