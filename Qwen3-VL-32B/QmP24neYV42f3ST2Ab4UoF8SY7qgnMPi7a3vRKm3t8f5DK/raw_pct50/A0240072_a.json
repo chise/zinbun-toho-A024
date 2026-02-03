@@ -1,0 +1,226 @@
+```json
+[
+	{
+		"text": "小三百十四",
+		"bbox": [805, 269, 827, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文二",
+		"bbox": [807, 405, 832, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "五",
+		"bbox": [814, 687, 836, 705],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "任三",
+		"bbox": [807, 807, 832, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "連遶也从辵",
+		"bbox": [754, 270, 802, 399],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "娄聲洛侯切",
+		"bbox": [720, 270, 769, 399],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "前頡也从辵市聲賈侍中說",
+		"bbox": [754, 400, 802, 764],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一讀若拾又若郅北末切",
+		"bbox": [720, 400, 769, 733],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迦互令不得行也从辵枷聲徐鍇曰",
+		"bbox": [652, 270, 702, 631],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迦互猶犬牙左右相制也古牙切",
+		"bbox": [615, 270, 665, 602],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不戉王",
+		"bbox": [551, 270, 599, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "通也从辵呈聲楚謂疾行為逞",
+		"bbox": [551, 345, 599, 716],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "伐切",
+		"bbox": [511, 270, 559, 320],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "春秋傳曰何所不逞欲丑郢切",
+		"bbox": [511, 345, 559, 787],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从辵蔡聲",
+		"bbox": [454, 270, 502, 369],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "洛簫切",
+		"bbox": [416, 270, 465, 339],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遼也从辵袁",
+		"bbox": [454, 370, 502, 567],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲雲阮切",
+		"bbox": [416, 370, 465, 567],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [454, 654, 502, 705],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遠",
+		"bbox": [416, 584, 465, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遠也从辵",
+		"bbox": [454, 705, 502, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "狄聲他",
+		"bbox": [359, 270, 407, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "歷切",
+		"bbox": [321, 270, 369, 320],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [359, 423, 407, 473],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "逃",
+		"bbox": [321, 423, 369, 463],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遠也从辵同",
+		"bbox": [359, 555, 407, 665],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲戶穎切",
+		"bbox": [321, 555, 369, 665],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遠也从",
+		"bbox": [359, 705, 407, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辵卓聲",
+		"bbox": [321, 705, 369, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰蹇也讀若棹苕之棹臣鉉等",
+		"bbox": [264, 270, 312, 591],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "案棹苕今無此語未詳敕角切",
+		"bbox": [226, 270, 274, 582],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "避也从辵于",
+		"bbox": [264, 690, 312, 824],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲憶俱切",
+		"bbox": [226, 690, 274, 824],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "自進極也从辵",
+		"bbox": [168, 349, 216, 506],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聿聲子僊切",
+		"bbox": [130, 349, 178, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "高平之野人所登从",
+		"bbox": [168, 584, 216, 795],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辵备录闞愚袁切",
+		"bbox": [130, 584, 178, 772],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
