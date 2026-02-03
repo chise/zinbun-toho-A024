@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "小三九丄", "bbox": [807, 263, 825, 309], "type": "text", "comment": ""},
+	{"text": "言文二十", "bbox": [807, 394, 834, 484], "type": "text", "comment": ""},
+	{"text": "十三", "bbox": [814, 671, 834, 709], "type": "text", "comment": ""},
+	{"text": "任三", "bbox": [807, 806, 834, 832], "type": "text", "comment": ""},
+	{"text": "張口皃从口", "bbox": [764, 339, 798, 447], "type": "text", "comment": ""},
+	{"text": "牙聲許加切", "bbox": [721, 341, 755, 471], "type": "text", "comment": ""},
+	{"text": "文十新附", "bbox": [719, 591, 790, 725], "type": "text", "comment": ""},
+	{"text": "口犯", "bbox": [675, 794, 697, 837], "type": "text", "comment": ""},
+	{"text": "張口也象形凡口之屬皆从口切", "bbox": [619, 341, 689, 819], "type": "text", "comment": ""},
+	{"text": "文一", "bbox": [515, 460, 586, 534], "type": "text", "comment": ""},
+	{"text": "驚嘑也从二口凡口之屬皆从口", "bbox": [413, 339, 485, 843], "type": "text", "comment": ""},
+	{"text": "讀若讙臣鉉等曰或通用讙今俗別作喧非是況袁切", "bbox": [308, 341, 381, 724], "type": "text", "comment": ""},
+	{"text": "亂也从交工交如一曰窑豎讀若禳徐鍇曰二口噂沓也爻物相交質也工人所作也己象交", "bbox": [252, 341, 294, 841], "type": "text", "comment": ""},
+	{"text": "構形女籒文", "bbox": [152, 262, 188, 484], "type": "text", "comment": ""},
+	{"text": "庚切", "bbox": [105, 262, 140, 312], "type": "text", "comment": ""},
+	{"text": "嚴聲語欽切", "bbox": [105, 578, 140, 700], "type": "text", "comment": ""},
+	{"text": "敎命急也从口", "bbox": [154, 568, 188, 729], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [154, 814, 188, 843], "type": "text", "comment": ""}
+]
+```
