@@ -1,0 +1,9 @@
+```json
+[
+	{"text": "說文解字弟一下", "bbox": [614, 263, 695, 520], "type": "title", "comment": "书名及卷次"},
+	{"text": "小住", "bbox": [807, 265, 830, 325], "type": "annotation", "comment": "可能为页码或批注"},
+	{"text": "信下二", "bbox": [810, 400, 835, 469], "type": "annotation", "comment": "可能为章节或页码标记"},
+	{"text": "孫佩", "bbox": [809, 797, 833, 842], "type": "signature", "comment": "作者或抄写者署名"},
+	{"text": "一", "bbox": [820, 663, 835, 685], "type": "number", "comment": "页码或序号"}
+]
+```

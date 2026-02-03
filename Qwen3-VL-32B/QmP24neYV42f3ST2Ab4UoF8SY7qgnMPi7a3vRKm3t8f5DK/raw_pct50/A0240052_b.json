@@ -1,0 +1,166 @@
+```json
+[
+	{
+		"text": "半體肉也一曰廣肉从",
+		"bbox": [859, 352, 901, 590],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "半从肉半亦聲普半切",
+		"bbox": [806, 354, 850, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文三",
+		"bbox": [715, 472, 788, 556],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牛大牲也牛件也件事理也象角頭",
+		"bbox": [614, 276, 693, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三封尾之形凡牛之屬皆从牛",
+		"bbox": [513, 354, 588, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徐锴",
+		"bbox": [555, 799, 591, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰件",
+		"bbox": [506, 799, 542, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若言物一件二件也",
+		"bbox": [453, 363, 495, 575],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "封高起也語求切",
+		"bbox": [401, 363, 442, 546],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "畜父也从牛",
+		"bbox": [363, 363, 396, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "土聲莫厚切",
+		"bbox": [301, 363, 344, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "特牛也从牛",
+		"bbox": [363, 570, 396, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "岡聲古郎切",
+		"bbox": [301, 570, 344, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "朴特",
+		"bbox": [363, 797, 396, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牛父",
+		"bbox": [301, 797, 344, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从牛寺",
+		"bbox": [249, 277, 291, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒得切",
+		"bbox": [197, 277, 240, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "畜母也从牛匕聲易",
+		"bbox": [249, 475, 291, 671],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰畜牝牛吉毗忍切",
+		"bbox": [197, 475, 240, 671],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牛子",
+		"bbox": [249, 797, 291, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [197, 797, 240, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "半也从半反",
+		"bbox": [859, 665, 901, 770],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲薄半切",
+		"bbox": [806, 665, 850, 770],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大廿四",
+		"bbox": [165, 276, 188, 319],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌文下",
+		"bbox": [165, 410, 188, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三",
+		"bbox": [165, 694, 188, 717],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "萬松",
+		"bbox": [165, 810, 188, 849],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

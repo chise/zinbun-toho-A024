@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "六十九", "bbox": [165, 264, 189, 307], "type": "text", "comment": ""},
+	{"text": "說文二上", "bbox": [162, 402, 188, 486], "type": "text", "comment": ""},
+	{"text": "二", "bbox": [162, 680, 185, 701], "type": "text", "comment": ""},
+	{"text": "史悠", "bbox": [164, 810, 189, 844], "type": "text", "comment": ""},
+	{"text": "从意也从八", "bbox": [852, 353, 895, 463], "type": "text", "comment": ""},
+	{"text": "豕聲徐醉切", "bbox": [803, 353, 848, 479], "type": "text", "comment": ""},
+	{"text": "多言也从言从八从亼臣", "bbox": [853, 584, 899, 826], "type": "text", "comment": ""},
+	{"text": "鉉等曰亼高也八分也多", "bbox": [803, 584, 849, 826], "type": "text", "comment": ""},
+	{"text": "故可分也", "bbox": [752, 266, 797, 361], "type": "text", "comment": ""},
+	{"text": "畫也从八从人人", "bbox": [752, 450, 797, 634], "type": "text", "comment": ""},
+	{"text": "職廉切", "bbox": [702, 266, 747, 342], "type": "text", "comment": ""},
+	{"text": "各有介古拜切", "bbox": [702, 450, 747, 610], "type": "text", "comment": ""},
+	{"text": "分也从重八", "bbox": [752, 706, 797, 844], "type": "text", "comment": ""},
+	{"text": "八別也亦聲", "bbox": [702, 706, 747, 848], "type": "text", "comment": ""},
+	{"text": "孝經說曰故上", "bbox": [650, 266, 695, 402], "type": "text", "comment": ""},
+	{"text": "平分也从八从厶音八猶背", "bbox": [650, 508, 695, 795], "type": "text", "comment": ""},
+	{"text": "下有別兵例切", "bbox": [600, 266, 645, 414], "type": "text", "comment": ""},
+	{"text": "也韓非曰背厶爲公古紅切", "bbox": [600, 508, 645, 795], "type": "text", "comment": ""},
+	{"text": "分極也从八弋", "bbox": [550, 353, 595, 508], "type": "text", "comment": ""},
+	{"text": "弋亦聲卑吉切", "bbox": [500, 353, 545, 508], "type": "text", "comment": ""},
+	{"text": "語之舒也从八", "bbox": [550, 584, 595, 733], "type": "text", "comment": ""},
+	{"text": "舍省聲以諸切", "bbox": [500, 584, 545, 742], "type": "text", "comment": ""},
+	{"text": "二余也讀", "bbox": [450, 266, 495, 376], "type": "text", "comment": ""},
+	{"text": "與余同", "bbox": [400, 266, 445, 344], "type": "text", "comment": ""},
+	{"text": "文十二", "bbox": [414, 462, 482, 576], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [414, 656, 482, 769], "type": "text", "comment": ""},
+	{"text": "辨別也象獸指爪分別也凡釆之", "bbox": [307, 346, 381, 844], "type": "text", "comment": ""},
+	{"text": "屬皆从釆讀若辨蒲覓切", "bbox": [205, 346, 278, 678], "type": "text", "comment": ""}
+]
+```

@@ -1,0 +1,136 @@
+```json
+[
+	{
+		"text": "小學09",
+		"bbox": [805, 263, 834, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文三上",
+		"bbox": [805, 402, 836, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴華",
+		"bbox": [805, 802, 834, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之屬皆从小私兆",
+		"bbox": [717, 357, 791, 617],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [717, 554, 752, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不多也从小",
+		"bbox": [657, 350, 698, 465],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人聲書沼切",
+		"bbox": [609, 357, 652, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "少也从小八聲",
+		"bbox": [657, 568, 698, 730],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若輟子結切",
+		"bbox": [609, 568, 652, 727],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文三",
+		"bbox": [521, 423, 582, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "別也象分別相背之形凡八之屬",
+		"bbox": [413, 348, 484, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皆从八博挍",
+		"bbox": [317, 341, 383, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [311, 449, 347, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "別也从八从刀刀以",
+		"bbox": [256, 341, 295, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "分別物也甫文切",
+		"bbox": [206, 341, 245, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詞之必然也从八丨",
+		"bbox": [256, 636, 295, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "八八象气之分散兒",
+		"bbox": [206, 636, 245, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "氏",
+		"bbox": [172, 266, 197, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詞之舒也从八从",
+		"bbox": [155, 379, 195, 559],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日四聲昨稜切",
+		"bbox": [104, 379, 144, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曾也庶幾也从",
+		"bbox": [155, 645, 195, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "八向聲時亮切",
+		"bbox": [104, 645, 144, 798],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
