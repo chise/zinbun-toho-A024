@@ -1,0 +1,256 @@
+```json
+[
+	{
+		"text": "小篆古",
+		"bbox": [807, 279, 836, 333],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言",
+		"bbox": [815, 407, 840, 437],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二",
+		"bbox": [818, 658, 840, 675],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李云",
+		"bbox": [815, 793, 838, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "跟或",
+		"bbox": [725, 791, 762, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从止",
+		"bbox": [725, 791, 762, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足也从足虎",
+		"bbox": [770, 359, 809, 467],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲杜兮切",
+		"bbox": [719, 359, 759, 467],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足踵也从足",
+		"bbox": [770, 571, 809, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "見聲古痕切",
+		"bbox": [719, 571, 759, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足踝也从足",
+		"bbox": [668, 359, 707, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "果聲胡瓦切",
+		"bbox": [616, 359, 655, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足下也从足",
+		"bbox": [668, 571, 707, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石聲之石切",
+		"bbox": [616, 571, 655, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一足",
+		"bbox": [668, 791, 707, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [616, 791, 655, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足奇聲",
+		"bbox": [563, 278, 602, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "去奇切",
+		"bbox": [511, 278, 550, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "拜也从足危",
+		"bbox": [563, 446, 602, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲去委切",
+		"bbox": [511, 446, 550, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "長跪也从足",
+		"bbox": [563, 672, 602, 803],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "忌聲渠几切",
+		"bbox": [511, 672, 550, 803],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行平易也从足叔聲詩",
+		"bbox": [459, 359, 498, 597],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰踧踧周道子六切",
+		"bbox": [407, 359, 446, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行兒从足瞿",
+		"bbox": [459, 672, 498, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲其俱切",
+		"bbox": [407, 672, 446, 789],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "長脛行也从足昔聲",
+		"bbox": [355, 359, 394, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰踧踖資昔切",
+		"bbox": [303, 359, 342, 543],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疏行兒从足禹聲",
+		"bbox": [355, 653, 394, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰獨行踽踽區",
+		"bbox": [303, 653, 342, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "主",
+		"bbox": [251, 278, 289, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [251, 278, 289, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行兒从足將聲詩曰",
+		"bbox": [251, 385, 289, 597],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "管聲蹡蹡七羊切",
+		"bbox": [251, 385, 289, 567],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "踐處也从足斷",
+		"bbox": [251, 755, 289, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "首聲徒管切",
+		"bbox": [251, 672, 289, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "趣越兒从足",
+		"bbox": [152, 350, 191, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卜聲芳遇切",
+		"bbox": [100, 350, 139, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "越也从足俞",
+		"bbox": [152, 558, 191, 670],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲羊朱切",
+		"bbox": [100, 558, 139, 664],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "輕也从",
+		"bbox": [152, 763, 191, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足戌聲",
+		"bbox": [100, 763, 139, 842],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
