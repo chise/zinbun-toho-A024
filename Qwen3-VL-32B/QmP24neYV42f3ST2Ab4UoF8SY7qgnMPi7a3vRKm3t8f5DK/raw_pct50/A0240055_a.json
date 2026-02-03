@@ -1,0 +1,130 @@
+```json
+[
+	{
+		"text": "小二酉寒五",
+		"bbox": [804, 265, 829, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文一上",
+		"bbox": [811, 400, 837, 473],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壬",
+		"bbox": [814, 675, 835, 696],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "任三",
+		"bbox": [807, 805, 831, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口从牛易曰僮牛之告凡告之屬",
+		"bbox": [723, 353, 794, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皆从告古奥切",
+		"bbox": [618, 352, 690, 499],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "急告之甚也从告",
+		"bbox": [558, 345, 600, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "學省聲苦沃切",
+		"bbox": [512, 344, 554, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [518, 650, 585, 724],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口人所以言食也象形凡口之屬皆",
+		"bbox": [418, 278, 488, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从口苦后切",
+		"bbox": [316, 347, 392, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "喫吼也从口敫聲一",
+		"bbox": [253, 352, 305, 520],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰噭呼也古弔切",
+		"bbox": [214, 351, 254, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "喙喙也从口蜀",
+		"bbox": [255, 623, 305, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲陟救切",
+		"bbox": [215, 623, 255, 724],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口也从口彖",
+		"bbox": [170, 268, 200, 399],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲許穢切",
+		"bbox": [108, 265, 147, 371],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口邊也从口",
+		"bbox": [164, 484, 198, 609],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "勿聲武粉切",
+		"bbox": [107, 485, 147, 611],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "吻吻或从",
+		"bbox": [164, 675, 198, 753],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肉从昬",
+		"bbox": [108, 684, 147, 768],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
