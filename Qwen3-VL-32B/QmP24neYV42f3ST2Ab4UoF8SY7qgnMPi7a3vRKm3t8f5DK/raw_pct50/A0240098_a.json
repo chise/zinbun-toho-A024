@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "小言4-1", "bbox": [796, 260, 822, 315], "type": "text", "comment": ""},
+	{"text": "一五", "bbox": [812, 648, 835, 677], "type": "text", "comment": ""},
+	{"text": "李云", "bbox": [803, 797, 827, 840], "type": "text", "comment": ""},
+	{"text": "屬皆从業臣鉉等曰瀆讀爲煩瀆之瀆一本", "bbox": [711, 337, 798, 843], "type": "text", "comment": ""},
+	{"text": "注云辠衆多也兩手奉之是煩瀆", "bbox": [711, 493, 754, 842], "type": "text", "comment": ""},
+	{"text": "也蒲", "bbox": [642, 338, 691, 397], "type": "text", "comment": ""},
+	{"text": "沃切", "bbox": [609, 340, 649, 397], "type": "text", "comment": ""},
+	{"text": "給事者从人从業", "bbox": [553, 341, 597, 508], "type": "text", "comment": ""},
+	{"text": "業亦聲蒲沃切", "bbox": [505, 341, 546, 504], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [553, 616, 598, 658], "type": "text", "comment": ""},
+	{"text": "賦事也", "bbox": [554, 758, 598, 838], "type": "text", "comment": ""},
+	{"text": "从臣", "bbox": [506, 617, 547, 657], "type": "text", "comment": ""},
+	{"text": "从業从", "bbox": [505, 760, 547, 827], "type": "text", "comment": ""},
+	{"text": "八八分之也八亦聲讀若", "bbox": [456, 261, 498, 534], "type": "text", "comment": ""},
+	{"text": "頒一曰讀若非布還切", "bbox": [403, 260, 446, 507], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [317, 407, 375, 502], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [316, 611, 375, 662], "type": "text", "comment": ""},
+	{"text": "辣手也从中从又凡丬之屬皆从", "bbox": [212, 337, 286, 837], "type": "text", "comment": ""},
+	{"text": "丬居竦切今", "bbox": [116, 341, 192, 501], "type": "text", "comment": ""},
+	{"text": "變隸作丬", "bbox": [101, 390, 145, 495], "type": "text", "comment": ""}
+]
+```
