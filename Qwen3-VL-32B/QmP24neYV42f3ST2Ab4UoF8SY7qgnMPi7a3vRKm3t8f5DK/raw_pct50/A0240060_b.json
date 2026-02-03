@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "詩曰尚寐無",
+		"bbox": [850, 269, 897, 403],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "咲五禾切",
+		"bbox": [817, 269, 862, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚍口嗛也从口替",
+		"bbox": [853, 405, 899, 609],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲子荅切",
+		"bbox": [817, 485, 863, 593],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文聲易曰以",
+		"bbox": [817, 708, 863, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "恨惜也从口",
+		"bbox": [853, 708, 899, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "往吝臣鉉等曰今俗",
+		"bbox": [754, 269, 799, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "別作恡非是良刃切",
+		"bbox": [716, 269, 761, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文吝",
+		"bbox": [754, 557, 799, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "異辭也从",
+		"bbox": [754, 719, 799, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从彡",
+		"bbox": [716, 566, 761, 600],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口夕夕者",
+		"bbox": [716, 738, 761, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "有行而止之不",
+		"bbox": [658, 269, 703, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相聽也古洛切",
+		"bbox": [619, 269, 664, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不也从口从",
+		"bbox": [658, 514, 703, 638],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不方九切",
+		"bbox": [619, 514, 664, 619],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弔生也从口",
+		"bbox": [658, 686, 703, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言聲詩曰歸",
+		"bbox": [619, 714, 664, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唁衛侯",
+		"bbox": [561, 269, 606, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "魚變切",
+		"bbox": [522, 269, 567, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "閔也从口衣",
+		"bbox": [561, 485, 606, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲烏開切",
+		"bbox": [522, 427, 567, 539],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "號也从口虎",
+		"bbox": [561, 644, 606, 779],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲杜兮切",
+		"bbox": [522, 644, 567, 752],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "歐兒从口殼聲春秋傳",
+		"bbox": [464, 349, 509, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰君將鼓之許角切",
+		"bbox": [425, 349, 470, 559],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口戾不正也从",
+		"bbox": [464, 681, 509, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口冎聲苦媧切",
+		"bbox": [425, 681, 470, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嘆也从口叔",
+		"bbox": [368, 343, 413, 478],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲前歷切",
+		"bbox": [329, 343, 374, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "呶嘆也从口",
+		"bbox": [368, 569, 413, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "莫聲莫各切",
+		"bbox": [329, 569, 374, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "塞口",
+		"bbox": [368, 798, 413, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [329, 804, 374, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口耳省聲耳",
+		"bbox": [271, 271, 316, 405],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "音厥古活切",
+		"bbox": [232, 271, 277, 405],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [271, 485, 316, 516],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从甘",
+		"bbox": [232, 485, 277, 534],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "使犬聲从口族聲春秋",
+		"bbox": [271, 608, 316, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰公嗾夫獒蘇奏切",
+		"bbox": [232, 615, 277, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大卅二",
+		"bbox": [170, 269, 195, 302],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌文二上",
+		"bbox": [165, 405, 190, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十二",
+		"bbox": [165, 663, 190, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "史攸",
+		"bbox": [170, 812, 195, 847],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
