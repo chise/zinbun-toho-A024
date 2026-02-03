@@ -1,0 +1,196 @@
+```json
+[
+	{
+		"text": "小三百二十一",
+		"bbox": [806, 265, 830, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "散走也从辵",
+		"bbox": [759, 267, 806, 362],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "并聲北諍切",
+		"bbox": [711, 267, 759, 362],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "迢逓也从辵",
+		"bbox": [662, 267, 711, 362],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "召聲徒聊切",
+		"bbox": [613, 267, 662, 362],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "字林所加",
+		"bbox": [565, 267, 613, 362],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相邀切",
+		"bbox": [517, 267, 565, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "跳也過也从辵",
+		"bbox": [759, 363, 806, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秀聲他候切",
+		"bbox": [711, 363, 759, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "逍遙也又遠也从",
+		"bbox": [662, 363, 711, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鉉等案詩只用消搖此二字",
+		"bbox": [613, 363, 662, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辵缶聲余招切",
+		"bbox": [565, 363, 613, 606],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文十三",
+		"bbox": [517, 657, 595, 772],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "新附",
+		"bbox": [555, 787, 595, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "巡也从辵羅",
+		"bbox": [759, 459, 806, 554],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲郎左切",
+		"bbox": [711, 459, 759, 536],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "逍遥猶翺翔也从辵肖聲臣",
+		"bbox": [662, 459, 711, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小步也象人脛三屬相連也凡彳",
+		"bbox": [418, 267, 492, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之屬皆从彳",
+		"bbox": [321, 348, 390, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丑亦",
+		"bbox": [374, 563, 398, 611],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [314, 563, 348, 589],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "升也从彳惠",
+		"bbox": [250, 348, 300, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲多則切",
+		"bbox": [210, 348, 250, 452],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "步道也从彳巠聲徐鍇曰道",
+		"bbox": [250, 554, 300, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不容車故曰步道居正切",
+		"bbox": [210, 554, 250, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "往來也从彳",
+		"bbox": [164, 348, 204, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夏聲房六切",
+		"bbox": [106, 348, 150, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "復也从彳从柔",
+		"bbox": [164, 554, 204, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "柔亦聲人九切",
+		"bbox": [106, 554, 150, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徑行",
+		"bbox": [164, 768, 204, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [106, 768, 150, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "任三",
+		"bbox": [812, 807, 832, 832],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
