@@ -1,0 +1,64 @@
+```json
+[
+	{
+		"text": "說文解字弟二上漢太尉祭酒許愼記",
+		"bbox": [815, 264, 893, 820],
+		"type": "title",
+		"comment": "书名及作者信息"
+	},
+	{
+		"text": "銀青光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉",
+		"bbox": [725, 286, 778, 848],
+		"type": "author_info",
+		"comment": "校订者官职与姓名"
+	},
+	{
+		"text": "敕校定",
+		"bbox": [626, 287, 671, 350],
+		"type": "note",
+		"comment": "敕命校订"
+	},
+	{
+		"text": "三十部六百九十三文重八十八",
+		"bbox": [514, 298, 586, 809],
+		"type": "content_summary",
+		"comment": "部首、字数统计"
+	},
+	{
+		"text": "凡八千四百九十八字",
+		"bbox": [410, 372, 487, 682],
+		"type": "content_summary",
+		"comment": "总字数"
+	},
+	{
+		"text": "文三十四新附",
+		"bbox": [312, 372, 384, 578],
+		"type": "content_summary",
+		"comment": "新增字数"
+	},
+	{
+		"text": "川物之微也从八丨見而分之凡小",
+		"bbox": [207, 267, 285, 848],
+		"type": "dictionary_entry",
+		"comment": "《说文》正文条目，解释“川”字"
+	},
+	{
+		"text": "史悠",
+		"bbox": [167, 804, 195, 843],
+		"type": "annotation",
+		"comment": "页码或注记"
+	},
+	{
+		"text": "兒文二上",
+		"bbox": [156, 401, 186, 488],
+		"type": "annotation",
+		"comment": "卷次或章节标记"
+	},
+	{
+		"text": "大八",
+		"bbox": [167, 264, 193, 293],
+		"type": "annotation",
+		"comment": "页码或编号"
+	}
+]
+```
