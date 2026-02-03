@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小言三", "bbox": [807, 273, 828, 322], "size": "small", "type": "label", "comment": "页码或章节标记"},
+	{"text": "往也讀若仍臣鉉等曰", "bbox": [755, 273, 799, 507], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "鹵非聲未詳如乘切", "bbox": [705, 273, 752, 495], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "若攸以", "bbox": [653, 273, 697, 345], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "周切", "bbox": [605, 273, 648, 325], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "文三", "bbox": [612, 488, 687, 574], "size": "large", "type": "heading", "comment": "正文标题"},
+	{"text": "重三", "bbox": [612, 634, 687, 721], "size": "large", "type": "heading", "comment": "正文标题"},
+	{"text": "丁气欲舒出勺上礙於一也丂古文", "bbox": [504, 273, 591, 846], "size": "large", "type": "text", "comment": "主要文字内容"},
+	{"text": "以為丂字又以為巧字凡丂之屬", "bbox": [405, 353, 484, 846], "size": "large", "type": "text", "comment": "主要文字内容"},
+	{"text": "皆从丂苦浩", "bbox": [310, 347, 388, 519], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "切", "bbox": [309, 467, 350, 495], "size": "small", "type": "text", "comment": "注音或切音"},
+	{"text": "丂", "bbox": [208, 267, 290, 350], "size": "large", "type": "character", "comment": "汉字字符"},
+	{"text": "亟詞也从丂从由或曰丂俠也三輔謂輕財者", "bbox": [250, 350, 294, 820], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "為丂臣鉉等曰由用也任俠用气也普丁切", "bbox": [200, 350, 244, 795], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "願詞也从丂", "bbox": [151, 353, 194, 488], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "宀聲奴丁切", "bbox": [102, 353, 145, 488], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "丁", "bbox": [108, 495, 190, 567], "size": "large", "type": "character", "comment": "汉字字符"},
+	{"text": "反丂也讀若", "bbox": [151, 570, 194, 702], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "呵虎何切", "bbox": [102, 570, 145, 670], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "文四", "bbox": [108, 727, 180, 807], "size": "large", "type": "heading", "comment": "正文标题"},
+	{"text": "古文", "bbox": [755, 595, 799, 655], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "气行兒从", "bbox": [755, 720, 799, 845], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "乃鹵聲讀", "bbox": [705, 720, 752, 845], "size": "medium", "type": "text", "comment": "注释文字"},
+	{"text": "宏昌", "bbox": [799, 790, 820, 835], "size": "small", "type": "label", "comment": "可能为校勘者或出版者标记"},
+	{"text": "言文三", "bbox": [810, 407, 840, 480], "size": "small", "type": "label", "comment": "可能为章节或页码标记"}
+]
+```
