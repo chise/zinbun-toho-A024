@@ -1,0 +1,184 @@
+```json
+[
+	{
+		"text": "大二十三",
+		"bbox": [158, 263, 179, 294],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "止行也一曰竈上祭",
+		"bbox": [730, 267, 796, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "名从走畢聲甲吉切",
+		"bbox": [699, 267, 752, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "各自有曲从走",
+		"bbox": [651, 267, 702, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "是聲都兮切",
+		"bbox": [597, 267, 648, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "巨言",
+		"bbox": [545, 267, 588, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [503, 267, 539, 291],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文八十五",
+		"bbox": [503, 420, 578, 574],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [505, 651, 580, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "下基也象艸木出有址故以止為",
+		"bbox": [400, 267, 484, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足凡止之屬皆从止諸市",
+		"bbox": [300, 345, 381, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "跟也从止重",
+		"bbox": [249, 347, 283, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲之隴切",
+		"bbox": [192, 347, 235, 459],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壵",
+		"bbox": [193, 476, 282, 575],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "矩也从止尚",
+		"bbox": [249, 581, 283, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲丑庚切",
+		"bbox": [192, 581, 235, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "踖也",
+		"bbox": [251, 785, 286, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从止",
+		"bbox": [193, 785, 236, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "焦克",
+		"bbox": [165, 806, 187, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若顱都年切",
+		"bbox": [801, 347, 845, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "喪辟通从走",
+		"bbox": [855, 620, 894, 745],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角聲余隴切",
+		"bbox": [804, 597, 847, 745],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "進也从走斬",
+		"bbox": [752, 558, 796, 674],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲藏濫切",
+		"bbox": [702, 558, 745, 666],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "趕妻四",
+		"bbox": [755, 764, 797, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夷之舞",
+		"bbox": [699, 764, 745, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雀行也从走",
+		"bbox": [651, 517, 695, 648],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兆聲徒遼切",
+		"bbox": [599, 517, 644, 648],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舉尾走也",
+		"bbox": [652, 736, 697, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从走干聲",
+		"bbox": [598, 736, 644, 847],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
