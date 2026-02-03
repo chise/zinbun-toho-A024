@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "小一百廿七", "bbox": [820, 271, 840, 335], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "言三十二", "bbox": [825, 408, 848, 478], "size": "small", "type": "text", "comment": "部首或章节编号"},
+	{"text": "李子云", "bbox": [819, 799, 839, 850], "size": "small", "type": "text", "comment": "可能为校勘者或刻工名"},
+	{"text": "敇 擊馬也从攴 束聲楚革切", "bbox": [728, 270, 812, 478], "size": "large", "type": "header", "comment": "汉字“敇”的释义，含字形、字义、读音"},
+	{"text": "敓 小春也从攴 算聲初絫切", "bbox": [720, 480, 812, 698], "size": "large", "type": "header", "comment": "汉字“敓”的释义"},
+	{"text": "敠 聲田也 从攴堯", "bbox": [720, 700, 812, 850], "size": "large", "type": "header", "comment": "汉字“敠”的释义"},
+	{"text": "聲牽 遙切", "bbox": [627, 270, 710, 324], "size": "medium", "type": "text", "comment": "音韵注释"},
+	{"text": "文七十七 重六", "bbox": [627, 444, 699, 734], "size": "large", "type": "text", "comment": "字数统计，文七十七，重六"},
+	{"text": "效 上所施下所效也从攴从孝凡敎之屬皆从敎 古孝切", "bbox": [516, 269, 608, 848], "size": "large", "type": "header", "comment": "汉字“效”的释义，含字形、字义、读音及部首说明"},
+	{"text": "敎 古文 敎 亦古文敎 敎 覺悟也从敎从冂冂 尚矇也曰聲胡覺切", "bbox": [310, 269, 408, 848], "size": "large", "type": "header", "comment": "汉字“敎”的古文及释义"},
+	{"text": "學 篆文 學 省 文二 重二", "bbox": [215, 269, 305, 848], "size": "large", "type": "header", "comment": "汉字“學”的篆文及省文形式，文二重二"},
+	{"text": "卜 灼剥龜也象炎龜之形一曰象龜", "bbox": [115, 269, 200, 850], "size": "large", "type": "header", "comment": "汉字“卜”的释义，含字形、字义"}
+]
+```
