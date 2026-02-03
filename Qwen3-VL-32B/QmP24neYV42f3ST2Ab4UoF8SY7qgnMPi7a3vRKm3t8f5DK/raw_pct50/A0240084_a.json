@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "小二百廿六", "bbox": [804, 257, 823, 323], "type": "text", "comment": ""},
+	{"text": "讀若戢 切 阻立 又讀若呶", "bbox": [716, 342, 799, 686], "type": "text", "comment": ""},
+	{"text": "語聲也从品", "bbox": [658, 342, 696, 467], "type": "text", "comment": ""},
+	{"text": "臣聲語巾切", "bbox": [612, 342, 649, 472], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [664, 553, 699, 605], "type": "text", "comment": ""},
+	{"text": "聲也气出頭上", "bbox": [664, 684, 703, 849], "type": "text", "comment": ""},
+	{"text": "从品从頁頁首", "bbox": [611, 684, 651, 849], "type": "text", "comment": ""},
+	{"text": "也許", "bbox": [565, 265, 597, 307], "type": "text", "comment": ""},
+	{"text": "嬌切", "bbox": [511, 263, 550, 310], "type": "text", "comment": ""},
+	{"text": "省", "bbox": [515, 391, 548, 417], "type": "text", "comment": ""},
+	{"text": "高聲也一曰大呼也从品丿聲", "bbox": [562, 525, 599, 849], "type": "text", "comment": ""},
+	{"text": "春秋公羊傳曰魯昭公叫然而", "bbox": [508, 251, 551, 849], "type": "text", "comment": ""},
+	{"text": "哭古", "bbox": [457, 263, 491, 307], "type": "text", "comment": ""},
+	{"text": "吥切", "bbox": [405, 263, 444, 310], "type": "text", "comment": ""},
+	{"text": "呼也从品覓聲", "bbox": [457, 396, 493, 565], "type": "text", "comment": ""},
+	{"text": "讀若讙呼官切", "bbox": [405, 398, 444, 565], "type": "text", "comment": ""},
+	{"text": "皿也象器之口犬", "bbox": [457, 655, 494, 849], "type": "text", "comment": ""},
+	{"text": "所以守之去冀切", "bbox": [405, 655, 444, 849], "type": "text", "comment": ""},
+	{"text": "文六 重二", "bbox": [316, 407, 383, 643], "type": "text", "comment": ""},
+	{"text": "舌 在口所以言也別味也从干从口", "bbox": [214, 263, 290, 849], "type": "text", "comment": ""},
+	{"text": "千亦聲凡舌之屬皆从舌", "bbox": [107, 347, 184, 735], "type": "text", "comment": ""},
+	{"text": "徐鍇曰凡物入口必", "bbox": [110, 746, 185, 851], "type": "text", "comment": ""},
+	{"text": "楊永", "bbox": [809, 807, 832, 843], "type": "text", "comment": ""}
+]
+```
