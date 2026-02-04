@@ -1,0 +1,262 @@
+```json
+[
+	{
+		"text": "小三上",
+		"bbox": [803, 267, 825, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文三",
+		"bbox": [809, 397, 834, 476],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二",
+		"bbox": [815, 664, 834, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "缪春",
+		"bbox": [805, 797, 828, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蓋杠絲也从革旨聲徐錯",
+		"bbox": [751, 343, 799, 600],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰絲其繫系也脂利切",
+		"bbox": [712, 343, 751, 598],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "車駕具也从革",
+		"bbox": [766, 687, 803, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皮聲平祕切",
+		"bbox": [712, 687, 751, 820],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "轡翰从革弇聲讀若麿",
+		"bbox": [667, 343, 706, 598],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰龍頭繞者烏合切",
+		"bbox": [606, 343, 645, 598],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "轡革也从革",
+		"bbox": [656, 668, 694, 801],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "巴聲必駕切",
+		"bbox": [606, 668, 645, 801],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "著披斡也从革",
+		"bbox": [551, 343, 591, 506],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "顯聲呼典切",
+		"bbox": [500, 343, 540, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "當膺也从革",
+		"bbox": [551, 585, 591, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "斤聲居近切",
+		"bbox": [500, 585, 540, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "具",
+		"bbox": [500, 818, 540, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "驟",
+		"bbox": [551, 818, 591, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从革虫聲讀",
+		"bbox": [448, 267, 488, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若騁蜃丑鄧切",
+		"bbox": [400, 267, 440, 416],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "引軸也从革",
+		"bbox": [448, 506, 488, 632],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "引聲余忍切",
+		"bbox": [400, 506, 440, 632],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [448, 703, 488, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "靷",
+		"bbox": [400, 703, 440, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "車鞁具也从革",
+		"bbox": [350, 267, 390, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "官聲古滿切",
+		"bbox": [299, 267, 339, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "車鞁具也从革",
+		"bbox": [350, 506, 390, 665],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "豆聲田候切",
+		"bbox": [299, 506, 339, 643],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "軺内環靷",
+		"bbox": [350, 742, 390, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从革于",
+		"bbox": [299, 742, 339, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲羽",
+		"bbox": [250, 267, 290, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "車下索也从革",
+		"bbox": [250, 402, 290, 561],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "車具也从革",
+		"bbox": [250, 636, 290, 773],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奄聲烏合切",
+		"bbox": [200, 636, 240, 773],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俱切",
+		"bbox": [199, 267, 240, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "専聲補各切",
+		"bbox": [199, 402, 240, 540],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "輜",
+		"bbox": [199, 773, 240, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "車具也从革",
+		"bbox": [149, 267, 189, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬鞁具也从革",
+		"bbox": [149, 476, 189, 643],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蜜毳飾也从",
+		"bbox": [149, 718, 189, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "叕聲陟劣切",
+		"bbox": [100, 267, 140, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从安烏寒切",
+		"bbox": [100, 484, 140, 620],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "革昔聲而隴",
+		"bbox": [100, 718, 140, 852],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
