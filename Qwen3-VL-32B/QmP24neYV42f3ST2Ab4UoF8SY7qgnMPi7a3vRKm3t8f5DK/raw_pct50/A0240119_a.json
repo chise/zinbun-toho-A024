@@ -1,0 +1,11 @@
+```json
+[
+	{"text": "239", "bbox": [126, 187, 250, 240], "type": "handwritten", "comment": "Handwritten number in black ink"},
+	{"text": "五存", "bbox": [228, 270, 296, 379], "type": "handwritten", "comment": "Handwritten Chinese characters"},
+	{"text": "财", "bbox": [99, 294, 206, 385], "type": "handwritten", "comment": "Handwritten Chinese character"},
+	{"text": "小七十五", "bbox": [814, 268, 839, 317], "type": "printed", "comment": "Printed vertical text in small characters"},
+	{"text": "言文三一", "bbox": [818, 401, 847, 475], "type": "printed", "comment": "Printed vertical text"},
+	{"text": "十二", "bbox": [818, 672, 847, 700], "type": "printed", "comment": "Printed vertical text"},
+	{"text": "春高", "bbox": [815, 806, 840, 847], "type": "printed", "comment": "Printed vertical text"}
+]
+```

@@ -1,0 +1,94 @@
+```json
+[
+	{
+		"text": "說文解字弟三下",
+		"bbox": [296, 264, 378, 547],
+		"type": "title",
+		"comment": "书名及卷次"
+	},
+	{
+		"text": "文三　重一",
+		"bbox": [508, 410, 581, 644],
+		"type": "section_header",
+		"comment": "本页所载文字数量及重复标记"
+	},
+	{
+		"text": "二交也凡効之屬皆从効力几切",
+		"bbox": [805, 357, 892, 780],
+		"type": "definition",
+		"comment": "对“効”字的解释及所属部首说明"
+	},
+	{
+		"text": "麗兩猶靡麗也从冂从効其孔",
+		"bbox": [749, 351, 792, 653],
+		"type": "etymology",
+		"comment": "对“夲”字的构形和意义解释"
+	},
+	{
+		"text": "效尒聲此與爽同意兒氏切",
+		"bbox": [706, 351, 748, 640],
+		"type": "phonetic_and_meaning",
+		"comment": "音义说明，指出与“爽”同义"
+	},
+	{
+		"text": "曰大其中隙縫",
+		"bbox": [653, 267, 694, 428],
+		"type": "explanation",
+		"comment": "对“爽”字的引申义解释"
+	},
+	{
+		"text": "兌也疏兩切",
+		"bbox": [605, 267, 646, 408],
+		"type": "pronunciation",
+		"comment": "反切注音"
+	},
+	{
+		"text": "爽",
+		"bbox": [608, 427, 648, 546],
+		"type": "character",
+		"comment": "所释汉字"
+	},
+	{
+		"text": "篆文",
+		"bbox": [654, 514, 695, 571],
+		"type": "variant_form",
+		"comment": "标明为篆书字体"
+	},
+	{
+		"text": "明也从効",
+		"bbox": [752, 745, 793, 848],
+		"type": "meaning",
+		"comment": "补充解释字义"
+	},
+	{
+		"text": "从大徐锴",
+		"bbox": [707, 745, 748, 850],
+		"type": "source_reference",
+		"comment": "引用徐锴的说法"
+	},
+	{
+		"text": "大四",
+		"bbox": [155, 268, 180, 302],
+		"type": "page_marker",
+		"comment": "页码或卷册编号"
+	},
+	{
+		"text": "兑下三下",
+		"bbox": [148, 400, 176, 480],
+		"type": "location_marker",
+		"comment": "位置标记，可能指章节或段落"
+	},
+	{
+		"text": "十八",
+		"bbox": [152, 670, 179, 704],
+		"type": "page_number",
+		"comment": "页码"
+	},
+	{
+		"text": "袁和",
+		"bbox": [154, 804, 184, 848],
+		"type": "name_or_publisher",
+		"comment": "可能是刻工、校勘者或出版者姓名"
+	}
+]
+```
