@@ -1,0 +1,226 @@
+```json
+[
+	{
+		"text": "小二百十七",
+		"bbox": [806, 263, 827, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文四一",
+		"bbox": [814, 401, 835, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "景高",
+		"bbox": [806, 809, 827, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王矩",
+		"bbox": [756, 353, 790, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [713, 353, 746, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥之彊羽猛者从",
+		"bbox": [656, 337, 703, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽是聲居豉切",
+		"bbox": [609, 337, 656, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "天雞赤羽也从羽臤聲",
+		"bbox": [656, 606, 703, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "逸周書曰大翰若翬雉",
+		"bbox": [609, 606, 656, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一名鷃風周成王時",
+		"bbox": [564, 267, 600, 475],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蜀人獻之矦榦切",
+		"bbox": [511, 267, 556, 451],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山雉尾長者从",
+		"bbox": [564, 545, 600, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽从隹徒歷切",
+		"bbox": [511, 545, 556, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赤羽",
+		"bbox": [564, 725, 600, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雀也",
+		"bbox": [511, 798, 556, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "出鬱林从羽",
+		"bbox": [463, 267, 509, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "青羽雀也出鬱林",
+		"bbox": [463, 475, 509, 660],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽生也一",
+		"bbox": [463, 736, 509, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "非聲房未切",
+		"bbox": [411, 267, 456, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从羽卒聲七醉切",
+		"bbox": [411, 475, 456, 660],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日夭羽从",
+		"bbox": [411, 736, 456, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽前聲",
+		"bbox": [359, 267, 404, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頸毛也从羽",
+		"bbox": [359, 475, 404, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "翼也从羽支",
+		"bbox": [359, 651, 404, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "即淺切",
+		"bbox": [308, 267, 354, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "公聲烏紅切",
+		"bbox": [308, 437, 354, 570],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲施智切",
+		"bbox": [308, 651, 354, 768],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "翄或",
+		"bbox": [257, 341, 302, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "翅也从羽革",
+		"bbox": [257, 475, 302, 617],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尾長毛也从羽",
+		"bbox": [257, 689, 302, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从氏",
+		"bbox": [205, 341, 251, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲古翮切",
+		"bbox": [205, 475, 251, 599],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "堯聲渠遙切",
+		"bbox": [205, 689, 251, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽本也一日羽初生",
+		"bbox": [154, 341, 199, 568],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皃从羽矦聲乎溝切",
+		"bbox": [103, 341, 148, 568],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽莖也从羽",
+		"bbox": [154, 644, 199, 774],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鬲聲下革切",
+		"bbox": [103, 644, 148, 774],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
