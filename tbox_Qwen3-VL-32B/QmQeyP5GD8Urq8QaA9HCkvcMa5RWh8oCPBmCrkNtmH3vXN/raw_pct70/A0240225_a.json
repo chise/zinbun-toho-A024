@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "小三九二三", "bbox": [797, 245, 821, 305], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "文五十九 重三", "bbox": [710, 357, 788, 671], "size": "large", "type": "title", "comment": "章节标题"},
+	{"text": "孫佩", "bbox": [797, 804, 821, 845], "size": "small", "type": "text", "comment": "人名或校注者"},
+	{"text": "賜也从貝兄 聲許訪切", "bbox": [605, 253, 695, 448], "size": "medium", "type": "definition", "comment": "字义解释"},
+	{"text": "贈死者从貝从冒冒者 衣衾覆冒之意撫鳳切", "bbox": [605, 475, 695, 804], "size": "medium", "type": "definition", "comment": "字义解释"},
+	{"text": "博簍也从貝 者聲當古切", "bbox": [505, 253, 595, 470], "size": "medium", "type": "definition", "comment": "字义解释"},
+	{"text": "以物爲質也从 貝占聲他叶切", "bbox": [505, 475, 595, 718], "size": "medium", "type": "definition", "comment": "字义解释"},
+	{"text": "贈 遺", "bbox": [505, 735, 595, 845], "size": "medium", "type": "definition", "comment": "字义解释"},
+	{"text": "也从貝台聲經典 通用詒与之切", "bbox": [445, 253, 500, 420], "size": "medium", "type": "definition", "comment": "字义解释"},
+	{"text": "重買也錯也从 貝廉聲佇陷切", "bbox": [400, 445, 490, 695], "size": "medium", "type": "definition", "comment": "字义解释"},
+	{"text": "報也 从貝", "bbox": [400, 710, 490, 845], "size": "medium", "type": "definition", "comment": "字义解释"},
+	{"text": "塞省聲 助也从貝專 先代切 聲符遇切", "bbox": [325, 253, 395, 525], "size": "medium", "type": "definition", "comment": "字义解释"},
+	{"text": "給也从貝詹 聲時豔切", "bbox": [300, 555, 390, 770], "size": "medium", "type": "definition", "comment": "字义解释"},
+	{"text": "文九 新附", "bbox": [205, 357, 288, 498], "size": "medium", "type": "section", "comment": "新增字条"},
+	{"text": "國也从口先王之制尊卑有大小", "bbox": [100, 253, 180, 845], "size": "medium", "type": "definition", "comment": "字义解释"}
+]
+```
