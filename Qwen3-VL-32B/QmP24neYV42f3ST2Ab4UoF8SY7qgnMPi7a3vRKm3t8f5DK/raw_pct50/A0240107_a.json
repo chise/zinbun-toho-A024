@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小豆半", "bbox": [804, 267, 823, 315], "type": "text", "comment": ""},
+	{"text": "言三十三", "bbox": [804, 398, 828, 463], "type": "text", "comment": ""},
+	{"text": "亦有孫音故得爲聲一本", "bbox": [758, 267, 795, 524], "type": "text", "comment": ""},
+	{"text": "从燹說文無燹字撫文切", "bbox": [711, 267, 748, 524], "type": "text", "comment": ""},
+	{"text": "鬬也从鬥賓省聲", "bbox": [758, 527, 795, 793], "type": "text", "comment": ""},
+	{"text": "讀若賓匹賓切", "bbox": [711, 527, 748, 793], "type": "text", "comment": ""},
+	{"text": "恒訟也詩云兄弟鬨于牆从", "bbox": [652, 267, 690, 627], "type": "text", "comment": ""},
+	{"text": "鬥从兒兒善訟者也許激切", "bbox": [603, 267, 641, 627], "type": "text", "comment": ""},
+	{"text": "試力士錘也", "bbox": [652, 630, 690, 841], "type": "text", "comment": ""},
+	{"text": "从鬥从戈或", "bbox": [603, 630, 641, 841], "type": "text", "comment": ""},
+	{"text": "从戰省讀若", "bbox": [550, 267, 588, 395], "type": "text", "comment": ""},
+	{"text": "縣胡畎切", "bbox": [501, 267, 539, 367], "type": "text", "comment": ""},
+	{"text": "文十", "bbox": [512, 552, 580, 630], "type": "text", "comment": ""},
+	{"text": "不靜也从市", "bbox": [448, 345, 485, 452], "type": "text", "comment": ""},
+	{"text": "鬥奴敎切", "bbox": [400, 345, 437, 452], "type": "text", "comment": ""},
+	{"text": "文一 新附", "bbox": [411, 552, 489, 688], "type": "text", "comment": ""},
+	{"text": "手也象形三指者手之剡多略不", "bbox": [308, 345, 384, 841], "type": "text", "comment": ""},
+	{"text": "過三也凡又之屬皆从又", "bbox": [211, 345, 280, 700], "type": "text", "comment": ""},
+	{"text": "于救", "bbox": [256, 724, 293, 779], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [211, 724, 248, 750], "type": "text", "comment": ""},
+	{"text": "手口相助也从又从口臣鉉", "bbox": [158, 345, 194, 638], "type": "text", "comment": ""},
+	{"text": "等曰今俗別作佑于救切", "bbox": [100, 345, 136, 627], "type": "text", "comment": ""},
+	{"text": "臂上也从", "bbox": [158, 738, 194, 841], "type": "text", "comment": ""},
+	{"text": "又从古文", "bbox": [100, 738, 136, 841], "type": "text", "comment": ""},
+	{"text": "李云", "bbox": [804, 790, 828, 834], "type": "text", "comment": ""}
+]
+```
