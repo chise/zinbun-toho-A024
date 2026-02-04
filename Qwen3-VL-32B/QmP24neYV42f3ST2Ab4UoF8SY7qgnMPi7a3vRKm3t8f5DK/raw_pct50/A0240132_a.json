@@ -1,0 +1,256 @@
+```json
+[
+	{
+		"text": "小三百九十二",
+		"bbox": [803, 264, 825, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文巳上",
+		"bbox": [808, 402, 836, 481],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一",
+		"bbox": [812, 524, 832, 549],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴華",
+		"bbox": [805, 807, 826, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隹鳥也从佳犬聲睢",
+		"bbox": [715, 267, 800, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陽有雉水五佳切",
+		"bbox": [701, 342, 751, 526],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雛鶯也从佳",
+		"bbox": [717, 522, 800, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乾聲侯榦切",
+		"bbox": [701, 597, 751, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雄有",
+		"bbox": [715, 770, 800, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十",
+		"bbox": [701, 770, 751, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "四種盧諸雉喬雉鳴雉鷩雉秩秩海雉翟山雉翰雉卓雉",
+		"bbox": [657, 267, 700, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "伊洛而南曰翬江淮而南曰摇南方曰鬲東方曰甾北方",
+		"bbox": [602, 267, 648, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰稀西方曰蹲从",
+		"bbox": [549, 267, 595, 444],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文雉",
+		"bbox": [549, 518, 595, 600],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雄雌鳴也雷始",
+		"bbox": [549, 673, 595, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隹矢聲直几切",
+		"bbox": [496, 267, 542, 444],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从弟",
+		"bbox": [496, 518, 542, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "動雉鳴而雊其",
+		"bbox": [496, 673, 542, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頸从隹从句句",
+		"bbox": [442, 267, 488, 444],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "知時畜也从隹",
+		"bbox": [442, 518, 488, 667],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文雞",
+		"bbox": [442, 770, 488, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦聲古矦切",
+		"bbox": [388, 267, 435, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奚聲古兮切",
+		"bbox": [388, 518, 435, 634],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从鳥",
+		"bbox": [388, 770, 435, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隹雞子也从隹",
+		"bbox": [335, 267, 381, 444],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文雛",
+		"bbox": [335, 518, 381, 634],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥大雛也从",
+		"bbox": [335, 770, 381, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "芻聲士于切",
+		"bbox": [281, 267, 328, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从鳥",
+		"bbox": [281, 518, 328, 600],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隹翏聲一曰",
+		"bbox": [281, 770, 328, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雉之莫子爲",
+		"bbox": [228, 267, 274, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黃倉庚也鳴則蠶生",
+		"bbox": [228, 483, 274, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敭也从",
+		"bbox": [228, 770, 274, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雛力救切",
+		"bbox": [174, 267, 220, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从隹离聲呂支切",
+		"bbox": [174, 483, 220, 667],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隹周聲",
+		"bbox": [174, 770, 220, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "都僚",
+		"bbox": [120, 267, 166, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文雕",
+		"bbox": [120, 400, 166, 475],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也从隹瘖省聲或从人人",
+		"bbox": [120, 549, 166, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [66, 267, 112, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从鳥",
+		"bbox": [66, 400, 112, 444],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦聲徐鍇曰鷹隨人所指軗",
+		"bbox": [66, 549, 112, 842],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
