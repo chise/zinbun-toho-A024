@@ -10,6 +10,9 @@ URL: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/toho/html/A024menu.html
 * [proof_text-box/](proof_text-box/)	Human-proofed text box coordinates
 
 * [proof_head/](proof_head/)		Human-proofed headding characters
+  					based on
+					https://gitlab.com/mpsuzuki/parseIDS.html/-/raw/swjz-2018/swucs-mini.json
+					by Dr. Suzuki Toshiya (鈴木 俊哉) @ Hiroshima University
 
 * [proof/](proof/)		Human-proofed text
 
