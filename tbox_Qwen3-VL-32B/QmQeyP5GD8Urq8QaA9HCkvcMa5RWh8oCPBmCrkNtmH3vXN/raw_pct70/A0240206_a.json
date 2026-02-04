@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小", "bbox": [795, 267, 818, 320], "size": "small", "type": "text", "comment": "小字，位于右上角"},
+	{"text": "切", "bbox": [748, 267, 788, 293], "size": "large", "type": "text", "comment": "切字，位于右上角"},
+	{"text": "古", "bbox": [750, 380, 788, 406], "size": "large", "type": "text", "comment": "古字，位于右上角"},
+	{"text": "築牆耑木也从木榦聲臣鉉等曰", "bbox": [748, 488, 794, 844], "size": "medium", "type": "text", "comment": "解释“榦”字的释义"},
+	{"text": "今別作幹非是矢榦亦同古案切", "bbox": [697, 488, 745, 844], "size": "medium", "type": "text", "comment": "解释“榦”字的异体及读音"},
+	{"text": "榦也从木義聲魚羈切", "bbox": [600, 344, 648, 454], "size": "medium", "type": "text", "comment": "解释“榦”字的构形与读音"},
+	{"text": "蓋也从木冓聲杜林", "bbox": [648, 574, 694, 788], "size": "medium", "type": "text", "comment": "解释“構”字的构形与读音"},
+	{"text": "以為椽桷字古后切", "bbox": [598, 574, 646, 792], "size": "medium", "type": "text", "comment": "解释“構”字的用法及读音"},
+	{"text": "法也从木莫聲讀若", "bbox": [546, 344, 594, 554], "size": "medium", "type": "text", "comment": "解释“模”字的构形与读音"},
+	{"text": "嫫母之嫫莫胡切", "bbox": [500, 344, 546, 528], "size": "medium", "type": "text", "comment": "解释“模”字的读音及来源"},
+	{"text": "棟名从木孚聲附柔切", "bbox": [546, 574, 594, 792], "size": "medium", "type": "text", "comment": "解释“梫”字的构形与读音"},
+	{"text": "棟也从木亟聲渠力切", "bbox": [450, 488, 498, 590], "size": "medium", "type": "text", "comment": "解释“極”字的构形与读音"},
+	{"text": "極也从木東聲多貢切", "bbox": [450, 267, 498, 370], "size": "medium", "type": "text", "comment": "解释“極”字的构形与读音"},
+	{"text": "楹也从木主聲直主切", "bbox": [450, 624, 498, 828], "size": "medium", "type": "text", "comment": "解释“柱”字的构形与读音"},
+	{"text": "柱也从木盈聲春秋傳曰丹桓宮楹以成切", "bbox": [300, 344, 348, 554], "size": "medium", "type": "text", "comment": "解释“楹”字的构形与读音"},
+	{"text": "哀柱也从木堂聲臣鉉等曰今俗別作撐非是", "bbox": [300, 624, 348, 844], "size": "medium", "type": "text", "comment": "解释“樘”字的构形与读音"},
+	{"text": "柱砥古用木今以石从木舊聲易曰榰恒凶章移切", "bbox": [200, 488, 248, 720], "size": "medium", "type": "text", "comment": "解释“榰”字的构形与读音"},
+	{"text": "構櫨也从木咨聲壁柱从木薄子結切省聲弼戟切", "bbox": [100, 267, 148, 844], "size": "medium", "type": "text", "comment": "解释“欂”字的构形与读音"},
+	{"text": "柱上柎也从木盧聲伊尹曰果之美", "bbox": [148, 624, 196, 844], "size": "medium", "type": "text", "comment": "解释“櫨”字的构形与读音"},
+	{"text": "讀支元一", "bbox": [804, 400, 840, 480], "size": "small", "type": "text", "comment": "页码或章节标记"},
+	{"text": "王明", "bbox": [798, 790, 826, 834], "size": "small", "type": "text", "comment": "可能为校勘者或注释者姓名"}
+]
+```
