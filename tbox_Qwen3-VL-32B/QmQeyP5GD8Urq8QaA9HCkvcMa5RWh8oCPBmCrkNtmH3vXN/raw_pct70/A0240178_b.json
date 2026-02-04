@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "从水皿皿益之", "bbox": [864, 275, 908, 430], "size": "14", "type": "text", "comment": ""},
+	{"text": "意也伊昔切", "bbox": [815, 275, 859, 410], "size": "14", "type": "text", "comment": ""},
+	{"text": "多得爲夂故", "bbox": [766, 275, 809, 409], "size": "14", "type": "text", "comment": ""},
+	{"text": "从夂以成切", "bbox": [717, 275, 760, 409], "size": "14", "type": "text", "comment": ""},
+	{"text": "子曰道盅而", "bbox": [668, 275, 711, 409], "size": "14", "type": "text", "comment": ""},
+	{"text": "用之直弓切", "bbox": [619, 275, 662, 409], "size": "14", "type": "text", "comment": ""},
+	{"text": "仁也从皿以食囚", "bbox": [570, 275, 613, 458], "size": "14", "type": "text", "comment": ""},
+	{"text": "也官溥說烏渾切", "bbox": [521, 275, 564, 458], "size": "14", "type": "text", "comment": ""},
+	{"text": "湯滌器也从皿", "bbox": [472, 275, 515, 480], "size": "14", "type": "text", "comment": ""},
+	{"text": "湯聲徒朗切", "bbox": [423, 275, 466, 480], "size": "14", "type": "text", "comment": ""},
+	{"text": "益器盂屬从皿攵聲", "bbox": [374, 275, 417, 560], "size": "14", "type": "text", "comment": ""},
+	{"text": "或从金从本北末切", "bbox": [325, 275, 368, 560], "size": "14", "type": "text", "comment": ""},
+	{"text": "文一新附", "bbox": [325, 635, 398, 750], "size": "14", "type": "text", "comment": ""},
+	{"text": "文二十五重三", "bbox": [417, 545, 492, 815], "size": "14", "type": "text", "comment": ""},
+	{"text": "滿器也从皿夂臣鉉等曰夂古", "bbox": [864, 525, 908, 845], "size": "14", "type": "text", "comment": ""},
+	{"text": "乎切益多之義也古者以貿物", "bbox": [815, 525, 859, 845], "size": "14", "type": "text", "comment": ""},
+	{"text": "器中空也从皿", "bbox": [766, 500, 809, 645], "size": "14", "type": "text", "comment": ""},
+	{"text": "烹聲慈忍切", "bbox": [717, 500, 760, 635], "size": "14", "type": "text", "comment": ""},
+	{"text": "器虛也从", "bbox": [766, 650, 809, 845], "size": "14", "type": "text", "comment": ""},
+	{"text": "皿中聲老", "bbox": [717, 740, 760, 845], "size": "14", "type": "text", "comment": ""},
+	{"text": "覆蓋也从皿酋聲臣鉉等曰", "bbox": [668, 485, 711, 775], "size": "14", "type": "text", "comment": ""},
+	{"text": "今俗别作罯非是烏合切", "bbox": [619, 485, 662, 745], "size": "14", "type": "text", "comment": ""},
+	{"text": "澡手也从臼水臨皿春秋", "bbox": [570, 550, 613, 815], "size": "14", "type": "text", "comment": ""},
+	{"text": "傳曰奉匜沃盥古玩切", "bbox": [521, 550, 564, 785], "size": "14", "type": "text", "comment": ""},
+	{"text": "口盧飯器以柳爲之象形凡口之", "bbox": [214, 275, 292, 845], "size": "14", "type": "text", "comment": ""},
+	{"text": "说文五上", "bbox": [162, 405, 192, 485], "size": "14", "type": "text", "comment": ""},
+	{"text": "大", "bbox": [175, 270, 198, 315], "size": "14", "type": "text", "comment": ""},
+	{"text": "表和", "bbox": [175, 795, 198, 835], "size": "14", "type": "text", "comment": ""}
+]
+```
