@@ -24,7 +24,7 @@ URL: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/toho/html/A024menu.html
 
 * [tbox_Qwen3-VL-32B/](tbox_Qwen3-VL-32B/)	  Qwen3-VL-32B results for text-boxes
   - *Prompt CID*/	IPFS CID corresponding to the prompt.  For example:
-  - [QmQeyP5GD8Urq8QaA9HCkvcMa5RWh8oCPBmCrkNtmH3vXN/](tbox_Qwen3-VL-32B/QmQeyP5GD8Urq8QaA9HCkvcMa5RWh8oCPBmCrkNtmH3vXN/) (en)
+  - QmQeyP5GD8Urq8QaA9HCkvcMa5RWh8oCPBmCrkNtmH3vXN/
     - [markdown_line_pct70/](tbox_Qwen3-VL-32B/QmQeyP5GD8Urq8QaA9HCkvcMa5RWh8oCPBmCrkNtmH3vXN/markdown_line_pct70)	OCR results in Markdown format (resized to 70%)
     - raw_pct70/		Raw OCR results in JSON format (resized to 70%)
     - markdown_line_pct75/	OCR results in Markdown format (resized to 75%)
