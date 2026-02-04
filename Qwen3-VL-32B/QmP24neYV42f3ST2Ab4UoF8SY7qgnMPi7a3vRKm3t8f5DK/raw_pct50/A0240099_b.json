@@ -1,0 +1,166 @@
+```json
+[
+	{
+		"text": "繫聲呂",
+		"bbox": [845, 267, 900, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "員切",
+		"bbox": [808, 267, 861, 323],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文三",
+		"bbox": [813, 482, 888, 572],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [813, 636, 888, 702],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "同也从廿丌凡共之屬皆从共",
+		"bbox": [708, 368, 793, 831],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "渠用",
+		"bbox": [648, 368, 696, 427],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [606, 368, 648, 397],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [553, 368, 597, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "共",
+		"bbox": [508, 346, 550, 375],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "給也从共龍",
+		"bbox": [554, 488, 597, 621],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲俱容切",
+		"bbox": [505, 488, 549, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [514, 648, 584, 710],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [514, 750, 584, 820],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "分也从丌从畀畀予也凡異之屬",
+		"bbox": [406, 368, 488, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皆从異",
+		"bbox": [311, 337, 381, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徐鍇曰將欲與物先分異之也禮",
+		"bbox": [357, 457, 397, 797],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰賜君子小人不同日羊吏切",
+		"bbox": [301, 457, 344, 780],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "分物得增益曰戴",
+		"bbox": [247, 346, 292, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从異戠聲都代切",
+		"bbox": [201, 346, 245, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [250, 605, 292, 657],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戴",
+		"bbox": [203, 605, 245, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [210, 675, 282, 747],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [210, 767, 282, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十之",
+		"bbox": [170, 265, 194, 302],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文三上",
+		"bbox": [161, 402, 192, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十二",
+		"bbox": [161, 680, 192, 705],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "士素正",
+		"bbox": [164, 800, 194, 835],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

@@ -1,0 +1,250 @@
+```json
+[
+	{
+		"text": "揚雄說丼",
+		"bbox": [856, 340, 900, 417],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "承也从手从丼",
+		"bbox": [846, 516, 894, 642],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丰聲扶隴切",
+		"bbox": [811, 538, 856, 655],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "翊也从",
+		"bbox": [816, 757, 862, 824],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丼从卩",
+		"bbox": [815, 772, 862, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从山山高奉承",
+		"bbox": [759, 265, 806, 419],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之義署陵切",
+		"bbox": [719, 265, 765, 378],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "取奐也一曰大也从丼夐省臣",
+		"bbox": [754, 520, 802, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鉉等曰夐營求也取之義也呼",
+		"bbox": [714, 518, 761, 836],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "貫",
+		"bbox": [662, 264, 699, 292],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蓋也从丼从合古",
+		"bbox": [660, 370, 705, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [617, 265, 654, 291],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南切又一儉切",
+		"bbox": [609, 371, 654, 517],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [658, 632, 699, 677],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "引給也",
+		"bbox": [654, 764, 698, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从丼畢",
+		"bbox": [610, 765, 654, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲羊",
+		"bbox": [564, 265, 602, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舉也从丼由聲春秋傳曰晉人或以廣墜",
+		"bbox": [556, 404, 602, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "益切",
+		"bbox": [510, 265, 548, 309],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楚人鼻之黃顥說廣車陷楚人爲舉之杜",
+		"bbox": [503, 404, 548, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "林以爲麒麟",
+		"bbox": [458, 265, 502, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "字渠記切",
+		"bbox": [407, 265, 451, 364],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舉也从丼吕聲虞書",
+		"bbox": [454, 470, 500, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰岳曰异哉羊吏切",
+		"bbox": [405, 488, 451, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玩也从",
+		"bbox": [454, 784, 500, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丼持玉",
+		"bbox": [405, 784, 451, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盧貢",
+		"bbox": [354, 265, 398, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [309, 265, 346, 292],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兩手盛也从丼",
+		"bbox": [353, 402, 398, 555],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "共聲余六切",
+		"bbox": [307, 402, 352, 528],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "搏飯也从丼釆聲",
+		"bbox": [353, 652, 398, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "釆古文辨字讀若",
+		"bbox": [307, 652, 352, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "書卷居",
+		"bbox": [256, 265, 299, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "持弩抪从丼肉讀若達臣",
+		"bbox": [254, 420, 299, 677],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鉉等曰从肉未詳渠追切",
+		"bbox": [207, 420, 252, 677],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "警也从",
+		"bbox": [254, 764, 299, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丼持戈",
+		"bbox": [207, 764, 252, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "券切",
+		"bbox": [197, 265, 242, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳玉",
+		"bbox": [171, 798, 196, 830],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大扌",
+		"bbox": [168, 265, 199, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "見天三上",
+		"bbox": [157, 398, 186, 483],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

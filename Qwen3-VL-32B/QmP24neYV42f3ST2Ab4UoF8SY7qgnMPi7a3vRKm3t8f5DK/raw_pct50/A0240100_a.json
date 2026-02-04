@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "小九十一", "bbox": [805, 267, 823, 304], "type": "text", "comment": ""},
+	{"text": "言又三十", "bbox": [805, 401, 839, 486], "type": "text", "comment": ""},
+	{"text": "十四", "bbox": [811, 662, 839, 705], "type": "text", "comment": ""},
+	{"text": "舁共舉也从臼从廾凡舁之屬皆从", "bbox": [717, 265, 795, 845], "type": "text", "comment": ""},
+	{"text": "舁讀若余以諸切", "bbox": [621, 352, 685, 539], "type": "text", "comment": ""},
+	{"text": "升高也从舁囟聲七然切", "bbox": [555, 266, 597, 475], "type": "text", "comment": ""},
+	{"text": "舁或从卩", "bbox": [539, 482, 597, 583], "type": "text", "comment": ""},
+	{"text": "古文舁", "bbox": [541, 676, 598, 748], "type": "text", "comment": ""},
+	{"text": "黨與", "bbox": [511, 817, 597, 847], "type": "text", "comment": ""},
+	{"text": "也从舁从", "bbox": [455, 266, 492, 367], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [455, 450, 498, 499], "type": "text", "comment": ""},
+	{"text": "起也从舁从同", "bbox": [455, 577, 497, 732], "type": "text", "comment": ""},
+	{"text": "与余吕切", "bbox": [405, 265, 445, 368], "type": "text", "comment": ""},
+	{"text": "與", "bbox": [408, 449, 446, 488], "type": "text", "comment": ""},
+	{"text": "同力也虚陵切", "bbox": [405, 577, 445, 732], "type": "text", "comment": ""},
+	{"text": "文四重三", "bbox": [320, 415, 387, 643], "type": "text", "comment": ""},
+	{"text": "臼义手也从臼曰凡臼之屬皆从臼", "bbox": [215, 272, 288, 845], "type": "text", "comment": ""},
+	{"text": "居玉切", "bbox": [154, 359, 196, 415], "type": "text", "comment": ""}
+]
+```
