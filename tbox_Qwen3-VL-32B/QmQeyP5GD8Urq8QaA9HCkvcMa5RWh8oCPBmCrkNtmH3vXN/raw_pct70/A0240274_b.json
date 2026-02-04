@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "大二十三", "bbox": [178, 272, 198, 309], "size": "small", "type": "text", "comment": "页码或卷次"},
+	{"text": "兑下", "bbox": [168, 412, 196, 492], "size": "small", "type": "text", "comment": "可能为篇名或章节标识"},
+	{"text": "陳廣", "bbox": [180, 810, 200, 841], "size": "small", "type": "text", "comment": "作者或校注者姓名"},
+	{"text": "囊也从巾肤聲徒登切", "bbox": [820, 273, 910, 461], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "以囊盛穀大滿而裂也从巾奮聲方吻切", "bbox": [820, 465, 910, 780], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "載米麫也从巾盾聲讀若易屯卦之屯陟倫切", "bbox": [720, 273, 810, 580], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "蒲席麫也从巾及聲讀若蛤古沓切", "bbox": [720, 583, 810, 841], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "馬纏鑣扇汗也从巾賁聲詩曰朱幩鑣鑣符分切", "bbox": [620, 273, 710, 588], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "墀地以巾撳之从巾憂聲", "bbox": [620, 591, 710, 841], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "讀若水温灘也一曰箸也乃昆切", "bbox": [520, 273, 610, 445], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "金幣所藏也从巾奴聲乃都切", "bbox": [520, 448, 610, 685], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "梟織也从巾父聲博", "bbox": [520, 688, 610, 841], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "南郡蠻夷賨布从巾家聲古訝切", "bbox": [420, 273, 510, 560], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "布出東萊从巾弦聲胡田切", "bbox": [420, 563, 510, 815], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "故切", "bbox": [410, 273, 455, 325], "size": "medium", "type": "text", "comment": "音韵注解"},
+	{"text": "繫布也一曰車上衡衣从巾敄聲讀若頊莫卜切", "bbox": [310, 273, 400, 580], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "繫布也从巾辟聲周禮曰驪車大席", "bbox": [310, 583, 400, 841], "size": "medium", "type": "text", "comment": "释义及音韵注解"},
+	{"text": "莫狄切", "bbox": [255, 273, 300, 325], "size": "medium", "type": "text", "comment": "音韵注解"},
+	{"text": "領耑也从巾爪聲陟葉切", "bbox": [205, 330, 300, 538], "size": "medium", "type": "text", "comment": "释义及音韵注解"}
+]
+```
