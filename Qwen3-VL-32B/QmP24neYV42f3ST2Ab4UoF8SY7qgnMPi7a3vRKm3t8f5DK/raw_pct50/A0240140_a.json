@@ -1,0 +1,280 @@
+```json
+[
+	{
+		"text": "小三百十八",
+		"bbox": [807, 269, 835, 338],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲疾",
+		"bbox": [754, 270, 804, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之切",
+		"bbox": [709, 272, 754, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从鳥皀",
+		"bbox": [666, 272, 709, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲彼及切",
+		"bbox": [619, 272, 665, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雛鰥也从鳥",
+		"bbox": [573, 272, 618, 408],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "渠聲强魚切",
+		"bbox": [526, 272, 572, 408],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "達",
+		"bbox": [481, 272, 525, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [436, 272, 480, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鷊或",
+		"bbox": [390, 351, 435, 408],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從角",
+		"bbox": [344, 351, 390, 408],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鶉或",
+		"bbox": [299, 351, 344, 408],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從弟",
+		"bbox": [253, 351, 298, 408],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鶏或",
+		"bbox": [207, 351, 252, 408],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從隹",
+		"bbox": [161, 351, 206, 408],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鷁也从鳥壹",
+		"bbox": [754, 409, 804, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲乙兾切",
+		"bbox": [709, 409, 754, 510],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也肉出尺哉从",
+		"bbox": [666, 456, 709, 639],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥午聲博好切",
+		"bbox": [619, 456, 665, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "水鴞也从鳥",
+		"bbox": [573, 488, 618, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "區聲烏侯切",
+		"bbox": [526, 488, 572, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也从鳥庸",
+		"bbox": [481, 377, 525, 510],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲余封切",
+		"bbox": [436, 377, 480, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "司馬相如",
+		"bbox": [390, 488, 435, 586],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說鯢从赤",
+		"bbox": [344, 488, 390, 586],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "天狗也从鳥",
+		"bbox": [299, 488, 344, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "立聲力入切",
+		"bbox": [253, 488, 298, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "麋鴰也从鳥",
+		"bbox": [207, 488, 252, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "氐聲古活切",
+		"bbox": [161, 488, 206, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鴽也从鳥",
+		"bbox": [754, 614, 804, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乏聲平立切",
+		"bbox": [709, 614, 754, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鴇或",
+		"bbox": [666, 722, 709, 754],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从包",
+		"bbox": [619, 722, 665, 754],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也从鳥友",
+		"bbox": [573, 710, 618, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若撥蒲",
+		"bbox": [526, 710, 572, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也从鳥兒聲春秋傳",
+		"bbox": [481, 586, 525, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰六鯤退飛五歷切",
+		"bbox": [436, 586, 480, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鵝胡污澤也从",
+		"bbox": [390, 673, 435, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥夷聲杜兮切",
+		"bbox": [344, 673, 390, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "麋鴰也从鳥",
+		"bbox": [299, 695, 344, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "倉聲七岡切",
+		"bbox": [253, 695, 298, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鮫鯖也从鳥交",
+		"bbox": [207, 695, 252, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲一日鮫鱸也",
+		"bbox": [161, 695, 206, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文四",
+		"bbox": [807, 408, 835, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十八",
+		"bbox": [807, 666, 835, 695],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祁三",
+		"bbox": [807, 811, 835, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
