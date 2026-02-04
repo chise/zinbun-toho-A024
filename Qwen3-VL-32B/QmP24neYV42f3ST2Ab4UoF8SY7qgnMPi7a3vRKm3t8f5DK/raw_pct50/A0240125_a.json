@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "小三百九七",
+		"bbox": [803, 274, 819, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文四上",
+		"bbox": [808, 413, 834, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三",
+		"bbox": [808, 688, 834, 706],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "景昌",
+		"bbox": [805, 814, 825, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从目从隶",
+		"bbox": [752, 276, 790, 336],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省徒合切",
+		"bbox": [707, 276, 750, 375],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目不相聽也从目",
+		"bbox": [754, 457, 794, 600],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目癸聲苦圭切",
+		"bbox": [708, 457, 751, 600],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目不明也从目",
+		"bbox": [754, 694, 794, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "末聲莫撥切",
+		"bbox": [708, 694, 751, 823],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "轉目視也从目",
+		"bbox": [661, 346, 698, 502],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "般聲薄官切",
+		"bbox": [607, 346, 650, 478],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小兒白眼也从",
+		"bbox": [662, 577, 699, 742],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目辡聲蒲莧切",
+		"bbox": [607, 577, 650, 742],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目財視也从目",
+		"bbox": [558, 276, 597, 419],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辰聲莫獲切",
+		"bbox": [510, 276, 548, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "失意視也从目",
+		"bbox": [558, 509, 597, 664],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "脩聲他歷切",
+		"bbox": [510, 509, 548, 648],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謹鈍目",
+		"bbox": [558, 760, 597, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从目",
+		"bbox": [510, 775, 548, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼻聲之",
+		"bbox": [456, 276, 494, 336],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "閏切",
+		"bbox": [406, 276, 445, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目動也从目",
+		"bbox": [456, 440, 494, 566],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "閏聲如勻切",
+		"bbox": [406, 440, 445, 566],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "恨張目也从目賓",
+		"bbox": [456, 654, 494, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲詩曰國步斯瞶",
+		"bbox": [406, 654, 445, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "符眞",
+		"bbox": [353, 276, 392, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [304, 276, 343, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目無明也从目",
+		"bbox": [353, 405, 392, 546],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夗聲一丸切",
+		"bbox": [304, 405, 343, 546],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "仰目也从目",
+		"bbox": [353, 644, 392, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隹聲許惟切",
+		"bbox": [304, 644, 343, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目搖也从目匀",
+		"bbox": [250, 276, 289, 411],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲黃絢切",
+		"bbox": [200, 276, 239, 411],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "旬或",
+		"bbox": [250, 512, 289, 566],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从旬",
+		"bbox": [200, 512, 239, 566],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大視也从目",
+		"bbox": [250, 644, 289, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隻聲許縛切",
+		"bbox": [200, 644, 239, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目順也从目壺聲一",
+		"bbox": [147, 276, 186, 461],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰敬和也莫卜切",
+		"bbox": [97, 276, 136, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [147, 577, 186, 612],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "睦",
+		"bbox": [97, 577, 136, 595],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臨視也从目",
+		"bbox": [147, 700, 186, 823],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詹聲職廉切",
+		"bbox": [97, 700, 136, 823],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
