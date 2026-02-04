@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "子師曠曰南方有鳥名曰羌鶬黃頭",
+		"bbox": [856, 270, 907, 639],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赤目五色皆備從鳥就聲疾僦切",
+		"bbox": [804, 270, 855, 639],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鴟鴞宣鳩也",
+		"bbox": [856, 714, 907, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從鳥号聲于",
+		"bbox": [804, 714, 855, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嬌",
+		"bbox": [752, 270, 803, 301],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宣鳩也從鳥",
+		"bbox": [752, 301, 803, 520],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也從鳥祟",
+		"bbox": [752, 596, 803, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "澤",
+		"bbox": [752, 826, 803, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [700, 270, 751, 301],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夾聲古穴切",
+		"bbox": [700, 301, 751, 520],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲辛聿切",
+		"bbox": [700, 596, 751, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虞",
+		"bbox": [700, 826, 751, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也從鳥方",
+		"bbox": [647, 270, 699, 379],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也從鳥戳",
+		"bbox": [647, 466, 699, 604],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也從鳥黍",
+		"bbox": [647, 674, 699, 812],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲分兩切",
+		"bbox": [600, 270, 650, 379],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲子結切",
+		"bbox": [600, 466, 650, 575],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲親吉切",
+		"bbox": [600, 674, 650, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鋪豉也從鳥失聲臣鉉",
+		"bbox": [547, 270, 598, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "等曰鋪豉鳥名徒結切",
+		"bbox": [495, 270, 546, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鷃雞也從鳥軍聲",
+		"bbox": [547, 674, 598, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若運古渾切",
+		"bbox": [495, 674, 546, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也從鳥芙",
+		"bbox": [443, 347, 494, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也從鳥曰",
+		"bbox": [443, 596, 494, 695],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "醮鯽桃",
+		"bbox": [443, 777, 494, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲鳥浩切",
+		"bbox": [391, 347, 442, 456],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲居玉切",
+		"bbox": [391, 565, 442, 674],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蟲也從",
+		"bbox": [391, 783, 442, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥焦聲",
+		"bbox": [339, 270, 390, 352],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鰈鯽也從鳥",
+		"bbox": [339, 435, 390, 569],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥少美長醜為鷗離",
+		"bbox": [339, 637, 390, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "即消切",
+		"bbox": [287, 270, 338, 352],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "眇聲亾沼切",
+		"bbox": [287, 435, 338, 569],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從鳥雷聲力求切",
+		"bbox": [287, 637, 338, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也從鳥堇",
+		"bbox": [235, 347, 286, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鶴或",
+		"bbox": [235, 565, 286, 619],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [235, 695, 286, 730],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鶴",
+		"bbox": [235, 704, 286, 730],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲那干切",
+		"bbox": [182, 347, 234, 456],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從佳",
+		"bbox": [182, 565, 234, 604],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十四",
+		"bbox": [164, 267, 190, 320],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文曰二",
+		"bbox": [158, 402, 186, 489],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十七",
+		"bbox": [158, 665, 186, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張信",
+		"bbox": [172, 816, 194, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
