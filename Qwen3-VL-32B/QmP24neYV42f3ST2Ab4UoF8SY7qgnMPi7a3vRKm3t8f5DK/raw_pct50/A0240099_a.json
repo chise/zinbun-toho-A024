@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "以戒不虞", "bbox": [750, 263, 798, 361], "type": "text", "comment": ""},
+	{"text": "居拜切", "bbox": [704, 263, 750, 361], "type": "text", "comment": ""},
+	{"text": "械也从丿持斤并", "bbox": [750, 364, 798, 612], "type": "text", "comment": ""},
+	{"text": "力之皃補明切", "bbox": [704, 364, 750, 612], "type": "text", "comment": ""},
+	{"text": "古文兵从", "bbox": [750, 615, 798, 818], "type": "text", "comment": ""},
+	{"text": "人丿于", "bbox": [704, 615, 750, 818], "type": "text", "comment": ""},
+	{"text": "籀文", "bbox": [652, 263, 698, 361], "type": "text", "comment": ""},
+	{"text": "愨也从丿龍", "bbox": [652, 364, 698, 568], "type": "text", "comment": ""},
+	{"text": "聲紀庸切", "bbox": [606, 364, 652, 568], "type": "text", "comment": ""},
+	{"text": "圍基也从丿亦聲", "bbox": [652, 571, 698, 844], "type": "text", "comment": ""},
+	{"text": "論語曰不有博奕", "bbox": [606, 571, 652, 844], "type": "text", "comment": ""},
+	{"text": "者乎羊", "bbox": [558, 263, 604, 335], "type": "text", "comment": ""},
+	{"text": "益切", "bbox": [512, 263, 558, 313], "type": "text", "comment": ""},
+	{"text": "共置也从丿从貝省", "bbox": [558, 364, 604, 637], "type": "text", "comment": ""},
+	{"text": "古以貝爲貨其遇切", "bbox": [512, 364, 558, 637], "type": "text", "comment": ""},
+	{"text": "文十七", "bbox": [415, 450, 480, 570], "type": "text", "comment": ""},
+	{"text": "重四", "bbox": [415, 645, 480, 725], "type": "text", "comment": ""},
+	{"text": "引也从反丿凡丿之屬皆从丿", "bbox": [311, 348, 386, 835], "type": "text", "comment": ""},
+	{"text": "普班切今", "bbox": [250, 348, 296, 458], "type": "text", "comment": ""},
+	{"text": "變隸作大", "bbox": [203, 348, 249, 458], "type": "text", "comment": ""},
+	{"text": "氺或从", "bbox": [158, 348, 204, 419], "type": "text", "comment": ""},
+	{"text": "手从樊", "bbox": [101, 348, 148, 419], "type": "text", "comment": ""},
+	{"text": "鷙不行也从氺从", "bbox": [158, 422, 204, 696], "type": "text", "comment": ""},
+	{"text": "楙楙亦聲附袁切", "bbox": [101, 422, 148, 696], "type": "text", "comment": ""},
+	{"text": "樊也", "bbox": [158, 700, 204, 848], "type": "text", "comment": ""},
+	{"text": "从氺", "bbox": [101, 700, 148, 848], "type": "text", "comment": ""},
+	{"text": "李云", "bbox": [798, 798, 829, 846], "type": "text", "comment": ""}
+]
+```
