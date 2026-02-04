@@ -1,0 +1,190 @@
+```json
+[
+	{
+		"text": "小三百八十九",
+		"bbox": [805, 267, 829, 334],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文四一",
+		"bbox": [805, 401, 832, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴華",
+		"bbox": [805, 797, 829, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會",
+		"bbox": [717, 267, 798, 298],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽高鳥白肥澤皃从羽高聲",
+		"bbox": [714, 300, 799, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [713, 267, 798, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩云白鳥翯翯胡角切",
+		"bbox": [713, 371, 799, 609],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽王樂舞以羽翹自",
+		"bbox": [713, 610, 799, 775],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "翳其首以祀星",
+		"bbox": [713, 775, 799, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辰也从羽王聲",
+		"bbox": [650, 267, 701, 423],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樂舞執全羽以祀社稷也",
+		"bbox": [650, 513, 701, 775],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若皇胡光切",
+		"bbox": [601, 267, 650, 423],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从羽戈聲讀若緘分勿切",
+		"bbox": [601, 513, 650, 775],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "翳也所以舞也从羽攺",
+		"bbox": [545, 267, 599, 499],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲詩曰左執翿徒到切",
+		"bbox": [545, 499, 599, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "華蓋也从羽",
+		"bbox": [545, 583, 599, 709],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "毆聲於計切",
+		"bbox": [545, 709, 599, 775],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "天子八諸侯六大夫四士",
+		"bbox": [489, 267, 541, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二下垂从羽妾聲山洽切",
+		"bbox": [431, 267, 486, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文三十四",
+		"bbox": [313, 407, 385, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [313, 628, 385, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飛也从羽番聲",
+		"bbox": [251, 337, 302, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或从飛孚袁切",
+		"bbox": [200, 337, 249, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽也从羽令",
+		"bbox": [251, 577, 302, 709],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲郎丁切",
+		"bbox": [200, 577, 249, 689],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飛聲",
+		"bbox": [251, 792, 302, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从羽",
+		"bbox": [200, 792, 249, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "工聲戶",
+		"bbox": [150, 267, 199, 351],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "公切",
+		"bbox": [100, 267, 149, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文三",
+		"bbox": [116, 457, 188, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "新附",
+		"bbox": [146, 551, 188, 604],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
