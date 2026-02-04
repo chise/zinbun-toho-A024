@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "人 内也象从上俱下也凡入之屬皆", "bbox": [818, 273, 902, 850], "size": "28", "type": "text", "comment": ""},
+	{"text": "从入切 人汁", "bbox": [720, 352, 804, 476], "size": "28", "type": "text", "comment": ""},
+	{"text": "内 入也从冂自外", "bbox": [622, 273, 706, 514], "size": "28", "type": "text", "comment": ""},
+	{"text": "而入也奴對切", "bbox": [608, 352, 692, 514], "size": "28", "type": "text", "comment": ""},
+	{"text": "入山之深也从山", "bbox": [664, 594, 706, 770], "size": "28", "type": "text", "comment": ""},
+	{"text": "从入闕鉏箴切", "bbox": [610, 594, 654, 750], "size": "28", "type": "text", "comment": ""},
+	{"text": "市敎也从入", "bbox": [558, 275, 604, 406], "size": "28", "type": "text", "comment": ""},
+	{"text": "从耀徒歷切", "bbox": [508, 275, 554, 406], "size": "28", "type": "text", "comment": ""},
+	{"text": "仝 完也从入从", "bbox": [524, 418, 606, 620], "size": "28", "type": "text", "comment": ""},
+	{"text": "工疾縁切", "bbox": [508, 498, 554, 600], "size": "28", "type": "text", "comment": ""},
+	{"text": "全 篆文全从玉", "bbox": [560, 698, 604, 826], "size": "28", "type": "text", "comment": ""},
+	{"text": "純玉曰全", "bbox": [510, 700, 554, 804], "size": "28", "type": "text", "comment": ""},
+	{"text": "全 古文", "bbox": [410, 273, 496, 410], "size": "28", "type": "text", "comment": ""},
+	{"text": "从 此闕良獎切", "bbox": [410, 418, 496, 626], "size": "28", "type": "text", "comment": ""},
+	{"text": "二入也兩从", "bbox": [462, 498, 504, 620], "size": "28", "type": "text", "comment": ""},
+	{"text": "文六 重二", "bbox": [418, 664, 490, 840], "size": "28", "type": "text", "comment": ""},
+	{"text": "击 瓦器所以盛酒將秦人鼓之以節", "bbox": [314, 275, 396, 848], "size": "28", "type": "text", "comment": ""},
+	{"text": "訶象形凡击之屬皆从击 方九", "bbox": [212, 352, 296, 788], "size": "28", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [208, 728, 250, 758], "size": "28", "type": "text", "comment": ""},
+	{"text": "大廿五", "bbox": [172, 272, 194, 312], "size": "18", "type": "text", "comment": ""},
+	{"text": "兑欠五下", "bbox": [164, 412, 194, 496], "size": "18", "type": "text", "comment": ""},
+	{"text": "二", "bbox": [164, 674, 194, 696], "size": "18", "type": "text", "comment": ""},
+	{"text": "泰和", "bbox": [172, 794, 194, 836], "size": "18", "type": "text", "comment": ""}
+]
+```

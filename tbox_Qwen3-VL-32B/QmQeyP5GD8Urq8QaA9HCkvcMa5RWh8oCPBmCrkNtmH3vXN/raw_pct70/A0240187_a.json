@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "小 5 十 5", "bbox": [800, 269, 822, 322], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "言 5 五 丁", "bbox": [800, 402, 834, 474], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "王 必", "bbox": [800, 799, 822, 820], "size": "small", "type": "text", "comment": "可能为校勘者或刻工名"},
+	{"text": "今 古文會 如此", "bbox": [708, 271, 795, 398], "size": "large", "type": "character", "comment": "古文字形及释义"},
+	{"text": "缽 盆也 从會 皐 聲 符支切", "bbox": [708, 400, 795, 614], "size": "large", "type": "character", "comment": "字形、字义、构形及反切注音"},
+	{"text": "辰 从會 从辰 日月合宿爲", "bbox": [708, 616, 795, 846], "size": "large", "type": "character", "comment": "字形、字义、构形及反切注音"},
+	{"text": "辰亦聲 植鄰切", "bbox": [605, 269, 695, 347], "size": "medium", "type": "text", "comment": "注音及声符说明"},
+	{"text": "文三 重一", "bbox": [605, 454, 687, 708], "size": "large", "type": "text", "comment": "段落标题或分类标记"},
+	{"text": "倉 毅藏也 倉黃取而藏之 故謂之", "bbox": [500, 269, 592, 840], "size": "large", "type": "text", "comment": "字义解释"},
+	{"text": "倉 从食省口 象倉形 凡倉之屬", "bbox": [400, 356, 485, 846], "size": "large", "type": "text", "comment": "字形结构及部首说明"},
+	{"text": "皆从倉 七岡切", "bbox": [300, 360, 382, 512], "size": "large", "type": "text", "comment": "同部首字说明及反切注音"},
+	{"text": "仝 奇字 倉", "bbox": [200, 267, 290, 374], "size": "large", "type": "character", "comment": "异体字或奇字说明"},
+	{"text": "鳥獸來食 聲也 从倉丿聲", "bbox": [245, 470, 290, 734], "size": "medium", "type": "text", "comment": "字义及构形说明"},
+	{"text": "虞書曰 鳥獸艙艙 七羊切", "bbox": [195, 470, 245, 734], "size": "medium", "type": "text", "comment": "引文及反切注音"},
+	{"text": "文二 重一", "bbox": [105, 410, 180, 620], "size": "large", "type": "text", "comment": "段落标题或分类标记"}
+]
+```
