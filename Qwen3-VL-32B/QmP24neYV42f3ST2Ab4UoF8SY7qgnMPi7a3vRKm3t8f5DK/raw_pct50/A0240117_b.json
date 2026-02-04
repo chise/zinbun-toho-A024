@@ -1,0 +1,172 @@
+```json
+[
+	{
+		"text": "兆之從橫也凡卜之屬皆从卜博木切",
+		"bbox": [798, 346, 885, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [751, 350, 787, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "筮也从卜圭聲臣鉉等曰圭字",
+		"bbox": [751, 495, 787, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲不相近當从挂省聲古壞切",
+		"bbox": [698, 495, 737, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卜以問疑也从口卜讀與",
+		"bbox": [645, 350, 683, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "稽同書云叶疑古兮切",
+		"bbox": [594, 350, 632, 598],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卜問也从卜",
+		"bbox": [645, 705, 683, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "貝以爲贊一",
+		"bbox": [594, 705, 632, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰鼎省聲京房",
+		"bbox": [540, 271, 579, 415],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "所說陟盈切",
+		"bbox": [490, 271, 528, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "易卦之上體也商書曰貞",
+		"bbox": [540, 518, 579, 793],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰毎从卜每聲荒內切",
+		"bbox": [490, 518, 528, 766],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "視兆問也从卜",
+		"bbox": [451, 346, 488, 472],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从口職廉切",
+		"bbox": [396, 350, 434, 475],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卜問也从卜",
+		"bbox": [451, 608, 488, 724],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "召聲市沼切",
+		"bbox": [396, 598, 434, 724],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "灼",
+		"bbox": [451, 818, 488, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "龜",
+		"bbox": [396, 818, 434, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "坼也从卜兆",
+		"bbox": [342, 271, 380, 405],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "象形治少切",
+		"bbox": [290, 271, 328, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [342, 495, 380, 548],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兆省",
+		"bbox": [290, 495, 328, 548],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文八重二",
+		"bbox": [290, 608, 374, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "用可施行也从卜从中衛宏說凡用",
+		"bbox": [187, 271, 275, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十七",
+		"bbox": [156, 269, 178, 312],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文三下",
+		"bbox": [147, 405, 174, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十二",
+		"bbox": [147, 661, 174, 702],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "袁和",
+		"bbox": [152, 798, 180, 840],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
