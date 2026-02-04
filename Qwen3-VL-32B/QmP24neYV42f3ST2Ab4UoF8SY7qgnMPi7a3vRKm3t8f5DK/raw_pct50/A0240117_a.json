@@ -1,0 +1,166 @@
+```json
+[
+	{
+		"text": "小三十七",
+		"bbox": [817, 276, 839, 315],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言三十二",
+		"bbox": [820, 405, 847, 481],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十六",
+		"bbox": [824, 652, 851, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李云",
+		"bbox": [817, 807, 839, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敇擊馬也从攴",
+		"bbox": [765, 276, 811, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "束聲楚革切",
+		"bbox": [724, 353, 765, 481],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敒小春也从攴",
+		"bbox": [765, 565, 811, 696],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "算聲初豢切",
+		"bbox": [724, 565, 765, 696],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敓鑿田也",
+		"bbox": [765, 774, 811, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从攴堯",
+		"bbox": [724, 774, 765, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲牽",
+		"bbox": [670, 270, 711, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遥切",
+		"bbox": [625, 270, 667, 322],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文七十七",
+		"bbox": [625, 443, 698, 578],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重六",
+		"bbox": [625, 659, 698, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敍上所施下所效也从攴从孝凡敍",
+		"bbox": [522, 270, 605, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之屬皆从敍古孝",
+		"bbox": [424, 349, 500, 607],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [424, 548, 465, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [377, 355, 416, 392],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦古",
+		"bbox": [377, 493, 416, 531],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "覺悟也从敍从冂冂",
+		"bbox": [377, 622, 416, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文敎",
+		"bbox": [322, 493, 360, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尚瞜也臼聲胡覺切",
+		"bbox": [322, 622, 360, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "篆文",
+		"bbox": [267, 355, 305, 407],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敭省",
+		"bbox": [221, 355, 260, 407],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [221, 493, 293, 570],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重二",
+		"bbox": [221, 682, 293, 766],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卜灼剝龜也象灸龜之形一曰象龜",
+		"bbox": [122, 276, 198, 851],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
