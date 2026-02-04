@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "羽曲也从羽",
+		"bbox": [854, 273, 901, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "句聲其俱切",
+		"bbox": [813, 273, 860, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飛舉也从羽",
+		"bbox": [771, 273, 818, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "者聲章庶切",
+		"bbox": [728, 273, 775, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽之翹風亦古諸矦也一",
+		"bbox": [854, 494, 901, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰射師从羽开聲五計切",
+		"bbox": [813, 494, 860, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "起也从羽合",
+		"bbox": [771, 494, 818, 605],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲許及切",
+		"bbox": [728, 494, 775, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小飛也从羽",
+		"bbox": [771, 655, 818, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罳聲許綠切",
+		"bbox": [728, 655, 775, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大飛也从羽軍聲一曰伊雒而南雉五采皆備曰",
+		"bbox": [684, 353, 731, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "翬詩曰如翬斯飛臣鉉等曰當从揮省許歸切",
+		"bbox": [641, 353, 688, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "高飛也从羽",
+		"bbox": [598, 342, 645, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从㐱力救切",
+		"bbox": [555, 342, 602, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾飛也从羽",
+		"bbox": [598, 567, 645, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "扁聲芳連切",
+		"bbox": [555, 567, 602, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "捷也",
+		"bbox": [598, 788, 645, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飛之",
+		"bbox": [555, 788, 602, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾也从羽夾聲讀若",
+		"bbox": [494, 273, 541, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "濇一曰俠也山洽切",
+		"bbox": [450, 273, 497, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飛兒从羽立",
+		"bbox": [494, 567, 541, 687],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲與職切",
+		"bbox": [450, 567, 497, 658],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飛盛兒",
+		"bbox": [494, 770, 541, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从羽从",
+		"bbox": [450, 770, 497, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "月臣鉉等曰犯冒而",
+		"bbox": [407, 273, 454, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飛是盛也上盍切",
+		"bbox": [364, 273, 411, 448],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飛盛兒从羽",
+		"bbox": [364, 567, 411, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之聲侍之切",
+		"bbox": [320, 567, 367, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "翺翔也",
+		"bbox": [364, 770, 411, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从羽皇",
+		"bbox": [320, 770, 367, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲五",
+		"bbox": [277, 273, 324, 322],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "回飛也从羽",
+		"bbox": [277, 400, 324, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飛聲也从羽歲聲詩曰",
+		"bbox": [277, 615, 324, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牢切",
+		"bbox": [233, 273, 280, 322],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羊聲似羊切",
+		"bbox": [233, 400, 280, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳳皇于飛翽翽其羽呼",
+		"bbox": [233, 615, 280, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大二十三",
+		"bbox": [170, 267, 189, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文四上",
+		"bbox": [168, 400, 189, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "九",
+		"bbox": [168, 690, 189, 710],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張信",
+		"bbox": [170, 808, 189, 848],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
