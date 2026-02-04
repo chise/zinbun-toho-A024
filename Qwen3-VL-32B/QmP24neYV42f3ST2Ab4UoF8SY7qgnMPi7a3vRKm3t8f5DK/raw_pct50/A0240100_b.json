@@ -1,0 +1,148 @@
+```json
+[
+	{
+		"text": "身中也象人要自臼之形从",
+		"bbox": [856, 350, 904, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰交省聲於消切又於笑切",
+		"bbox": [813, 351, 857, 637],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [864, 718, 898, 772],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "要",
+		"bbox": [815, 718, 849, 750],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [723, 422, 792, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [720, 571, 789, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辰早昧爽也从臼从辰辰時也辰亦",
+		"bbox": [615, 266, 701, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲夙夕為夙臼辰為晨皆同意凡",
+		"bbox": [515, 348, 599, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晨之屬皆从晨",
+		"bbox": [416, 348, 496, 632],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "食鄰",
+		"bbox": [460, 594, 496, 659],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [422, 596, 456, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "耕也从晨囟聲徐鍇曰",
+		"bbox": [365, 351, 402, 633],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "當从凶乃得聲奴冬切",
+		"bbox": [308, 350, 347, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文晨",
+		"bbox": [361, 662, 397, 750],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从林",
+		"bbox": [307, 662, 345, 719],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [258, 267, 294, 312],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦古",
+		"bbox": [258, 406, 294, 443],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文農",
+		"bbox": [212, 406, 248, 461],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [213, 517, 283, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重三",
+		"bbox": [213, 668, 282, 751],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十二",
+		"bbox": [175, 268, 197, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文三上",
+		"bbox": [166, 402, 195, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十八",
+		"bbox": [166, 655, 195, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玄正",
+		"bbox": [175, 803, 195, 840],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
