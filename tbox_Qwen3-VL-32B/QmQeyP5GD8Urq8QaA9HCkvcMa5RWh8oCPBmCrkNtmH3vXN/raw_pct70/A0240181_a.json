@@ -1,0 +1,7 @@
+```json
+[
+	{"text": "十", "bbox": [808, 667, 835, 687], "size": "small", "type": "text", "comment": "位于右侧边栏下方的数字"},
+	{"text": "加", "bbox": [805, 407, 835, 470], "size": "small", "type": "text", "comment": "位于右侧边栏中间的汉字"},
+	{"text": "六", "bbox": [798, 270, 822, 299], "size": "small", "type": "text", "comment": "位于右侧边栏上方的汉字"}
+]
+```
