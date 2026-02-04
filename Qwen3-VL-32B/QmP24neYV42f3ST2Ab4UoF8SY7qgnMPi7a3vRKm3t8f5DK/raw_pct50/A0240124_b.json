@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "从目氏聲",
+		"bbox": [850, 273, 894, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "哀視也从目",
+		"bbox": [850, 462, 894, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "低目視也从目",
+		"bbox": [850, 687, 894, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "承旨切",
+		"bbox": [802, 273, 845, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兒聲研計切",
+		"bbox": [802, 462, 845, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冒聲周書曰武",
+		"bbox": [802, 687, 845, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王惟睸",
+		"bbox": [754, 273, 798, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "視高皃从目戌聲讀若",
+		"bbox": [754, 432, 798, 663],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "視近而志",
+		"bbox": [754, 747, 798, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亼侎切",
+		"bbox": [707, 273, 750, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰施罛瀎瀎呼哲切",
+		"bbox": [707, 432, 750, 663],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遠从目尢",
+		"bbox": [707, 747, 750, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲易曰虎視",
+		"bbox": [659, 273, 702, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相顧視而行也从目",
+		"bbox": [659, 478, 702, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張目也",
+		"bbox": [659, 775, 702, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "眈眈丁含切",
+		"bbox": [612, 273, 655, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从延廴亦聲于線切",
+		"bbox": [612, 483, 655, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从目于",
+		"bbox": [612, 775, 655, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲一曰朝鮮謂盧",
+		"bbox": [565, 273, 608, 452],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目驚視也从目袁聲詩",
+		"bbox": [565, 530, 608, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "童子曰盱沉于切",
+		"bbox": [518, 273, 561, 447],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰獨行瞏瞏渠營切",
+		"bbox": [518, 530, 561, 747],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "視而止也从目",
+		"bbox": [470, 273, 513, 416],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目冥遠視也从目勿聲一曰",
+		"bbox": [470, 518, 513, 808],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亶聲㫖善切",
+		"bbox": [423, 273, 466, 408],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "久也一曰旦明也莫佩切",
+		"bbox": [423, 518, 466, 785],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目有所恨而止也",
+		"bbox": [376, 345, 419, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从目今聲之忍切",
+		"bbox": [376, 545, 419, 747],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瞭也从目奰",
+		"bbox": [376, 767, 419, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "察",
+		"bbox": [376, 822, 419, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲敷沼切",
+		"bbox": [328, 602, 371, 712],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目也",
+		"bbox": [328, 817, 371, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从目祭聲",
+		"bbox": [281, 273, 324, 375],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "見也从目者",
+		"bbox": [281, 467, 324, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [281, 675, 324, 722],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "目相",
+		"bbox": [281, 795, 324, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戚細切",
+		"bbox": [234, 273, 277, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲當古切",
+		"bbox": [234, 478, 277, 572],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从見",
+		"bbox": [234, 687, 277, 722],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "及也",
+		"bbox": [234, 795, 277, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十二",
+		"bbox": [165, 273, 186, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文目上",
+		"bbox": [165, 408, 186, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三一",
+		"bbox": [165, 687, 186, 705],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳廣",
+		"bbox": [165, 817, 186, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
