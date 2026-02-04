@@ -32,3 +32,9 @@ URL: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/toho/html/A024menu.html
   - [QmR9LYdRXT5eZKEwi7SMmTTrHJcwUJ6CQGZmKzHJWY9BFu/](tbox_Qwen3-VL-32B/QmR9LYdRXT5eZKEwi7SMmTTrHJcwUJ6CQGZmKzHJWY9BFu/) (en)
     - markdown_main_pct75/	OCR results of main text in Markdown format (resized to 75%)
     - raw_pct75/		Raw results in JSON format (resized to 75%)
+
+* [Qwen3-VL-32B/](Qwen3-VL-32B/)
+  - *Prompt CID*/	IPFS CID corresponding to the prompt.  For example:
+  - [QmP24neYV42f3ST2Ab4UoF8SY7qgnMPi7a3vRKm3t8f5DK](Qwen3-VL-32B/QmP24neYV42f3ST2Ab4UoF8SY7qgnMPi7a3vRKm3t8f5DK) (en)
+    - [markdown_line_pct50/](Qwen3-VL-32B/QmP24neYV42f3ST2Ab4UoF8SY7qgnMPi7a3vRKm3t8f5DK/markdown_line_pct50)	  OCR results in Markdown format (resized to 50%)
+    - raw_pct50/		Raw OCR results in JSON format (resized to 50%)
