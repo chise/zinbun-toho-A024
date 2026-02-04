@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "小三百四十一", "bbox": [807, 264, 830, 315], "type": "text", "comment": ""},
+	{"text": "言之四十一", "bbox": [809, 397, 838, 487], "type": "text", "comment": ""},
+	{"text": "景高", "bbox": [803, 806, 828, 844], "type": "text", "comment": ""},
+	{"text": "數十百爲一貫", "bbox": [745, 261, 799, 419], "type": "text", "comment": ""},
+	{"text": "相章也博陌切", "bbox": [709, 261, 758, 418], "type": "text", "comment": ""},
+	{"text": "古文百", "bbox": [756, 505, 797, 574], "type": "text", "comment": ""},
+	{"text": "从自", "bbox": [710, 229, 745, 554], "type": "text", "comment": ""},
+	{"text": "文七重二", "bbox": [715, 629, 788, 818], "type": "text", "comment": ""},
+	{"text": "引气自畀也从自畀凡鼻之屬皆", "bbox": [609, 257, 692, 845], "type": "text", "comment": ""},
+	{"text": "从鼻父二", "bbox": [515, 336, 589, 466], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [510, 417, 547, 450], "type": "text", "comment": ""},
+	{"text": "以鼻就臭也从鼻从臭臭亦", "bbox": [451, 257, 495, 616], "type": "text", "comment": ""},
+	{"text": "聲讀若畜牲之畜許救切", "bbox": [397, 345, 443, 611], "type": "text", "comment": ""},
+	{"text": "臥息也从鼻", "bbox": [455, 674, 492, 849], "type": "text", "comment": ""},
+	{"text": "于聲讀若汗", "bbox": [397, 674, 443, 848], "type": "text", "comment": ""},
+	{"text": "病寒鼻窒也从", "bbox": [348, 257, 392, 557], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [302, 259, 339, 291], "type": "text", "comment": ""},
+	{"text": "鼻九聲巨鳩切", "bbox": [300, 399, 344, 554], "type": "text", "comment": ""},
+	{"text": "臥息也从鼻隶聲", "bbox": [349, 645, 391, 842], "type": "text", "comment": ""},
+	{"text": "讀若虺許介切", "bbox": [298, 675, 341, 808], "type": "text", "comment": ""},
+	{"text": "文五", "bbox": [212, 366, 275, 446], "type": "text", "comment": ""},
+	{"text": "二百也凡皕之屬皆从皕讀若秘", "bbox": [100, 258, 180, 844], "type": "text", "comment": ""}
+]
+```

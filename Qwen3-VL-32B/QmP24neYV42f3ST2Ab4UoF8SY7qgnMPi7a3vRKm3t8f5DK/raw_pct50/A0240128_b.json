@@ -1,0 +1,154 @@
+```json
+[
+	{
+		"text": "自古文",
+		"bbox": [859, 268, 901, 397],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "自",
+		"bbox": [822, 344, 850, 371],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "六六不見也",
+		"bbox": [864, 476, 907, 614],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "闕武延切",
+		"bbox": [817, 483, 858, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二重一",
+		"bbox": [831, 661, 901, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "自此亦自字也省自者詞言之气从",
+		"bbox": [723, 260, 802, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼻出與口相助也凡白之屬皆从",
+		"bbox": [620, 336, 698, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "白疾二",
+		"bbox": [531, 343, 603, 429],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俱詞也从比",
+		"bbox": [454, 343, 500, 467],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从白古諧切",
+		"bbox": [403, 343, 452, 467],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鈍詞也从白燾省聲論",
+		"bbox": [457, 553, 506, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "語曰參也魯郎古切",
+		"bbox": [406, 553, 454, 762],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "別事詞也从白叅聲",
+		"bbox": [354, 343, 400, 561],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "叅古文旅字之也切",
+		"bbox": [305, 343, 350, 559],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詞也从白冖聲冖與",
+		"bbox": [357, 645, 404, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疇同虞書帝曰冐咨",
+		"bbox": [308, 645, 354, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "直由",
+		"bbox": [256, 266, 300, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "識詞也从白从",
+		"bbox": [256, 399, 300, 559],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亏从知知義切",
+		"bbox": [204, 403, 250, 559],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [258, 639, 300, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十十也",
+		"bbox": [258, 770, 300, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从一白",
+		"bbox": [206, 770, 250, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "沈錫",
+		"bbox": [174, 810, 200, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十七",
+		"bbox": [170, 262, 194, 299],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑又日止",
+		"bbox": [165, 405, 188, 478],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
