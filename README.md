@@ -16,6 +16,12 @@ URL: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/toho/html/A024menu.html
 
 * [proof/](proof/)		Human-proofed text
 
+* [segment_Qwen3-VL-32B/](segment_Qwen3-VL-32B/)		Qwen3-VL-32B results for segments
+  - *Prompt CID*/	IPFS CID corresponding to the prompt.  For example:
+  - [QmQeyP5GD8Urq8QaA9HCkvcMa5RWh8oCPBmCrkNtmH3vXN](segment_Qwen3-VL-32B/QmQeyP5GD8Urq8QaA9HCkvcMa5RWh8oCPBmCrkNtmH3vXN) (en)
+    - [markdown_line_pct50/](segment_Qwen3-VL-32B/QmQeyP5GD8Urq8QaA9HCkvcMa5RWh8oCPBmCrkNtmH3vXN/markdown_line_pct50)	  OCR results in Markdown format (resized to 50%)
+    - raw_pct50/		  Raw OCR results in JSON format (resized to 50%)
+
 * [tbox_Qwen3-VL-32B/](tbox_Qwen3-VL-32B/)	  Qwen3-VL-32B results for text-boxes
   - *Prompt CID*/	IPFS CID corresponding to the prompt.  For example:
   - [QmQeyP5GD8Urq8QaA9HCkvcMa5RWh8oCPBmCrkNtmH3vXN/](tbox_Qwen3-VL-32B/QmQeyP5GD8Urq8QaA9HCkvcMa5RWh8oCPBmCrkNtmH3vXN/) (en)
