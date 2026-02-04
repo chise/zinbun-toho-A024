@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "乙古",
+		"bbox": [860, 283, 895, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "甍切",
+		"bbox": [814, 283, 851, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文厷",
+		"bbox": [860, 418, 895, 462],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "象形",
+		"bbox": [814, 418, 851, 462],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "厷或",
+		"bbox": [860, 586, 895, 630],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从肉",
+		"bbox": [814, 586, 851, 630],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "手指相錯也",
+		"bbox": [860, 723, 895, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从叉象叉之",
+		"bbox": [814, 723, 851, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "形初",
+		"bbox": [769, 283, 806, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "身切",
+		"bbox": [723, 283, 760, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "手足甲也从叉",
+		"bbox": [769, 418, 806, 569],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "象叉形側狡切",
+		"bbox": [723, 418, 760, 569],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "矩也家長率敎者",
+		"bbox": [769, 674, 806, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从叉舉杖扶兩切",
+		"bbox": [723, 674, 760, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "老也从又从",
+		"bbox": [677, 358, 714, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "灾闕穌后切",
+		"bbox": [615, 358, 652, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [677, 586, 714, 619],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从寸",
+		"bbox": [615, 586, 652, 624],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "突或",
+		"bbox": [677, 706, 714, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从人",
+		"bbox": [615, 706, 652, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "和也从言从又炎籀文變从羊羊音飪讀若溼臣鉉等",
+		"bbox": [559, 283, 602, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "案變字義大孰也从炎从又即孰物可持也此變蓋从",
+		"bbox": [503, 283, 551, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "變省言語以和之也二字",
+		"bbox": [453, 283, 500, 569],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "義相出入故也穌叶切",
+		"bbox": [402, 283, 449, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "引也从又冒聲冒",
+		"bbox": [351, 283, 397, 462],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文申失人切",
+		"bbox": [306, 283, 351, 428],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "分洩也从又中象洩形徐鍇",
+		"bbox": [351, 544, 397, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰三物也丨所以洩之古賣",
+		"bbox": [306, 544, 351, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "治也从又ノ握",
+		"bbox": [254, 381, 300, 569],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "事者也余準切",
+		"bbox": [209, 381, 254, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [254, 626, 300, 658],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尹",
+		"bbox": [209, 626, 254, 658],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "又取也从",
+		"bbox": [254, 754, 300, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "又虘聲側",
+		"bbox": [209, 754, 254, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大卅一",
+		"bbox": [173, 271, 196, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "免下三十",
+		"bbox": [158, 409, 186, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "下",
+		"bbox": [158, 661, 186, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "袁和",
+		"bbox": [169, 803, 194, 835],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
