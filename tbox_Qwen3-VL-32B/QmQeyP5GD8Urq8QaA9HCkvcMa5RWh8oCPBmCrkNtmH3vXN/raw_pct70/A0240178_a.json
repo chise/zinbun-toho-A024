@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小豆十六", "bbox": [798, 267, 818, 319], "size": "small", "type": "label", "comment": "页码或章节标记"},
+	{"text": "說文解字", "bbox": [805, 399, 838, 480], "size": "medium", "type": "title", "comment": "书名"},
+	{"text": "上卷", "bbox": [805, 488, 838, 535], "size": "medium", "type": "section", "comment": "卷名"},
+	{"text": "李云", "bbox": [798, 792, 818, 825], "size": "small", "type": "author", "comment": "作者或校注者"},
+	{"text": "中以祀者也从皿成聲氏征切", "bbox": [755, 267, 798, 422], "size": "medium", "type": "definition", "comment": "对“登”字的解释"},
+	{"text": "黍稷在器以祀者", "bbox": [755, 508, 798, 698], "size": "medium", "type": "definition", "comment": "对“登”字的进一步解释"},
+	{"text": "从皿齊聲即夷切", "bbox": [705, 508, 748, 698], "size": "medium", "type": "definition", "comment": "对“登”字的构形和读音说明"},
+	{"text": "皿有聲讀若灰一曰若賄于救切", "bbox": [620, 267, 695, 422], "size": "medium", "type": "definition", "comment": "对“皿”字的读音和注释"},
+	{"text": "盞或从右", "bbox": [605, 442, 695, 585], "size": "medium", "type": "variant", "comment": "“盞”的异体字或构形说明"},
+	{"text": "飯器也从皿盧聲洛乎切", "bbox": [605, 670, 695, 815], "size": "medium", "type": "definition", "comment": "对“盞”字的解释"},
+	{"text": "籀文", "bbox": [545, 340, 595, 398], "size": "medium", "type": "variant", "comment": "籀文形式的说明"},
+	{"text": "器也从皿从缶古聲公戶切", "bbox": [500, 480, 595, 625], "size": "medium", "type": "definition", "comment": "对“盞”字的构形和读音说明"},
+	{"text": "器也从皿弔聲止遥", "bbox": [500, 670, 595, 835], "size": "medium", "type": "definition", "comment": "对“盞”字的构形和读音说明"},
+	{"text": "盆也从皿央聲烏浪切", "bbox": [400, 267, 490, 480], "size": "medium", "type": "definition", "comment": "对“盆”字的解释"},
+	{"text": "盎或从瓦", "bbox": [400, 508, 490, 635], "size": "medium", "type": "variant", "comment": "“盎”的异体字或构形说明"},
+	{"text": "盎也从皿分聲步奔", "bbox": [400, 650, 490, 835], "size": "medium", "type": "definition", "comment": "对“盎”字的解释"},
+	{"text": "器也从皿亡聲直呂切", "bbox": [300, 267, 390, 480], "size": "medium", "type": "definition", "comment": "对“盞”字的解释"},
+	{"text": "櫝盞負戴器也从皿須聲相庾切", "bbox": [300, 508, 390, 775], "size": "medium", "type": "definition", "comment": "对“盞”字的解释"},
+	{"text": "器也从皿漻聲古巧切", "bbox": [200, 267, 290, 455], "size": "medium", "type": "definition", "comment": "对“盞”字的解释"},
+	{"text": "械器也从皿必聲彌畢切", "bbox": [200, 508, 290, 698], "size": "medium", "type": "definition", "comment": "对“盞”字的解释"},
+	{"text": "酸也作醯", "bbox": [200, 705, 290, 835], "size": "medium", "type": "definition", "comment": "对“醯”字的解释"},
+	{"text": "以糟以酒从糟酒並省", "bbox": [140, 267, 190, 500], "size": "medium", "type": "definition", "comment": "对“醞”字的构形说明"},
+	{"text": "从皿皿器也呼雞切", "bbox": [90, 267, 140, 480], "size": "medium", "type": "definition", "comment": "对“皿”字的解释"},
+	{"text": "調味也从皿禾聲戸戈切", "bbox": [90, 508, 190, 725], "size": "medium", "type": "definition", "comment": "对“醞”字的解释"},
+	{"text": "饒也", "bbox": [90, 735, 190, 835], "size": "medium", "type": "definition", "comment": "对“醞”字的解释"}
+]
+```
