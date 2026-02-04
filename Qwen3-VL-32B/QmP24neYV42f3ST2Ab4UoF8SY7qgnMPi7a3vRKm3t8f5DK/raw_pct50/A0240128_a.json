@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "小三百五", "bbox": [807, 273, 829, 321], "type": "text", "comment": ""},
+	{"text": "說文四上", "bbox": [814, 405, 846, 487], "type": "text", "comment": ""},
+	{"text": "一", "bbox": [815, 667, 833, 693], "type": "text", "comment": ""},
+	{"text": "楊永", "bbox": [807, 811, 833, 850], "type": "text", "comment": ""},
+	{"text": "頷理也凡眉之屬皆从眉武悲切", "bbox": [713, 357, 804, 799], "type": "text", "comment": ""},
+	{"text": "視也从眉省从中臣鉉", "bbox": [656, 357, 702, 597], "type": "text", "comment": ""},
+	{"text": "等曰中通識也所景切", "bbox": [606, 357, 654, 597], "type": "text", "comment": ""},
+	{"text": "古文从", "bbox": [661, 672, 702, 748], "type": "text", "comment": ""},
+	{"text": "少从囧", "bbox": [608, 672, 652, 748], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [514, 414, 587, 490], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [514, 604, 588, 679], "type": "text", "comment": ""},
+	{"text": "盾啇也所以扞身蔽目象形凡盾之屬皆从盾食閏切", "bbox": [410, 273, 495, 847], "type": "text", "comment": ""},
+	{"text": "盾也从盾友聲扶發切", "bbox": [252, 357, 298, 456], "type": "text", "comment": ""},
+	{"text": "盾握也从盾圭聲苦圭切", "bbox": [252, 562, 298, 693], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [218, 732, 292, 816], "type": "text", "comment": ""},
+	{"text": "自鼻也象鼻形凡自之屬皆从自疾二切", "bbox": [104, 273, 190, 850], "type": "text", "comment": ""}
+]
+```
