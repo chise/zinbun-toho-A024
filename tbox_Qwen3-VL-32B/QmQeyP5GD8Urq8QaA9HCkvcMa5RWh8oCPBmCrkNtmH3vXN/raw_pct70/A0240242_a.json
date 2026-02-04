@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "小可壬", "bbox": [804, 268, 824, 314], "size": "small", "type": "text", "comment": "页码或卷号"},
+	{"text": "言文十一", "bbox": [804, 402, 834, 484], "size": "small", "type": "text", "comment": "章节或篇目编号"},
+	{"text": "六", "bbox": [804, 674, 828, 698], "size": "small", "type": "text", "comment": "页码"},
+	{"text": "洪章", "bbox": [794, 798, 818, 838], "size": "small", "type": "text", "comment": "出版者或刻工名"},
+	{"text": "文二十三 重五", "bbox": [712, 428, 788, 738], "size": "large", "type": "title", "comment": "本页正文标题"},
+	{"text": "冥幽也从日从六一聲日數十十", "bbox": [608, 265, 686, 846], "size": "large", "type": "definition", "comment": "对“冥”字的解释"},
+	{"text": "六日而月始虧幽也凡冥之屬皆", "bbox": [500, 362, 584, 848], "size": "large", "type": "definition", "comment": "对“冥”字的引申解释"},
+	{"text": "从冥 莫經切", "bbox": [404, 362, 484, 500], "size": "medium", "type": "phonetic", "comment": "“冥”的构形与读音"},
+	{"text": "冥也从冥黽聲讀若黽蛙之黽武庚切", "bbox": [340, 256, 394, 538], "size": "medium", "type": "definition", "comment": "对“黽”字的解释"},
+	{"text": "文二", "bbox": [306, 680, 374, 762], "size": "medium", "type": "text", "comment": "小节标题或编号"},
+	{"text": "晶精光也从三日凡晶之屬皆从晶", "bbox": [198, 262, 282, 848], "size": "large", "type": "definition", "comment": "对“晶”字的解释"},
+	{"text": "子盈切", "bbox": [148, 340, 188, 396], "size": "medium", "type": "phonetic", "comment": "“晶”的反切注音"}
+]
+```
