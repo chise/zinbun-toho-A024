@@ -1,0 +1,88 @@
+```json
+[
+	{
+		"text": "說文解字弟三下 漢太尉祭酒許愼記",
+		"bbox": [825, 269, 897, 830],
+		"type": "title",
+		"comment": "书名与作者信息"
+	},
+	{
+		"text": "銀青光祿大夫右散騎常侍上柱國東海縣開國子食邑吾扈徐鉉等奉",
+		"bbox": [734, 292, 787, 848],
+		"type": "annotation",
+		"comment": "校订者或刊刻者信息"
+	},
+	{
+		"text": "敕校定",
+		"bbox": [632, 286, 673, 349],
+		"type": "annotation",
+		"comment": "敕令校定字样"
+	},
+	{
+		"text": "革獸皮治去其毛革更之象古文",
+		"bbox": [514, 267, 599, 848],
+		"type": "definition",
+		"comment": "对“革”字的解释"
+	},
+	{
+		"text": "革之形凡革之屬皆从革古覈切",
+		"bbox": [413, 367, 489, 848],
+		"type": "definition",
+		"comment": "说明“革”为部首，所有从革的字都归于该部，并注明反切注音"
+	},
+	{
+		"text": "古文革从三十三十年為一世而道更也臼聲",
+		"bbox": [357, 351, 400, 848],
+		"type": "ancient_character_explanation",
+		"comment": "对古文“革”的构形及意义解释"
+	},
+	{
+		"text": "去毛皮也論語曰虎豹之鞹从革郭",
+		"bbox": [307, 662, 351, 848],
+		"type": "example",
+		"comment": "引《论语》例句说明“鞹”字含义"
+	},
+	{
+		"text": "聲苦旰切",
+		"bbox": [255, 269, 296, 328],
+		"type": "phonetic_annotation",
+		"comment": "注音：声母为“苦”，韵母为“旰”，切音法"
+	},
+	{
+		"text": "靬乾革也武威有麗靬",
+		"bbox": [255, 331, 296, 641],
+		"type": "definition",
+		"comment": "解释“靬”字含义及地名用例"
+	},
+	{
+		"text": "縣从革干聲苦旰切",
+		"bbox": [206, 269, 247, 625],
+		"type": "definition",
+		"comment": "解释“靬”字结构及读音"
+	},
+	{
+		"text": "生革可以為縷束也从革",
+		"bbox": [206, 713, 247, 848],
+		"type": "definition",
+		"comment": "解释“韋”字含义（生革可制绳索）及构形"
+	},
+	{
+		"text": "大廿",
+		"bbox": [177, 267, 196, 297],
+		"type": "page_number",
+		"comment": "页码或卷数标记"
+	},
+	{
+		"text": "說文三下",
+		"bbox": [164, 402, 191, 486],
+		"type": "book_section",
+		"comment": "书籍卷次标识"
+	},
+	{
+		"text": "陳玉",
+		"bbox": [171, 795, 194, 834],
+		"type": "publisher_or_editor",
+		"comment": "出版者或抄写者姓名"
+	}
+]
+```
