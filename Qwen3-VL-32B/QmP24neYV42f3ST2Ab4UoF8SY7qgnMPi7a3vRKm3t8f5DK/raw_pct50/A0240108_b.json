@@ -1,0 +1,154 @@
+```json
+[
+	{
+		"text": "大十八",
+		"bbox": [174, 273, 196, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文三下",
+		"bbox": [160, 405, 196, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "袁和",
+		"bbox": [174, 801, 196, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [254, 363, 294, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "广 大手也象形凡广之屬皆从广 可臧",
+		"bbox": [311, 361, 388, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二十八 重十六",
+		"bbox": [417, 419, 492, 763],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "度 法制也从又庶省聲徒故切",
+		"bbox": [512, 274, 600, 574],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦古文友",
+		"bbox": [514, 274, 597, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "友 古文",
+		"bbox": [616, 643, 699, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相交友也云久切",
+		"bbox": [615, 446, 699, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "同志為友从二又",
+		"bbox": [661, 446, 700, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "譚長說",
+		"bbox": [661, 274, 700, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "叚如此",
+		"bbox": [616, 274, 655, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "叚 古雅切",
+		"bbox": [713, 539, 798, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "借也闕",
+		"bbox": [764, 539, 803, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [764, 699, 803, 761],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "叚",
+		"bbox": [713, 765, 803, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹从習",
+		"bbox": [715, 357, 754, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文彗从",
+		"bbox": [764, 357, 803, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "司馬法曰載獻贓",
+		"bbox": [856, 274, 902, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "職者耳也七庾切",
+		"bbox": [810, 274, 856, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "帚竹也从又",
+		"bbox": [856, 545, 902, 680],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "持丄祥歲切",
+		"bbox": [810, 545, 856, 680],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "彗或",
+		"bbox": [856, 765, 902, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从竹",
+		"bbox": [810, 765, 856, 849],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

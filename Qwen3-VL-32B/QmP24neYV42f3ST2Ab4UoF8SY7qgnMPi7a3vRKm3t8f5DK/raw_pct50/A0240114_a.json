@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "小三", "bbox": [809, 261, 835, 304], "type": "text", "comment": ""},
+	{"text": "言文三一", "bbox": [817, 402, 844, 473], "type": "text", "comment": ""},
+	{"text": "十三", "bbox": [817, 648, 844, 695], "type": "text", "comment": ""},
+	{"text": "春沔", "bbox": [809, 809, 835, 845], "type": "text", "comment": ""},
+	{"text": "之屬皆从甍讀若爽一日若雋門鉉臣", "bbox": [721, 341, 798, 846], "type": "text", "comment": ""},
+	{"text": "等曰北者反覆柔治", "bbox": [662, 341, 705, 557], "type": "text", "comment": ""},
+	{"text": "之也夐營也而克切", "bbox": [617, 341, 660, 557], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [564, 341, 606, 389], "type": "text", "comment": ""},
+	{"text": "籀文甍", "bbox": [564, 482, 606, 557], "type": "text", "comment": ""},
+	{"text": "羽獵韋絝从甍", "bbox": [564, 653, 606, 809], "type": "text", "comment": ""},
+	{"text": "从夐省", "bbox": [514, 482, 557, 557], "type": "text", "comment": ""},
+	{"text": "卉聲而隴切", "bbox": [514, 653, 557, 779], "type": "text", "comment": ""},
+	{"text": "或从衣从朕虞", "bbox": [463, 341, 506, 501], "type": "text", "comment": ""},
+	{"text": "書曰鳥獸裦毛", "bbox": [413, 341, 457, 501], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [421, 564, 491, 651], "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [421, 690, 491, 770], "type": "text", "comment": ""},
+	{"text": "小擊也从又卜聲凡支之屬皆从", "bbox": [314, 341, 396, 845], "type": "text", "comment": ""},
+	{"text": "攵", "bbox": [218, 337, 293, 385], "type": "text", "comment": ""},
+	{"text": "普木", "bbox": [264, 389, 300, 423], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [214, 389, 250, 417], "type": "text", "comment": ""},
+	{"text": "敎也从支启聲論語", "bbox": [158, 341, 200, 557], "type": "text", "comment": ""},
+	{"text": "曰不憤不啓康禮切", "bbox": [106, 341, 150, 557], "type": "text", "comment": ""},
+	{"text": "通也从彳从支", "bbox": [158, 638, 200, 793], "type": "text", "comment": ""},
+	{"text": "从育丑剡切", "bbox": [106, 638, 150, 770], "type": "text", "comment": ""}
+]
+```

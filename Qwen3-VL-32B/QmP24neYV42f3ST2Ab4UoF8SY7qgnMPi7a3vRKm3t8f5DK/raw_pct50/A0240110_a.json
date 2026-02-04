@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "小言三", "bbox": [798, 260, 818, 314], "type": "text", "comment": ""},
+	{"text": "从聿余律", "bbox": [714, 351, 786, 498], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [714, 498, 752, 528], "type": "text", "comment": ""},
+	{"text": "秦謂之筆从聿从竹徐鍇曰", "bbox": [653, 338, 693, 616], "type": "text", "comment": ""},
+	{"text": "筆尚便走故从聿鄙密切", "bbox": [603, 338, 642, 609], "type": "text", "comment": ""},
+	{"text": "聿飾也从聿", "bbox": [653, 707, 693, 842], "type": "text", "comment": ""},
+	{"text": "从彡俗語以", "bbox": [603, 715, 642, 844], "type": "text", "comment": ""},
+	{"text": "書好爲聿讀", "bbox": [551, 259, 590, 399], "type": "text", "comment": ""},
+	{"text": "若津將鄰切", "bbox": [501, 259, 541, 399], "type": "text", "comment": ""},
+	{"text": "箸也从聿者", "bbox": [551, 478, 590, 612], "type": "text", "comment": ""},
+	{"text": "聲商魚切", "bbox": [501, 478, 541, 587], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [516, 683, 577, 758], "type": "text", "comment": ""},
+	{"text": "畫界也象田四界聿所以畫之凡畫", "bbox": [402, 259, 487, 847], "type": "text", "comment": ""},
+	{"text": "之屬皆从畫胡麥", "bbox": [304, 345, 377, 598], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [304, 537, 337, 565], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [250, 345, 284, 399], "type": "text", "comment": ""},
+	{"text": "亦古", "bbox": [250, 482, 284, 533], "type": "text", "comment": ""},
+	{"text": "口之出入與夜爲界", "bbox": [250, 626, 290, 844], "type": "text", "comment": ""},
+	{"text": "从畫省从日陟救切", "bbox": [201, 626, 244, 837], "type": "text", "comment": ""},
+	{"text": "畫省", "bbox": [201, 345, 236, 399], "type": "text", "comment": ""},
+	{"text": "文畫", "bbox": [201, 482, 236, 533], "type": "text", "comment": ""},
+	{"text": "籀文", "bbox": [151, 338, 186, 392], "type": "text", "comment": ""},
+	{"text": "畫", "bbox": [102, 338, 136, 368], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [106, 446, 175, 528], "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [112, 631, 177, 715], "type": "text", "comment": ""},
+	{"text": "春禹", "bbox": [802, 799, 825, 840], "type": "text", "comment": ""}
+]
+```
