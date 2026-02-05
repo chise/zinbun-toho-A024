@@ -1,0 +1,238 @@
+```json
+[
+	{
+		"text": "之横梁从木",
+		"bbox": [834, 276, 905, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冒聲莫報切",
+		"bbox": [818, 276, 859, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "門橛也从木",
+		"bbox": [865, 487, 905, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "困聲苦本切",
+		"bbox": [818, 487, 859, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "限也从木骨",
+		"bbox": [865, 699, 905, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲先結切",
+		"bbox": [818, 699, 859, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木閑从木且",
+		"bbox": [760, 348, 801, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲側加切",
+		"bbox": [718, 348, 758, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "歫也从木倉聲一",
+		"bbox": [760, 559, 801, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰槍櫳也七羊切",
+		"bbox": [718, 559, 758, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "限門也从木",
+		"bbox": [664, 276, 704, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "建聲其獻切",
+		"bbox": [614, 276, 655, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楔也从木戢",
+		"bbox": [664, 487, 704, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲子廉切",
+		"bbox": [614, 487, 655, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "檻也从木契",
+		"bbox": [664, 699, 704, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲先結切",
+		"bbox": [614, 699, 655, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "編樹木也从木从",
+		"bbox": [560, 348, 601, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冊冊亦聲楚革切",
+		"bbox": [510, 348, 551, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "落也从木也聲",
+		"bbox": [560, 559, 601, 740],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若他池尒切",
+		"bbox": [510, 559, 551, 740],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夜行所擊者从木橐聲",
+		"bbox": [456, 276, 497, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "易曰重門擊櫺他各切",
+		"bbox": [405, 276, 446, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亭郵表也从木",
+		"bbox": [456, 559, 497, 740],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亘聲胡官切",
+		"bbox": [405, 559, 446, 740],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木帳也从木",
+		"bbox": [351, 276, 392, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屋聲於角切",
+		"bbox": [300, 276, 341, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "帳極也从木",
+		"bbox": [351, 487, 392, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "童聲宅江切",
+		"bbox": [300, 487, 341, 616],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牀前橫木也",
+		"bbox": [351, 699, 392, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从木工聲古",
+		"bbox": [300, 699, 341, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雙",
+		"bbox": [248, 276, 289, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [205, 276, 246, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牀前几从木",
+		"bbox": [248, 375, 289, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "呈聲他丁切",
+		"bbox": [205, 375, 246, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "桎程也東方謂之蕩",
+		"bbox": [248, 699, 289, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从木巫聲古零切",
+		"bbox": [205, 699, 246, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大廿八",
+		"bbox": [172, 276, 195, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "元之十二",
+		"bbox": [161, 408, 183, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳五",
+		"bbox": [186, 798, 208, 828],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
