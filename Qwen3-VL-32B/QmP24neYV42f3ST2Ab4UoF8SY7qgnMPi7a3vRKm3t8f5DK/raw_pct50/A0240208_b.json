@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "金从",
+		"bbox": [865, 279, 904, 331],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舌也从木吕聲一曰徙土輦齊人",
+		"bbox": [865, 413, 904, 750],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "于",
+		"bbox": [818, 279, 855, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "語也臣鉉等曰今俗作耜詳里切",
+		"bbox": [818, 413, 855, 750],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或从",
+		"bbox": [771, 279, 807, 331],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "耒耑也从木",
+		"bbox": [771, 413, 807, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或从",
+		"bbox": [771, 615, 807, 668],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [771, 766, 807, 819],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "里",
+		"bbox": [724, 279, 761, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "台聲弋之切",
+		"bbox": [724, 413, 761, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "金",
+		"bbox": [724, 615, 761, 641],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从辝",
+		"bbox": [724, 766, 761, 819],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "六义犂一曰犂上曲木犂轅从",
+		"bbox": [678, 364, 715, 687],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "摩田器",
+		"bbox": [678, 772, 715, 824],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木軍聲讀若渾天之渾戶昆切",
+		"bbox": [631, 364, 668, 687],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从木憂",
+		"bbox": [631, 766, 668, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲論語曰擾而",
+		"bbox": [584, 279, 621, 431],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "斫也齊謂之鎰鎮一曰斤柄",
+		"bbox": [584, 526, 621, 819],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不輟於求切",
+		"bbox": [537, 279, 574, 413],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "性自曲者从木屬聲陟玉切",
+		"bbox": [537, 526, 574, 819],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "所謂之櫓从木",
+		"bbox": [491, 364, 528, 510],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箸聲張略切",
+		"bbox": [444, 364, 481, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "收麥器从木",
+		"bbox": [444, 579, 481, 687],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "巴聲蒲巴切",
+		"bbox": [444, 766, 481, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也一曰燒麥柃椴",
+		"bbox": [397, 279, 434, 464],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木令",
+		"bbox": [397, 544, 434, 674],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "擊禾連",
+		"bbox": [397, 766, 434, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从木役聲與辟切",
+		"bbox": [350, 279, 387, 464],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲郎丁切",
+		"bbox": [350, 544, 387, 651],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "枷也从",
+		"bbox": [350, 766, 387, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木弗聲",
+		"bbox": [303, 279, 340, 364],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "拂也从木加聲淮",
+		"bbox": [303, 526, 340, 633],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "春杵也从木",
+		"bbox": [303, 716, 340, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敦勿切",
+		"bbox": [256, 279, 293, 364],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南謂之柍古牙切",
+		"bbox": [256, 447, 293, 628],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "午聲昌與切",
+		"bbox": [256, 716, 293, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大卅二",
+		"bbox": [172, 283, 199, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文下上",
+		"bbox": [159, 413, 187, 491],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "上",
+		"bbox": [159, 666, 187, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "表和",
+		"bbox": [182, 798, 207, 841],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
