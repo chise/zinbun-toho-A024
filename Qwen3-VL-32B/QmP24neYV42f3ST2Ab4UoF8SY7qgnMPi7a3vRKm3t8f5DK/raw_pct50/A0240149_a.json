@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "小三百三十一", "bbox": [807, 259, 827, 311], "type": "text", "comment": ""},
+	{"text": "言文四一", "bbox": [813, 401, 836, 455], "type": "text", "comment": ""},
+	{"text": "嚴華", "bbox": [809, 799, 831, 843], "type": "text", "comment": ""},
+	{"text": "凡冎之屬皆从冎古瓦切", "bbox": [717, 337, 797, 655], "type": "text", "comment": ""},
+	{"text": "分解也从冎", "bbox": [663, 337, 702, 465], "type": "text", "comment": ""},
+	{"text": "从刀憑列切", "bbox": [610, 337, 655, 465], "type": "text", "comment": ""},
+	{"text": "別也从冎卑聲", "bbox": [655, 556, 700, 715], "type": "text", "comment": ""},
+	{"text": "讀若罷府移切", "bbox": [608, 556, 655, 715], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [622, 751, 688, 835], "type": "text", "comment": ""},
+	{"text": "骨肉之覈也从冎有肉凡骨之屬", "bbox": [510, 262, 595, 840], "type": "text", "comment": ""},
+	{"text": "皆从骨古忽切", "bbox": [417, 341, 489, 517], "type": "text", "comment": ""},
+	{"text": "觸髏頂也从骨", "bbox": [359, 337, 398, 508], "type": "text", "comment": ""},
+	{"text": "蜀聲徒谷切", "bbox": [304, 337, 345, 477], "type": "text", "comment": ""},
+	{"text": "觸髏也从骨", "bbox": [359, 586, 398, 741], "type": "text", "comment": ""},
+	{"text": "妻聲洛侯切", "bbox": [304, 597, 345, 736], "type": "text", "comment": ""},
+	{"text": "肩甲也从骨", "bbox": [252, 262, 292, 409], "type": "text", "comment": ""},
+	{"text": "專聲補各切", "bbox": [201, 262, 244, 378], "type": "text", "comment": ""},
+	{"text": "肩前也从骨", "bbox": [252, 478, 292, 614], "type": "text", "comment": ""},
+	{"text": "禺聲午口切", "bbox": [201, 478, 244, 609], "type": "text", "comment": ""},
+	{"text": "拜脅也从骨", "bbox": [252, 687, 292, 843], "type": "text", "comment": ""},
+	{"text": "拜聲晉文公", "bbox": [201, 687, 244, 843], "type": "text", "comment": ""},
+	{"text": "骿脅臣鉉等曰骿胝字", "bbox": [151, 259, 193, 508], "type": "text", "comment": ""},
+	{"text": "同今別作胼非部田切", "bbox": [100, 259, 144, 508], "type": "text", "comment": ""},
+	{"text": "股也从骨卑", "bbox": [151, 586, 193, 721], "type": "text", "comment": ""},
+	{"text": "聲幷弭切", "bbox": [100, 586, 144, 706], "type": "text", "comment": ""},
+	{"text": "支", "bbox": [151, 788, 193, 843], "type": "text", "comment": ""},
+	{"text": "髀", "bbox": [100, 788, 144, 831], "type": "text", "comment": ""}
+]
+```
