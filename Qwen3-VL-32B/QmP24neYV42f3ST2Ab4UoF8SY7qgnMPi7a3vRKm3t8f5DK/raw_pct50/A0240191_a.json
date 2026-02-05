@@ -1,0 +1,148 @@
+```json
+[
+	{
+		"text": "小阜一",
+		"bbox": [804, 265, 827, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言之三二",
+		"bbox": [809, 405, 835, 455],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "洪章",
+		"bbox": [808, 798, 833, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [714, 408, 794, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [717, 566, 792, 656],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會獻也从高省曰象進孰物形孝經",
+		"bbox": [606, 271, 698, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰祭則鬼亯之凡亯之屬皆从亯",
+		"bbox": [503, 360, 592, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "許兩切又普庚",
+		"bbox": [448, 367, 495, 524],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切又許庚切",
+		"bbox": [400, 367, 448, 499],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亯",
+		"bbox": [303, 267, 390, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "篆文",
+		"bbox": [350, 349, 391, 388],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亯",
+		"bbox": [303, 400, 390, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "孰也从亯从羊讀若",
+		"bbox": [351, 492, 395, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "純一曰臠也常倫切",
+		"bbox": [305, 492, 348, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亯",
+		"bbox": [305, 698, 390, 780],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "篆文",
+		"bbox": [352, 778, 393, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亯",
+		"bbox": [305, 780, 346, 812],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "厚也从亯竹聲",
+		"bbox": [250, 352, 291, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若篤冬毒切",
+		"bbox": [201, 352, 243, 513],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亯",
+		"bbox": [203, 518, 291, 594],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "用也从亯从自自知臭香",
+		"bbox": [252, 598, 293, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "所食也讀若庸余封切",
+		"bbox": [202, 598, 244, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文四",
+		"bbox": [108, 416, 176, 502],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重二",
+		"bbox": [111, 560, 177, 646],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
