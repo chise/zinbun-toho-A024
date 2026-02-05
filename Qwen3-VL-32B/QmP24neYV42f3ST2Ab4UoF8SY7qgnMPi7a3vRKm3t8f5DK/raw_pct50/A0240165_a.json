@@ -1,0 +1,238 @@
+```json
+[
+	{
+		"text": "小言十八",
+		"bbox": [796, 268, 814, 335],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文三一",
+		"bbox": [807, 402, 834, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "四",
+		"bbox": [814, 655, 834, 672],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "洪章",
+		"bbox": [807, 793, 828, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹枚也从竹",
+		"bbox": [744, 271, 794, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "固聲古賀切",
+		"bbox": [694, 271, 744, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹索也从竹",
+		"bbox": [744, 402, 794, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "交聲胡茅切",
+		"bbox": [694, 402, 744, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箋也从竹作",
+		"bbox": [744, 534, 794, 661],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲在各切",
+		"bbox": [694, 534, 744, 661],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蔽絮簀也从竹沾",
+		"bbox": [644, 271, 694, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若錢昨鹽切",
+		"bbox": [594, 271, 644, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "扇也从竹走",
+		"bbox": [644, 402, 694, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲山洽切",
+		"bbox": [594, 402, 644, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籧或",
+		"bbox": [544, 271, 594, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舉土器也一曰笭也",
+		"bbox": [544, 329, 594, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从妾",
+		"bbox": [494, 271, 544, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从竹龍聲盧紅切",
+		"bbox": [494, 329, 544, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衰也从竹聚",
+		"bbox": [544, 623, 594, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲如兩切",
+		"bbox": [494, 623, 544, 814],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "可以收繩也从竹象形中",
+		"bbox": [444, 351, 494, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "象人手所推握也胡誤切",
+		"bbox": [394, 351, 444, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "笠或",
+		"bbox": [444, 675, 494, 745],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省",
+		"bbox": [394, 675, 444, 714],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宗廟盛肉竹器也从竹灸聲",
+		"bbox": [344, 271, 394, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周禮供盆簨以待事洛簫切",
+		"bbox": [294, 271, 344, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飲牛筐也从竹虜聲",
+		"bbox": [344, 623, 394, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "方曰筐圜曰簞居許",
+		"bbox": [294, 623, 344, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [244, 271, 294, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飲馬器也从竹",
+		"bbox": [244, 377, 294, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "積竹矛戟矜也从竹盧",
+		"bbox": [244, 623, 294, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鬼聲當侯切",
+		"bbox": [194, 377, 244, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "春秋國語曰朱儒扶",
+		"bbox": [194, 623, 244, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蘆洛",
+		"bbox": [144, 271, 194, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "簘也从竹柑",
+		"bbox": [144, 329, 194, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箱也从竹爾聲臣鉉等",
+		"bbox": [144, 623, 194, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乎切",
+		"bbox": [94, 271, 144, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲巨淹切",
+		"bbox": [94, 402, 144, 529],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰爾非聲未詳尼軏切",
+		"bbox": [94, 623, 144, 842],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
