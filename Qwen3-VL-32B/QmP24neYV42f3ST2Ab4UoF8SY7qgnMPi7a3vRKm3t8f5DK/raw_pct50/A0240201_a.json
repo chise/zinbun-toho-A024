@@ -1,0 +1,250 @@
+```json
+[
+	{
+		"text": "小言三",
+		"bbox": [794, 280, 816, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木屯聲夏書",
+		"bbox": [752, 362, 799, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或从",
+		"bbox": [751, 644, 797, 701],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [751, 725, 797, 774],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "繆春",
+		"bbox": [799, 793, 822, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "杗曰杶榦栝柏敕倫切",
+		"bbox": [705, 362, 750, 567],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "杬純也从木筍",
+		"bbox": [659, 362, 697, 495],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲相倫切",
+		"bbox": [604, 362, 649, 461],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "白桜棫从木妥聲臣鉉",
+		"bbox": [655, 570, 698, 791],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "等曰當从綏省儒佳切",
+		"bbox": [600, 570, 646, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "白桜也从木",
+		"bbox": [549, 362, 594, 495],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或聲于逼切",
+		"bbox": [501, 362, 546, 495],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木息",
+		"bbox": [547, 570, 593, 684],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲相即切",
+		"bbox": [500, 570, 545, 667],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "櫝也从",
+		"bbox": [547, 768, 592, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木居聲",
+		"bbox": [499, 768, 545, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "九魚",
+		"bbox": [452, 280, 492, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "椐也从木貴",
+		"bbox": [452, 362, 492, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [404, 280, 446, 308],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲求位切",
+		"bbox": [402, 362, 446, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "柔也从木羽聲其實",
+		"bbox": [451, 570, 492, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皁一曰樣沉羽切",
+		"bbox": [402, 570, 446, 793],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "栩也从木予聲",
+		"bbox": [355, 362, 397, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若杼直呂切",
+		"bbox": [307, 362, 351, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "栩實从木羕",
+		"bbox": [354, 570, 397, 721],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徐兩切",
+		"bbox": [306, 570, 350, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "劉劉",
+		"bbox": [355, 794, 397, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "杙从",
+		"bbox": [306, 794, 350, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木弋聲",
+		"bbox": [259, 280, 301, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "枇杷木也从木",
+		"bbox": [258, 442, 300, 595],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "與職切",
+		"bbox": [210, 280, 254, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "比聲房脂切",
+		"bbox": [210, 442, 253, 570],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "桔梗藥名从木吉",
+		"bbox": [257, 670, 300, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲一曰直木古屑",
+		"bbox": [210, 670, 253, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [161, 280, 203, 308],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木乍",
+		"bbox": [161, 394, 203, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲抂各切",
+		"bbox": [111, 394, 155, 495],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木出槖山从木",
+		"bbox": [160, 570, 203, 741],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乎聲他乎切",
+		"bbox": [111, 570, 154, 721],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木",
+		"bbox": [160, 794, 203, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [111, 825, 154, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
