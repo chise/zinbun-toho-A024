@@ -1,0 +1,178 @@
+```json
+[
+	{
+		"text": "器象麤者取其鳴節",
+		"bbox": [856, 270, 903, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "節足足也即略切",
+		"bbox": [806, 270, 856, 459],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "釀也从鬯矩",
+		"bbox": [757, 270, 806, 413],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲其呂切",
+		"bbox": [708, 270, 757, 379],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文麤",
+		"bbox": [856, 576, 903, 624],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黒黍也一",
+		"bbox": [856, 741, 903, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "稱二米以",
+		"bbox": [806, 741, 856, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "象形",
+		"bbox": [806, 576, 856, 624],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從禾",
+		"bbox": [708, 489, 757, 538],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "列也从鬯吏聲",
+		"bbox": [757, 638, 806, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若迅疏吏切",
+		"bbox": [708, 638, 757, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文五",
+		"bbox": [617, 469, 694, 546],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重二",
+		"bbox": [617, 660, 694, 732],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "食一米也从皀人聲或說人皀也凡",
+		"bbox": [505, 270, 599, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "食之屬皆从食乘力切",
+		"bbox": [404, 350, 493, 638],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "滫飯也从食麥聲臣鉉等曰麥",
+		"bbox": [352, 350, 401, 670],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "音忽非聲疑奔字之誤府文切",
+		"bbox": [302, 350, 352, 670],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "餗或",
+		"bbox": [352, 670, 401, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从賁",
+		"bbox": [302, 750, 352, 802],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飯氣蒸也从食",
+		"bbox": [252, 487, 302, 646],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雷聲力救切",
+		"bbox": [203, 487, 252, 615],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大熟也从食",
+		"bbox": [252, 704, 302, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壬聲如甚切",
+		"bbox": [203, 750, 252, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "餗或",
+		"bbox": [252, 350, 302, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从奔",
+		"bbox": [203, 350, 252, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大廿九",
+		"bbox": [168, 270, 197, 306],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文五下",
+		"bbox": [168, 406, 197, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三",
+		"bbox": [168, 678, 197, 704],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唐文",
+		"bbox": [168, 798, 197, 838],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
