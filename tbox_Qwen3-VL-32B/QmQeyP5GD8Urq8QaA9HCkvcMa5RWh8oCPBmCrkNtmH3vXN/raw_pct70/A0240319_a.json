@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "小 3 4 6", "bbox": [799, 264, 822, 322], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "言 多 力 1", "bbox": [805, 402, 832, 480], "size": "small", "type": "text", "comment": "可能为注音或校勘符号"},
+	{"text": "九", "bbox": [805, 668, 832, 699], "size": "small", "type": "text", "comment": "页码或章节编号"},
+	{"text": "王 明", "bbox": [799, 790, 822, 834], "size": "small", "type": "text", "comment": "人名或校注者"},
+	{"text": "皆 从 司 息 兹 切", "bbox": [715, 334, 792, 500], "size": "large", "type": "text", "comment": "释义部分，说明“司”字的构形与读音"},
+	{"text": "意 内 而 言 外 也 从", "bbox": [645, 338, 692, 520], "size": "medium", "type": "text", "comment": "解释“司”字的含义"},
+	{"text": "司 从 言 似 兹 切", "bbox": [604, 340, 645, 498], "size": "medium", "type": "text", "comment": "音韵注释，说明“司”字的反切"},
+	{"text": "文 二", "bbox": [614, 598, 675, 672], "size": "large", "type": "text", "comment": "段落编号"},
+	{"text": "圓 器 也 一 名 觚 所 以 節 飲 食 象 人", "bbox": [502, 338, 585, 840], "size": "large", "type": "text", "comment": "解释“卮”字的本义和用途"},
+	{"text": "卩 在 其 下 也 易 曰 君 子 節 飲 食 凡", "bbox": [405, 338, 478, 840], "size": "large", "type": "text", "comment": "引《易经》解释“卮”字的结构与引申义"},
+	{"text": "卮 之 屬 皆 从 卮 章 移 切", "bbox": [304, 338, 378, 640], "size": "large", "type": "text", "comment": "说明“卮”部字的归属及读音"},
+	{"text": "小 卮 有 耳 蓋 者 从", "bbox": [244, 338, 285, 522], "size": "medium", "type": "text", "comment": "解释“卮”字的形体特征"},
+	{"text": "危 專 聲 市 沈 切", "bbox": [197, 340, 238, 498], "size": "medium", "type": "text", "comment": "音韵注释，说明“卮”字的反切"},
+	{"text": "小 卮 也 从 卮 崇 聲 讀", "bbox": [244, 614, 285, 828], "size": "medium", "type": "text", "comment": "解释“卮”字的构形与读音"},
+	{"text": "若 播 擊 之 播 旨 沈 切", "bbox": [197, 614, 238, 828], "size": "medium", "type": "text", "comment": "音韵注释，说明“卮”字的反切"},
+	{"text": "文 三", "bbox": [105, 428, 172, 498], "size": "large", "type": "text", "comment": "段落编号"}
+]
+```
