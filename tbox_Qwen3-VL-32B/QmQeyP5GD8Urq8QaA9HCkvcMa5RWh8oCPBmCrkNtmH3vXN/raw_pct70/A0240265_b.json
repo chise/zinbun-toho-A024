@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "广 倚也人有疾病象倚箸之形凡广", "bbox": [824, 270, 900, 843], "size": "100", "type": "text", "comment": ""},
+	{"text": "之屬皆广 女戹切", "bbox": [727, 348, 802, 558], "size": "100", "type": "text", "comment": ""},
+	{"text": "病也从广矢聲秦悉切", "bbox": [627, 268, 704, 459], "size": "100", "type": "text", "comment": ""},
+	{"text": "古文 疾", "bbox": [627, 460, 704, 558], "size": "100", "type": "text", "comment": ""},
+	{"text": "籀文 疾", "bbox": [627, 668, 704, 828], "size": "100", "type": "text", "comment": ""},
+	{"text": "病也从广甬聲他貢切", "bbox": [527, 268, 604, 375], "size": "100", "type": "text", "comment": ""},
+	{"text": "疾加也从广丙聲皮命切", "bbox": [527, 478, 604, 617], "size": "100", "type": "text", "comment": ""},
+	{"text": "病也从广鬼聲詩曰譬彼", "bbox": [527, 628, 604, 843], "size": "100", "type": "text", "comment": ""},
+	{"text": "疣木一曰腫勥出也胡罪切", "bbox": [464, 268, 504, 400], "size": "100", "type": "text", "comment": ""},
+	{"text": "病也从广可聲五行傳曰時即有口痾烏何切", "bbox": [464, 421, 504, 738], "size": "100", "type": "text", "comment": ""},
+	{"text": "病也", "bbox": [464, 815, 504, 843], "size": "100", "type": "text", "comment": ""},
+	{"text": "从广南聲詩曰我", "bbox": [364, 268, 404, 450], "size": "100", "type": "text", "comment": ""},
+	{"text": "病也从广堇聲巨斤切", "bbox": [364, 460, 404, 648], "size": "100", "type": "text", "comment": ""},
+	{"text": "病也从广祭聲", "bbox": [364, 750, 404, 843], "size": "100", "type": "text", "comment": ""},
+	{"text": "僕痛矣普胡切", "bbox": [304, 268, 344, 425], "size": "100", "type": "text", "comment": ""},
+	{"text": "病也从广真聲一曰腹脹都季切", "bbox": [244, 268, 284, 575], "size": "100", "type": "text", "comment": ""},
+	{"text": "病也从广莫聲慕各切", "bbox": [244, 660, 284, 775], "size": "100", "type": "text", "comment": ""},
+	{"text": "側介切", "bbox": [244, 268, 284, 295], "size": "100", "type": "text", "comment": ""},
+	{"text": "大卅", "bbox": [177, 270, 200, 300], "size": "100", "type": "text", "comment": ""},
+	{"text": "兑大三下", "bbox": [164, 405, 194, 485], "size": "100", "type": "text", "comment": ""},
+	{"text": "沈三", "bbox": [177, 805, 200, 835], "size": "100", "type": "text", "comment": ""}
+]
+```

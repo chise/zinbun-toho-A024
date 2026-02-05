@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小一百七十六", "bbox": [805, 267, 834, 342], "type": "text", "comment": ""},
+	{"text": "言三日一", "bbox": [809, 400, 840, 471], "type": "text", "comment": ""},
+	{"text": "一五", "bbox": [809, 669, 838, 712], "type": "text", "comment": ""},
+	{"text": "得明", "bbox": [808, 810, 834, 845], "type": "text", "comment": ""},
+	{"text": "兩隹飛聲也雨而雙飛者", "bbox": [717, 267, 802, 556], "type": "text", "comment": ""},
+	{"text": "其聲霍然呼郭切", "bbox": [714, 350, 799, 535], "type": "text", "comment": ""},
+	{"text": "隹二枚也从雦", "bbox": [753, 633, 801, 785], "type": "text", "comment": ""},
+	{"text": "又持之所江切", "bbox": [712, 633, 759, 785], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [624, 370, 694, 456], "type": "text", "comment": ""},
+	{"text": "隹群鳥也从三隹凡隹雦之屬皆从雦", "bbox": [515, 265, 598, 849], "type": "text", "comment": ""},
+	{"text": "祖合", "bbox": [452, 350, 500, 400], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [407, 350, 454, 380], "type": "text", "comment": ""},
+	{"text": "鳥羣也从雦", "bbox": [355, 350, 401, 481], "type": "text", "comment": ""},
+	{"text": "鼎聲烏玄切", "bbox": [305, 350, 351, 481], "type": "text", "comment": ""},
+	{"text": "羣鳥在木上也从", "bbox": [355, 567, 401, 744], "type": "text", "comment": ""},
+	{"text": "雦從木秦入切", "bbox": [298, 567, 345, 725], "type": "text", "comment": ""},
+	{"text": "集或", "bbox": [252, 267, 297, 323], "type": "text", "comment": ""},
+	{"text": "省", "bbox": [206, 267, 249, 300], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [216, 435, 288, 515], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [216, 618, 288, 689], "type": "text", "comment": ""},
+	{"text": "長尾禽總名也象形鳥之足似匕", "bbox": [107, 350, 186, 846], "type": "text", "comment": ""}
+]
+```

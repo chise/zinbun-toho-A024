@@ -1,0 +1,274 @@
+```json
+[
+	{
+		"text": "小四百二十五",
+		"bbox": [805, 263, 827, 344],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文四一",
+		"bbox": [811, 404, 835, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十才",
+		"bbox": [810, 674, 834, 709],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "得明",
+		"bbox": [805, 812, 829, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从鳥肅聲",
+		"bbox": [743, 271, 801, 375],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "息逐切",
+		"bbox": [718, 271, 751, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "司馬相如",
+		"bbox": [755, 460, 802, 553],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說从宀聲",
+		"bbox": [712, 460, 758, 553],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鷫鷞也从鳥",
+		"bbox": [755, 641, 802, 771],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "爽聲所莊切",
+		"bbox": [712, 641, 758, 771],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鶻鵰也从鳥",
+		"bbox": [656, 271, 701, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "九聲居求切",
+		"bbox": [607, 271, 651, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鷗鳩也从鳥",
+		"bbox": [656, 460, 701, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屈聲九勿切",
+		"bbox": [607, 460, 651, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祝鳩也从鳥",
+		"bbox": [656, 703, 701, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隹聲思允切",
+		"bbox": [607, 703, 651, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雕或从隹一",
+		"bbox": [556, 346, 601, 473],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰鶉字",
+		"bbox": [507, 346, 551, 456],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鶻鵰也从鳥",
+		"bbox": [556, 633, 601, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "骨聲古忽切",
+		"bbox": [507, 633, 551, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鶻鵰",
+		"bbox": [556, 791, 601, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [507, 791, 551, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥舟聲",
+		"bbox": [458, 271, 502, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "桔籤尸鳩从鳥箌聲臣鉉等",
+		"bbox": [458, 346, 502, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰箌居六切與籤同居六切",
+		"bbox": [408, 346, 452, 725],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屬",
+		"bbox": [408, 812, 452, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張流切",
+		"bbox": [408, 271, 452, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从鳥合聲",
+		"bbox": [358, 271, 402, 367],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古沓切",
+		"bbox": [308, 271, 352, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "渴鳴也从鳥",
+		"bbox": [358, 513, 402, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "旦聲得案切",
+		"bbox": [308, 456, 352, 586],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "伯勞也从鳥",
+		"bbox": [358, 674, 402, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "昊聲古閡切",
+		"bbox": [308, 674, 352, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鶪或",
+		"bbox": [258, 346, 302, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从隹",
+		"bbox": [208, 346, 252, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "天龠也从鳥",
+		"bbox": [258, 473, 302, 612],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "翏聲力救切",
+		"bbox": [208, 473, 252, 612],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卑居也从鳥",
+		"bbox": [258, 691, 302, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "與聲羊茹切",
+		"bbox": [208, 691, 252, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雛鷽山鵲知來事鳥也",
+		"bbox": [158, 346, 202, 586],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从鳥學省聲胡角切",
+		"bbox": [108, 346, 152, 586],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鷺或",
+		"bbox": [158, 674, 202, 725],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从隹",
+		"bbox": [108, 674, 152, 725],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥黑",
+		"bbox": [158, 791, 202, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "色多",
+		"bbox": [108, 791, 152, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

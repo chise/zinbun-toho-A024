@@ -1,0 +1,238 @@
+```json
+[
+	{
+		"text": "故从人",
+		"bbox": [857, 269, 904, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文雁",
+		"bbox": [863, 429, 903, 505],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雛也从隹氏",
+		"bbox": [857, 579, 905, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀",
+		"bbox": [866, 811, 905, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "於凌切",
+		"bbox": [807, 269, 853, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从鳥",
+		"bbox": [815, 429, 854, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲處脂切",
+		"bbox": [807, 579, 854, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文",
+		"bbox": [815, 811, 853, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雖从",
+		"bbox": [757, 269, 804, 315],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雛也从隹垂",
+		"bbox": [757, 396, 804, 524],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石鳥一名雛鰾一曰精",
+		"bbox": [757, 579, 804, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥",
+		"bbox": [708, 269, 748, 297],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲是僞切",
+		"bbox": [708, 396, 748, 505],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "劉从隹仟聲春秋傳秦",
+		"bbox": [708, 579, 748, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "有士鴻",
+		"bbox": [658, 269, 698, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雛鰾也从隹",
+		"bbox": [658, 429, 698, 556],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也从隹今聲春秋",
+		"bbox": [658, 579, 698, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "苦堅切",
+		"bbox": [609, 269, 649, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邕聲於容切",
+		"bbox": [609, 396, 649, 556],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳有公子苦雛巨淹",
+		"bbox": [609, 579, 649, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [560, 269, 599, 297],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也从隹从人厂聲讀若鳫臣鉉等曰雁知",
+		"bbox": [560, 379, 599, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "時鳥大夫以為摯昏禮用之故从人五晏切",
+		"bbox": [509, 379, 549, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雚黃也从隹黎聲一曰楚雀",
+		"bbox": [460, 346, 499, 641],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也其色黎黑而黃郎兮切",
+		"bbox": [410, 346, 450, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳥也从隹戹",
+		"bbox": [460, 699, 499, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲荒鳥切",
+		"bbox": [410, 699, 450, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "年母也从隹",
+		"bbox": [360, 346, 400, 459],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奴聲人諸切",
+		"bbox": [311, 346, 350, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "翟或",
+		"bbox": [360, 579, 400, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从鳥",
+		"bbox": [311, 579, 350, 607],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "九雇農桑候鳥",
+		"bbox": [360, 699, 400, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "扈民不姓者也",
+		"bbox": [311, 699, 350, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从隹戶聲春雀鴻盾夏雇竊玄秋雇竊藍冬雇竊黃棘雇",
+		"bbox": [261, 269, 300, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竊丹行雇喈喈宵雇嘖嘖桑雇竊胎老雇鷄也矦古切",
+		"bbox": [212, 269, 251, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大二十八",
+		"bbox": [162, 269, 193, 315],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文四上",
+		"bbox": [162, 402, 193, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十二",
+		"bbox": [162, 685, 193, 711],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳廣",
+		"bbox": [169, 808, 193, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
