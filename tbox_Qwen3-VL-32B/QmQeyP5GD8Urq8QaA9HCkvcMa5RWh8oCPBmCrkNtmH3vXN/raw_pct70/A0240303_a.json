@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "小二子不十", "bbox": [804, 277, 822, 335], "size": "small", "type": "annotation", "comment": "页码或编号"},
+	{"text": "言文二一", "bbox": [809, 410, 834, 480], "size": "small", "type": "annotation", "comment": "章节或卷次标识"},
+	{"text": "宏昌", "bbox": [804, 792, 822, 830], "size": "small", "type": "annotation", "comment": "出版或刻印者名"},
+	{"text": "兒 頌儀也从人白象人面形凡兒之", "bbox": [714, 270, 795, 844], "size": "large", "type": "main", "comment": "部首“兒”的释义"},
+	{"text": "屬皆从兒 莫敘切", "bbox": [618, 354, 692, 555], "size": "large", "type": "main", "comment": "“兒”部字的归类及反切注音"},
+	{"text": "貌 兒或从頁 豹省聲", "bbox": [508, 268, 604, 435], "size": "large", "type": "main", "comment": "“貌”字的构形与读音说明"},
+	{"text": "貎 籀文兒 从豹省", "bbox": [508, 450, 598, 615], "size": "large", "type": "main", "comment": "“貎”字的古文字形及构形说明"},
+	{"text": "党 晃也周曰党殷曰吁夏曰收从", "bbox": [508, 620, 598, 848], "size": "large", "type": "main", "comment": "“党”字的释义及古音异读"},
+	{"text": "兒象形 皮變切", "bbox": [412, 268, 500, 348], "size": "large", "type": "main", "comment": "“兒”字的构形与反切注音"},
+	{"text": "㒼 籀文党从井上象形 或党字", "bbox": [408, 348, 498, 658], "size": "large", "type": "main", "comment": "“㒼”字的古文字形及构形说明"},
+	{"text": "文二 重四", "bbox": [316, 400, 388, 668], "size": "large", "type": "main", "comment": "正文编号，表示“文二”、“重四”"},
+	{"text": "屮 雐蔽也从人象左右皆蔽形凡屮", "bbox": [208, 268, 290, 844], "size": "large", "type": "main", "comment": "部首“屮”的释义"},
+	{"text": "之屬皆从屮 讀若瞽 公戸切", "bbox": [110, 350, 190, 680], "size": "large", "type": "main", "comment": "“屮”部字的归类及反切注音"}
+]
+```
