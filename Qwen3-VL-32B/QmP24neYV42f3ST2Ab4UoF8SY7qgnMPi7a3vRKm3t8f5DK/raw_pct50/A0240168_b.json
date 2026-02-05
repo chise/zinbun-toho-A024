@@ -1,0 +1,136 @@
+```json
+[
+	{
+		"text": "大十四",
+		"bbox": [175, 264, 193, 308],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "说文五上",
+		"bbox": [164, 404, 193, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唐文",
+		"bbox": [176, 798, 197, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丌以薦之",
+		"bbox": [827, 271, 885, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蘇困切",
+		"bbox": [814, 268, 861, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [867, 459, 906, 511],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "篆文",
+		"bbox": [867, 591, 906, 641],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "置祭也从",
+		"bbox": [867, 732, 906, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "下其丌也禮有",
+		"bbox": [755, 272, 802, 430],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奠祭者堂練切",
+		"bbox": [714, 267, 761, 431],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文七",
+		"bbox": [727, 543, 797, 611],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重二",
+		"bbox": [727, 688, 797, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "手相左助也从大工凡左之屬皆",
+		"bbox": [614, 264, 699, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从左則箇切臣鉉等",
+		"bbox": [514, 344, 597, 577],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰今俗别作佐",
+		"bbox": [514, 414, 561, 577],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "貳也塗不相值也从左从釆徐鍇曰左",
+		"bbox": [460, 347, 505, 752],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "於事是不當值也初牙切又楚佳切",
+		"bbox": [407, 347, 454, 721],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文塗",
+		"bbox": [352, 267, 397, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从二",
+		"bbox": [305, 272, 352, 319],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [322, 456, 381, 526],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [322, 641, 381, 713],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "工巧飾也象人有規榘也與巫同意",
+		"bbox": [212, 272, 291, 842],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
