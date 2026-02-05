@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "从", "bbox": [817, 345, 903, 386], "type": "text", "comment": ""},
+	{"text": "舒閏切今", "bbox": [854, 422, 903, 535], "type": "text", "comment": ""},
+	{"text": "隸變作舜", "bbox": [816, 422, 865, 535], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [760, 345, 807, 401], "type": "text", "comment": ""},
+	{"text": "葵榮也从舜生聲讀若皇", "bbox": [760, 422, 809, 742], "type": "text", "comment": ""},
+	{"text": "爾雅曰雛蕶也戶光切", "bbox": [712, 422, 760, 722], "type": "text", "comment": ""},
+	{"text": "雞或从", "bbox": [656, 273, 704, 349], "type": "text", "comment": ""},
+	{"text": "州皇", "bbox": [613, 273, 658, 332], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [622, 453, 699, 540], "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [624, 645, 699, 725], "type": "text", "comment": ""},
+	{"text": "韋相背也从舛口聲獸皮之韋可以", "bbox": [514, 269, 600, 845], "type": "text", "comment": ""},
+	{"text": "束枉戾相韋背故借以爲皮韋凡", "bbox": [412, 353, 498, 847], "type": "text", "comment": ""},
+	{"text": "韋之屬皆从韋", "bbox": [312, 351, 395, 587], "type": "text", "comment": ""},
+	{"text": "字非", "bbox": [364, 595, 397, 646], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [312, 595, 347, 625], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [254, 353, 291, 409], "type": "text", "comment": ""},
+	{"text": "韋", "bbox": [211, 353, 248, 395], "type": "text", "comment": ""},
+	{"text": "韍", "bbox": [212, 409, 291, 497], "type": "text", "comment": ""},
+	{"text": "韍也所以蔽前以韋下廣二尺上", "bbox": [254, 500, 292, 845], "type": "text", "comment": ""},
+	{"text": "廣一尺其頸五寸一命緼韠再命", "bbox": [201, 500, 247, 847], "type": "text", "comment": ""},
+	{"text": "大廿", "bbox": [171, 272, 194, 300], "type": "text", "comment": ""},
+	{"text": "說文解字", "bbox": [165, 406, 190, 487], "type": "text", "comment": ""},
+	{"text": "上", "bbox": [164, 662, 191, 688], "type": "text", "comment": ""},
+	{"text": "唐文", "bbox": [174, 798, 197, 831], "type": "text", "comment": ""}
+]
+```
