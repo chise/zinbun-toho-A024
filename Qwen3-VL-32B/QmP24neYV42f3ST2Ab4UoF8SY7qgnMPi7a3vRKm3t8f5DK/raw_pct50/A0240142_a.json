@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "小三百○九", "bbox": [809, 267, 834, 308], "type": "text", "comment": ""},
+	{"text": "言一四一", "bbox": [815, 403, 837, 486], "type": "text", "comment": ""},
+	{"text": "三", "bbox": [815, 671, 837, 702], "type": "text", "comment": ""},
+	{"text": "羅廣華", "bbox": [809, 806, 833, 845], "type": "text", "comment": ""},
+	{"text": "烏孝鳥也象形孔子曰鳥眆呼也取", "bbox": [716, 271, 797, 849], "type": "text", "comment": ""},
+	{"text": "其助气故以爲鳥呼凡鳥之屬皆", "bbox": [618, 351, 693, 851], "type": "text", "comment": ""},
+	{"text": "从鳥京都切臣鉉等曰", "bbox": [520, 351, 591, 629], "type": "text", "comment": ""},
+	{"text": "今俗作鳴非是", "bbox": [507, 443, 554, 602], "type": "text", "comment": ""},
+	{"text": "古文鳥", "bbox": [454, 357, 497, 438], "type": "text", "comment": ""},
+	{"text": "象形", "bbox": [417, 357, 449, 415], "type": "text", "comment": ""},
+	{"text": "象古文", "bbox": [459, 523, 498, 576], "type": "text", "comment": ""},
+	{"text": "烏省", "bbox": [409, 523, 446, 578], "type": "text", "comment": ""},
+	{"text": "雛也象形", "bbox": [459, 688, 496, 797], "type": "text", "comment": ""},
+	{"text": "七雀切", "bbox": [409, 739, 446, 773], "type": "text", "comment": ""},
+	{"text": "篆文鳥", "bbox": [363, 353, 396, 430], "type": "text", "comment": ""},
+	{"text": "从隹曁", "bbox": [308, 353, 342, 428], "type": "text", "comment": ""},
+	{"text": "焉鳥黃色出於江淮象形凡字", "bbox": [358, 523, 394, 851], "type": "text", "comment": ""},
+	{"text": "朋者羽蟲之長鳥者目中之禽", "bbox": [307, 523, 343, 851], "type": "text", "comment": ""},
+	{"text": "鳥者知太歲之所在燕者請子之候作巢避", "bbox": [254, 272, 290, 732], "type": "text", "comment": ""},
+	{"text": "戊巳所賓者故皆象形焉亦是也有乾切", "bbox": [200, 272, 243, 705], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [112, 415, 177, 501], "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [111, 572, 180, 656], "type": "text", "comment": ""}
+]
+```

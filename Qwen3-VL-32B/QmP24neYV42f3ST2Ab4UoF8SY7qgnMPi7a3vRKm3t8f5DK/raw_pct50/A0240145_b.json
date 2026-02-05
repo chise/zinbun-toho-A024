@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "大十六", "bbox": [164, 263, 195, 317], "type": "text", "comment": ""},
+	{"text": "兑文曰下", "bbox": [158, 399, 190, 488], "type": "text", "comment": ""},
+	{"text": "三", "bbox": [157, 682, 183, 701], "type": "text", "comment": ""},
+	{"text": "陳廣", "bbox": [171, 807, 197, 845], "type": "text", "comment": ""},
+	{"text": "黑色也从立旅省聲", "bbox": [863, 342, 904, 564], "type": "text", "comment": ""},
+	{"text": "義當用驢洛乎切", "bbox": [812, 341, 853, 542], "type": "text", "comment": ""},
+	{"text": "文一新附", "bbox": [831, 588, 904, 745], "type": "text", "comment": ""},
+	{"text": "予推予也象相予之形凡予之屬皆", "bbox": [720, 264, 798, 845], "type": "text", "comment": ""},
+	{"text": "从予余吕", "bbox": [623, 343, 692, 471], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [622, 421, 653, 448], "type": "text", "comment": ""},
+	{"text": "伸也从舍从予子亦聲", "bbox": [568, 342, 601, 588], "type": "text", "comment": ""},
+	{"text": "一日舒緩也傷魚切", "bbox": [511, 343, 551, 558], "type": "text", "comment": ""},
+	{"text": "詩張爲幻", "bbox": [459, 264, 498, 376], "type": "text", "comment": ""},
+	{"text": "胡辦切", "bbox": [406, 264, 446, 342], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [415, 528, 484, 614], "type": "text", "comment": ""},
+	{"text": "相詐惑也从反", "bbox": [568, 672, 601, 845], "type": "text", "comment": ""},
+	{"text": "予周書曰無或", "bbox": [509, 672, 553, 845], "type": "text", "comment": ""},
+	{"text": "逐也从支方聲凡放之屬皆从放", "bbox": [313, 348, 388, 847], "type": "text", "comment": ""},
+	{"text": "甫安", "bbox": [253, 351, 289, 405], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [208, 357, 244, 382], "type": "text", "comment": ""}
+]
+```

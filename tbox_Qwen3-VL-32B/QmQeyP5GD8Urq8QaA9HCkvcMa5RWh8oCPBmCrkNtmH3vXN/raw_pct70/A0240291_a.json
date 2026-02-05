@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "小一百九十九", "bbox": [805, 265, 822, 305], "size": "small", "type": "text", "comment": "页码"},
+	{"text": "身，躬也。象人之身。从人厂聲。凡身之屬皆从身。失人切", "bbox": [710, 268, 792, 845], "size": "large", "type": "definition", "comment": "对“身”字的解释"},
+	{"text": "軀，體也。从身區聲。豈俱切", "bbox": [505, 268, 598, 467], "size": "large", "type": "definition", "comment": "对“軀”字的解释"},
+	{"text": "文二", "bbox": [507, 611, 578, 688], "size": "medium", "type": "text", "comment": "文二，表示该部分包含两个字"},
+	{"text": "反，歸也。从反身。凡旲之屬皆从旲", "bbox": [400, 268, 485, 845], "size": "large", "type": "definition", "comment": "对“反”字的解释"},
+	{"text": "徐鍇曰：古人所謂反身修道，故曰歸也。於機切", "bbox": [344, 351, 395, 585], "size": "small", "type": "comment", "comment": "注释，引徐锴之说"},
+	{"text": "殷，作樂之盛稱。殷从旲从殳。易曰：殷薦之上帝。於身切", "bbox": [230, 268, 292, 615], "size": "large", "type": "definition", "comment": "对“殷”字的解释"},
+	{"text": "文二", "bbox": [205, 685, 272, 758], "size": "medium", "type": "text", "comment": "文二，表示该部分包含两个字"},
+	{"text": "衣，依也。上曰衣，下曰裳。象覆二人之", "bbox": [100, 268, 185, 845], "size": "large", "type": "definition", "comment": "对“衣”字的解释"},
+	{"text": "李明", "bbox": [798, 805, 818, 840], "size": "small", "type": "text", "comment": "可能为校勘者或刻工姓名"},
+	{"text": "二四", "bbox": [805, 680, 825, 708], "size": "small", "type": "text", "comment": "页码或编号"}
+]
+```

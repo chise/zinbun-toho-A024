@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "小三百。七", "bbox": [810, 257, 832, 390], "type": "text", "comment": ""},
+	{"text": "言三四十", "bbox": [817, 396, 841, 479], "type": "text", "comment": ""},
+	{"text": "二", "bbox": [822, 668, 843, 704], "type": "text", "comment": ""},
+	{"text": "景昌", "bbox": [813, 797, 834, 840], "type": "text", "comment": ""},
+	{"text": "古文惠", "bbox": [766, 341, 802, 417], "type": "text", "comment": ""},
+	{"text": "从奭", "bbox": [717, 342, 754, 397], "type": "text", "comment": ""},
+	{"text": "礙不行也从曐引而止之也曐者", "bbox": [763, 497, 805, 840], "type": "text", "comment": ""},
+	{"text": "如曐馬之鼻从此與牽同意陟利", "bbox": [715, 223, 758, 840], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [662, 263, 696, 291], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [624, 459, 689, 546], "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [624, 607, 691, 693], "type": "text", "comment": ""},
+	{"text": "幽遠也黑而有赤色者爲玄象幽", "bbox": [512, 336, 592, 840], "type": "text", "comment": ""},
+	{"text": "而入覆之也凡玄之屬皆从玄", "bbox": [414, 342, 490, 802], "type": "text", "comment": ""},
+	{"text": "胡", "bbox": [468, 810, 498, 840], "type": "text", "comment": ""},
+	{"text": "消", "bbox": [417, 810, 445, 840], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [355, 345, 396, 375], "type": "text", "comment": ""},
+	{"text": "黑也从二玄春秋傳曰", "bbox": [256, 478, 299, 718], "type": "text", "comment": ""},
+	{"text": "何故使吾水茲子之切", "bbox": [204, 478, 249, 718], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [264, 338, 299, 391], "type": "text", "comment": ""},
+	{"text": "玄", "bbox": [210, 336, 245, 373], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [112, 417, 182, 504], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [116, 533, 186, 618], "type": "text", "comment": ""}
+]
+```

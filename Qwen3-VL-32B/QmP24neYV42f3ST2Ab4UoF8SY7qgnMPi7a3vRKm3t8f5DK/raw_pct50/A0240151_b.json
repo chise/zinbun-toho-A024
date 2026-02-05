@@ -1,0 +1,274 @@
+```json
+[
+	{
+		"text": "从肉臾聲",
+		"bbox": [857, 273, 906, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羊朱切",
+		"bbox": [818, 273, 865, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屍也从肉佳",
+		"bbox": [857, 458, 906, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲示佳切",
+		"bbox": [818, 458, 865, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "孔也从肉決省聲",
+		"bbox": [857, 669, 906, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若決水之決古",
+		"bbox": [818, 669, 865, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穴",
+		"bbox": [758, 273, 805, 338],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "股也从肉夸",
+		"bbox": [758, 338, 805, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "髀也从肉殳",
+		"bbox": [758, 587, 805, 715],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲公戶切",
+		"bbox": [719, 587, 766, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "脛也",
+		"bbox": [758, 748, 805, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从肉",
+		"bbox": [719, 807, 766, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [719, 273, 766, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦故切",
+		"bbox": [719, 372, 766, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卻",
+		"bbox": [661, 273, 708, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲居",
+		"bbox": [661, 304, 708, 360],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "脂也从肉至",
+		"bbox": [661, 425, 708, 561],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "脛耑也从肉",
+		"bbox": [661, 638, 708, 777],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行聲戸更切",
+		"bbox": [612, 638, 659, 777],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "勻切",
+		"bbox": [612, 273, 659, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲胡定切",
+		"bbox": [612, 425, 659, 538],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "脛腨也从肉",
+		"bbox": [563, 273, 610, 394],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "腓腸也从肉",
+		"bbox": [563, 485, 610, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "體四肑也从肉",
+		"bbox": [563, 672, 610, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "非聲符飛切",
+		"bbox": [514, 273, 561, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "耑聲市沈切",
+		"bbox": [514, 485, 561, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "只聲章移切",
+		"bbox": [514, 687, 561, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肢或",
+		"bbox": [465, 273, 512, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足大指毛也从",
+		"bbox": [465, 485, 512, 644],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "骨肉相似也",
+		"bbox": [465, 726, 512, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从支",
+		"bbox": [416, 347, 463, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肉亥聲古哀切",
+		"bbox": [416, 485, 463, 652],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从肉小聲不",
+		"bbox": [416, 726, 463, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "似其先故曰不",
+		"bbox": [367, 273, 414, 425],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "子孫相承續也从肉从八象其",
+		"bbox": [367, 515, 414, 814],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肖也私妙切",
+		"bbox": [318, 273, 365, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "長也从幺象重累也羊曁切",
+		"bbox": [318, 515, 365, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [269, 347, 316, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肩也从肉由",
+		"bbox": [269, 485, 316, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "振肎也从肉",
+		"bbox": [269, 687, 316, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲直又切",
+		"bbox": [220, 485, 267, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "八聲許訖切",
+		"bbox": [220, 726, 267, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大二十四",
+		"bbox": [172, 269, 198, 316],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文四下",
+		"bbox": [163, 407, 191, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張信",
+		"bbox": [167, 814, 193, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
