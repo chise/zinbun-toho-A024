@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "大二十二", "bbox": [177, 271, 197, 305], "size": "small", "type": "text", "comment": "页码或卷次标识"},
+	{"text": "兑文七下", "bbox": [167, 408, 192, 492], "size": "small", "type": "text", "comment": "可能为篇名或章节标识"},
+	{"text": "三", "bbox": [163, 681, 187, 704], "size": "small", "type": "text", "comment": "页码或序号"},
+	{"text": "程樹", "bbox": [177, 808, 199, 841], "size": "small", "type": "text", "comment": "可能为校勘者或刻工姓名"},
+	{"text": "文五十三 重四", "bbox": [522, 427, 592, 684], "size": "large", "type": "title", "comment": "本页正文标题，表示“文五十三”及“重四”"},
+	{"text": "嶽 山名从山敇 聲亡遇切", "bbox": [817, 273, 900, 455], "size": "medium", "type": "entry", "comment": "篆字“嶽”及其释义、音切"},
+	{"text": "嶢 焦嶢山高皃从山堯聲古僚切", "bbox": [817, 477, 900, 734], "size": "medium", "type": "entry", "comment": "篆字“嶢”及其释义、音切"},
+	{"text": "嵸 山也从山戕 聲慈良切", "bbox": [717, 273, 800, 455], "size": "medium", "type": "entry", "comment": "篆字“嵸”及其释义、音切"},
+	{"text": "峩 九嵏山在馮翊谷口从山爰聲子紅切", "bbox": [717, 477, 800, 658], "size": "medium", "type": "entry", "comment": "篆字“峩”及其释义、音切"},
+	{"text": "岡 阪隅高山之節从山从卩", "bbox": [717, 658, 800, 848], "size": "medium", "type": "entry", "comment": "篆字“岡”及其释义、音切"},
+	{"text": "峯 兔高也从山子結切", "bbox": [617, 273, 700, 455], "size": "medium", "type": "entry", "comment": "篆字“峯”及其释义、音切"},
+	{"text": "崑 宗聲鉏弓切", "bbox": [617, 477, 700, 540], "size": "medium", "type": "entry", "comment": "篆字“崑”及其音切"},
+	{"text": "崑 大高也从山隹胙回切", "bbox": [617, 540, 700, 721], "size": "medium", "type": "entry", "comment": "篆字“崑”（或“崑”）及其释义、音切"},
+	{"text": "嶙 嶙峋深崖皃从山嶙聲力珍切", "bbox": [417, 273, 500, 508], "size": "medium", "type": "entry", "comment": "篆字“嶙”及其释义、音切"},
+	{"text": "峋 嶙峋也从山旬聲相倫切", "bbox": [417, 508, 500, 721], "size": "medium", "type": "entry", "comment": "篆字“峋”及其释义、音切"},
+	{"text": "岌 高山皃从山及聲魚汲切", "bbox": [317, 273, 400, 508], "size": "medium", "type": "entry", "comment": "篆字“岌”及其释义、音切"},
+	{"text": "嶠 山銳而高也从山喬聲古通用喬渠廟切", "bbox": [317, 508, 400, 721], "size": "medium", "type": "entry", "comment": "篆字“嶠”及其释义、音切"},
+	{"text": "峴 山深皃从山歎省聲口銜切", "bbox": [217, 273, 300, 508], "size": "medium", "type": "entry", "comment": "篆字“峴”及其释义、音切"},
+	{"text": "嶼 嶼也从山與聲徐呂切", "bbox": [217, 508, 300, 721], "size": "medium", "type": "entry", "comment": "篆字“嶼”及其释义、音切"},
+	{"text": "嶺 山道也从山領聲良郢切", "bbox": [217, 721, 300, 848], "size": "medium", "type": "entry", "comment": "篆字“嶺”及其释义、音切"}
+]
+```
