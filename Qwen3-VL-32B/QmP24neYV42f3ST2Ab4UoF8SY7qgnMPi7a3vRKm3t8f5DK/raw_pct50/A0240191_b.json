@@ -1,0 +1,160 @@
+```json
+[
+	{
+		"text": "厚也从反言凡旱之屬皆从旱",
+		"bbox": [820, 269, 904, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徐鍇曰言者進上也以進上之",
+		"bbox": [763, 351, 810, 678],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "具反之於下則厚也胡口切",
+		"bbox": [715, 351, 762, 655],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "長味也从旱鹹省聲詩",
+		"bbox": [668, 351, 714, 572],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰實覃實吁徒含切",
+		"bbox": [621, 351, 667, 572],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "覃",
+		"bbox": [574, 267, 607, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省",
+		"bbox": [518, 267, 551, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山陵之厚也从",
+		"bbox": [574, 384, 607, 547],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "旱从厂胡口切",
+		"bbox": [518, 384, 551, 547],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文厚",
+		"bbox": [574, 636, 607, 713],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从后土",
+		"bbox": [518, 636, 551, 713],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [621, 674, 667, 713],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "篆",
+		"bbox": [621, 713, 667, 740],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "篆",
+		"bbox": [621, 740, 667, 768],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文",
+		"bbox": [621, 820, 667, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "篆",
+		"bbox": [621, 269, 708, 351],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "厚",
+		"bbox": [518, 300, 607, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "垕",
+		"bbox": [518, 552, 607, 636],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文三",
+		"bbox": [420, 412, 498, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重三",
+		"bbox": [420, 577, 498, 665],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "滿也从高省象高厚之形凡畗之",
+		"bbox": [316, 267, 397, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屬皆从畗讀若伏房六切又",
+		"bbox": [215, 344, 296, 715],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "芳逼切",
+		"bbox": [215, 607, 256, 689],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十又",
+		"bbox": [176, 267, 197, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文五下",
+		"bbox": [164, 403, 187, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳玉",
+		"bbox": [184, 798, 204, 835],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
