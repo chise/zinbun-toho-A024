@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "木似欄从木繫聲禮天子樹松",
+		"bbox": [867, 365, 909, 673],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "棠棣也",
+		"bbox": [867, 768, 909, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諸矦柏大夫欒士楊洛官切",
+		"bbox": [818, 365, 859, 650],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从木多",
+		"bbox": [818, 768, 859, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲弋",
+		"bbox": [769, 275, 808, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "白棣也从木",
+		"bbox": [769, 365, 808, 532],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木似橘从木",
+		"bbox": [769, 633, 808, 756],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "支切",
+		"bbox": [719, 275, 759, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隶聲特計切",
+		"bbox": [719, 365, 759, 555],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "只聲諸氏切",
+		"bbox": [719, 633, 759, 756],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也厚葉弱枝善搖一",
+		"bbox": [669, 275, 709, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黃華木从木崔聲",
+		"bbox": [669, 604, 709, 787],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "名蘖从木風聲方戎切",
+		"bbox": [619, 275, 659, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰反常巨員切",
+		"bbox": [619, 604, 659, 787],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木巨",
+		"bbox": [569, 347, 608, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木鬼",
+		"bbox": [569, 543, 608, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楮也从",
+		"bbox": [569, 768, 608, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲其呂切",
+		"bbox": [519, 347, 559, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲戸恢切",
+		"bbox": [519, 543, 559, 659],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木殼聲",
+		"bbox": [519, 768, 559, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古禄",
+		"bbox": [469, 275, 508, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穀也从木者",
+		"bbox": [469, 365, 508, 532],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楮或",
+		"bbox": [469, 633, 508, 673],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "枸杞也从",
+		"bbox": [469, 768, 508, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [419, 275, 459, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲丑吕切",
+		"bbox": [419, 407, 459, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从宁",
+		"bbox": [419, 604, 459, 659],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木繼省聲",
+		"bbox": [419, 768, 459, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰監木",
+		"bbox": [369, 275, 408, 382],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "枸杞也从木",
+		"bbox": [369, 457, 408, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木牙聲",
+		"bbox": [369, 681, 408, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也古詣切",
+		"bbox": [319, 275, 359, 382],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "己聲墟里切",
+		"bbox": [319, 457, 359, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰車軻會也",
+		"bbox": [319, 681, 359, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "五加",
+		"bbox": [269, 275, 308, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木亶",
+		"bbox": [269, 407, 308, 532],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木樂",
+		"bbox": [269, 604, 308, 756],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [219, 275, 259, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒乾切",
+		"bbox": [219, 407, 259, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲郎擊切",
+		"bbox": [219, 604, 259, 724],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十三",
+		"bbox": [173, 275, 201, 335],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑下上",
+		"bbox": [164, 410, 195, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "五",
+		"bbox": [173, 663, 195, 685],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "表和",
+		"bbox": [183, 798, 212, 835],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
