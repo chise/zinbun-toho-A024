@@ -1,0 +1,256 @@
+```json
+[
+	{
+		"text": "从木晉聲書曰竹",
+		"bbox": [856, 284, 913, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箭如榗子賤切",
+		"bbox": [814, 284, 869, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "作牀几从木叚聲",
+		"bbox": [770, 284, 824, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若賈古雅切",
+		"bbox": [725, 284, 781, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰榛楛濟",
+		"bbox": [681, 284, 736, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "濟侯古切",
+		"bbox": [636, 284, 692, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若仍",
+		"bbox": [591, 284, 646, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "如乗切",
+		"bbox": [547, 284, 602, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木顔",
+		"bbox": [502, 284, 557, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲符真切",
+		"bbox": [457, 284, 512, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "棗也从木僕",
+		"bbox": [412, 284, 468, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲博木切",
+		"bbox": [368, 284, 423, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也實如棃从",
+		"bbox": [323, 284, 378, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木尼聲女履切",
+		"bbox": [278, 284, 333, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [233, 284, 288, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木乎",
+		"bbox": [233, 474, 288, 660],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲力輟切",
+		"bbox": [188, 474, 243, 660],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木夋聲臣鉉等曰",
+		"bbox": [188, 664, 243, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "今人別音蘇禾切以爲機",
+		"bbox": [143, 664, 198, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大卅一",
+		"bbox": [176, 282, 198, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文下上",
+		"bbox": [166, 411, 188, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "四",
+		"bbox": [166, 658, 188, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳玉",
+		"bbox": [176, 795, 198, 833],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羅也从木豖聲詩曰",
+		"bbox": [868, 474, 922, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隰有樹樣徐醉切",
+		"bbox": [824, 474, 878, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木惠",
+		"bbox": [779, 474, 834, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲胡計切",
+		"bbox": [735, 474, 789, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也可以爲大車軸",
+		"bbox": [690, 474, 744, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从木卋聲祖雞切",
+		"bbox": [645, 474, 700, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从",
+		"bbox": [600, 474, 655, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木乃聲",
+		"bbox": [555, 474, 610, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "酸棗也从木",
+		"bbox": [510, 474, 565, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "貳聲而至切",
+		"bbox": [465, 474, 520, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "酸小棗从木然聲",
+		"bbox": [420, 474, 475, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰染也人善切",
+		"bbox": [375, 474, 430, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木肖",
+		"bbox": [330, 474, 385, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲所交切",
+		"bbox": [285, 474, 340, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木隸聲郎計",
+		"bbox": [240, 474, 295, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木可",
+		"bbox": [834, 739, 913, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从",
+		"bbox": [790, 739, 845, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木苦聲",
+		"bbox": [745, 739, 800, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从",
+		"bbox": [700, 739, 755, 850],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
