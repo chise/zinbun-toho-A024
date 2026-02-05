@@ -1,0 +1,154 @@
+```json
+[
+	{
+		"text": "大古",
+		"bbox": [168, 270, 194, 315],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文十六",
+		"bbox": [621, 440, 695, 553],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重五",
+		"bbox": [622, 673, 696, 751],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "新附音錦連",
+		"bbox": [557, 705, 599, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文一",
+		"bbox": [526, 612, 599, 679],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "柔而固也从韋",
+		"bbox": [559, 356, 603, 519],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刃聲而進切",
+		"bbox": [508, 358, 552, 496],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弟韋束之次弟也从古字之象凡第",
+		"bbox": [411, 270, 497, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "特計",
+		"bbox": [364, 555, 400, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之屬皆从弟切",
+		"bbox": [311, 355, 392, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文第从古",
+		"bbox": [255, 355, 294, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文韋省ノ聲",
+		"bbox": [210, 355, 249, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周人謂兄曰覿从弟从眾",
+		"bbox": [254, 586, 301, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臣鉉等曰眾目相及也兄",
+		"bbox": [208, 586, 252, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唐文",
+		"bbox": [174, 798, 201, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "此下",
+		"bbox": [163, 658, 195, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "范之五下",
+		"bbox": [163, 404, 195, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "叢火收束也从韋烘聲讀若酋臣鉉等曰",
+		"bbox": [852, 270, 912, 729],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "米韋糄側角切聲不相近未詳即由切",
+		"bbox": [807, 270, 863, 709],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或",
+		"bbox": [837, 823, 865, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从秋手韘或从",
+		"bbox": [738, 270, 802, 416],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "要",
+		"bbox": [712, 270, 750, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋手",
+		"bbox": [714, 385, 752, 434],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "井垣也从韋取其",
+		"bbox": [754, 555, 807, 730],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "市也軌聲胡安切",
+		"bbox": [715, 555, 764, 728],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
