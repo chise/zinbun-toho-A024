@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "小二九一", "bbox": [798, 267, 824, 320], "type": "text", "comment": ""},
+	{"text": "說文五上", "bbox": [805, 408, 844, 481], "type": "text", "comment": ""},
+	{"text": "王明", "bbox": [800, 802, 825, 842], "type": "text", "comment": ""},
+	{"text": "文二　重五", "bbox": [715, 453, 788, 645], "type": "text", "comment": ""},
+	{"text": "丌下基也薦物之丌象形凡丌之屬", "bbox": [606, 274, 695, 846], "type": "text", "comment": ""},
+	{"text": "皆从丌讀若箕同居之切", "bbox": [505, 350, 582, 651], "type": "text", "comment": ""},
+	{"text": "古之遒人以木鐸記詩言从辵从丌丌亦聲讀與", "bbox": [454, 347, 492, 840], "type": "text", "comment": ""},
+	{"text": "記同徐鍇曰遒人行而求之故从辵丌薦而進之", "bbox": [400, 347, 441, 840], "type": "text", "comment": ""},
+	{"text": "於上也", "bbox": [359, 274, 393, 351], "type": "text", "comment": ""},
+	{"text": "居吏切", "bbox": [305, 274, 339, 347], "type": "text", "comment": ""},
+	{"text": "五帝之書也从冊在丌上尊閣", "bbox": [347, 444, 385, 700], "type": "text", "comment": ""},
+	{"text": "之也莊都說典大冊也多殄切", "bbox": [305, 444, 339, 745], "type": "text", "comment": ""},
+	{"text": "古文典", "bbox": [252, 274, 285, 347], "type": "text", "comment": ""},
+	{"text": "異也从丌从顛此易繫卦為長女為風", "bbox": [252, 444, 285, 838], "type": "text", "comment": ""},
+	{"text": "从竹", "bbox": [202, 274, 235, 325], "type": "text", "comment": ""},
+	{"text": "者臣鉉等曰顛之義亦選具也蘇困切", "bbox": [202, 444, 235, 840], "type": "text", "comment": ""},
+	{"text": "相付與之約在閣上", "bbox": [152, 355, 185, 557], "type": "text", "comment": ""},
+	{"text": "也从丌由聲必至切", "bbox": [99, 355, 133, 557], "type": "text", "comment": ""},
+	{"text": "具也从丌巳聲臣", "bbox": [152, 648, 185, 840], "type": "text", "comment": ""},
+	{"text": "鉉等曰庶物皆具", "bbox": [99, 648, 133, 840], "type": "text", "comment": ""}
+]
+```
