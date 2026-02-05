@@ -1,0 +1,310 @@
+```json
+[
+	{
+		"text": "木枯也从木",
+		"bbox": [853, 260, 904, 377],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "高聲苦浩切",
+		"bbox": [817, 260, 868, 377],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楛",
+		"bbox": [823, 386, 908, 473],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木素也从木",
+		"bbox": [868, 478, 908, 611],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "業聲匹角切",
+		"bbox": [822, 478, 863, 611],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "槙",
+		"bbox": [822, 618, 908, 705],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "剛木也从木",
+		"bbox": [868, 709, 908, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "貞聲上郡有",
+		"bbox": [822, 709, 863, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楨",
+		"bbox": [775, 260, 802, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "林縣",
+		"bbox": [775, 341, 802, 417],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木曲直也从木",
+		"bbox": [775, 425, 802, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "柿",
+		"bbox": [727, 341, 798, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "予聲耳由切",
+		"bbox": [727, 425, 757, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "椑",
+		"bbox": [727, 572, 802, 653],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "判也从木席聲易",
+		"bbox": [775, 658, 802, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰重門擊柝他各",
+		"bbox": [727, 658, 757, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陟盈切",
+		"bbox": [708, 260, 757, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "析",
+		"bbox": [619, 288, 700, 366],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木之理也从木力聲",
+		"bbox": [665, 373, 708, 586],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "材",
+		"bbox": [624, 595, 708, 673],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木挺也从木",
+		"bbox": [665, 677, 708, 802],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "才聲昨哉切",
+		"bbox": [624, 806, 656, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [656, 260, 686, 288],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "平原有朸縣盧則切",
+		"bbox": [619, 373, 656, 586],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "柴",
+		"bbox": [521, 260, 589, 341],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小木散材从木此聲臣鉉等曰師行野次竪散木",
+		"bbox": [566, 345, 606, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "為區落名曰柴籬後人語譌轉入去聲又別作寨",
+		"bbox": [521, 345, 561, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "字非是",
+		"bbox": [464, 260, 501, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "棟",
+		"bbox": [459, 341, 501, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "棟桑神木日所出也",
+		"bbox": [464, 425, 501, 637],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "杲",
+		"bbox": [432, 642, 497, 723],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "明也从日在",
+		"bbox": [476, 727, 506, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "士佳切",
+		"bbox": [408, 260, 448, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "棟",
+		"bbox": [408, 341, 471, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从木專聲防無切",
+		"bbox": [408, 425, 448, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木上古老切",
+		"bbox": [421, 727, 454, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "杳",
+		"bbox": [324, 260, 386, 341],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冥也从日在",
+		"bbox": [359, 345, 397, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木下烏皎切",
+		"bbox": [311, 345, 348, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "柳",
+		"bbox": [311, 484, 402, 565],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角械也从木卻聲一",
+		"bbox": [372, 569, 408, 763],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰木下白也其逆切",
+		"bbox": [311, 569, 348, 784],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "栽",
+		"bbox": [208, 260, 290, 341],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "築牆長版也从木戠聲春秋",
+		"bbox": [258, 345, 300, 637],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰楚圍蔡里而栽昨代切",
+		"bbox": [208, 345, 250, 637],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "輿",
+		"bbox": [208, 642, 290, 723],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "擣也从木",
+		"bbox": [264, 727, 302, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "筑聲陟玉",
+		"bbox": [208, 727, 250, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大廿八",
+		"bbox": [169, 265, 192, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌文上",
+		"bbox": [160, 400, 192, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唐根",
+		"bbox": [184, 796, 207, 834],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
