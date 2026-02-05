@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小三九十", "bbox": [807, 269, 830, 325], "type": "text", "comment": ""},
+	{"text": "言文二", "bbox": [809, 405, 836, 486], "type": "text", "comment": ""},
+	{"text": "一三", "bbox": [812, 659, 837, 704], "type": "text", "comment": ""},
+	{"text": "洪章", "bbox": [806, 795, 830, 840], "type": "text", "comment": ""},
+	{"text": "到也从刀勿", "bbox": [755, 336, 802, 475], "type": "text", "comment": ""},
+	{"text": "聲武粉切", "bbox": [709, 336, 754, 448], "type": "text", "comment": ""},
+	{"text": "削也从刀宛", "bbox": [755, 547, 802, 682], "type": "text", "comment": ""},
+	{"text": "聲一丸切", "bbox": [709, 547, 754, 660], "type": "text", "comment": ""},
+	{"text": "尢甚也", "bbox": [755, 768, 802, 846], "type": "text", "comment": ""},
+	{"text": "从刀未", "bbox": [709, 768, 754, 846], "type": "text", "comment": ""},
+	{"text": "詳虙聲", "bbox": [657, 270, 702, 357], "type": "text", "comment": ""},
+	{"text": "渠力切", "bbox": [609, 270, 655, 357], "type": "text", "comment": ""},
+	{"text": "枉也从刀未詳", "bbox": [657, 434, 702, 602], "type": "text", "comment": ""},
+	{"text": "殺省聲初轄切", "bbox": [609, 434, 655, 602], "type": "text", "comment": ""},
+	{"text": "文四新附", "bbox": [616, 655, 688, 782], "type": "text", "comment": ""},
+	{"text": "刀堅也象刀有刃之形凡刃之屬", "bbox": [504, 267, 588, 848], "type": "text", "comment": ""},
+	{"text": "皆从刃而振", "bbox": [414, 345, 485, 501], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [414, 454, 448, 488], "type": "text", "comment": ""},
+	{"text": "傷也从刀从", "bbox": [358, 347, 399, 480], "type": "text", "comment": ""},
+	{"text": "一楚良切", "bbox": [308, 347, 350, 456], "type": "text", "comment": ""},
+	{"text": "或从刀倉聲臣鉉等曰", "bbox": [358, 554, 399, 774], "type": "text", "comment": ""},
+	{"text": "今俗別作瘡非是也", "bbox": [308, 554, 350, 762], "type": "text", "comment": ""},
+	{"text": "人所帶兵也从", "bbox": [255, 347, 295, 499], "type": "text", "comment": ""},
+	{"text": "刃僉聲居欠切", "bbox": [203, 347, 244, 499], "type": "text", "comment": ""},
+	{"text": "籀文劒", "bbox": [255, 590, 295, 664], "type": "text", "comment": ""},
+	{"text": "从刀", "bbox": [203, 590, 244, 639], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [111, 375, 182, 455], "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [111, 561, 182, 641], "type": "text", "comment": ""}
+]
+```

@@ -1,0 +1,226 @@
+```json
+[
+	{
+		"text": "此",
+		"bbox": [864, 270, 905, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "缺也从刀占聲詩曰",
+		"bbox": [856, 381, 906, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "白圭之刏丁念切",
+		"bbox": [813, 381, 855, 561],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "但持刀罵詈則",
+		"bbox": [771, 271, 808, 426],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "應罰房越切",
+		"bbox": [715, 271, 763, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "且劓魚",
+		"bbox": [664, 271, 704, 351],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "器切",
+		"bbox": [617, 271, 658, 302],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古零",
+		"bbox": [568, 271, 609, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [516, 271, 558, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "契也从刀尖聲券别之書以刀",
+		"bbox": [459, 342, 500, 656],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "判契其旁故曰契券去願切",
+		"bbox": [404, 342, 448, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傷也从刀从朿",
+		"bbox": [354, 271, 397, 431],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "朿亦聲七賜切",
+		"bbox": [305, 271, 348, 430],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "解骨也从刀",
+		"bbox": [354, 511, 397, 642],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "易聲他歷切",
+		"bbox": [305, 511, 348, 640],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文六十二",
+		"bbox": [209, 414, 283, 567],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重十",
+		"bbox": [209, 633, 283, 730],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十四",
+		"bbox": [159, 658, 196, 687],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳玉",
+		"bbox": [171, 792, 196, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十六一",
+		"bbox": [171, 268, 196, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌文四",
+		"bbox": [159, 405, 196, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "君殺大夫",
+		"bbox": [459, 746, 500, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰刺剌直",
+		"bbox": [404, 746, 448, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楚人謂治魚也从刀",
+		"bbox": [568, 595, 609, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从魚讀若鍥古屑切",
+		"bbox": [516, 610, 558, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲茲損切",
+		"bbox": [516, 398, 558, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "減也从刀尊",
+		"bbox": [568, 398, 609, 533],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "到也从刀幵",
+		"bbox": [664, 558, 704, 681],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲戶經切",
+		"bbox": [617, 558, 658, 665],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刑也从",
+		"bbox": [664, 770, 704, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刀臸聲",
+		"bbox": [617, 770, 658, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "斷耳也从刀",
+		"bbox": [771, 514, 808, 639],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从耳仍吏切",
+		"bbox": [715, 514, 763, 644],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刑鼻也从刀",
+		"bbox": [771, 673, 808, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼻聲易曰天",
+		"bbox": [715, 673, 763, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皋之小者从刀从",
+		"bbox": [856, 660, 906, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詈未以刀有所賊",
+		"bbox": [813, 660, 855, 849],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

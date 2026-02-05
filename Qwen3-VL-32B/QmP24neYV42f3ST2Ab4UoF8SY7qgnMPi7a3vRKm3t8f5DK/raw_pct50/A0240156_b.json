@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "从刀畐聲周禮曰",
+		"bbox": [857, 269, 904, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "副辜祭芳逼切",
+		"bbox": [810, 269, 857, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [857, 532, 904, 569],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "判也从刀吾",
+		"bbox": [857, 665, 904, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "副",
+		"bbox": [810, 532, 857, 569],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲浦后切",
+		"bbox": [810, 665, 857, 770],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "判也从刀辡",
+		"bbox": [763, 334, 809, 476],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "分也从刀牛",
+		"bbox": [763, 595, 809, 685],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "判也从",
+		"bbox": [763, 778, 809, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲蒲莧切",
+		"bbox": [716, 334, 763, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲普半切",
+		"bbox": [716, 557, 763, 663],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刀度聲",
+		"bbox": [716, 778, 763, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徒洛",
+		"bbox": [670, 269, 716, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "判也从刀夸",
+		"bbox": [670, 395, 716, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "分解也从刀",
+		"bbox": [670, 617, 716, 746],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [623, 269, 670, 297],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦孤切",
+		"bbox": [623, 395, 670, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "叕聲良辥切",
+		"bbox": [623, 632, 670, 746],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "剟也从刀千",
+		"bbox": [577, 269, 623, 395],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刊也从刀叕",
+		"bbox": [577, 476, 623, 604],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "剟也从刀冊冊",
+		"bbox": [577, 685, 623, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦寒切",
+		"bbox": [530, 269, 577, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲陟劣切",
+		"bbox": [530, 476, 577, 582],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "書也所姦切",
+		"bbox": [530, 685, 577, 819],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "破也从刀辟",
+		"bbox": [484, 334, 530, 476],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "裂也从刀从录录刻",
+		"bbox": [484, 557, 530, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲普擊切",
+		"bbox": [438, 334, 484, 429],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "割也录亦聲北角切",
+		"bbox": [438, 542, 484, 746],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "剥或",
+		"bbox": [392, 269, 438, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "剥也从刀害",
+		"bbox": [392, 404, 438, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "剥也劃也从刀",
+		"bbox": [392, 632, 438, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从卜",
+		"bbox": [346, 269, 392, 297],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲古達切",
+		"bbox": [346, 395, 392, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "摯聲里之切",
+		"bbox": [346, 617, 392, 746],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "錐刀曰劃从刀从",
+		"bbox": [300, 269, 346, 455],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "挑取也从刀冑聲",
+		"bbox": [300, 542, 346, 729],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刮",
+		"bbox": [300, 813, 346, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "畫畫亦聲呼麥切",
+		"bbox": [254, 269, 300, 455],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰窒也烏玄切",
+		"bbox": [254, 542, 300, 729],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "去",
+		"bbox": [254, 813, 300, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十三",
+		"bbox": [172, 271, 193, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑下吕下",
+		"bbox": [155, 400, 186, 481],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十四",
+		"bbox": [155, 665, 186, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "袁和",
+		"bbox": [174, 794, 196, 835],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

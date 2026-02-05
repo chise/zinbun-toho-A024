@@ -1,0 +1,262 @@
+```json
+[
+	{
+		"text": "小三至",
+		"bbox": [804, 279, 830, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言子四一",
+		"bbox": [809, 406, 841, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李云",
+		"bbox": [808, 796, 834, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角兒从角丩聲詩曰",
+		"bbox": [764, 353, 803, 517],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兕觵其觓渠幽切",
+		"bbox": [720, 354, 756, 533],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角曲中也从角",
+		"bbox": [764, 640, 803, 795],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "畏聲烏賄切",
+		"bbox": [720, 640, 756, 773],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角長皃从角",
+		"bbox": [659, 354, 699, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "月聲士角切",
+		"bbox": [613, 354, 653, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角有所觸發也从",
+		"bbox": [659, 561, 699, 709],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角厥聲居月切",
+		"bbox": [613, 561, 653, 713],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "抵",
+		"bbox": [659, 806, 699, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [613, 813, 653, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从角蜀聲",
+		"bbox": [556, 283, 597, 379],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尺玉切",
+		"bbox": [512, 283, 552, 352],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "用角低仰便也从羊牛角",
+		"bbox": [556, 463, 597, 724],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰觻觻角弓息營切",
+		"bbox": [512, 463, 552, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舉角",
+		"bbox": [556, 787, 597, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [512, 813, 552, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角公聲",
+		"bbox": [457, 283, 498, 352],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "治角也从角學",
+		"bbox": [457, 436, 498, 572],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古雙切",
+		"bbox": [413, 283, 453, 352],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲胡角切",
+		"bbox": [413, 436, 453, 561],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牛觸橫大木其角",
+		"bbox": [457, 666, 498, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从角从大行聲詩",
+		"bbox": [413, 666, 453, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰設其榣",
+		"bbox": [359, 283, 399, 379],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衡戸庚切",
+		"bbox": [314, 283, 354, 379],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文衡",
+		"bbox": [359, 463, 399, 535],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "如此",
+		"bbox": [314, 463, 354, 502],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角觴獸也狀似豕角善",
+		"bbox": [359, 617, 399, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "爲弓出胡休多國从角",
+		"bbox": [314, 617, 354, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "耑聲多",
+		"bbox": [260, 283, 300, 352],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "官切",
+		"bbox": [216, 283, 256, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "觕犖獸也从角者聲一",
+		"bbox": [260, 436, 300, 640],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰下大者也陟加切",
+		"bbox": [216, 436, 256, 621],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羊角不齊",
+		"bbox": [260, 744, 300, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从角危",
+		"bbox": [216, 744, 256, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲過",
+		"bbox": [171, 283, 211, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牝牂羊生角者也",
+		"bbox": [171, 406, 211, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "骨角之名也从",
+		"bbox": [171, 666, 211, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "委切",
+		"bbox": [127, 283, 167, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从角圭聲下瓦切",
+		"bbox": [127, 406, 167, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角各聲古百切",
+		"bbox": [127, 666, 167, 822],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
