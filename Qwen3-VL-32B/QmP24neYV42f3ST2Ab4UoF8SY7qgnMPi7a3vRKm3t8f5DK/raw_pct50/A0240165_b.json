@@ -1,0 +1,280 @@
+```json
+[
+	{
+		"text": "箆籃也从竹",
+		"bbox": [865, 354, 903, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "登聲都滕切",
+		"bbox": [811, 354, 853, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "立聲力入切",
+		"bbox": [811, 563, 853, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大車",
+		"bbox": [811, 735, 853, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箠無柄也从竹",
+		"bbox": [865, 563, 903, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牝服也从竹",
+		"bbox": [758, 354, 800, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "車笭也从竹",
+		"bbox": [758, 563, 800, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "車笭也从竹令",
+		"bbox": [758, 735, 800, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相聲息良切",
+		"bbox": [704, 354, 746, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "匪聲敷尾切",
+		"bbox": [704, 563, 746, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲一曰笭籯也",
+		"bbox": [704, 735, 746, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卽丁",
+		"bbox": [651, 354, 693, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "搔馬也从竹",
+		"bbox": [651, 563, 693, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬箠也从竹",
+		"bbox": [651, 735, 693, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [600, 354, 641, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "剡聲丑廉切",
+		"bbox": [600, 563, 641, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "束聲楚革切",
+		"bbox": [600, 735, 641, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬擊",
+		"bbox": [600, 905, 641, 985],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从竹箥",
+		"bbox": [546, 354, 588, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "簦也从竹朵",
+		"bbox": [546, 563, 588, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "芊車騶簦也箸",
+		"bbox": [546, 735, 588, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲之壘切",
+		"bbox": [493, 354, 535, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲陟瓜切",
+		"bbox": [493, 563, 535, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箴其尚長半分",
+		"bbox": [493, 735, 535, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从竹内聲",
+		"bbox": [440, 354, 482, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "所以盛弩矢人所負",
+		"bbox": [440, 563, 482, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弩矢箙",
+		"bbox": [440, 735, 482, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陟衛切",
+		"bbox": [387, 354, 429, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从竹闌聲洛于切",
+		"bbox": [387, 563, 429, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从竹",
+		"bbox": [387, 735, 429, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "服聲周禮仲秋",
+		"bbox": [334, 354, 376, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "桳雙也从竹",
+		"bbox": [334, 563, 376, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "折竹篋也",
+		"bbox": [334, 735, 376, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "獻矢箙房六切",
+		"bbox": [281, 354, 323, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "朱聲陟輸切",
+		"bbox": [281, 563, 323, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从竹占聲",
+		"bbox": [281, 735, 323, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "潁川人名小兒所",
+		"bbox": [228, 354, 270, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "笞也从竹旦",
+		"bbox": [228, 563, 270, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "擊也从",
+		"bbox": [228, 735, 270, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "書寫爲笞失廉切",
+		"bbox": [175, 354, 217, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲當割切",
+		"bbox": [175, 563, 217, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹台聲",
+		"bbox": [175, 735, 217, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十",
+		"bbox": [168, 265, 194, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌文五十二",
+		"bbox": [158, 401, 188, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "五",
+		"bbox": [162, 671, 189, 695],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "下山",
+		"bbox": [170, 796, 198, 833],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
