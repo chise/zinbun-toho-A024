@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "小二", "bbox": [804, 267, 823, 315], "type": "text", "comment": ""},
+	{"text": "工", "bbox": [719, 275, 781, 318], "type": "text", "comment": ""},
+	{"text": "凡工之屬皆从工", "bbox": [714, 332, 796, 599], "type": "text", "comment": ""},
+	{"text": "徐鍇曰爲巧必遵規", "bbox": [753, 626, 792, 837], "type": "text", "comment": ""},
+	{"text": "矩法度然後爲工否", "bbox": [703, 625, 746, 837], "type": "text", "comment": ""},
+	{"text": "則目巧也巫事無形失在於詭亦", "bbox": [651, 341, 695, 683], "type": "text", "comment": ""},
+	{"text": "當遵規矩故曰與巫同意古紅切", "bbox": [602, 341, 646, 683], "type": "text", "comment": ""},
+	{"text": "古文工", "bbox": [557, 350, 595, 427], "type": "text", "comment": ""},
+	{"text": "法也从工弋", "bbox": [555, 524, 594, 633], "type": "text", "comment": ""},
+	{"text": "技也从工", "bbox": [548, 738, 589, 836], "type": "text", "comment": ""},
+	{"text": "聲賞職切", "bbox": [503, 518, 546, 617], "type": "text", "comment": ""},
+	{"text": "丁聲苦絞", "bbox": [500, 759, 543, 838], "type": "text", "comment": ""},
+	{"text": "从彐", "bbox": [502, 350, 542, 406], "type": "text", "comment": ""},
+	{"text": "規巨也从工象", "bbox": [454, 374, 496, 537], "type": "text", "comment": ""},
+	{"text": "手持之其呂切", "bbox": [400, 374, 442, 537], "type": "text", "comment": ""},
+	{"text": "巨或从木矢矢", "bbox": [450, 620, 490, 775], "type": "text", "comment": ""},
+	{"text": "者其中正也", "bbox": [397, 620, 438, 743], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [348, 271, 391, 327], "type": "text", "comment": ""},
+	{"text": "巨", "bbox": [307, 271, 346, 303], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [312, 420, 377, 503], "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [305, 579, 377, 660], "type": "text", "comment": ""},
+	{"text": "極巧視之也从四工凡玍之屬皆", "bbox": [208, 344, 288, 837], "type": "text", "comment": ""},
+	{"text": "从工知衍", "bbox": [140, 352, 189, 477], "type": "text", "comment": ""},
+	{"text": "王明", "bbox": [800, 801, 823, 838], "type": "text", "comment": ""}
+]
+```
