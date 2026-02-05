@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "小豆九", "bbox": [803, 264, 825, 323], "type": "text", "comment": ""},
+	{"text": "說文五十", "bbox": [807, 398, 844, 486], "type": "text", "comment": ""},
+	{"text": "陳元", "bbox": [802, 796, 826, 835], "type": "text", "comment": ""},
+	{"text": "虎文也从虎彡象", "bbox": [754, 345, 798, 506], "type": "text", "comment": ""},
+	{"text": "其文也南州切", "bbox": [707, 345, 751, 506], "type": "text", "comment": ""},
+	{"text": "虎鳴也一曰師子", "bbox": [662, 345, 705, 674], "type": "text", "comment": ""},
+	{"text": "聲魚廢切", "bbox": [707, 620, 751, 724], "type": "text", "comment": ""},
+	{"text": "虎兒从虎又", "bbox": [754, 620, 798, 724], "type": "text", "comment": ""},
+	{"text": "虎聲也", "bbox": [662, 757, 705, 845], "type": "text", "comment": ""},
+	{"text": "從虎斤", "bbox": [616, 757, 660, 822], "type": "text", "comment": ""},
+	{"text": "虎所攫", "bbox": [571, 757, 615, 845], "type": "text", "comment": ""},
+	{"text": "畫明文", "bbox": [526, 757, 570, 822], "type": "text", "comment": ""},
+	{"text": "从虎騰", "bbox": [405, 757, 448, 845], "type": "text", "comment": ""},
+	{"text": "黑虎也", "bbox": [464, 757, 508, 822], "type": "text", "comment": ""},
+	{"text": "聲古伯切", "bbox": [405, 264, 448, 373], "type": "text", "comment": ""},
+	{"text": "也从虎乎", "bbox": [464, 264, 508, 345], "type": "text", "comment": ""},
+	{"text": "委麂虎之有角者也", "bbox": [464, 457, 508, 657], "type": "text", "comment": ""},
+	{"text": "从虎厂聲息移切", "bbox": [405, 457, 448, 657], "type": "text", "comment": ""},
+	{"text": "聲徒", "bbox": [361, 264, 404, 317], "type": "text", "comment": ""},
+	{"text": "登切", "bbox": [307, 264, 350, 317], "type": "text", "comment": ""},
+	{"text": "文十五", "bbox": [315, 457, 377, 572], "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [315, 647, 377, 724], "type": "text", "comment": ""},
+	{"text": "虗也急也从虎从", "bbox": [257, 345, 300, 538], "type": "text", "comment": ""},
+	{"text": "孟見周禮薄報切", "bbox": [203, 345, 246, 538], "type": "text", "comment": ""},
+	{"text": "楚人謂虎為烏虤", "bbox": [257, 620, 300, 809], "type": "text", "comment": ""},
+	{"text": "从虎兔聲同都切", "bbox": [203, 620, 246, 809], "type": "text", "comment": ""},
+	{"text": "文二新附", "bbox": [123, 457, 185, 592], "type": "text", "comment": ""}
+]
+```

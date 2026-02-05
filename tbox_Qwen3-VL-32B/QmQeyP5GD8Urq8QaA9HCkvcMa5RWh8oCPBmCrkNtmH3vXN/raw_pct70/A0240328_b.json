@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "大二十四", "bbox": [180, 271, 199, 312], "size": "small", "type": "label", "comment": "页码或卷次标识"},
+	{"text": "兑下", "bbox": [168, 414, 191, 492], "size": "small", "type": "label", "comment": "可能为篇名或章节标识"},
+	{"text": "程樹", "bbox": [180, 805, 200, 838], "size": "small", "type": "label", "comment": "刻工或校勘者署名"},
+	{"text": "屬皆从屵 五葛切", "bbox": [822, 355, 895, 552], "size": "large", "type": "header", "comment": "部首说明，‘屵’部字皆从‘屵’，注音‘五葛切’"},
+	{"text": "岸 水厓而高者从屵干聲 五旰切", "bbox": [725, 277, 800, 518], "size": "large", "type": "entry", "comment": "‘岸’字条目，释义、构形及反切注音"},
+	{"text": "崖 高邊也从屵圭聲 五佳切", "bbox": [725, 520, 800, 728], "size": "large", "type": "entry", "comment": "‘崖’字条目，释义、构形及反切注音"},
+	{"text": "産 高也", "bbox": [725, 732, 800, 843], "size": "large", "type": "entry", "comment": "‘産’字条目，释义‘高也’"},
+	{"text": "从屵佳聲 都回切", "bbox": [625, 277, 700, 355], "size": "medium", "type": "entry", "comment": "‘屵’字构形及注音"},
+	{"text": "崩也从屵肥聲 符鄙切", "bbox": [625, 470, 700, 580], "size": "medium", "type": "entry", "comment": "‘崩’字条目，构形及注音"},
+	{"text": "崩聲从屵配聲 讀若費蒲", "bbox": [625, 700, 700, 843], "size": "medium", "type": "entry", "comment": "‘配’字条目，构形及注音"},
+	{"text": "文六", "bbox": [522, 410, 592, 488], "size": "large", "type": "header", "comment": "本页收录字数为六"},
+	{"text": "广 因广爲屋象對剌高屋之形 凡广之屬皆从广 讀若儼然之儼 魚儉切", "bbox": [415, 275, 495, 843], "size": "large", "type": "entry", "comment": "‘广’字条目，释义、构形、部首说明及注音"},
+	{"text": "府 文書藏也从广付聲 臣鉉等曰今藏腑字俗書从囗非是 方矩切", "bbox": [208, 275, 290, 675], "size": "large", "type": "entry", "comment": "‘府’字条目，释义、构形、注音及校勘说明"},
+	{"text": "寢 天子饗飲", "bbox": [208, 700, 290, 843], "size": "large", "type": "entry", "comment": "‘寢’字条目，释义‘天子饗飲’"}
+]
+```

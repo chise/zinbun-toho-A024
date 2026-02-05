@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "瑞信也守國者用玉卪守都鄙者", "bbox": [824, 357, 899, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "用角卪使山邦者用虎卪土邦者", "bbox": [724, 357, 798, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "用人卪澤邦者用龍卪門關者用", "bbox": [624, 357, 697, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "符卪貨賄用璽卪道路用旌卪象", "bbox": [523, 357, 596, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "相合之形凡卪之屬皆从卪子結", "bbox": [422, 357, 495, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "令發號也从人卪徐鍇曰號令", "bbox": [322, 357, 395, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "者集而爲之卪制也力正切", "bbox": [304, 357, 348, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "卪成五服有大度也从卪多", "bbox": [254, 270, 297, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "毗必切聲讀若侈充鼓切", "bbox": [204, 270, 247, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "必聲兵媚切", "bbox": [204, 720, 247, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "宰之也从卪", "bbox": [254, 720, 297, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "輔信也从卪", "bbox": [354, 645, 400, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "比聲虞書曰", "bbox": [304, 645, 348, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [412, 775, 454, 845], "size": "100", "type": "text", "comment": ""},
+	{"text": "大", "bbox": [174, 267, 195, 305], "size": "100", "type": "text", "comment": ""},
+	{"text": "唐文", "bbox": [178, 795, 200, 830], "size": "100", "type": "text", "comment": ""}
+]
+```

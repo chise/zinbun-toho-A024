@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "小言", "bbox": [800, 279, 823, 324], "type": "text", "comment": ""},
+	{"text": "三十二", "bbox": [806, 405, 828, 455], "type": "text", "comment": ""},
+	{"text": "二", "bbox": [806, 675, 826, 700], "type": "text", "comment": ""},
+	{"text": "繆春", "bbox": [800, 797, 825, 839], "type": "text", "comment": ""},
+	{"text": "既居", "bbox": [752, 273, 787, 324], "type": "text", "comment": ""},
+	{"text": "未切", "bbox": [711, 273, 747, 324], "type": "text", "comment": ""},
+	{"text": "飯剛柔不調相著从皀", "bbox": [754, 405, 792, 640], "type": "text", "comment": ""},
+	{"text": "冂聲讀若適施隻切", "bbox": [706, 405, 745, 617], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [718, 692, 784, 774], "type": "text", "comment": ""},
+	{"text": "以秬醳鬱艸芬芳攸服以降神也", "bbox": [610, 273, 686, 845], "type": "text", "comment": ""},
+	{"text": "从口口器也中象米匕所以扱之", "bbox": [505, 355, 585, 843], "type": "text", "comment": ""},
+	{"text": "易曰不喪匕鬯凡鬯之屬皆从鬯", "bbox": [405, 355, 480, 845], "type": "text", "comment": ""},
+	{"text": "丑諒", "bbox": [351, 355, 388, 407], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [305, 355, 342, 385], "type": "text", "comment": ""},
+	{"text": "芳艸也十葉爲貫百丄貫築以煮之爲鬱从臼冂", "bbox": [250, 355, 291, 845], "type": "text", "comment": ""},
+	{"text": "缶鬯彡其飾也一曰鬱鬯百艸之萼遠方鬱人所", "bbox": [198, 355, 239, 845], "type": "text", "comment": ""},
+	{"text": "貢芳艸合醳之以降神", "bbox": [153, 273, 191, 508], "type": "text", "comment": ""},
+	{"text": "鬱今鬱林郡也迂勿切", "bbox": [100, 273, 140, 508], "type": "text", "comment": ""},
+	{"text": "禮器也象巖之形中有", "bbox": [153, 617, 191, 845], "type": "text", "comment": ""},
+	{"text": "鬯酒又持之也所以飲", "bbox": [98, 617, 138, 845], "type": "text", "comment": ""}
+]
+```

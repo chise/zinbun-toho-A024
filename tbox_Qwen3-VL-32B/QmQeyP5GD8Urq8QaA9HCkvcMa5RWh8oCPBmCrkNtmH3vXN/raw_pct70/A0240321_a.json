@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "小 二 〇 一", "bbox": [800, 270, 820, 305], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "洪 章", "bbox": [804, 798, 825, 835], "size": "small", "type": "text", "comment": "作者或校注者名"},
+	{"text": "章 也 六 卿 天 官 冢 宰 地 官 司 徒 春 官 宗 伯 夏 官", "bbox": [754, 352, 799, 820], "size": "medium", "type": "text", "comment": "解释“卿”字的含义，列举六卿官职"},
+	{"text": "司 馬 秋 官 司 冠 冬 官 司 空 从 卯 皀 聲 去 京 切", "bbox": [704, 352, 749, 805], "size": "medium", "type": "text", "comment": "继续解释“卿”字，包含音韵注释"},
+	{"text": "文 二", "bbox": [617, 404, 680, 477], "size": "large", "type": "heading", "comment": "章节标题或条目编号"},
+	{"text": "辟 法 也 从 卩 从 辛 節 制 其 辜 也 从 口", "bbox": [509, 267, 591, 830], "size": "medium", "type": "text", "comment": "解释“辟”字的本义和构形"},
+	{"text": "用 法 者 也 凡 辟 之 属 皆 从 辟 必 益 切", "bbox": [404, 345, 483, 815], "size": "medium", "type": "text", "comment": "解释“辟”字的引申义及同部首字的归类"},
+	{"text": "治 也 从 辟 从 井 周 書", "bbox": [348, 340, 390, 540], "size": "medium", "type": "text", "comment": "解释“辟”字的用法及出处"},
+	{"text": "曰 我 之 不 辟 必 益 切", "bbox": [298, 340, 340, 540], "size": "medium", "type": "text", "comment": "引文或注释，出自《周书》"},
+	{"text": "治 也 从 辟 乂 聲 虞 書", "bbox": [348, 630, 390, 830], "size": "medium", "type": "text", "comment": "解释“辟”字的音义及出处"},
+	{"text": "曰 有 能 俾 雙 魚 廢 切", "bbox": [298, 630, 340, 830], "size": "medium", "type": "text", "comment": "引文或注释，出自《虞书》"},
+	{"text": "文 三", "bbox": [210, 400, 272, 475], "size": "large", "type": "heading", "comment": "章节标题或条目编号"},
+	{"text": "裹 也 象 人 曲 形 有 所 包 裹 凡 亅 之", "bbox": [104, 350, 178, 835], "size": "medium", "type": "text", "comment": "解释“匸”字的本义和构形"}
+]
+```

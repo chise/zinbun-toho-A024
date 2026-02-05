@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "小篆",
+		"bbox": [803, 269, 824, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文三上",
+		"bbox": [803, 401, 835, 489],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李云",
+		"bbox": [803, 797, 824, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "中以祀者也从",
+		"bbox": [749, 269, 799, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皿成聲氏征切",
+		"bbox": [710, 269, 749, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黍稷在器以祀者",
+		"bbox": [749, 523, 799, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从皿齊聲即夷切",
+		"bbox": [710, 523, 749, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小甌",
+		"bbox": [749, 703, 799, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [710, 703, 749, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皿有聲讀若灰一",
+		"bbox": [669, 269, 709, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰若賄于救切",
+		"bbox": [609, 269, 659, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "簋或",
+		"bbox": [669, 523, 709, 589],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从右",
+		"bbox": [609, 523, 659, 589],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飯器也从皿",
+		"bbox": [669, 659, 709, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盧聲洛乎切",
+		"bbox": [609, 659, 659, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [549, 269, 599, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "器也从皿从缶",
+		"bbox": [549, 491, 599, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古聲公戶切",
+		"bbox": [509, 491, 549, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "器也从皿",
+		"bbox": [549, 659, 599, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弔聲止遥",
+		"bbox": [509, 659, 549, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [449, 269, 489, 301],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盆也从皿央",
+		"bbox": [449, 376, 489, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲烏浪切",
+		"bbox": [409, 376, 449, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盎或",
+		"bbox": [449, 583, 489, 633],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从瓦",
+		"bbox": [409, 583, 449, 633],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盎也从皿",
+		"bbox": [449, 659, 489, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "分聲步奔",
+		"bbox": [409, 659, 449, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [349, 269, 389, 301],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "器也从皿宀",
+		"bbox": [349, 376, 389, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲直呂切",
+		"bbox": [309, 376, 349, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樁盨負戴器也从",
+		"bbox": [349, 583, 389, 779],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皿須聲相庾切",
+		"bbox": [309, 583, 349, 751],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "器也从皿漥",
+		"bbox": [249, 349, 289, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲古巧切",
+		"bbox": [209, 349, 249, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "械器也从皿",
+		"bbox": [249, 561, 289, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "必聲彌畢切",
+		"bbox": [209, 561, 249, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "作酸也",
+		"bbox": [249, 775, 289, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "醯",
+		"bbox": [209, 775, 249, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以醬以酒从醬酒並省",
+		"bbox": [149, 269, 189, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从皿皿器也呼雞切",
+		"bbox": [99, 269, 139, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "調味也从皿",
+		"bbox": [149, 583, 189, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禾聲戸戈切",
+		"bbox": [99, 583, 139, 726],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "饒",
+		"bbox": [149, 815, 189, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [99, 815, 139, 842],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

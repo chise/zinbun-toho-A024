@@ -1,0 +1,202 @@
+```json
+[
+	{
+		"text": "从虎彬聲",
+		"bbox": [840, 263, 907, 352],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "布還切",
+		"bbox": [807, 263, 863, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鐘鼓之柎也飾為猛獸从",
+		"bbox": [854, 463, 907, 725],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虎異象其下足其吕切",
+		"bbox": [807, 463, 863, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虞或从",
+		"bbox": [762, 263, 807, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "金虜聲",
+		"bbox": [715, 263, 762, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "篆文",
+		"bbox": [762, 431, 807, 493],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虞省",
+		"bbox": [715, 431, 762, 493],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文九",
+		"bbox": [715, 551, 799, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重三",
+		"bbox": [715, 707, 799, 795],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山獸之君从虎虎足象人足象形",
+		"bbox": [615, 263, 696, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "凡虎之屬皆从虎",
+		"bbox": [510, 345, 590, 617],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "呼古",
+		"bbox": [559, 627, 599, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [510, 627, 549, 659],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [454, 345, 496, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦古",
+		"bbox": [454, 490, 496, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虎聲也从虎皷聲",
+		"bbox": [454, 617, 496, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虎",
+		"bbox": [404, 345, 444, 380],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文虎",
+		"bbox": [404, 490, 444, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若隔古覈切",
+		"bbox": [404, 617, 444, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "白虎也从虎昔省",
+		"bbox": [358, 345, 399, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若寡莫狄切",
+		"bbox": [308, 345, 349, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "庖屬从虎去聲臣鉉",
+		"bbox": [358, 617, 399, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "等曰去非聲未詳呼",
+		"bbox": [308, 617, 349, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "濫",
+		"bbox": [258, 263, 296, 291],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黑虎也从虎",
+		"bbox": [258, 379, 296, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "虎竊毛謂之虥苗从虎",
+		"bbox": [258, 617, 296, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [210, 263, 249, 291],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鱻聲式竹切",
+		"bbox": [210, 379, 249, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戋聲竊淺也昨閑切",
+		"bbox": [210, 617, 249, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大廿二",
+		"bbox": [167, 263, 199, 291],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "元文五正",
+		"bbox": [167, 396, 199, 476],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "薛安",
+		"bbox": [167, 797, 199, 838],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

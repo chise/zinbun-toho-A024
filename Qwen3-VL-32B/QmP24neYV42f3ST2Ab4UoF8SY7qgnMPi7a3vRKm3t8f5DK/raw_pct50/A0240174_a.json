@@ -1,0 +1,154 @@
+```json
+[
+	{
+		"text": "鼓四面鼖鼓皐鼓晉鼓皆兩面凡",
+		"bbox": [714, 336, 795, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼓之屬皆从鼓 徐鍇曰郭者覆",
+		"bbox": [619, 336, 694, 736],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冒之意工戶切",
+		"bbox": [605, 570, 652, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文鼓",
+		"bbox": [559, 336, 600, 416],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大鼓也从鼓咎聲詩",
+		"bbox": [559, 416, 600, 720],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰鼙鼓弗勝古勞切",
+		"bbox": [507, 336, 552, 720],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謂之鼖鼖八尺而兩面以鼓",
+		"bbox": [456, 257, 500, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "軍事从鼓賁省聲符分切",
+		"bbox": [404, 257, 450, 552],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "騎鼓也从鼓",
+		"bbox": [352, 257, 398, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼓聲也从鼓",
+		"bbox": [352, 478, 398, 607],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隆聲徒冬切",
+		"bbox": [301, 478, 348, 607],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼓聲也从鼓",
+		"bbox": [301, 685, 348, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "開聲詩曰鼗",
+		"bbox": [251, 685, 298, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼓聲也从鼓堂聲詩",
+		"bbox": [251, 435, 298, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰擊鼓其壟土郎切",
+		"bbox": [200, 435, 247, 655],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼓合聲徒",
+		"bbox": [200, 735, 247, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼓聲",
+		"bbox": [150, 785, 196, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼓無聲也从鼓",
+		"bbox": [150, 525, 196, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文鼛",
+		"bbox": [150, 365, 196, 445],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冐聲他叶切",
+		"bbox": [98, 550, 144, 675],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从革",
+		"bbox": [98, 365, 144, 425],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [98, 257, 144, 285],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小豆七",
+		"bbox": [804, 255, 828, 310],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十三",
+		"bbox": [808, 667, 830, 705],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宏昌",
+		"bbox": [804, 795, 828, 835],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "變隸", "bbox": [863, 350, 904, 397], "type": "text", "comment": ""},
+	{"text": "作亍", "bbox": [819, 350, 859, 397], "type": "text", "comment": ""},
+	{"text": "气損也从亏儿", "bbox": [772, 350, 812, 467], "type": "text", "comment": ""},
+	{"text": "虧或", "bbox": [772, 557, 812, 604], "type": "text", "comment": ""},
+	{"text": "亏也審慎之詞", "bbox": [772, 697, 812, 850], "type": "text", "comment": ""},
+	{"text": "書曰粵三日", "bbox": [673, 269, 714, 397], "type": "text", "comment": ""},
+	{"text": "驚語也从口从亏亏亦聲臣鉉", "bbox": [673, 478, 714, 800], "type": "text", "comment": ""},
+	{"text": "等按口部已有此重出沉于切", "bbox": [620, 478, 661, 800], "type": "text", "comment": ""},
+	{"text": "丁亥王伐切", "bbox": [620, 269, 661, 367], "type": "text", "comment": ""},
+	{"text": "語平舒也从亏从八八", "bbox": [567, 350, 608, 567], "type": "text", "comment": ""},
+	{"text": "分也爰礼說符兵切", "bbox": [513, 350, 555, 557], "type": "text", "comment": ""},
+	{"text": "古文平", "bbox": [567, 657, 608, 734], "type": "text", "comment": ""},
+	{"text": "如此", "bbox": [513, 657, 555, 704], "type": "text", "comment": ""},
+	{"text": "文五 重二", "bbox": [420, 397, 494, 634], "type": "text", "comment": ""},
+	{"text": "美也从甘匕聲凡旨之屬皆从旨", "bbox": [316, 320, 393, 847], "type": "text", "comment": ""},
+	{"text": "職雉", "bbox": [257, 350, 298, 410], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [207, 357, 248, 384], "type": "text", "comment": ""},
+	{"text": "大す", "bbox": [170, 267, 198, 307], "type": "text", "comment": ""},
+	{"text": "兑六五上", "bbox": [165, 400, 194, 478], "type": "text", "comment": ""},
+	{"text": "丁山", "bbox": [175, 800, 199, 840], "type": "text", "comment": ""}
+]
+```

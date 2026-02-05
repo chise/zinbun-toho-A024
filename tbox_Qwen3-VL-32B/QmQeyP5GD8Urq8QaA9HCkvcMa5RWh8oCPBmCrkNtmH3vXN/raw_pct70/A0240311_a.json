@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "小二千五", "bbox": [798, 275, 822, 344], "size": "small", "type": "text", "comment": "页码或章节编号"},
+	{"text": "頁之屬皆从頁首者諸首字也胡結切", "bbox": [708, 344, 787, 844], "size": "large", "type": "title", "comment": "标题，说明本页内容为“頁”部字的集合"},
+	{"text": "頭首也从頁豆聲度矦切", "bbox": [604, 273, 692, 455], "size": "medium", "type": "definition", "comment": "头字的解释：头，首也，从頁、豆声，读音度矦切"},
+	{"text": "顏眉目之間也从頁籀文", "bbox": [604, 460, 692, 815], "size": "medium", "type": "definition", "comment": "颜字的解释：颜，眉目之间也，从頁，籀文"},
+	{"text": "頌兒也从頁公聲余封切又似用切", "bbox": [504, 273, 592, 480], "size": "medium", "type": "definition", "comment": "颂字的解释：颂，儿也，从頁、公声，余封切，又似用切"},
+	{"text": "頤籀文聲徒谷切", "bbox": [504, 485, 592, 780], "size": "medium", "type": "definition", "comment": "颐字的解释：颐，籀文，声徒谷切"},
+	{"text": "顱頞首骨也从頁盧聲洛乎切", "bbox": [404, 273, 492, 505], "size": "medium", "type": "definition", "comment": "颅字的解释：颅，頞首骨也，从頁、卢声，洛乎切"},
+	{"text": "顱顱頂也从頁異聲魚怨切", "bbox": [404, 510, 492, 720], "size": "medium", "type": "definition", "comment": "颅字的另一种写法或异体字解释：顱，顱顶也，从頁、异声，鱼怨切"},
+	{"text": "顱頂也从頁", "bbox": [404, 725, 492, 845], "size": "medium", "type": "definition", "comment": "顱字的补充解释：顶也，从頁"},
+	{"text": "頰顳也从頁丁聲都挺切", "bbox": [304, 273, 392, 535], "size": "medium", "type": "definition", "comment": "颊字的解释：颊，顳也，从頁、丁声，都挺切"},
+	{"text": "頰或从頁籀文", "bbox": [304, 540, 392, 825], "size": "medium", "type": "definition", "comment": "颊字的异体写法：或从頁，籀文"},
+	{"text": "頤頷也从頁真聲都季切", "bbox": [204, 273, 292, 330], "size": "medium", "type": "definition", "comment": "颐字的解释：颐，頷也，从頁、真声，都季切"},
+	{"text": "頷頷也从頁桑聲穌朗切", "bbox": [204, 335, 292, 460], "size": "medium", "type": "definition", "comment": "颔字的解释：颔，頷也，从頁、桑声，穌朗切"},
+	{"text": "頤頷也从頁是聲杜兮切", "bbox": [204, 465, 292, 675], "size": "medium", "type": "definition", "comment": "颐字的另一种解释：颐，頷也，从頁、是声，杜兮切"},
+	{"text": "頤頰也从頁各聲", "bbox": [204, 680, 292, 845], "size": "medium", "type": "definition", "comment": "颐字的另一种解释：颐，颊也，从頁、各声"},
+	{"text": "頤鼻莖也从頁安聲烏割切", "bbox": [104, 273, 192, 645], "size": "medium", "type": "definition", "comment": "颐字的另一种解释：颐，鼻茎也，从頁、安声，乌割切"},
+	{"text": "頤或从頁鼻曷", "bbox": [104, 650, 192, 845], "size": "medium", "type": "definition", "comment": "颐字的异体写法：或从頁，鼻曷"},
+	{"text": "臣鉉等曰今俗作額五陌切", "bbox": [94, 273, 182, 415], "size": "small", "type": "note", "comment": "注释：臣铉等说，今俗写作“额”，读音五陌切"},
+	{"text": "李云", "bbox": [798, 785, 822, 835], "size": "small", "type": "note", "comment": "注释者姓名：李云"}
+]
+```

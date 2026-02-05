@@ -1,0 +1,220 @@
+```json
+[
+	{
+		"text": "大廿二",
+		"bbox": [170, 278, 194, 316],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌反五上",
+		"bbox": [165, 401, 192, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卜乙",
+		"bbox": [169, 658, 197, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蔣安",
+		"bbox": [178, 799, 205, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "血也从血匕聲春秋傳曰",
+		"bbox": [855, 357, 909, 623],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "士封羊亦無益也呼兌切",
+		"bbox": [814, 357, 861, 623],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "凝血也从血",
+		"bbox": [875, 695, 912, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不聲芳梧切",
+		"bbox": [831, 695, 870, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "氣液也从血",
+		"bbox": [768, 357, 806, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聿聲將鄰切",
+		"bbox": [725, 357, 762, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "定息也从血丯省",
+		"bbox": [773, 564, 810, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若亭特丁切",
+		"bbox": [730, 564, 768, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼻出血也从血",
+		"bbox": [667, 277, 704, 424],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丑聲女六切",
+		"bbox": [615, 277, 653, 424],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "腫血也从血農",
+		"bbox": [671, 564, 708, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲奴冬切",
+		"bbox": [623, 564, 659, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俗鹽从",
+		"bbox": [675, 763, 711, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肉農聲",
+		"bbox": [630, 763, 667, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "血醢也从血朊聲禮記有盬醢以牛乾脯粱餚",
+		"bbox": [568, 357, 606, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鹽酒也臣鉉等曰朊肉汁滓也故从朊朊亦聲",
+		"bbox": [518, 357, 556, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "他感",
+		"bbox": [462, 277, 499, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "醞也从血菹",
+		"bbox": [465, 413, 502, 538],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲側余切",
+		"bbox": [417, 413, 454, 517],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或",
+		"bbox": [471, 643, 507, 679],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从缶",
+		"bbox": [419, 623, 456, 679],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以血有",
+		"bbox": [471, 773, 507, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "所刉涂",
+		"bbox": [417, 773, 454, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [412, 277, 448, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祭也从血幾",
+		"bbox": [357, 277, 394, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲渠稀切",
+		"bbox": [305, 277, 342, 388],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "憂也从血卪聲一曰鮮少也徐鍇",
+		"bbox": [359, 482, 400, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰血者言憂之切至也幸聿切",
+		"bbox": [307, 482, 344, 796],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傷痛也从血聿皕聲周書",
+		"bbox": [252, 363, 290, 610],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰民罔不盡傷心許力切",
+		"bbox": [202, 363, 239, 610],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羊凝血也从血",
+		"bbox": [253, 695, 291, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角聲苦紺切",
+		"bbox": [202, 695, 240, 826],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

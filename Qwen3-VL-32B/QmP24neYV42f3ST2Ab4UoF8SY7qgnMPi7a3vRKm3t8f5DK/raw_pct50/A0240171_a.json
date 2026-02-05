@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小言三", "bbox": [809, 267, 830, 324], "type": "text", "comment": ""},
+	{"text": "往也讀若仍臣鉉等曰", "bbox": [758, 272, 800, 490], "type": "text", "comment": ""},
+	{"text": "鹵非聲未詳如乗切", "bbox": [706, 269, 753, 488], "type": "text", "comment": ""},
+	{"text": "若攸以", "bbox": [651, 271, 695, 343], "type": "text", "comment": ""},
+	{"text": "周切", "bbox": [606, 273, 649, 327], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [614, 488, 692, 575], "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [614, 635, 688, 720], "type": "text", "comment": ""},
+	{"text": "乃鹵聲讀", "bbox": [706, 713, 749, 844], "type": "text", "comment": ""},
+	{"text": "气行兒从", "bbox": [754, 714, 798, 844], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [757, 595, 798, 656], "type": "text", "comment": ""},
+	{"text": "鹵", "bbox": [711, 595, 795, 711], "type": "text", "comment": ""},
+	{"text": "鹵", "bbox": [711, 508, 795, 591], "type": "text", "comment": ""},
+	{"text": "丁气欲舒出ㄅ上礙於一也丂古文", "bbox": [502, 268, 594, 844], "type": "text", "comment": ""},
+	{"text": "以為亏字又以為巧字凡丂之屬", "bbox": [403, 354, 488, 844], "type": "text", "comment": ""},
+	{"text": "皆从丂苦浩", "bbox": [314, 347, 388, 520], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [311, 465, 347, 497], "type": "text", "comment": ""},
+	{"text": "亐詞也从丂从由或曰亐俠也三輔謂輕財者", "bbox": [245, 345, 295, 828], "type": "text", "comment": ""},
+	{"text": "為亐臣鉉等曰由用也任俠用气也普丁切", "bbox": [201, 347, 247, 791], "type": "text", "comment": ""},
+	{"text": "願詞也从丂", "bbox": [155, 354, 200, 488], "type": "text", "comment": ""},
+	{"text": "竪聲奴丁切", "bbox": [105, 355, 150, 488], "type": "text", "comment": ""},
+	{"text": "反丂也讀若", "bbox": [155, 566, 200, 700], "type": "text", "comment": ""},
+	{"text": "呵虎何切", "bbox": [104, 566, 150, 677], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [111, 724, 177, 807], "type": "text", "comment": ""},
+	{"text": "亐", "bbox": [212, 265, 298, 347], "type": "text", "comment": ""},
+	{"text": "竪", "bbox": [101, 267, 195, 338], "type": "text", "comment": ""},
+	{"text": "丁", "bbox": [104, 492, 195, 565], "type": "text", "comment": ""},
+	{"text": "言文三", "bbox": [809, 405, 836, 487], "type": "text", "comment": ""},
+	{"text": "宏昌", "bbox": [800, 792, 823, 834], "type": "text", "comment": ""}
+]
+```

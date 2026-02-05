@@ -1,0 +1,262 @@
+```json
+[
+	{
+		"text": "食艾聲爾雅曰餃",
+		"bbox": [864, 269, 907, 453],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謂之喙呼艾切",
+		"bbox": [812, 269, 855, 427],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "野饋曰餫从食",
+		"bbox": [762, 269, 805, 430],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "軍聲王問切",
+		"bbox": [710, 269, 753, 410],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之客古",
+		"bbox": [658, 269, 701, 344],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "玩切",
+		"bbox": [607, 269, 650, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "饕从",
+		"bbox": [555, 269, 598, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "號省",
+		"bbox": [503, 269, 546, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "於廢",
+		"bbox": [451, 269, 494, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [399, 269, 442, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乙例切又",
+		"bbox": [347, 269, 390, 365],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "烏介切",
+		"bbox": [295, 269, 338, 359],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "吝",
+		"bbox": [243, 269, 286, 315],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [191, 269, 234, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大艸",
+		"bbox": [168, 271, 195, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "送去也从食戈聲詩",
+		"bbox": [864, 539, 907, 743],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰顯父餞之才線切",
+		"bbox": [812, 539, 855, 743],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "客舍也从食官聲周禮五十里",
+		"bbox": [762, 539, 805, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "有市市有館館有積以待朝聘",
+		"bbox": [710, 539, 753, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "貪也从食號",
+		"bbox": [658, 539, 701, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲土刀切",
+		"bbox": [607, 539, 650, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "饕或从",
+		"bbox": [555, 635, 598, 717],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口刀聲",
+		"bbox": [503, 635, 546, 717],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文",
+		"bbox": [451, 795, 494, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "貪也从食殄省聲春秋",
+		"bbox": [555, 410, 598, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰謂之饔飻他結切",
+		"bbox": [503, 410, 546, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飯傷溼也从食",
+		"bbox": [451, 410, 494, 570],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壹聲乙冀切",
+		"bbox": [399, 410, 442, 539],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穀不孰為餓从",
+		"bbox": [347, 453, 390, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "食幾聲居衣切",
+		"bbox": [295, 453, 338, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飢也从食兒聲讀若",
+		"bbox": [243, 386, 286, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楚人言恚人於革切",
+		"bbox": [191, 386, 234, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飢也从食委聲",
+		"bbox": [243, 685, 286, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰魚敗曰餒",
+		"bbox": [191, 685, 234, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蔬不孰為饉",
+		"bbox": [347, 705, 390, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从食董聲渠",
+		"bbox": [295, 705, 338, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飯餲也从食曷聲",
+		"bbox": [451, 657, 494, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "論語曰食饐而餲",
+		"bbox": [399, 657, 442, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飯傷熱也",
+		"bbox": [555, 738, 598, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从食歲聲",
+		"bbox": [503, 738, 546, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文丘下",
+		"bbox": [164, 407, 191, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "五",
+		"bbox": [164, 673, 191, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丁山",
+		"bbox": [164, 799, 191, 825],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

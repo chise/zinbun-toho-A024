@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "小三百十九", "bbox": [799, 272, 820, 321], "size": "small", "type": "label", "comment": "页码或编号"},
+	{"text": "山名从山蔵", "bbox": [754, 279, 795, 405], "size": "medium", "type": "text", "comment": "字义解释"},
+	{"text": "省聲盧含切", "bbox": [704, 279, 745, 405], "size": "medium", "type": "text", "comment": "音韵注释"},
+	{"text": "崑崙山名从山昆聲瀋書", "bbox": [654, 345, 695, 608], "size": "medium", "type": "text", "comment": "字义与出处"},
+	{"text": "揚雄文通用昆侖古渾切", "bbox": [604, 345, 645, 608], "size": "medium", "type": "text", "comment": "引文与音韵"},
+	{"text": "山名从山稽省聲奚氏避", "bbox": [554, 345, 595, 608], "size": "medium", "type": "text", "comment": "字义与避讳说明"},
+	{"text": "難特造此字非古胡雞切", "bbox": [504, 345, 545, 608], "size": "medium", "type": "text", "comment": "字形与音韵说明"},
+	{"text": "文十二", "bbox": [512, 645, 574, 745], "size": "large", "type": "heading", "comment": "段落标题"},
+	{"text": "新附", "bbox": [512, 760, 588, 795], "size": "medium", "type": "label", "comment": "新附字说明"},
+	{"text": "二山也凡屾之屬皆从屾所臻切", "bbox": [404, 345, 484, 765], "size": "medium", "type": "text", "comment": "字义与部首说明"},
+	{"text": "會稽山一曰九江當嵞也民以辛壬癸甲之", "bbox": [354, 345, 395, 775], "size": "medium", "type": "text", "comment": "地名与民俗说明"},
+	{"text": "日嫁娶从屾余聲虞書曰子娶嵞山同都切", "bbox": [304, 345, 345, 775], "size": "medium", "type": "text", "comment": "引文与音韵"},
+	{"text": "文二", "bbox": [218, 415, 280, 490], "size": "large", "type": "heading", "comment": "段落标题"},
+	{"text": "岸高也从山厂厂亦聲凡屵之", "bbox": [112, 345, 180, 835], "size": "medium", "type": "text", "comment": "字义与构形说明"},
+	{"text": "屵", "bbox": [108, 270, 184, 345], "size": "large", "type": "character", "comment": "主字"},
+	{"text": "崑崙也从山", "bbox": [654, 700, 695, 835], "size": "medium", "type": "text", "comment": "字义说明"},
+	{"text": "侖聲盧昆切", "bbox": [604, 700, 645, 835], "size": "medium", "type": "text", "comment": "音韵说明"},
+	{"text": "中岳嵩高山也从山从高亦从松韋", "bbox": [754, 475, 795, 835], "size": "medium", "type": "text", "comment": "字义与构形"},
+	{"text": "昭國語注云古通用崇字息弓切", "bbox": [704, 475, 745, 835], "size": "medium", "type": "text", "comment": "引文与音韵"},
+	{"text": "崑崙", "bbox": [604, 608, 684, 700], "size": "large", "type": "character", "comment": "主字"},
+	{"text": "岧", "bbox": [504, 270, 595, 345], "size": "large", "type": "character", "comment": "主字"},
+	{"text": "屾", "bbox": [404, 270, 495, 345], "size": "large", "type": "character", "comment": "主字"},
+	{"text": "嵞", "bbox": [304, 270, 395, 345], "size": "large", "type": "character", "comment": "主字"},
+	{"text": "屵", "bbox": [108, 270, 184, 345], "size": "large", "type": "character", "comment": "主字"},
+	{"text": "祁三", "bbox": [799, 800, 820, 835], "size": "small", "type": "label", "comment": "页码或编号"},
+	{"text": "三", "bbox": [804, 675, 834, 700], "size": "small", "type": "label", "comment": "页码或编号"}
+]
+```

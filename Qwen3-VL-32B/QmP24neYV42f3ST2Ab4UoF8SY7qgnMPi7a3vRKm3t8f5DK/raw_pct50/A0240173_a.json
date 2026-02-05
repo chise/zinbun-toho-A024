@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "小二〇一", "bbox": [803, 269, 819, 315], "type": "text", "comment": ""},
+	{"text": "言三十二", "bbox": [807, 401, 828, 472], "type": "text", "comment": ""},
+	{"text": "十三", "bbox": [809, 666, 829, 702], "type": "text", "comment": ""},
+	{"text": "王必", "bbox": [799, 804, 817, 831], "type": "text", "comment": ""},
+	{"text": "旨", "bbox": [715, 347, 743, 370], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [753, 347, 795, 394], "type": "text", "comment": ""},
+	{"text": "口味之也从旨", "bbox": [756, 493, 798, 646], "type": "text", "comment": ""},
+	{"text": "尚聲市羊切", "bbox": [703, 493, 746, 618], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [617, 458, 684, 540], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [615, 612, 682, 676], "type": "text", "comment": ""},
+	{"text": "虚里", "bbox": [447, 347, 487, 397], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [398, 347, 434, 374], "type": "text", "comment": ""},
+	{"text": "樂也从壴从口凡喜之屬皆从喜", "bbox": [507, 347, 586, 840], "type": "text", "comment": ""},
+	{"text": "古文喜从", "bbox": [358, 347, 391, 420], "type": "text", "comment": ""},
+	{"text": "欠與歡同", "bbox": [299, 347, 336, 444], "type": "text", "comment": ""},
+	{"text": "說也从心从喜", "bbox": [352, 532, 388, 688], "type": "text", "comment": ""},
+	{"text": "喜亦聲許記切", "bbox": [301, 532, 338, 688], "type": "text", "comment": ""},
+	{"text": "大也", "bbox": [645, 789, 681, 837], "type": "text", "comment": ""},
+	{"text": "从喜", "bbox": [301, 789, 338, 837], "type": "text", "comment": ""},
+	{"text": "否聲春秋傳呉有", "bbox": [244, 268, 285, 451], "type": "text", "comment": ""},
+	{"text": "太宰嚭匹鄙切", "bbox": [197, 268, 238, 429], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [205, 527, 274, 608], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [208, 672, 274, 749], "type": "text", "comment": ""},
+	{"text": "陳樂立而上見也从中从豆凡壴", "bbox": [100, 347, 181, 840], "type": "text", "comment": ""}
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "大十三", "bbox": [175, 279, 198, 330], "type": "text", "comment": ""},
+	{"text": "兑文五下", "bbox": [176, 404, 199, 455], "type": "text", "comment": ""},
+	{"text": "二", "bbox": [176, 676, 199, 697], "type": "text", "comment": ""},
+	{"text": "陳玉", "bbox": [177, 797, 200, 836], "type": "text", "comment": ""},
+	{"text": "即食也从皀卩聲徐", "bbox": [260, 357, 298, 564], "type": "text", "comment": ""},
+	{"text": "鍇曰即就也子力切", "bbox": [208, 357, 248, 564], "type": "text", "comment": ""},
+	{"text": "小食也从皀旡聲", "bbox": [261, 658, 299, 843], "type": "text", "comment": ""},
+	{"text": "論語曰不使勝食", "bbox": [209, 658, 249, 843], "type": "text", "comment": ""},
+	{"text": "之屬皆从皀又讀若香皮及", "bbox": [318, 357, 392, 766], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [321, 706, 356, 737], "type": "text", "comment": ""},
+	{"text": "匕所以扱之或說皀一粒也凡皀", "bbox": [419, 357, 495, 843], "type": "text", "comment": ""},
+	{"text": "皀穀之馨香也象嘉穀在裹中之形", "bbox": [522, 357, 598, 843], "type": "text", "comment": ""},
+	{"text": "文五　重二", "bbox": [627, 596, 697, 805], "type": "text", "comment": ""},
+	{"text": "聲讀若創初亮切", "bbox": [614, 357, 654, 535], "type": "text", "comment": ""},
+	{"text": "造法刅業也从井刅", "bbox": [662, 357, 701, 564], "type": "text", "comment": ""},
+	{"text": "井法也井亦聲戶經切", "bbox": [721, 570, 761, 805], "type": "text", "comment": ""},
+	{"text": "蜀辠也从井从刀易曰", "bbox": [769, 570, 809, 737], "type": "text", "comment": ""},
+	{"text": "古文阱", "bbox": [769, 396, 808, 481], "type": "text", "comment": ""},
+	{"text": "从水", "bbox": [721, 404, 760, 455], "type": "text", "comment": ""},
+	{"text": "从穴", "bbox": [721, 275, 760, 319], "type": "text", "comment": ""},
+	{"text": "阱或", "bbox": [769, 275, 808, 321], "type": "text", "comment": ""},
+	{"text": "陷也从皀从井", "bbox": [873, 600, 913, 750], "type": "text", "comment": ""},
+	{"text": "井亦聲疾正切", "bbox": [825, 600, 865, 750], "type": "text", "comment": ""},
+	{"text": "深池也从井瑩", "bbox": [873, 357, 913, 506], "type": "text", "comment": ""},
+	{"text": "省聲烏迴切", "bbox": [825, 357, 865, 489], "type": "text", "comment": ""}
+]
+```

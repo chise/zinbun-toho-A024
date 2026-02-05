@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小可共", "bbox": [803, 265, 827, 324], "type": "text", "comment": ""},
+	{"text": "言三二一", "bbox": [803, 392, 827, 465], "type": "text", "comment": ""},
+	{"text": "一二", "bbox": [803, 667, 827, 704], "type": "text", "comment": ""},
+	{"text": "陳元", "bbox": [803, 795, 827, 831], "type": "text", "comment": ""},
+	{"text": "良善也从畐省亼聲徐鍇曰", "bbox": [751, 341, 803, 604], "type": "text", "comment": ""},
+	{"text": "良甚也故从畐吕張切", "bbox": [700, 341, 751, 585], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [751, 675, 803, 737], "type": "text", "comment": ""},
+	{"text": "良", "bbox": [700, 675, 751, 712], "type": "text", "comment": ""},
+	{"text": "亦古", "bbox": [649, 274, 699, 309], "type": "text", "comment": ""},
+	{"text": "文良", "bbox": [600, 274, 649, 324], "type": "text", "comment": ""},
+	{"text": "亦古", "bbox": [649, 400, 699, 456], "type": "text", "comment": ""},
+	{"text": "文良", "bbox": [600, 400, 649, 456], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [600, 541, 699, 612], "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [600, 704, 699, 797], "type": "text", "comment": ""},
+	{"text": "向穀所振入宗廟粢盛倉黃向而取", "bbox": [499, 266, 598, 845], "type": "text", "comment": ""},
+	{"text": "之故謂之向从入回象屋形中有", "bbox": [398, 341, 495, 845], "type": "text", "comment": ""},
+	{"text": "戶牖凡向之屬皆从向力甚", "bbox": [296, 341, 394, 754], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [301, 692, 347, 718], "type": "text", "comment": ""},
+	{"text": "向或从", "bbox": [248, 341, 294, 418], "type": "text", "comment": ""},
+	{"text": "賜穀也从向", "bbox": [248, 508, 294, 632], "type": "text", "comment": ""},
+	{"text": "多穀也从向", "bbox": [248, 714, 294, 829], "type": "text", "comment": ""},
+	{"text": "广从禾", "bbox": [196, 341, 244, 418], "type": "text", "comment": ""},
+	{"text": "从禾筆錦切", "bbox": [196, 508, 244, 632], "type": "text", "comment": ""},
+	{"text": "旦聲多旱切", "bbox": [196, 714, 244, 829], "type": "text", "comment": ""},
+	{"text": "嚋也从口向向", "bbox": [145, 341, 192, 512], "type": "text", "comment": ""},
+	{"text": "受也方美切", "bbox": [98, 341, 145, 488], "type": "text", "comment": ""},
+	{"text": "古文罒", "bbox": [145, 585, 192, 665], "type": "text", "comment": ""},
+	{"text": "如此", "bbox": [98, 585, 145, 632], "type": "text", "comment": ""}
+]
+```
