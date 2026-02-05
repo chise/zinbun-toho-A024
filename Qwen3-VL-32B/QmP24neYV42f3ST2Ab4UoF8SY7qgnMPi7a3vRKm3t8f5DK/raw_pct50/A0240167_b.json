@@ -1,0 +1,154 @@
+```json
+[
+	{
+		"text": "公及士所搢也从竹勿聲案籀文作冃象形",
+		"bbox": [864, 357, 909, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "義云佩也古笏佩之此字後人所加呼骨切",
+		"bbox": [816, 357, 861, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "導也今俗謂之箛",
+		"bbox": [767, 357, 812, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从竹昆聲邊兮切",
+		"bbox": [718, 357, 763, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "所以進船也从",
+		"bbox": [767, 613, 812, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹高聲古牢切",
+		"bbox": [718, 613, 763, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文五新附",
+		"bbox": [627, 381, 698, 522],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "簸也从竹甘象形下其丌也凡",
+		"bbox": [517, 381, 598, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箕之屬皆从箕居之",
+		"bbox": [419, 374, 490, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [419, 610, 460, 646],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [360, 357, 394, 411],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦古",
+		"bbox": [360, 485, 394, 540],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦古",
+		"bbox": [360, 610, 394, 665],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [360, 757, 394, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箕省",
+		"bbox": [309, 357, 344, 411],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文箕",
+		"bbox": [309, 485, 344, 540],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文箕",
+		"bbox": [309, 610, 344, 665],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箕",
+		"bbox": [309, 757, 344, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [258, 357, 293, 411],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "揚米去糠也从",
+		"bbox": [258, 485, 293, 646],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箕皮聲布火切",
+		"bbox": [208, 357, 243, 646],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十七",
+		"bbox": [164, 267, 187, 309],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "光天三七",
+		"bbox": [164, 401, 187, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "七",
+		"bbox": [164, 665, 187, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唐文",
+		"bbox": [175, 798, 196, 838],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
