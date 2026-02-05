@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "說文解字第五下", "bbox": [498, 253, 586, 525], "type": "title"},
+	{"text": "古文椉", "bbox": [740, 257, 792, 337], "type": "label"},
+	{"text": "从几", "bbox": [696, 257, 737, 310], "type": "label"},
+	{"text": "文三", "bbox": [705, 462, 784, 550], "type": "number"},
+	{"text": "重一", "bbox": [712, 648, 782, 706], "type": "number"},
+	{"text": "小九六", "bbox": [798, 257, 821, 304], "type": "page_number"},
+	{"text": "言三五一", "bbox": [798, 395, 830, 477], "type": "page_number"},
+	{"text": "洪章", "bbox": [794, 795, 819, 836], "type": "author"},
+	{"text": "廿七", "bbox": [801, 656, 830, 693], "type": "page_number"}
+]
+```
