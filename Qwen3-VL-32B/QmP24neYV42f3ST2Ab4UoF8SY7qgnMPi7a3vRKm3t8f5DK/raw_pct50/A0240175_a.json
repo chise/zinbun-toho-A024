@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小二四九", "bbox": [803, 254, 821, 300], "type": "text", "comment": ""},
+	{"text": "說文五十一", "bbox": [807, 396, 833, 466], "type": "text", "comment": ""},
+	{"text": "一匚", "bbox": [809, 673, 833, 701], "type": "text", "comment": ""},
+	{"text": "安昌", "bbox": [807, 795, 825, 836], "type": "text", "comment": ""},
+	{"text": "豆", "bbox": [713, 327, 738, 352], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [758, 327, 793, 378], "type": "text", "comment": ""},
+	{"text": "木豆謂之桓从", "bbox": [758, 452, 793, 617], "type": "text", "comment": ""},
+	{"text": "木豆徒候切", "bbox": [713, 452, 747, 597], "type": "text", "comment": ""},
+	{"text": "蠧也从豆蒸", "bbox": [758, 699, 793, 818], "type": "text", "comment": ""},
+	{"text": "省聲居隱切", "bbox": [713, 699, 747, 827], "type": "text", "comment": ""},
+	{"text": "豆屬从豆戔", "bbox": [651, 342, 689, 475], "type": "text", "comment": ""},
+	{"text": "聲居倦切", "bbox": [605, 342, 642, 447], "type": "text", "comment": ""},
+	{"text": "豆飴也从豆", "bbox": [651, 565, 689, 692], "type": "text", "comment": ""},
+	{"text": "夗聲一丸切", "bbox": [605, 565, 642, 692], "type": "text", "comment": ""},
+	{"text": "禮器", "bbox": [651, 775, 689, 836], "type": "text", "comment": ""},
+	{"text": "也从", "bbox": [605, 795, 642, 836], "type": "text", "comment": ""},
+	{"text": "升持肉在豆上讀", "bbox": [556, 258, 592, 443], "type": "text", "comment": ""},
+	{"text": "若鐙同都滕切", "bbox": [505, 258, 542, 416], "type": "text", "comment": ""},
+	{"text": "文六", "bbox": [505, 509, 582, 587], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [505, 693, 582, 768], "type": "text", "comment": ""},
+	{"text": "豆行禮之器也从豆象形凡豊之屬", "bbox": [401, 258, 482, 847], "type": "text", "comment": ""},
+	{"text": "皆从豊讀與禮同", "bbox": [304, 334, 378, 606], "type": "text", "comment": ""},
+	{"text": "盧啓", "bbox": [351, 618, 388, 672], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [300, 618, 336, 642], "type": "text", "comment": ""},
+	{"text": "爵之次弟也从豊从弟虞", "bbox": [248, 340, 287, 618], "type": "text", "comment": ""},
+	{"text": "書曰平豑東作直質切", "bbox": [197, 340, 237, 583], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [207, 692, 281, 768], "type": "text", "comment": ""},
+	{"text": "豆豆之豐滿者也从豆象形一曰鄕", "bbox": [100, 258, 180, 847], "type": "text", "comment": ""}
+]
+```
