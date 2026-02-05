@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "膚挺也从肉",
+		"bbox": [853, 274, 906, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "無骨腊也揚雄說鳥腊也从",
+		"bbox": [853, 563, 906, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肉無聲周禮有膴判讀若",
+		"bbox": [808, 563, 858, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謨荒",
+		"bbox": [761, 274, 808, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蟹醢也从肉",
+		"bbox": [761, 412, 808, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "北方謂鳥腊曰腒从肉",
+		"bbox": [761, 563, 808, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "烏切",
+		"bbox": [714, 274, 759, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疋聲相居切",
+		"bbox": [714, 412, 759, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "居聲傳曰堯如腊舜如",
+		"bbox": [714, 563, 759, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "腒九",
+		"bbox": [667, 274, 714, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "孰肉醬也从肉九",
+		"bbox": [667, 412, 714, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乾魚尾脯臘也从",
+		"bbox": [667, 675, 714, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "魚切",
+		"bbox": [621, 274, 667, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若舊巨鳩切",
+		"bbox": [621, 412, 667, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肉蕭聲周禮有腒",
+		"bbox": [621, 675, 667, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "脯所",
+		"bbox": [575, 274, 621, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "有骨醢也从肉",
+		"bbox": [575, 412, 621, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "腴或",
+		"bbox": [575, 635, 621, 685],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "生肉醬",
+		"bbox": [575, 757, 621, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鳩切",
+		"bbox": [528, 274, 575, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "耎聲人移切",
+		"bbox": [528, 412, 575, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从難",
+		"bbox": [528, 635, 575, 685],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从肉",
+		"bbox": [528, 757, 575, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "延聲丑",
+		"bbox": [482, 274, 528, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "豕肉醬也从肉",
+		"bbox": [482, 412, 528, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "爛也从肉而",
+		"bbox": [482, 635, 528, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "連切",
+		"bbox": [435, 274, 482, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "否聲薄口切",
+		"bbox": [435, 412, 482, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲如之切",
+		"bbox": [435, 635, 482, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切孰肉内於血中和也从",
+		"bbox": [389, 274, 435, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大膏臭也从肉生聲",
+		"bbox": [389, 635, 435, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "肉員聲讀若遜穌本切",
+		"bbox": [342, 274, 389, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰不孰也桑經切",
+		"bbox": [342, 635, 389, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "豕膏臭也从肉",
+		"bbox": [296, 324, 342, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "豕肉美也从肉",
+		"bbox": [296, 635, 342, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "梟聲穌遭切",
+		"bbox": [249, 324, 296, 542],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "堯聲許幺切",
+		"bbox": [249, 635, 296, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "星見",
+		"bbox": [249, 757, 296, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "太卅三",
+		"bbox": [167, 278, 188, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳五",
+		"bbox": [167, 795, 188, 835],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
