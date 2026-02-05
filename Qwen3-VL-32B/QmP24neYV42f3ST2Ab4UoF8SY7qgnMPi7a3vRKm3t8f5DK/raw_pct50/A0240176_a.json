@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "文三", "bbox": [720, 490, 796, 580], "type": "text", "comment": ""},
+	{"text": "虎文也象形凡虎之屬皆从虎", "bbox": [613, 345, 692, 827], "type": "text", "comment": ""},
+	{"text": "徐鍇曰象其文章", "bbox": [555, 347, 600, 539], "type": "text", "comment": ""},
+	{"text": "屈曲也荒烏切", "bbox": [506, 347, 550, 519], "type": "text", "comment": ""},
+	{"text": "騶虞也白虎黑文尾長於身仁獸食自死", "bbox": [456, 347, 500, 774], "type": "text", "comment": ""},
+	{"text": "之肉从虎吳聲詩曰于嗟乎騶虞五俱切", "bbox": [405, 347, 450, 774], "type": "text", "comment": ""},
+	{"text": "虎兒从虎必聲房六切", "bbox": [355, 347, 400, 454], "type": "text", "comment": ""},
+	{"text": "虎行兒从虎文聲讀若矜", "bbox": [355, 563, 400, 839], "type": "text", "comment": ""},
+	{"text": "臣鉉等曰文非聲未詳渠", "bbox": [305, 563, 350, 839], "type": "text", "comment": ""},
+	{"text": "馬", "bbox": [255, 257, 299, 288], "type": "text", "comment": ""},
+	{"text": "虎不柔不信也从虎且", "bbox": [255, 375, 299, 616], "type": "text", "comment": ""},
+	{"text": "聲讀若鄪縣昨何切", "bbox": [205, 375, 250, 602], "type": "text", "comment": ""},
+	{"text": "歿虖也从虎", "bbox": [255, 688, 299, 839], "type": "text", "comment": ""},
+	{"text": "亏聲荒烏切", "bbox": [205, 688, 250, 839], "type": "text", "comment": ""},
+	{"text": "殘也从虎虎足反", "bbox": [155, 337, 200, 529], "type": "text", "comment": ""},
+	{"text": "爪人也魚約切", "bbox": [105, 337, 150, 503], "type": "text", "comment": ""},
+	{"text": "古文虐", "bbox": [155, 614, 200, 692], "type": "text", "comment": ""},
+	{"text": "如此", "bbox": [105, 614, 150, 668], "type": "text", "comment": ""},
+	{"text": "虎文", "bbox": [155, 755, 200, 839], "type": "text", "comment": ""},
+	{"text": "彪也", "bbox": [105, 785, 150, 839], "type": "text", "comment": ""},
+	{"text": "陳元", "bbox": [809, 794, 832, 835], "type": "text", "comment": ""},
+	{"text": "一三", "bbox": [810, 654, 832, 693], "type": "text", "comment": ""},
+	{"text": "小", "bbox": [804, 257, 828, 316], "type": "text", "comment": ""}
+]
+```
