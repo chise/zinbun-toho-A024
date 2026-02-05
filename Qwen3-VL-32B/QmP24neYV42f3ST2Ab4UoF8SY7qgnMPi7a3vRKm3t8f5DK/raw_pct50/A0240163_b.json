@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "牀簀也从竹",
+		"bbox": [835, 274, 906, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "市聲阻史切",
+		"bbox": [808, 274, 876, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹席也从竹延聲周禮曰",
+		"bbox": [849, 494, 906, 745],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "度堂以筵筵一丈以然切",
+		"bbox": [808, 494, 876, 745],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹席也从竹",
+		"bbox": [758, 274, 803, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "覃聲徒念切",
+		"bbox": [716, 274, 780, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籧篨粗竹席也从",
+		"bbox": [758, 494, 803, 745],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹遽聲彊魚切",
+		"bbox": [716, 494, 780, 745],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籧篨也",
+		"bbox": [758, 747, 803, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从竹除",
+		"bbox": [716, 747, 780, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲直",
+		"bbox": [656, 274, 700, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹器也可以取粗去",
+		"bbox": [656, 417, 700, 605],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "魚切",
+		"bbox": [606, 274, 650, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "細从竹麗聲所宜切",
+		"bbox": [606, 417, 650, 624],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大箕也从竹",
+		"bbox": [656, 718, 700, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "潘聲一曰蔽",
+		"bbox": [606, 718, 650, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也甫",
+		"bbox": [556, 274, 600, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "漉米簸也从竹",
+		"bbox": [556, 417, 600, 605],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "炊簞也从竹",
+		"bbox": [556, 718, 600, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "煩切",
+		"bbox": [506, 274, 550, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奧聲於六切",
+		"bbox": [506, 417, 550, 548],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "攬聲穌后切",
+		"bbox": [506, 718, 550, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蔽也所以蔽甑底",
+		"bbox": [456, 357, 500, 548],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从竹畀聲必至切",
+		"bbox": [406, 357, 450, 548],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飯筥也受五升从竹",
+		"bbox": [456, 633, 500, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "稍聲秦謂筥曰箝山",
+		"bbox": [406, 633, 450, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樞",
+		"bbox": [356, 274, 400, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳留謂飯帚曰箝从竹捎聲一曰飯器",
+		"bbox": [356, 357, 400, 784],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [306, 274, 350, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "容五升一曰宋魏謂箸筩為箝所交切",
+		"bbox": [306, 386, 350, 784],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箝也从竹呂",
+		"bbox": [256, 357, 300, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲居許切",
+		"bbox": [206, 357, 250, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飯及衣之器也从",
+		"bbox": [256, 563, 300, 745],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹司聲相吏切",
+		"bbox": [206, 563, 250, 745],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十",
+		"bbox": [169, 274, 190, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文五上",
+		"bbox": [163, 405, 184, 478],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三",
+		"bbox": [163, 656, 184, 679],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唐文",
+		"bbox": [169, 795, 190, 836],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
