@@ -1,0 +1,190 @@
+```json
+[
+	{
+		"text": "小三日个五",
+		"bbox": [795, 268, 819, 334],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言夕丑一",
+		"bbox": [797, 398, 827, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十三",
+		"bbox": [803, 664, 831, 709],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陸安",
+		"bbox": [795, 798, 818, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夊",
+		"bbox": [744, 271, 793, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "餅籠也从麥",
+		"bbox": [747, 351, 795, 425],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十",
+		"bbox": [747, 429, 795, 505],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "餅籠也从麥",
+		"bbox": [747, 508, 795, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夊",
+		"bbox": [694, 271, 744, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穴聲戸八切",
+		"bbox": [697, 351, 745, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夊",
+		"bbox": [694, 489, 744, 564],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "才聲昨哉切",
+		"bbox": [697, 568, 745, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文十三",
+		"bbox": [607, 378, 684, 493],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重二",
+		"bbox": [607, 600, 676, 681],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夊",
+		"bbox": [503, 271, 588, 355],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行遲曳夊夊象人兩脛有所躧也",
+		"bbox": [500, 358, 582, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "凡夊之屬皆从夊楚危切",
+		"bbox": [397, 355, 481, 652],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夋",
+		"bbox": [301, 271, 387, 355],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行夋夋也一曰倨也从夊允聲七倫切",
+		"bbox": [305, 358, 387, 538],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亯",
+		"bbox": [298, 560, 381, 642],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行故道也从夊畐省聲房六切",
+		"bbox": [304, 647, 387, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夅",
+		"bbox": [199, 271, 283, 355],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "越也从夊从共共高也一曰麦倖也力膺切",
+		"bbox": [199, 358, 282, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "至",
+		"bbox": [196, 564, 282, 642],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "送詣也从夊从至陟利切",
+		"bbox": [199, 647, 282, 771],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "憂",
+		"bbox": [200, 775, 282, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "和之行也从夊悹聲詩曰布政憂憂於求切",
+		"bbox": [140, 271, 184, 471],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走",
+		"bbox": [134, 475, 183, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行皃从夊㤅聲烏代切",
+		"bbox": [137, 596, 183, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "及",
+		"bbox": [97, 736, 179, 819],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行夋",
+		"bbox": [98, 822, 179, 846],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
