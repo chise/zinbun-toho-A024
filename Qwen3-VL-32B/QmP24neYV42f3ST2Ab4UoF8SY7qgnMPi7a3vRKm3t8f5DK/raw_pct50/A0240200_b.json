@@ -1,0 +1,304 @@
+```json
+[
+	{
+		"text": "木也从木虍",
+		"bbox": [863, 280, 917, 415],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲丑居切",
+		"bbox": [825, 280, 864, 387],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楄",
+		"bbox": [824, 413, 917, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木禹",
+		"bbox": [863, 485, 917, 612],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲王矩切",
+		"bbox": [825, 485, 864, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "櫐",
+		"bbox": [824, 612, 917, 684],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木蘦",
+		"bbox": [863, 684, 917, 811],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲力軌切",
+		"bbox": [825, 684, 864, 797],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "櫟",
+		"bbox": [784, 280, 818, 333],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籒",
+		"bbox": [784, 333, 818, 387],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赤棟也从木吏聲詩",
+		"bbox": [784, 387, 818, 612],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰隰有杞椩以脂切",
+		"bbox": [744, 280, 784, 662],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "栟",
+		"bbox": [744, 662, 818, 733],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "栟櫚也从",
+		"bbox": [744, 733, 818, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木幷聲府",
+		"bbox": [703, 280, 744, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盈",
+		"bbox": [662, 280, 703, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "栟櫚也可作萆从",
+		"bbox": [662, 307, 703, 576],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木夋聲子紅切",
+		"bbox": [622, 280, 662, 545],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樌",
+		"bbox": [622, 545, 703, 652],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楸也从木賈聲春",
+		"bbox": [662, 652, 703, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋傳曰樹六橝於",
+		"bbox": [622, 652, 662, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "浦圃古",
+		"bbox": [581, 280, 622, 333],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "梓也从木奇",
+		"bbox": [581, 333, 622, 576],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲於离切",
+		"bbox": [541, 280, 581, 333],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "椅",
+		"bbox": [541, 333, 622, 444],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲即里切",
+		"bbox": [541, 444, 581, 767],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樟",
+		"bbox": [541, 767, 622, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或不",
+		"bbox": [500, 280, 541, 333],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "梓也从木秋",
+		"bbox": [500, 333, 541, 539],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省",
+		"bbox": [500, 539, 541, 576],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲七由切",
+		"bbox": [500, 576, 541, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "檜",
+		"bbox": [500, 647, 541, 684],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "梓屬大者可為棺椁小",
+		"bbox": [500, 684, 541, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "者可為弓材从木巹聲",
+		"bbox": [460, 280, 500, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "於力",
+		"bbox": [418, 280, 460, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "椸也从木皮聲一",
+		"bbox": [418, 307, 460, 576],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [378, 280, 418, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰折也甫委切",
+		"bbox": [378, 307, 418, 576],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "杉",
+		"bbox": [378, 576, 460, 652],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木鉆聲臣",
+		"bbox": [378, 652, 418, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鉉等曰今俗作杉",
+		"bbox": [338, 280, 378, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "非是所",
+		"bbox": [297, 280, 338, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木也从木秦聲一",
+		"bbox": [297, 357, 338, 602],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰菆也側詵切",
+		"bbox": [257, 280, 297, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山椁也从木",
+		"bbox": [257, 684, 297, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尻聲苦浩切",
+		"bbox": [217, 280, 257, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大卅四",
+		"bbox": [176, 280, 201, 307],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文六上",
+		"bbox": [170, 307, 201, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三",
+		"bbox": [170, 652, 201, 679],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳玉",
+		"bbox": [176, 792, 201, 827],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
