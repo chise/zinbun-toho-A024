@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "小説", "bbox": [795, 268, 819, 326], "type": "text", "comment": ""},
+	{"text": "說文玉篇", "bbox": [798, 402, 834, 487], "type": "text", "comment": ""},
+	{"text": "上四", "bbox": [797, 664, 828, 692], "type": "text", "comment": ""},
+	{"text": "陸安", "bbox": [796, 798, 818, 837], "type": "text", "comment": ""},
+	{"text": "丵對臥也从夂牛相背凡夂之屬皆", "bbox": [697, 272, 788, 844], "type": "text", "comment": ""},
+	{"text": "从夂昌兗", "bbox": [605, 352, 684, 480], "type": "text", "comment": ""},
+	{"text": "揚雄說夂", "bbox": [541, 355, 588, 456], "type": "text", "comment": ""},
+	{"text": "樂也用足相背从", "bbox": [542, 542, 587, 726], "type": "text", "comment": ""},
+	{"text": "夂無聲文撫切", "bbox": [488, 542, 538, 700], "type": "text", "comment": ""},
+	{"text": "古", "bbox": [553, 728, 588, 841], "type": "text", "comment": ""},
+	{"text": "文", "bbox": [497, 731, 538, 844], "type": "text", "comment": ""},
+	{"text": "从足春", "bbox": [488, 354, 538, 434], "type": "text", "comment": ""},
+	{"text": "車軸耑鍵也兩穿相背从夂", "bbox": [440, 410, 487, 705], "type": "text", "comment": ""},
+	{"text": "萬省聲萬古文偰字胡戛切", "bbox": [390, 412, 436, 705], "type": "text", "comment": ""},
+	{"text": "舞从", "bbox": [440, 271, 486, 326], "type": "text", "comment": ""},
+	{"text": "羽亠", "bbox": [394, 272, 436, 326], "type": "text", "comment": ""},
+	{"text": "文三重二", "bbox": [300, 416, 375, 655], "type": "text", "comment": ""},
+	{"text": "丵州也楚謂之苖秦謂之蔞蔓地連", "bbox": [196, 274, 276, 845], "type": "text", "comment": ""},
+	{"text": "蓼象形从夂夂亦聲凡夂之屬皆", "bbox": [95, 351, 170, 846], "type": "text", "comment": ""}
+]
+```
