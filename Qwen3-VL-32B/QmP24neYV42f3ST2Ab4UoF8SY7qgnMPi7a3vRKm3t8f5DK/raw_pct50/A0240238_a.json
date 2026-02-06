@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "春秋傳曰日盱",
+		"bbox": [750, 273, 798, 428],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "君勞古案切",
+		"bbox": [706, 273, 750, 428],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日行晼晼也从日施聲樂浪",
+		"bbox": [750, 431, 798, 796],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "有東晼縣讀若酕弋支切",
+		"bbox": [706, 431, 750, 796],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日景也从日",
+		"bbox": [661, 354, 699, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "答聲居洧切",
+		"bbox": [609, 354, 656, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日在西方時側也从日仄聲",
+		"bbox": [661, 557, 699, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "易曰日厱之離臣鉉等曰今",
+		"bbox": [609, 557, 656, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俗別作昗非",
+		"bbox": [555, 273, 600, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "是阻力切",
+		"bbox": [505, 273, 552, 383],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "莫也从日免",
+		"bbox": [555, 492, 600, 620],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲無遠切",
+		"bbox": [505, 492, 552, 591],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日冥也从日氐",
+		"bbox": [555, 679, 600, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省氏者下也一",
+		"bbox": [505, 679, 552, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日民聲",
+		"bbox": [451, 273, 497, 353],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日旦昏時从日縊聲讀",
+		"bbox": [451, 431, 497, 669],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "呼昆切",
+		"bbox": [400, 273, 447, 353],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若新城縊中洛官切",
+		"bbox": [400, 431, 447, 639],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不明也从",
+		"bbox": [451, 737, 497, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日奄聲烏",
+		"bbox": [400, 737, 447, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敢",
+		"bbox": [347, 273, 394, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日無兌也从日",
+		"bbox": [347, 377, 394, 515],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "音聲烏紺切",
+		"bbox": [301, 377, 347, 515],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "月盡也从日",
+		"bbox": [301, 620, 347, 737],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "每聲荒內切",
+		"bbox": [301, 737, 347, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [301, 273, 347, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "埃簡日無兌也从",
+		"bbox": [252, 273, 299, 463],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陰而風也从日壹聲詩",
+		"bbox": [252, 528, 299, 763],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日能聲奴代切",
+		"bbox": [204, 273, 250, 431],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日終風且噎於計切",
+		"bbox": [204, 528, 250, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不雨也从日",
+		"bbox": [154, 273, 199, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "干聲乎盱切",
+		"bbox": [105, 273, 151, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "望遠合也从日匕匕合也讀若窔",
+		"bbox": [154, 492, 199, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "窕之窈徐錯曰匕相近也故曰合",
+		"bbox": [105, 492, 151, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小爾雅三",
+		"bbox": [802, 279, 822, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文十一",
+		"bbox": [802, 408, 822, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二",
+		"bbox": [802, 672, 822, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陸安",
+		"bbox": [798, 796, 818, 832],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
