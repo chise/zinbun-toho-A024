@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "小言文二一",
+		"bbox": [805, 271, 830, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王必",
+		"bbox": [805, 796, 828, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "力追",
+		"bbox": [732, 271, 799, 321],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [710, 271, 753, 302],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "水上横木所以渡者",
+		"bbox": [732, 408, 799, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从木寉聲江岳切",
+		"bbox": [694, 408, 756, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "水梁也从木",
+		"bbox": [732, 698, 799, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "喬聲巨驕切",
+		"bbox": [694, 698, 756, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "水橋也从木从",
+		"bbox": [651, 358, 699, 515],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古",
+		"bbox": [651, 594, 699, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "船總名从木",
+		"bbox": [651, 698, 699, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "水刄聲呂張切",
+		"bbox": [603, 358, 651, 515],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "支",
+		"bbox": [603, 594, 651, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宐聲臣鉉等",
+		"bbox": [603, 698, 651, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰今俗別作艘",
+		"bbox": [553, 271, 603, 429],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "海中大船从木發聲臣鉉等",
+		"bbox": [553, 494, 603, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "非是蘇遭切",
+		"bbox": [503, 271, 553, 408],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰今俗別作筏非是房越切",
+		"bbox": [503, 494, 553, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舟櫂也从木",
+		"bbox": [454, 358, 503, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "江中大船名从",
+		"bbox": [454, 568, 503, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木",
+		"bbox": [454, 818, 503, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曁聲子葉切",
+		"bbox": [404, 358, 454, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木蠡聲盧啓切",
+		"bbox": [404, 568, 454, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "囚",
+		"bbox": [404, 818, 454, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从木交",
+		"bbox": [354, 271, 404, 378],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "澤中守艸樓从",
+		"bbox": [354, 456, 404, 610],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "捋取也从木",
+		"bbox": [354, 712, 404, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲古孝切",
+		"bbox": [304, 271, 354, 378],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木巢聲鉏交切",
+		"bbox": [304, 456, 354, 610],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从爪倉宰切",
+		"bbox": [304, 712, 354, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "削木札樸也从木弔聲",
+		"bbox": [254, 358, 304, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "闌木也从木",
+		"bbox": [254, 676, 304, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳楚謂檟為柿芳吠切",
+		"bbox": [204, 358, 254, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黃聲戶盲切",
+		"bbox": [204, 676, 254, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "檢柙也从木",
+		"bbox": [154, 358, 204, 456],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "充也从木光",
+		"bbox": [154, 572, 204, 710],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以木",
+		"bbox": [154, 792, 204, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夾聲古洽切",
+		"bbox": [104, 358, 154, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲古曠切",
+		"bbox": [104, 572, 154, 690],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "有所",
+		"bbox": [104, 792, 154, 843],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
