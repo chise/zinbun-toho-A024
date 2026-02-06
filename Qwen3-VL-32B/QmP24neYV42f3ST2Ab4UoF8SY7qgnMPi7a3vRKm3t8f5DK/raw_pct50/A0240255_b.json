@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "糶米一斛舂為九斗曰", "bbox": [857, 340, 906, 580], "type": "text", "comment": ""},
+	{"text": "糶从毀辠聲則各切", "bbox": [811, 340, 858, 556], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [826, 662, 900, 739], "type": "text", "comment": ""},
+	{"text": "臼春也古者掘地爲臼其後穿木", "bbox": [723, 338, 802, 840], "type": "text", "comment": ""},
+	{"text": "石象形中米也凡臼之屬皆从臼", "bbox": [618, 338, 699, 840], "type": "text", "comment": ""},
+	{"text": "其九", "bbox": [570, 340, 602, 400], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [514, 343, 550, 372], "type": "text", "comment": ""},
+	{"text": "擣粟也从丿持杵臨臼上午杵", "bbox": [457, 342, 502, 664], "type": "text", "comment": ""},
+	{"text": "省也古者雖父初作舂書容切", "bbox": [406, 340, 450, 665], "type": "text", "comment": ""},
+	{"text": "齊謂舂", "bbox": [465, 766, 507, 841], "type": "text", "comment": ""},
+	{"text": "曰雷从", "bbox": [416, 766, 456, 841], "type": "text", "comment": ""},
+	{"text": "臼并聲讀若", "bbox": [355, 266, 397, 389], "type": "text", "comment": ""},
+	{"text": "腄匹各切", "bbox": [302, 267, 345, 371], "type": "text", "comment": ""},
+	{"text": "春去麥皮也从臼于", "bbox": [362, 481, 400, 705], "type": "text", "comment": ""},
+	{"text": "所以畱之楚洽切", "bbox": [306, 482, 348, 672], "type": "text", "comment": ""},
+	{"text": "抒臼", "bbox": [362, 796, 400, 843], "type": "text", "comment": ""},
+	{"text": "也从", "bbox": [311, 796, 348, 843], "type": "text", "comment": ""},
+	{"text": "爪臼詩曰或簸", "bbox": [250, 266, 294, 421], "type": "text", "comment": ""},
+	{"text": "或舀以沼切", "bbox": [201, 266, 245, 400], "type": "text", "comment": ""},
+	{"text": "手从宂", "bbox": [208, 507, 250, 589], "type": "text", "comment": ""},
+	{"text": "舀或从", "bbox": [258, 507, 300, 590], "type": "text", "comment": ""},
+	{"text": "舀或从", "bbox": [258, 684, 300, 757], "type": "text", "comment": ""},
+	{"text": "曰宂", "bbox": [208, 684, 250, 728], "type": "text", "comment": ""},
+	{"text": "大十二", "bbox": [169, 267, 192, 303], "type": "text", "comment": ""},
+	{"text": "兑下十三", "bbox": [168, 399, 192, 492], "type": "text", "comment": ""},
+	{"text": "十", "bbox": [168, 671, 192, 690], "type": "text", "comment": ""},
+	{"text": "丁山", "bbox": [170, 804, 192, 825], "type": "text", "comment": ""}
+]
+```
