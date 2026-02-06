@@ -1,0 +1,262 @@
+```json
+[
+	{
+		"text": "小三百六",
+		"bbox": [805, 271, 820, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言三二一",
+		"bbox": [809, 412, 826, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十三",
+		"bbox": [810, 667, 827, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "下武",
+		"bbox": [802, 811, 818, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "故楚都在南郡江陵北",
+		"bbox": [755, 275, 796, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十里从邑呈聲以整切",
+		"bbox": [714, 275, 751, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "名宣城从邑",
+		"bbox": [670, 275, 705, 410],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬聲於乾切",
+		"bbox": [627, 275, 665, 410],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [582, 275, 615, 297],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "江夏縣从邑",
+		"bbox": [582, 384, 618, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蜀地也从邑",
+		"bbox": [257, 355, 292, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "藉聲秦昔切",
+		"bbox": [201, 355, 244, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "什邡廣漢縣从",
+		"bbox": [155, 355, 190, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑方聲府良切",
+		"bbox": [105, 355, 146, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鬱鄢犍為縣从",
+		"bbox": [155, 528, 190, 696],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑馬聲莫駕切",
+		"bbox": [105, 528, 146, 696],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蜀廣漢鄉也从邑蔓",
+		"bbox": [257, 528, 292, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若蔓無販切",
+		"bbox": [201, 528, 244, 768],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蜀縣也从邑",
+		"bbox": [357, 355, 391, 528],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "甲聲符支切",
+		"bbox": [305, 355, 343, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "封切",
+		"bbox": [305, 275, 343, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲余",
+		"bbox": [357, 275, 391, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蜀江原地从邑",
+		"bbox": [357, 528, 391, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壽聲市流切",
+		"bbox": [305, 528, 343, 768],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲陟輸切",
+		"bbox": [405, 275, 443, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "漢中有鄖關羽文切",
+		"bbox": [405, 384, 443, 672],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從邑庸",
+		"bbox": [405, 771, 443, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "縣从邑朱",
+		"bbox": [455, 275, 492, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "漢南之國从邑員聲",
+		"bbox": [455, 384, 492, 672],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南夷國",
+		"bbox": [455, 771, 492, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "噐聲五各切",
+		"bbox": [505, 384, 542, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "己聲居擬切",
+		"bbox": [505, 528, 542, 731],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夏",
+		"bbox": [505, 817, 542, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "江",
+		"bbox": [555, 823, 590, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南陽縣从邑",
+		"bbox": [555, 528, 590, 731],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "江夏縣从邑",
+		"bbox": [657, 528, 693, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南陽陰鄉从",
+		"bbox": [657, 718, 693, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑葛聲古達",
+		"bbox": [608, 718, 646, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黽聲莫杏切",
+		"bbox": [608, 501, 646, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "郢或",
+		"bbox": [755, 528, 796, 644],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南郡縣孝",
+		"bbox": [755, 718, 796, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省",
+		"bbox": [714, 528, 751, 564],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "惠三年改",
+		"bbox": [714, 718, 751, 846],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
