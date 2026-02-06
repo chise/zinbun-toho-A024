@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "小日不考", "bbox": [799, 263, 822, 328], "size": "small", "type": "annotation", "comment": "右上角小字，可能是页码或注记"},
+	{"text": "言文九一", "bbox": [804, 400, 832, 480], "size": "small", "type": "annotation", "comment": "右侧竖排小字，可能是卷册编号或章节标识"},
+	{"text": "十二", "bbox": [809, 660, 835, 700], "size": "small", "type": "annotation", "comment": "右侧竖排数字，可能是页码或段落编号"},
+	{"text": "終春", "bbox": [799, 789, 824, 830], "size": "small", "type": "annotation", "comment": "右侧竖排小字，可能是校勘者或出版者署名"},
+	{"text": "文二 重一", "bbox": [715, 407, 785, 664], "size": "large", "type": "heading", "comment": "正文标题，位于右侧栏，字体较大"},
+	{"text": "豕，彘也。竭其尾，故謂之豕。象毛足而", "bbox": [605, 260, 685, 840], "size": "large", "type": "body", "comment": "正文第一段，解释“豕”字的本义和字形构造"},
+	{"text": "後有尾，讀與豨同。按今世字誤以", "bbox": [504, 339, 582, 840], "size": "large", "type": "body", "comment": "正文第二段，讨论“豕”字的读音和现代误用"},
+	{"text": "豕爲彘，以彘爲豕，何以明之？爲喙", "bbox": [402, 343, 480, 840], "size": "large", "type": "body", "comment": "正文第三段，探讨“豕”与“彘”的字义混淆及辨析"},
+	{"text": "琢从豕，豕蝕从彘，皆取其聲以是明", "bbox": [302, 347, 380, 840], "size": "large", "type": "body", "comment": "正文第四段，通过形声字“琢”“蝕”说明“豕”“彘”的读音关系"},
+	{"text": "之。臣鉉等曰：此語未詳，或後人所加。凡豕之屬皆从豕", "bbox": [199, 347, 278, 840], "size": "large", "type": "body", "comment": "正文第五段，引用臣鉉等人的注释，说明“豕”部字的归属"},
+	{"text": "式視", "bbox": [142, 352, 185, 407], "size": "medium", "type": "annotation", "comment": "左侧栏小字，可能是反切注音或音韵提示"},
+	{"text": "切", "bbox": [97, 355, 136, 380], "size": "medium", "type": "annotation", "comment": "左侧栏小字，可能是“切”字，与“式視”合为反切注音"}
+]
+```
