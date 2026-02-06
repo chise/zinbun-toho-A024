@@ -1,0 +1,250 @@
+```json
+[
+	{
+		"text": "聲楚",
+		"bbox": [865, 264, 903, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "污衷下也从穴",
+		"bbox": [865, 396, 903, 553],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "江切",
+		"bbox": [816, 264, 854, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓜聲烏瓜切",
+		"bbox": [816, 396, 854, 553],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "空也从穴斲",
+		"bbox": [865, 633, 903, 761],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲牽料切",
+		"bbox": [816, 633, 854, 761],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竅也从穴工",
+		"bbox": [768, 264, 806, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦紅切",
+		"bbox": [719, 264, 757, 367],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "空也从穴至聲詩曰",
+		"bbox": [768, 477, 806, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瓶之窒矣去徑切",
+		"bbox": [719, 477, 757, 657],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "空大也",
+		"bbox": [768, 761, 806, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从穴乙",
+		"bbox": [719, 761, 757, 831],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲烏",
+		"bbox": [671, 264, 709, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "汚窬也从穴瓜聲朔",
+		"bbox": [671, 406, 709, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "點切",
+		"bbox": [622, 264, 660, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "方有窳渾縣以圭切",
+		"bbox": [622, 406, 660, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "坎中小坎也",
+		"bbox": [671, 711, 709, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从穴从舀舀",
+		"bbox": [622, 711, 660, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦聲易曰入于坎窞",
+		"bbox": [574, 264, 612, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰旁入也徒感切",
+		"bbox": [525, 264, 563, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "窖也从穴丩",
+		"bbox": [574, 567, 612, 683],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲匹兒切",
+		"bbox": [525, 567, 563, 673],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "地藏",
+		"bbox": [574, 771, 612, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [525, 771, 563, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穴告聲",
+		"bbox": [476, 264, 514, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穿木戶也从穴兪聲",
+		"bbox": [476, 406, 514, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰空中也羊朱切",
+		"bbox": [428, 406, 466, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鴬窅深也",
+		"bbox": [476, 711, 514, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从穴鳥聲",
+		"bbox": [428, 731, 466, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古孝切",
+		"bbox": [380, 264, 418, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "多嘯",
+		"bbox": [331, 264, 369, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小視也从穴",
+		"bbox": [331, 406, 369, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "規聲去薩切",
+		"bbox": [331, 406, 369, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "正視也从穴中正見",
+		"bbox": [331, 617, 369, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也正亦聲敕貞切",
+		"bbox": [282, 617, 320, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穴中見也从穴",
+		"bbox": [234, 347, 272, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "殼聲丁滑切",
+		"bbox": [234, 357, 272, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "物在穴中皃从",
+		"bbox": [234, 587, 272, 744],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穴出聲丁滑切",
+		"bbox": [234, 587, 272, 744],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張信",
+		"bbox": [176, 811, 202, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十二",
+		"bbox": [176, 264, 202, 317],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
