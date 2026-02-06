@@ -1,0 +1,106 @@
+```json
+[
+	{
+		"text": "小易七",
+		"bbox": [794, 268, 815, 320],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文七上",
+		"bbox": [796, 386, 839, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十",
+		"bbox": [811, 658, 828, 677],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王必",
+		"bbox": [796, 797, 817, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小阱也从人在",
+		"bbox": [744, 267, 787, 430],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臼上戶猶切",
+		"bbox": [697, 267, 739, 412],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文六",
+		"bbox": [712, 545, 779, 628],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重二",
+		"bbox": [712, 672, 779, 756],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "惡也象地穿交陷其中也凡凶之",
+		"bbox": [604, 353, 680, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屬皆从凶",
+		"bbox": [503, 348, 578, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "許容",
+		"bbox": [546, 523, 584, 576],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [502, 523, 542, 554],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "擾恐也从人在凶下春秋",
+		"bbox": [441, 345, 486, 606],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰曹人兌懼許拱切",
+		"bbox": [393, 345, 436, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [406, 646, 467, 724],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文解字第七上",
+		"bbox": [201, 263, 272, 528],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "四月十九日鳩工修茸戈莊丙舍攜此往校燈下完此卷",
+		"bbox": [116, 463, 157, 818],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
