@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小言", "bbox": [803, 275, 824, 332], "type": "text", "comment": ""},
+	{"text": "王必", "bbox": [806, 790, 826, 831], "type": "text", "comment": ""},
+	{"text": "博棊从木其聲渠之切", "bbox": [762, 345, 796, 459], "type": "text", "comment": ""},
+	{"text": "續木也从木妄聲子葉切", "bbox": [721, 574, 757, 697], "type": "text", "comment": ""},
+	{"text": "樺雙也从", "bbox": [721, 713, 757, 842], "type": "text", "comment": ""},
+	{"text": "木夆聲讀若鴻下江切", "bbox": [659, 279, 694, 376], "type": "text", "comment": ""},
+	{"text": "炊竈木从木舌聲臣鉉等曰當从恬省乃得聲他念切", "bbox": [659, 498, 694, 791], "type": "text", "comment": ""},
+	{"text": "畜獸之食器从木曹聲昨牢切", "bbox": [559, 352, 595, 507], "type": "text", "comment": ""},
+	{"text": "射準的也从木从自李陽冰曰自非聲从劓省", "bbox": [559, 604, 595, 843], "type": "text", "comment": ""},
+	{"text": "木方受六升从五結切", "bbox": [458, 277, 492, 557], "type": "text", "comment": ""},
+	{"text": "木甬聲他奉切", "bbox": [404, 423, 440, 557], "type": "text", "comment": ""},
+	{"text": "大盾也从木魯聲郎古切", "bbox": [458, 628, 492, 843], "type": "text", "comment": ""},
+	{"text": "或从鹵", "bbox": [357, 277, 391, 310], "type": "text", "comment": ""},
+	{"text": "五聲八音總名象鼓鞞木虡也玉角切", "bbox": [357, 412, 391, 604], "type": "text", "comment": ""},
+	{"text": "闌足也从木付聲甫無切", "bbox": [357, 695, 391, 843], "type": "text", "comment": ""},
+	{"text": "擊鼓杖也从木包聲甫無切", "bbox": [254, 350, 289, 484], "type": "text", "comment": ""},
+	{"text": "柷樂也从木空聲苦江切", "bbox": [254, 587, 289, 715], "type": "text", "comment": ""},
+	{"text": "樂木", "bbox": [254, 732, 289, 843], "type": "text", "comment": ""},
+	{"text": "空也所以止音爲節从木祝省聲昌六切", "bbox": [151, 275, 186, 491], "type": "text", "comment": ""},
+	{"text": "牘樸也从木斬聲自琰切", "bbox": [151, 580, 186, 715], "type": "text", "comment": ""},
+	{"text": "牒也从木", "bbox": [151, 791, 186, 843], "type": "text", "comment": ""}
+]
+```
