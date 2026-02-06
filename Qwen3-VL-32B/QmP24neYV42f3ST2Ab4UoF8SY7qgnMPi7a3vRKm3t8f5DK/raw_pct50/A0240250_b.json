@@ -1,0 +1,262 @@
+```json
+[
+	{
+		"text": "禾摇兒从禾乍聲",
+		"bbox": [857, 269, 907, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若昨在各切",
+		"bbox": [812, 269, 862, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "耕禾間也从禾麃聲春秋",
+		"bbox": [857, 545, 907, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰是穮是衮甫嬌切",
+		"bbox": [812, 545, 862, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樂禾也从禾",
+		"bbox": [766, 269, 816, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "安聲烏旰切",
+		"bbox": [722, 269, 772, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壅禾本从禾",
+		"bbox": [766, 545, 816, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "子聲即里切",
+		"bbox": [722, 545, 772, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穫刈",
+		"bbox": [766, 881, 816, 949],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也一",
+		"bbox": [722, 881, 772, 949],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰撮也从禾",
+		"bbox": [677, 269, 727, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "質聲在詣切",
+		"bbox": [632, 269, 682, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刈穀也从禾",
+		"bbox": [677, 545, 727, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蔞聲胡郭切",
+		"bbox": [632, 545, 682, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "積禾也从禾",
+		"bbox": [677, 881, 727, 949],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "資聲詩曰積",
+		"bbox": [632, 881, 682, 949],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之秩秩",
+		"bbox": [587, 269, 637, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "即夷切",
+		"bbox": [543, 269, 593, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聚也从禾責",
+		"bbox": [587, 545, 637, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲則歷切",
+		"bbox": [543, 545, 593, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "積也从禾失聲詩",
+		"bbox": [587, 881, 637, 949],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰積之秩秩直質",
+		"bbox": [543, 881, 593, 949],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [498, 269, 548, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "絛束也从禾",
+		"bbox": [454, 269, 504, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "困聲苦本切",
+		"bbox": [409, 269, 459, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穀之善者从禾果聲",
+		"bbox": [454, 545, 504, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰無皮穀胡瓦切",
+		"bbox": [409, 545, 459, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "春桌不漬也从",
+		"bbox": [365, 269, 415, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禾昏聲戸括切",
+		"bbox": [320, 269, 370, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秪也从禾气",
+		"bbox": [365, 545, 415, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲居气切",
+		"bbox": [320, 545, 370, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穭",
+		"bbox": [365, 881, 415, 949],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [320, 881, 370, 949],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从禾孚聲",
+		"bbox": [275, 269, 325, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "芳無切",
+		"bbox": [231, 269, 281, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "稱或从",
+		"bbox": [275, 545, 325, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "米付聲",
+		"bbox": [231, 545, 281, 805],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穅也从禾會",
+		"bbox": [275, 881, 325, 949],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦會切",
+		"bbox": [231, 881, 281, 949],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大卅二",
+		"bbox": [170, 269, 205, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文正匕",
+		"bbox": [170, 402, 205, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十五",
+		"bbox": [170, 654, 205, 712],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳玉",
+		"bbox": [170, 791, 205, 839],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
