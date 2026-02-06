@@ -1,0 +1,220 @@
+```json
+[
+	{
+		"text": "擣也从木雋聲春秋傳曰",
+		"bbox": [864, 267, 907, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "擊也从木系",
+		"bbox": [864, 636, 907, 728],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "越敗吳於檇李遵爲切",
+		"bbox": [814, 267, 858, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲竹角切",
+		"bbox": [814, 617, 858, 728],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "橦也从木丁",
+		"bbox": [764, 267, 808, 397],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "棱也从木瓜聲又柧棱殿",
+		"bbox": [764, 481, 808, 746],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲宅耕切",
+		"bbox": [714, 267, 758, 379],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "堂上最高之處也古胡切",
+		"bbox": [714, 481, 758, 746],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "柧也从木麦",
+		"bbox": [664, 267, 708, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "伐木餘也从木獻聲商書曰",
+		"bbox": [664, 492, 708, 782],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲魯登切",
+		"bbox": [614, 267, 658, 379],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若顛木之有皀巘五葛切",
+		"bbox": [614, 492, 658, 761],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "巘或从",
+		"bbox": [564, 267, 608, 425],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文巘从",
+		"bbox": [564, 517, 608, 628],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦古",
+		"bbox": [564, 694, 608, 761],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木辥聲",
+		"bbox": [514, 352, 558, 430],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木無頭",
+		"bbox": [514, 520, 558, 604],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文巘",
+		"bbox": [514, 700, 558, 761],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "平也从木从平",
+		"bbox": [464, 267, 508, 397],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "折木也从木",
+		"bbox": [464, 481, 508, 646],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "哀斫也从",
+		"bbox": [464, 740, 508, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "平亦聲蒲兵切",
+		"bbox": [414, 267, 458, 425],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "立聲盧合切",
+		"bbox": [414, 506, 458, 646],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "木差聲春",
+		"bbox": [414, 766, 458, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋傳曰山木",
+		"bbox": [364, 267, 408, 397],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "斷也从木出聲讀若爾雅",
+		"bbox": [364, 481, 408, 746],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不槎側下切",
+		"bbox": [314, 267, 358, 397],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "䚡無前足之䚡女滑切",
+		"bbox": [314, 492, 358, 728],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "斷木也从木畐聲春",
+		"bbox": [264, 267, 308, 489],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "破木也一日折也",
+		"bbox": [264, 590, 308, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋傳曰樳柚徒刀切",
+		"bbox": [214, 267, 258, 489],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从木从斤先激切",
+		"bbox": [214, 573, 258, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大廿九",
+		"bbox": [174, 270, 198, 315],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文六上",
+		"bbox": [164, 404, 188, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一五",
+		"bbox": [164, 673, 188, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蒋安",
+		"bbox": [178, 802, 202, 842],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
