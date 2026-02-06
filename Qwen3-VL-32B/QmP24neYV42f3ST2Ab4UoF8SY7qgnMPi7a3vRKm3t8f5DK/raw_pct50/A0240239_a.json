@@ -1,0 +1,262 @@
+```json
+[
+	{
+		"text": "小徐本三",
+		"bbox": [804, 253, 823, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言三十",
+		"bbox": [806, 384, 827, 439],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二三",
+		"bbox": [812, 657, 832, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王心",
+		"bbox": [803, 790, 825, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从日難聲",
+		"bbox": [751, 253, 798, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奴案切",
+		"bbox": [708, 253, 749, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衆微杪也从日中視絲古文以為顯字",
+		"bbox": [751, 443, 799, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或曰衆口皃讀若唫唫或以為繭繭者",
+		"bbox": [708, 443, 750, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "絮中往往有小",
+		"bbox": [665, 253, 706, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "繭也五合切",
+		"bbox": [619, 253, 662, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晞也从日从出从",
+		"bbox": [666, 443, 706, 658],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "升从米薄報切",
+		"bbox": [620, 443, 662, 658],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文暴",
+		"bbox": [666, 744, 706, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从日麃",
+		"bbox": [620, 744, 662, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲",
+		"bbox": [576, 253, 618, 282],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "暴也从日麗",
+		"bbox": [576, 365, 618, 494],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乾也耕暴田曰曄从日堇",
+		"bbox": [576, 575, 618, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲所智切",
+		"bbox": [532, 365, 573, 469],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲易曰燥萬物者莫暵于",
+		"bbox": [532, 575, 573, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "離臣鉉等曰當从灋",
+		"bbox": [487, 253, 529, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省乃得聲呼旰切",
+		"bbox": [444, 253, 485, 441],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乾也从日希",
+		"bbox": [487, 543, 529, 658],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲香衣切",
+		"bbox": [444, 543, 485, 658],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乾肉也",
+		"bbox": [487, 754, 529, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从殘肉",
+		"bbox": [444, 754, 485, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日以晞之與俎",
+		"bbox": [399, 253, 441, 409],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "同意思積切",
+		"bbox": [355, 253, 397, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [399, 501, 441, 556],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日近也从日匿聲",
+		"bbox": [399, 652, 441, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从肉",
+		"bbox": [355, 501, 397, 556],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "春秋傳曰私降暱",
+		"bbox": [355, 652, 397, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燕尼",
+		"bbox": [311, 253, 352, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "暱或",
+		"bbox": [311, 399, 352, 451],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日狎習相慢也从",
+		"bbox": [311, 534, 352, 716],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不",
+		"bbox": [311, 809, 352, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "質切",
+		"bbox": [266, 253, 307, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从尼",
+		"bbox": [266, 399, 307, 451],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日執聲私剡切",
+		"bbox": [266, 534, 307, 690],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "見",
+		"bbox": [266, 809, 307, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从日否省",
+		"bbox": [222, 253, 264, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "同也从日从比徐錯曰日",
+		"bbox": [222, 473, 264, 731],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日比之是同也古渾切",
+		"bbox": [178, 473, 220, 716],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲美畢切",
+		"bbox": [134, 253, 175, 365],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

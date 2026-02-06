@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "小豆主", "bbox": [805, 269, 824, 317], "type": "text", "comment": ""},
+	{"text": "一言三十一", "bbox": [804, 397, 824, 455], "type": "text", "comment": ""},
+	{"text": "六", "bbox": [804, 674, 824, 697], "type": "text", "comment": ""},
+	{"text": "洪章", "bbox": [795, 798, 814, 844], "type": "text", "comment": ""},
+	{"text": "文二十三　重五", "bbox": [712, 426, 788, 740], "type": "text", "comment": ""},
+	{"text": "冥幽也从日从六一聲日數十十", "bbox": [608, 264, 687, 847], "type": "text", "comment": ""},
+	{"text": "六日而月始虧幽也凡冥之屬皆", "bbox": [504, 363, 580, 852], "type": "text", "comment": ""},
+	{"text": "从冥莫經切", "bbox": [408, 363, 484, 488], "type": "text", "comment": ""},
+	{"text": "冥也从冥黽聲讀若", "bbox": [348, 346, 392, 569], "type": "text", "comment": ""},
+	{"text": "黽蛙之黽武庚切", "bbox": [305, 345, 347, 537], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [306, 683, 375, 769], "type": "text", "comment": ""},
+	{"text": "晶精光也从三日凡晶之屬皆从晶", "bbox": [202, 263, 281, 852], "type": "text", "comment": ""},
+	{"text": "子盈切", "bbox": [101, 342, 189, 396], "type": "text", "comment": ""}
+]
+```

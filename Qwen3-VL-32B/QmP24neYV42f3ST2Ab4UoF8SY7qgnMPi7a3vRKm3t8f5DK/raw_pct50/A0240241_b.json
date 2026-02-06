@@ -1,0 +1,214 @@
+```json
+[
+	{
+		"text": "切",
+		"bbox": [864, 267, 905, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "旗皃从㫃也聲垒欒施字",
+		"bbox": [863, 389, 912, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "子旗知施者旗也式支切",
+		"bbox": [814, 389, 863, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "旗旖施也",
+		"bbox": [863, 728, 912, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从㫃奇聲",
+		"bbox": [814, 728, 863, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "於离",
+		"bbox": [752, 267, 803, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "旌旗旜繇也从",
+		"bbox": [752, 389, 803, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "旌旗飛揚皃从",
+		"bbox": [752, 728, 803, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [721, 267, 762, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "㫃與聲匹招切",
+		"bbox": [721, 389, 762, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "㫃戉聲甫遥切",
+		"bbox": [721, 728, 762, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "旌旗之流也从",
+		"bbox": [667, 389, 716, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [667, 584, 716, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "旌旗披靡",
+		"bbox": [667, 728, 716, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "㫃汙聲以周切",
+		"bbox": [613, 389, 662, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "游",
+		"bbox": [613, 584, 662, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从㫃皮",
+		"bbox": [613, 728, 662, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲斂",
+		"bbox": [559, 267, 609, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周旋旌旗之指麾也从㫃从疋疋足也",
+		"bbox": [559, 389, 609, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徐錯曰人足隨旌旗以周旋也似公切",
+		"bbox": [506, 389, 555, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幢也从㫃从毛",
+		"bbox": [452, 389, 501, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "毛亦聲莫袍切",
+		"bbox": [452, 584, 501, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幅胡也从㫃番聲臣鉉",
+		"bbox": [452, 611, 501, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "等曰胡幅之下坐者也",
+		"bbox": [399, 611, 448, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "孚袁",
+		"bbox": [345, 267, 394, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "軍之五百人爲旅从㫃",
+		"bbox": [345, 389, 394, 579],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文旅古",
+		"bbox": [345, 728, 394, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [291, 267, 341, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从从从俱也力舉切",
+		"bbox": [291, 389, 341, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衛之",
+		"bbox": [238, 267, 287, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "矢鋒也束之族族也",
+		"bbox": [238, 389, 287, 622],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从㫃从矢昨木切",
+		"bbox": [185, 389, 234, 852],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "六十六",
+		"bbox": [177, 265, 197, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文二上",
+		"bbox": [168, 395, 188, 477],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唐文",
+		"bbox": [174, 795, 194, 818],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

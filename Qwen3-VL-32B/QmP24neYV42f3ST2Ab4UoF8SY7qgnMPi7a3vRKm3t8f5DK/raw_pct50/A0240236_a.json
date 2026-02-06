@@ -1,0 +1,10 @@
+```json
+[
+  {
+    "text": "",
+    "bbox": [0, 53, 846, 945],
+    "type": "text_line",
+    "comment": "No visible text detected in the image."
+  }
+]
+```

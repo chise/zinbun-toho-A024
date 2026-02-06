@@ -1,0 +1,256 @@
+```json
+[
+	{
+		"text": "也烏",
+		"bbox": [879, 250, 913, 306],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皎切",
+		"bbox": [834, 250, 869, 306],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "白虎宿星从日",
+		"bbox": [879, 390, 913, 554],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卯聲莫飽切",
+		"bbox": [834, 390, 869, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不久也从日鄉聲",
+		"bbox": [879, 650, 913, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "春秋傳曰曏役之",
+		"bbox": [834, 650, 869, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三月許",
+		"bbox": [766, 250, 803, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兩切",
+		"bbox": [722, 250, 757, 306],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曏也从日襄",
+		"bbox": [766, 420, 803, 559],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲奴朗切",
+		"bbox": [722, 420, 757, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壘日也从日",
+		"bbox": [766, 650, 803, 789],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乍聲在各切",
+		"bbox": [722, 650, 757, 789],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "閑也从日段",
+		"bbox": [673, 328, 709, 461],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲胡嫁切",
+		"bbox": [628, 328, 664, 438],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不久也从日",
+		"bbox": [673, 554, 709, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "斬聲藏濫切",
+		"bbox": [628, 554, 664, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "喜樂",
+		"bbox": [673, 798, 709, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兒从",
+		"bbox": [628, 798, 664, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日弁聲",
+		"bbox": [572, 250, 607, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皮變切",
+		"bbox": [527, 250, 562, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "美言也从日从曰一曰日尣也詩曰東",
+		"bbox": [572, 403, 607, 821],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "方昌矣臣鉉等曰曰亦言也尺良切",
+		"bbox": [527, 403, 562, 789],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [471, 328, 507, 388],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "昌",
+		"bbox": [426, 328, 461, 362],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尣美也从日",
+		"bbox": [471, 458, 507, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徨聲于放切",
+		"bbox": [426, 458, 461, 609],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大也从日反",
+		"bbox": [471, 687, 507, 821],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲補綰切",
+		"bbox": [426, 687, 461, 801],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "明日也从日",
+		"bbox": [370, 328, 405, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "立聲余六切",
+		"bbox": [325, 328, 360, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "温溼也从日赧省聲",
+		"bbox": [370, 559, 405, 789],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀與赧同女版切",
+		"bbox": [325, 559, 360, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傷暑也从日",
+		"bbox": [270, 328, 305, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曷聲於歇切",
+		"bbox": [225, 328, 260, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "熱也从日者",
+		"bbox": [270, 559, 305, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲舒呂切",
+		"bbox": [225, 559, 260, 677],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "安羅",
+		"bbox": [270, 780, 305, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "温也",
+		"bbox": [225, 789, 260, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "太三十",
+		"bbox": [181, 250, 203, 296],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文七上",
+		"bbox": [172, 390, 195, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三",
+		"bbox": [172, 666, 195, 689],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丁樸",
+		"bbox": [187, 795, 206, 834],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

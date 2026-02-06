@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小豆文", "bbox": [804, 267, 825, 329], "type": "text", "comment": ""},
+	{"text": "說文一", "bbox": [804, 404, 825, 478], "type": "text", "comment": ""},
+	{"text": "李云", "bbox": [804, 798, 825, 837], "type": "text", "comment": ""},
+	{"text": "用", "bbox": [715, 266, 794, 347], "type": "text", "comment": ""},
+	{"text": "艸木蔥甬甬然也", "bbox": [752, 350, 794, 534], "type": "text", "comment": ""},
+	{"text": "从弓用聲余隴切", "bbox": [708, 350, 750, 534], "type": "text", "comment": ""},
+	{"text": "匕匕", "bbox": [715, 535, 794, 627], "type": "text", "comment": ""},
+	{"text": "艸木弓盛也从", "bbox": [752, 629, 794, 750], "type": "text", "comment": ""},
+	{"text": "二弓胡先切", "bbox": [708, 629, 750, 748], "type": "text", "comment": ""},
+	{"text": "文五", "bbox": [619, 415, 684, 498], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [619, 565, 684, 648], "type": "text", "comment": ""},
+	{"text": "東", "bbox": [516, 267, 575, 347], "type": "text", "comment": ""},
+	{"text": "木坐蔥實从木弓弓亦聲凡東之", "bbox": [508, 350, 588, 846], "type": "text", "comment": ""},
+	{"text": "屬皆从東", "bbox": [414, 352, 478, 496], "type": "text", "comment": ""},
+	{"text": "胡感", "bbox": [456, 500, 489, 566], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [403, 500, 443, 540], "type": "text", "comment": ""},
+	{"text": "束", "bbox": [320, 267, 391, 347], "type": "text", "comment": ""},
+	{"text": "束也从東韋聲徐錯曰言束之", "bbox": [346, 350, 390, 660], "type": "text", "comment": ""},
+	{"text": "象木蔥實之相累也于非切", "bbox": [302, 350, 344, 639], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [305, 717, 374, 800], "type": "text", "comment": ""},
+	{"text": "卤", "bbox": [216, 267, 276, 335], "type": "text", "comment": ""},
+	{"text": "艸木實坐卤卤然象形凡卤之屬", "bbox": [206, 350, 282, 846], "type": "text", "comment": ""},
+	{"text": "皆从卤讀若調", "bbox": [104, 350, 180, 589], "type": "text", "comment": ""},
+	{"text": "徒遼", "bbox": [150, 589, 184, 637], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [102, 589, 140, 615], "type": "text", "comment": ""}
+]
+```

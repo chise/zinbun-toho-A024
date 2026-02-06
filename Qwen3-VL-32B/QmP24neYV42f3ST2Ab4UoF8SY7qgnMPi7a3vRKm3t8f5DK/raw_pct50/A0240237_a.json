@@ -1,0 +1,238 @@
+```json
+[
+	{
+		"text": "凡日之屬皆从日",
+		"bbox": [705, 348, 789, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人質",
+		"bbox": [755, 639, 791, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [705, 639, 741, 666],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小二口七三",
+		"bbox": [798, 270, 823, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言三十上",
+		"bbox": [801, 409, 830, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一",
+		"bbox": [806, 676, 828, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陸安",
+		"bbox": [796, 784, 820, 833],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [650, 347, 688, 399],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "象形",
+		"bbox": [602, 348, 641, 399],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋天也从日文聲虞書曰仁",
+		"bbox": [646, 488, 689, 766],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "閔覆下則稱旻天武巾切",
+		"bbox": [597, 488, 641, 748],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "四時也从日",
+		"bbox": [548, 270, 588, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "寺聲市之切",
+		"bbox": [500, 270, 541, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文時",
+		"bbox": [548, 488, 588, 565],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从之日",
+		"bbox": [500, 488, 541, 556],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晨也从日在",
+		"bbox": [548, 638, 588, 766],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "甲上子浩切",
+		"bbox": [500, 638, 541, 766],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尚冥也从日",
+		"bbox": [450, 270, 490, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "勿聲呼骨切",
+		"bbox": [402, 270, 443, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "爽旦明也从日未聲",
+		"bbox": [450, 488, 490, 662],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰闇也莫佩切",
+		"bbox": [402, 488, 443, 657],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "旦明也",
+		"bbox": [450, 748, 490, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从日者",
+		"bbox": [402, 766, 443, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲當",
+		"bbox": [352, 270, 392, 322],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古切",
+		"bbox": [305, 270, 345, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "昭晰明也从日折聲禮",
+		"bbox": [352, 488, 392, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰晰明行事旨熱切",
+		"bbox": [305, 406, 345, 612],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日明也从日",
+		"bbox": [352, 704, 392, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "召聲止遥切",
+		"bbox": [305, 704, 345, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "明也从日吾聲詩曰",
+		"bbox": [256, 342, 296, 556],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晤辟有摽五故切",
+		"bbox": [208, 342, 248, 528],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "明也从日勺聲易",
+		"bbox": [256, 638, 296, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰為的顏都歷切",
+		"bbox": [208, 638, 248, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "明也从日光",
+		"bbox": [160, 342, 199, 473],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲胡廣切",
+		"bbox": [112, 342, 152, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "明也从日廣",
+		"bbox": [160, 561, 199, 689],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦謗切",
+		"bbox": [112, 561, 152, 658],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日旦出",
+		"bbox": [160, 766, 199, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皃从日",
+		"bbox": [112, 766, 152, 842],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
