@@ -1,0 +1,22 @@
+```json
+[
+	{
+		"text": "說文解字弟六下",
+		"bbox": [629, 254, 708, 523],
+		"type": "title",
+		"comment": "书名及卷次"
+	},
+	{
+		"text": "文三 重一",
+		"bbox": [835, 408, 907, 638],
+		"type": "page_marker",
+		"comment": "页码或章节标记"
+	},
+	{
+		"text": "焦克",
+		"bbox": [183, 797, 210, 842],
+		"type": "publisher_or_editor",
+		"comment": "出版者或校订者姓名"
+	}
+]
+```
