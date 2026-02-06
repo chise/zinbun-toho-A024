@@ -1,0 +1,148 @@
+```json
+[
+	{
+		"text": "小爾雅",
+		"bbox": [807, 273, 826, 334],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从人酉",
+		"bbox": [720, 275, 798, 334],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宿从此",
+		"bbox": [715, 275, 757, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "莫",
+		"bbox": [715, 350, 798, 441],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宋也从夕莫",
+		"bbox": [757, 350, 803, 570],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲莫白切",
+		"bbox": [712, 441, 759, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文九",
+		"bbox": [712, 615, 790, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重四",
+		"bbox": [715, 734, 784, 811],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李云",
+		"bbox": [800, 802, 820, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "多重也从重夕夕者相繹也故爲多",
+		"bbox": [614, 273, 690, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重夕爲多重日爲疊凡多之屬皆",
+		"bbox": [508, 350, 586, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从多得何",
+		"bbox": [414, 355, 488, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [405, 448, 443, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [357, 355, 394, 388],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "多",
+		"bbox": [310, 355, 342, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齊謂多爲課从",
+		"bbox": [362, 487, 395, 648],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "多果聲呼果切",
+		"bbox": [304, 494, 343, 649],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大也从多圣",
+		"bbox": [353, 701, 387, 850],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦回切",
+		"bbox": [304, 701, 342, 820],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "厚脣兒从多从尚徐鍇",
+		"bbox": [252, 355, 293, 589],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰多即厚也陟加切",
+		"bbox": [203, 355, 245, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文四",
+		"bbox": [211, 637, 277, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [211, 744, 275, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穿物持之也从一橫貫象寶貨之",
+		"bbox": [108, 343, 187, 846],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
