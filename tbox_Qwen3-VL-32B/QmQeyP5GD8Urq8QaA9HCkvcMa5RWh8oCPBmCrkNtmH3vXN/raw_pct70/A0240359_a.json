@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "小三五才", "bbox": [795, 264, 815, 329], "size": "small", "type": "text", "comment": "页码或编号"},
+	{"text": "讀文一", "bbox": [800, 399, 825, 465], "size": "small", "type": "text", "comment": "章节或标题"},
+	{"text": "曹昌", "bbox": [795, 793, 815, 830], "size": "small", "type": "text", "comment": "作者或校注者姓名"},
+	{"text": "黷 齊謂黑爲黷从會 沃黑色从黑 言 深", "bbox": [745, 264, 792, 830], "size": "large", "type": "text", "comment": "篆书字形及释义"},
+	{"text": "黑盧聲洛乎切 會聲惡外切 黑", "bbox": [695, 264, 742, 830], "size": "large", "type": "text", "comment": "注音与解释"},
+	{"text": "也从黑音 中黑也从黑 小黑子从黑", "bbox": [645, 264, 692, 830], "size": "large", "type": "text", "comment": "字形结构与音义说明"},
+	{"text": "聲乙減切 厭聲於珍切 殿聲烏雞切", "bbox": [595, 264, 642, 830], "size": "large", "type": "text", "comment": "反切注音"},
+	{"text": "旦 白而有黑也从黑旦聲 雖晳而黑也从黑", "bbox": [545, 264, 592, 830], "size": "large", "type": "text", "comment": "字形与释义"},
+	{"text": "黑 五原有莫黚縣當割切 歲聲古人名黫字", "bbox": [495, 264, 542, 830], "size": "large", "type": "text", "comment": "字形与历史用法"},
+	{"text": "晳古 咸切 赤黑也从黑易聲 淺青黑也从", "bbox": [445, 264, 492, 830], "size": "large", "type": "text", "comment": "字形与音义"},
+	{"text": "黵 讀若煬餘亮切 黑參聲七感", "bbox": [395, 264, 442, 830], "size": "large", "type": "text", "comment": "字形与反切"},
+	{"text": "切 青黑也从黑 微青黑色从黑幼聲爾", "bbox": [345, 264, 392, 830], "size": "large", "type": "text", "comment": "字形与音义"},
+	{"text": "黲 奄聲於檻切 雅曰地謂之黝於糾切", "bbox": [295, 264, 342, 830], "size": "large", "type": "text", "comment": "字形与引文"},
+	{"text": "屯 黃濁黑从黑 小黑也从黑 淺黃", "bbox": [245, 264, 292, 830], "size": "large", "type": "text", "comment": "字形与释义"},
+	{"text": "黑 屯聲他衮切 占聲多忝切 黑也", "bbox": [195, 264, 242, 830], "size": "large", "type": "text", "comment": "字形与音义"},
+	{"text": "从黑甘聲讀若染繒 黃黑也从黑 黑有", "bbox": [145, 264, 192, 830], "size": "large", "type": "text", "comment": "字形与音义"},
+	{"text": "中東緅黚巨淹切 金聲古咸切 文也", "bbox": [95, 264, 142, 830], "size": "large", "type": "text", "comment": "字形与音义"}
+]
+```
