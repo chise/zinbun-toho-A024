@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "建",
+		"bbox": [867, 280, 907, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頴川縣从邑",
+		"bbox": [867, 388, 907, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "新郪汝南縣从",
+		"bbox": [867, 610, 907, 741],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [827, 280, 867, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夾聲工洽切",
+		"bbox": [827, 388, 867, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑妻聲七稽切",
+		"bbox": [827, 610, 867, 741],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "姬姓之國在淮北从邑息",
+		"bbox": [786, 280, 827, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲今汝南新鄖相即切",
+		"bbox": [746, 280, 786, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "汝南邵陵里从邑自",
+		"bbox": [746, 610, 786, 797],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若奚胡雞切",
+		"bbox": [705, 610, 746, 797],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "汝南鮦陽亭从",
+		"bbox": [664, 280, 705, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蔡邑也从邑臭聲春秋傳",
+		"bbox": [664, 610, 705, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑旁聲步光切",
+		"bbox": [623, 280, 664, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰郯陽封人之女奔之古",
+		"bbox": [623, 610, 664, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "閩",
+		"bbox": [582, 280, 623, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曼姓之國今屬南陽",
+		"bbox": [582, 388, 623, 610],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鄧國地也从",
+		"bbox": [582, 689, 623, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [541, 280, 582, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从邑登聲徒亘切",
+		"bbox": [541, 388, 582, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑憂聲春秋",
+		"bbox": [541, 709, 582, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰鄧南鄙酈",
+		"bbox": [499, 280, 541, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南陽淯陽鄉从",
+		"bbox": [499, 610, 541, 797],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南陽棗",
+		"bbox": [499, 788, 541, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人攻之於求切",
+		"bbox": [458, 280, 499, 433],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑号聲乎刀切",
+		"bbox": [458, 533, 499, 673],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陽鄉从",
+		"bbox": [458, 788, 499, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑巢聲",
+		"bbox": [417, 280, 458, 353],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "今南陽穰縣是从",
+		"bbox": [417, 442, 458, 610],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南陽穰鄉从邑",
+		"bbox": [417, 689, 458, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鉏交切",
+		"bbox": [376, 280, 417, 353],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑襄聲汝羊切",
+		"bbox": [376, 442, 417, 601],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "妻聲力朱切",
+		"bbox": [376, 689, 417, 830],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南陽西鄂亭从",
+		"bbox": [335, 353, 376, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "南陽舞陰亭从",
+		"bbox": [335, 610, 376, 741],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑里聲良止切",
+		"bbox": [294, 353, 335, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑羽聲王桀切",
+		"bbox": [294, 610, 335, 741],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十一",
+		"bbox": [180, 272, 202, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文下",
+		"bbox": [172, 402, 197, 489],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一三一",
+		"bbox": [172, 695, 197, 716],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳廣",
+		"bbox": [172, 814, 197, 846],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
