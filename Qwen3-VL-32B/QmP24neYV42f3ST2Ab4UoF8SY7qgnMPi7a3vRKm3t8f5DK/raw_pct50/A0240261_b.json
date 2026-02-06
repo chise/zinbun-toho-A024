@@ -1,0 +1,322 @@
+```json
+[
+	{
+		"text": "穴",
+		"bbox": [834, 265, 907, 340],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "凍也从人在宀下以丬",
+		"bbox": [872, 345, 915, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "薦覆之下有众胡安切",
+		"bbox": [822, 345, 866, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "害",
+		"bbox": [832, 595, 909, 674],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "傷也从宀从丶",
+		"bbox": [871, 680, 915, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宀口言从家起",
+		"bbox": [822, 680, 866, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也丰聲",
+		"bbox": [772, 268, 814, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "胡蓋切",
+		"bbox": [722, 268, 764, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "索",
+		"bbox": [732, 348, 808, 431],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "入家揞也从宀",
+		"bbox": [771, 348, 814, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "絫聲所責切",
+		"bbox": [722, 348, 764, 587],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竊",
+		"bbox": [732, 584, 808, 655],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "窮也从宀執聲執",
+		"bbox": [771, 592, 814, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "與筠同居六切",
+		"bbox": [722, 592, 764, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "窺或",
+		"bbox": [671, 268, 713, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從穴",
+		"bbox": [622, 348, 664, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宄",
+		"bbox": [632, 400, 708, 486],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "姦也外為盜内為宄从",
+		"bbox": [671, 490, 713, 729],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宀九聲讀若軌居洧切",
+		"bbox": [622, 490, 664, 729],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "交",
+		"bbox": [622, 750, 708, 834],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [572, 268, 614, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穴",
+		"bbox": [522, 324, 608, 398],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "亦古",
+		"bbox": [572, 398, 614, 444],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文宄",
+		"bbox": [522, 444, 564, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敘",
+		"bbox": [522, 462, 608, 542],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "塞也从宀敘聲讀若虞書",
+		"bbox": [572, 546, 614, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰敍三苗之敍麤最切",
+		"bbox": [522, 546, 564, 778],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穴",
+		"bbox": [431, 265, 508, 340],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "過也一曰洞屋从宀陽省",
+		"bbox": [471, 345, 513, 606],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲汝南項有宕鄉徒浪切",
+		"bbox": [422, 345, 464, 606],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宋",
+		"bbox": [432, 606, 508, 684],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "居也从宀从木",
+		"bbox": [471, 690, 513, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若送臣鉉等",
+		"bbox": [422, 690, 464, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日木者所以成室",
+		"bbox": [372, 268, 414, 444],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以居人也蘇綜切",
+		"bbox": [322, 268, 364, 444],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "窒",
+		"bbox": [322, 450, 408, 532],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "屋傾下也从宀",
+		"bbox": [372, 542, 414, 690],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "執聲都念切",
+		"bbox": [322, 542, 364, 672],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宗",
+		"bbox": [322, 696, 408, 778],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "尊祖",
+		"bbox": [372, 784, 414, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廟也",
+		"bbox": [322, 784, 364, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从宀从示",
+		"bbox": [272, 268, 314, 362],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "作冬切",
+		"bbox": [222, 268, 264, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "主",
+		"bbox": [222, 374, 308, 454],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "宗廟室祏从宀",
+		"bbox": [272, 462, 314, 606],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "主聲之庾切",
+		"bbox": [222, 462, 264, 590],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宙",
+		"bbox": [222, 618, 308, 698],
+		"type": "character",
+		"comment": ""
+	},
+	{
+		"text": "舟輿所極覆",
+		"bbox": [272, 706, 314, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从宀由聲",
+		"bbox": [222, 706, 264, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大二十",
+		"bbox": [175, 265, 202, 302],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文古下",
+		"bbox": [159, 398, 195, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "六",
+		"bbox": [162, 676, 195, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴振",
+		"bbox": [175, 802, 202, 840],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
