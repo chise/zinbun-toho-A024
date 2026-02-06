@@ -1,0 +1,70 @@
+```json
+[
+	{
+		"text": "說文解字弟七 上 漢太尉祭酒許慎記",
+		"bbox": [817, 265, 904, 831],
+		"type": "title",
+		"comment": "书名及作者信息"
+	},
+	{
+		"text": "銀青光祿大夫右散騎常侍上柱國東海縣開國子食邑五百戶臣徐鉉等奉",
+		"bbox": [728, 288, 791, 848],
+		"type": "author",
+		"comment": "校订者官职与姓名"
+	},
+	{
+		"text": "敕挍定",
+		"bbox": [632, 286, 681, 357],
+		"type": "note",
+		"comment": "敕令校订"
+	},
+	{
+		"text": "五十六部 文七百一十四 重百一十五",
+		"bbox": [511, 298, 594, 820],
+		"type": "content_summary",
+		"comment": "部首和字数统计"
+	},
+	{
+		"text": "凡八千六百四十七字",
+		"bbox": [411, 372, 490, 688],
+		"type": "content_summary",
+		"comment": "总字数"
+	},
+	{
+		"text": "文四十二 新附",
+		"bbox": [314, 368, 389, 572],
+		"type": "content_summary",
+		"comment": "新增文字数量"
+	},
+	{
+		"text": "日 實也太陽之精不虧从口一象形",
+		"bbox": [211, 276, 287, 841],
+		"type": "character_definition",
+		"comment": "“日”字的释义与字形分析"
+	},
+	{
+		"text": "東方文化學院京都研究所",
+		"bbox": [780, 680, 820, 846],
+		"type": "institution_stamp",
+		"comment": "红色印章，标明机构来源"
+	},
+	{
+		"text": "3790",
+		"bbox": [794, 160, 875, 182],
+		"type": "page_number",
+		"comment": "页码或编号"
+	},
+	{
+		"text": "陳玉",
+		"bbox": [171, 779, 198, 832],
+		"type": "signature",
+		"comment": "签名或标记"
+	},
+	{
+		"text": "大十八",
+		"bbox": [170, 266, 194, 313],
+		"type": "annotation",
+		"comment": "可能是卷册或页码标注"
+	}
+]
+```
