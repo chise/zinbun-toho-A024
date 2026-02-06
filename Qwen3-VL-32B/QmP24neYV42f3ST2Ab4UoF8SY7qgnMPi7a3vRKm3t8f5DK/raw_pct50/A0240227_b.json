@@ -1,0 +1,274 @@
+```json
+[
+	{
+		"text": "大二十八",
+		"bbox": [174, 268, 199, 354],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "说文下",
+		"bbox": [170, 400, 199, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "上一",
+		"bbox": [173, 701, 198, 724],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張信",
+		"bbox": [174, 810, 199, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "糸",
+		"bbox": [832, 265, 903, 351],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "殷諸矦國在上黨東北从邑秇聲",
+		"bbox": [862, 354, 912, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晉邑也",
+		"bbox": [863, 649, 912, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋古文利商書西伯戡黎郎奚切",
+		"bbox": [813, 354, 862, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从邑召",
+		"bbox": [814, 649, 862, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲寔",
+		"bbox": [764, 265, 812, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晉邑也从邑冥聲春秋",
+		"bbox": [764, 354, 812, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晉邢矦邑",
+		"bbox": [764, 649, 812, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "照切",
+		"bbox": [715, 265, 763, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰伐鄭三門莫經切",
+		"bbox": [715, 354, 763, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从邑畜聲",
+		"bbox": [715, 649, 763, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丑六",
+		"bbox": [666, 265, 714, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晉之温地从邑矦聲春",
+		"bbox": [666, 354, 714, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晉邑也从",
+		"bbox": [666, 649, 714, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [617, 265, 665, 302],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋傳曰爭鮑田胡遘切",
+		"bbox": [617, 354, 665, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑必聲春",
+		"bbox": [617, 649, 665, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋傳曰晉楚戰",
+		"bbox": [568, 265, 616, 431],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晉大夫叔虎邑也",
+		"bbox": [568, 436, 616, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "河東",
+		"bbox": [568, 649, 616, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "于邲毗必切",
+		"bbox": [519, 265, 567, 405],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从邑谷聲綺戟切",
+		"bbox": [519, 436, 567, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聞喜",
+		"bbox": [519, 649, 567, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "縣从邑非聲",
+		"bbox": [470, 265, 518, 405],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "河東聞喜聚从",
+		"bbox": [470, 436, 518, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "河東聞喜",
+		"bbox": [470, 649, 518, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "薄回切",
+		"bbox": [421, 265, 469, 351],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邑虗聲渠焉切",
+		"bbox": [421, 354, 469, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鄉从邑匡",
+		"bbox": [421, 649, 469, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲去",
+		"bbox": [372, 265, 420, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "河東臨汾地即漢之所祭",
+		"bbox": [372, 354, 420, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周公子",
+		"bbox": [372, 649, 420, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王切",
+		"bbox": [323, 265, 371, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "后土處从邑癸聲揆唯切",
+		"bbox": [323, 354, 371, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "所封地",
+		"bbox": [323, 649, 371, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "近河內懷从邑",
+		"bbox": [274, 265, 322, 431],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "太原縣名从邑",
+		"bbox": [274, 436, 322, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "太原縣",
+		"bbox": [274, 649, 322, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "开聲戶經切",
+		"bbox": [225, 265, 273, 405],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "烏聲安古切",
+		"bbox": [225, 436, 273, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从邑示",
+		"bbox": [225, 649, 273, 847],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

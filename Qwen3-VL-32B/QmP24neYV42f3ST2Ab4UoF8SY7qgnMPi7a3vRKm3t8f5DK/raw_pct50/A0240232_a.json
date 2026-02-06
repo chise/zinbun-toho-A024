@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "小三百一", "bbox": [803, 274, 820, 326], "type": "text", "comment": ""},
+	{"text": "言文十一", "bbox": [805, 415, 822, 483], "type": "text", "comment": ""},
+	{"text": "十方", "bbox": [805, 659, 822, 701], "type": "text", "comment": ""},
+	{"text": "景昌", "bbox": [799, 814, 815, 847], "type": "text", "comment": ""},
+	{"text": "汝南上蔡亭从", "bbox": [760, 283, 799, 434], "type": "text", "comment": ""},
+	{"text": "邑甫聲方矩切", "bbox": [716, 283, 755, 434], "type": "text", "comment": ""},
+	{"text": "从反邑䍃", "bbox": [671, 358, 699, 455], "type": "text", "comment": ""},
+	{"text": "字从此闕", "bbox": [610, 358, 647, 458], "type": "text", "comment": ""},
+	{"text": "文一百八十四", "bbox": [511, 390, 588, 600], "type": "text", "comment": ""},
+	{"text": "重六", "bbox": [508, 645, 579, 725], "type": "text", "comment": ""},
+	{"text": "鄰道也从邑从呂凡䍃之屬皆从", "bbox": [401, 358, 488, 848], "type": "text", "comment": ""},
+	{"text": "䍃闕胡絳切今", "bbox": [313, 358, 386, 525], "type": "text", "comment": ""},
+	{"text": "變隸作郳", "bbox": [301, 444, 341, 546], "type": "text", "comment": ""},
+	{"text": "國離邑民所封鄉也嗇夫別治封圻之", "bbox": [256, 365, 293, 744], "type": "text", "comment": ""},
+	{"text": "内六鄉六鄉治之从䍃皀聲許良切", "bbox": [198, 365, 236, 721], "type": "text", "comment": ""},
+	{"text": "里中道从䍃从共皆在", "bbox": [155, 280, 193, 516], "type": "text", "comment": ""},
+	{"text": "邑中所共也胡絳切", "bbox": [100, 280, 139, 487], "type": "text", "comment": ""},
+	{"text": "篆文从", "bbox": [151, 590, 189, 665], "type": "text", "comment": ""},
+	{"text": "䍃省", "bbox": [100, 588, 138, 638], "type": "text", "comment": ""},
+	{"text": "南陽縣从邑", "bbox": [758, 518, 793, 641], "type": "text", "comment": ""},
+	{"text": "麗聲郎擊切", "bbox": [712, 518, 748, 641], "type": "text", "comment": ""},
+	{"text": "地名从邑嚳", "bbox": [758, 726, 793, 850], "type": "text", "comment": ""},
+	{"text": "聲七然切", "bbox": [702, 726, 738, 818], "type": "text", "comment": ""}
+]
+```
