@@ -1,0 +1,208 @@
+```json
+[
+	{
+		"text": "大二十二",
+		"bbox": [173, 267, 190, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌文七下",
+		"bbox": [170, 405, 190, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張信",
+		"bbox": [181, 811, 200, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罥兔罟也从网否聲臣鉉",
+		"bbox": [825, 345, 906, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "等曰隸書作罘縛牟切",
+		"bbox": [812, 345, 888, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罝罟也从网互",
+		"bbox": [825, 654, 906, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲胡誤切",
+		"bbox": [812, 654, 888, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罝兔网也从网",
+		"bbox": [725, 345, 804, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "且聲子邪切",
+		"bbox": [713, 345, 789, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罝或",
+		"bbox": [755, 591, 804, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籒文",
+		"bbox": [755, 654, 804, 748],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从虘",
+		"bbox": [713, 654, 789, 748],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罝牖中网也从网",
+		"bbox": [655, 270, 697, 427],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舞聲文甫切",
+		"bbox": [606, 270, 650, 427],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "署部署有所网屬从网者聲徐錯",
+		"bbox": [655, 518, 700, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日署置之言羅絡之若罘网也",
+		"bbox": [606, 518, 650, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "常恕",
+		"bbox": [542, 270, 586, 323],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [504, 270, 546, 296],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "而貫遣之周禮曰議能之辟薄蟹切",
+		"bbox": [504, 405, 550, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "造有辠也从网能言有賢能而入网",
+		"bbox": [552, 405, 600, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赦也从网直徐鍇曰从",
+		"bbox": [458, 345, 502, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "直與罷同意陟吏切",
+		"bbox": [402, 345, 448, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "覆也从网音",
+		"bbox": [458, 654, 502, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲烏感切",
+		"bbox": [402, 654, 448, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罵也从网从言",
+		"bbox": [346, 345, 390, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "网辠人力智切",
+		"bbox": [300, 345, 344, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詈也从网馬",
+		"bbox": [346, 591, 390, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲莫駕切",
+		"bbox": [300, 591, 344, 709],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "絡馬",
+		"bbox": [346, 811, 390, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "絡",
+		"bbox": [300, 811, 344, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頭也从网从罦罦",
+		"bbox": [244, 270, 288, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬絆也居宜切",
+		"bbox": [190, 270, 236, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罦或",
+		"bbox": [244, 572, 288, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从革",
+		"bbox": [190, 553, 236, 613],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

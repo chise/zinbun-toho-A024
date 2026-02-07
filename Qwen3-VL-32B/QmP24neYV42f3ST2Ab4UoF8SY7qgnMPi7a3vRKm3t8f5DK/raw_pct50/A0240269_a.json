@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "小二百八十三", "bbox": [804, 259, 823, 321], "type": "text", "comment": ""},
+	{"text": "說文七下", "bbox": [807, 401, 836, 489], "type": "text", "comment": ""},
+	{"text": "十三", "bbox": [804, 670, 823, 722], "type": "text", "comment": ""},
+	{"text": "李明", "bbox": [801, 803, 820, 842], "type": "text", "comment": ""},
+	{"text": "冖覆也从一下坐也凡冖之屬皆从", "bbox": [710, 270, 797, 845], "type": "text", "comment": ""},
+	{"text": "臣鉉等曰今俗", "bbox": [655, 401, 690, 556], "type": "text", "comment": ""},
+	{"text": "作冪同莫狄切", "bbox": [605, 401, 642, 555], "type": "text", "comment": ""},
+	{"text": "冠有法制从寸徐鍇曰取其在首故从元古丸切", "bbox": [512, 344, 547, 843], "type": "text", "comment": ""},
+	{"text": "絫也所以絫髮弁冕之總名也从冖从元元亦聲", "bbox": [555, 344, 592, 843], "type": "text", "comment": ""},
+	{"text": "積也从冖从取", "bbox": [458, 344, 492, 498], "type": "text", "comment": ""},
+	{"text": "取亦聲才句切", "bbox": [407, 344, 442, 498], "type": "text", "comment": ""},
+	{"text": "奠爵酒也从冖託聲周書", "bbox": [453, 586, 487, 843], "type": "text", "comment": ""},
+	{"text": "曰王三宿三祭三罷當故", "bbox": [398, 586, 432, 843], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [352, 264, 389, 288], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [312, 388, 378, 468], "type": "text", "comment": ""},
+	{"text": "冖重覆也从冖一凡冖之屬皆从冖", "bbox": [207, 270, 280, 843], "type": "text", "comment": ""},
+	{"text": "莫係", "bbox": [155, 344, 187, 398], "type": "text", "comment": ""},
+	{"text": "切讀若艸苺之苺", "bbox": [103, 344, 174, 634], "type": "text", "comment": ""}
+]
+```
