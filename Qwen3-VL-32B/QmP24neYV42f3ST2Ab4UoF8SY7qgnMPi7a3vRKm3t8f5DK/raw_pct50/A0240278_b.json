@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "等曰今俗别作",
+		"bbox": [867, 267, 907, 430],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "珮非是蒲妹切",
+		"bbox": [815, 267, 861, 430],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从人夋聲",
+		"bbox": [763, 267, 808, 376],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "子峻切",
+		"bbox": [712, 267, 758, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人名从人及",
+		"bbox": [661, 359, 706, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲居立切",
+		"bbox": [610, 359, 656, 437],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "長也从人白",
+		"bbox": [558, 267, 605, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲博陌切",
+		"bbox": [507, 267, 554, 376],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "中也从人从中",
+		"bbox": [558, 488, 605, 651],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "中亦聲直衆切",
+		"bbox": [507, 488, 554, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "下者从人从",
+		"bbox": [456, 267, 502, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尹於脂切",
+		"bbox": [405, 267, 451, 376],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文伊从",
+		"bbox": [456, 488, 502, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文死",
+		"bbox": [405, 488, 451, 566],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "高辛氏之子堯",
+		"bbox": [456, 666, 502, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "司徒殷之先从",
+		"bbox": [405, 666, 451, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人契聲",
+		"bbox": [354, 267, 400, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "私列切",
+		"bbox": [303, 267, 349, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人字从人青聲東齊",
+		"bbox": [354, 430, 400, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壻謂之倩倉見切",
+		"bbox": [303, 430, 349, 620],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "婦官也从",
+		"bbox": [354, 733, 400, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人予聲以",
+		"bbox": [303, 733, 349, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諸",
+		"bbox": [252, 267, 298, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [202, 267, 247, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "志及衆也从人",
+		"bbox": [252, 376, 298, 539],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "公聲職茸切",
+		"bbox": [202, 376, 247, 513],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "慧也从人罬",
+		"bbox": [252, 630, 298, 758],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲許緣切",
+		"bbox": [202, 630, 247, 729],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十",
+		"bbox": [172, 262, 195, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文八上",
+		"bbox": [165, 403, 192, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二一",
+		"bbox": [165, 679, 192, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "程樹",
+		"bbox": [179, 805, 204, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "柔也術士之稱从",
+		"bbox": [867, 527, 907, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人需聲人朱切",
+		"bbox": [815, 527, 861, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傲也从人桀",
+		"bbox": [763, 455, 808, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲渠剡切",
+		"bbox": [712, 455, 758, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人姓从人軍",
+		"bbox": [763, 679, 808, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲吾昆切",
+		"bbox": [712, 679, 758, 782],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人名从人亢聲論",
+		"bbox": [661, 571, 706, 758],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "語有陳伉苦浪切",
+		"bbox": [610, 571, 656, 758],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "殷聖人阿",
+		"bbox": [558, 733, 605, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衡尹治天",
+		"bbox": [507, 733, 554, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "材千",
+		"bbox": [867, 782, 907, 830],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人也",
+		"bbox": [815, 797, 861, 839],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

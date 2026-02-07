@@ -1,0 +1,322 @@
+```json
+[
+	{
+		"text": "小四百〇八",
+		"bbox": [798, 274, 823, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言支八上",
+		"bbox": [802, 416, 827, 493],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卞俊",
+		"bbox": [799, 797, 825, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衣",
+		"bbox": [704, 277, 786, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "袀也从衣介",
+		"bbox": [752, 358, 786, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲胡介切",
+		"bbox": [704, 358, 743, 460],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "繹",
+		"bbox": [704, 491, 787, 572],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "絝也从衣睪",
+		"bbox": [752, 574, 786, 673],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒各切",
+		"bbox": [704, 574, 743, 673],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "紳",
+		"bbox": [704, 699, 787, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "裾也",
+		"bbox": [752, 790, 786, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从衣",
+		"bbox": [704, 790, 743, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "它聲論語曰朝",
+		"bbox": [652, 277, 691, 437],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "服袍紳唐左切",
+		"bbox": [600, 277, 640, 437],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "袘",
+		"bbox": [600, 440, 685, 506],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衣袍也从衣居聲",
+		"bbox": [652, 508, 691, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀與居同九魚切",
+		"bbox": [600, 508, 640, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "袞",
+		"bbox": [600, 702, 685, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諸袴",
+		"bbox": [652, 790, 691, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [600, 790, 640, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衣于聲",
+		"bbox": [549, 277, 589, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羽俱切",
+		"bbox": [500, 277, 538, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "𧞨",
+		"bbox": [500, 358, 585, 437],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "綺也从衣寒省聲春秋",
+		"bbox": [552, 440, 590, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰徵褰與襦去虙切",
+		"bbox": [500, 440, 538, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "襃",
+		"bbox": [500, 702, 585, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "綺騎也",
+		"bbox": [552, 790, 590, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从衣龍",
+		"bbox": [500, 790, 538, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲丈",
+		"bbox": [448, 277, 487, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冢切",
+		"bbox": [400, 277, 438, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "贊",
+		"bbox": [400, 358, 485, 437],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "襱或",
+		"bbox": [452, 440, 489, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "綺上也从衣",
+		"bbox": [452, 508, 489, 673],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "召聲市沼切",
+		"bbox": [400, 508, 438, 673],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "裷",
+		"bbox": [400, 699, 485, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衣博大",
+		"bbox": [452, 790, 489, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从衣夀",
+		"bbox": [400, 790, 438, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲他",
+		"bbox": [349, 277, 388, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "感切",
+		"bbox": [300, 277, 338, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "褎",
+		"bbox": [300, 358, 385, 437],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衣博裾从衣保省聲",
+		"bbox": [352, 440, 389, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "係古文保博毛切",
+		"bbox": [300, 440, 338, 699],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "裷",
+		"bbox": [300, 702, 385, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "緥也从衣啻",
+		"bbox": [352, 790, 389, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲詩曰載衣",
+		"bbox": [300, 790, 338, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之襠臣鉉等曰緥即襥緥也",
+		"bbox": [250, 277, 288, 564],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "今俗別作褓非是他計切",
+		"bbox": [200, 277, 238, 564],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "𢕓",
+		"bbox": [200, 567, 285, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衣正幅从衣",
+		"bbox": [252, 650, 289, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "耑聲多官切",
+		"bbox": [200, 650, 238, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "𧞩",
+		"bbox": [100, 277, 185, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重衣皃从衣圍聲爾雅曰𧞩𧞩襀襀臣鉉等曰說",
+		"bbox": [152, 358, 190, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文無襀字爾雅亦無此語疑後人所加羽非切",
+		"bbox": [100, 358, 138, 837],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

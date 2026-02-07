@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "大十", "bbox": [183, 270, 204, 305], "type": "text", "comment": ""},
+	{"text": "說文七下", "bbox": [169, 406, 198, 493], "type": "text", "comment": ""},
+	{"text": "十二", "bbox": [165, 679, 192, 704], "type": "text", "comment": ""},
+	{"text": "陳廣", "bbox": [187, 815, 207, 849], "type": "text", "comment": ""},
+	{"text": "玉石之白也从", "bbox": [871, 283, 908, 434], "type": "text", "comment": ""},
+	{"text": "白敫聲古了切", "bbox": [821, 283, 858, 434], "type": "text", "comment": ""},
+	{"text": "白讀若皎", "bbox": [765, 283, 805, 384], "type": "text", "comment": ""},
+	{"text": "烏皎切", "bbox": [718, 283, 757, 355], "type": "text", "comment": ""},
+	{"text": "文十一", "bbox": [736, 454, 798, 557], "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [736, 653, 798, 729], "type": "text", "comment": ""},
+	{"text": "際見之白也从白", "bbox": [871, 536, 908, 713], "type": "text", "comment": ""},
+	{"text": "顯也", "bbox": [871, 799, 908, 844], "type": "text", "comment": ""},
+	{"text": "上下小見起戟切", "bbox": [821, 536, 858, 713], "type": "text", "comment": ""},
+	{"text": "从三", "bbox": [821, 799, 858, 844], "type": "text", "comment": ""},
+	{"text": "敗衣也从巾象衣敗之形凡尚之", "bbox": [625, 274, 701, 847], "type": "text", "comment": ""},
+	{"text": "屬皆从尚毗祭", "bbox": [524, 353, 598, 539], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [524, 510, 558, 539], "type": "text", "comment": ""},
+	{"text": "帓也一曰敗衣从支", "bbox": [467, 353, 507, 539], "type": "text", "comment": ""},
+	{"text": "从尙尙亦聲毗祭切", "bbox": [419, 353, 458, 562], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [428, 634, 495, 706], "type": "text", "comment": ""},
+	{"text": "箴縷所紩衣从尚辠省凡黹之屬", "bbox": [320, 274, 398, 847], "type": "text", "comment": ""},
+	{"text": "皆从黹", "bbox": [222, 350, 290, 470], "type": "text", "comment": ""},
+	{"text": "臣鉉等曰辠衆多也言箴", "bbox": [262, 484, 304, 749], "type": "text", "comment": ""},
+	{"text": "縷之工不一也陟几切", "bbox": [211, 484, 253, 713], "type": "text", "comment": ""}
+]
+```

@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "大十三", "bbox": [178, 259, 196, 300], "type": "text", "comment": ""},
+	{"text": "说文八上", "bbox": [164, 403, 192, 486], "type": "text", "comment": ""},
+	{"text": "十三", "bbox": [166, 668, 194, 700], "type": "text", "comment": ""},
+	{"text": "嚴振", "bbox": [178, 806, 198, 842], "type": "text", "comment": ""},
+	{"text": "曰今俗别作墟非是", "bbox": [824, 268, 904, 489], "type": "text", "comment": ""},
+	{"text": "丘如切又朽居切", "bbox": [809, 268, 855, 457], "type": "text", "comment": ""},
+	{"text": "反頂受水巫从巫", "bbox": [866, 571, 904, 757], "type": "text", "comment": ""},
+	{"text": "泥省聲奴低切", "bbox": [814, 571, 854, 729], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [719, 418, 789, 500], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [722, 569, 786, 652], "type": "text", "comment": ""},
+	{"text": "衆立也从三人凡仩之屬皆从仩", "bbox": [619, 346, 694, 842], "type": "text", "comment": ""},
+	{"text": "讀若欽崟魚音切", "bbox": [515, 340, 591, 528], "type": "text", "comment": ""},
+	{"text": "多也从仩目", "bbox": [457, 351, 496, 484], "type": "text", "comment": ""},
+	{"text": "衆意之仲切", "bbox": [412, 351, 450, 484], "type": "text", "comment": ""},
+	{"text": "會也从仩取聲邑", "bbox": [459, 552, 498, 737], "type": "text", "comment": ""},
+	{"text": "落云聚才句切", "bbox": [413, 552, 452, 723], "type": "text", "comment": ""},
+	{"text": "衆詞與也从仩自聲虞", "bbox": [358, 268, 397, 514], "type": "text", "comment": ""},
+	{"text": "書曰泉咎繇其冀切", "bbox": [305, 268, 344, 484], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [354, 601, 393, 655], "type": "text", "comment": ""},
+	{"text": "泉", "bbox": [312, 601, 340, 638], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [212, 418, 283, 500], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [214, 571, 285, 652], "type": "text", "comment": ""}
+]
+```

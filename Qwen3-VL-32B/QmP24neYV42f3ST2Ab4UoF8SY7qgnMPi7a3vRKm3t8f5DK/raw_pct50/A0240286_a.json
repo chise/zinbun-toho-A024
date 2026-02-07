@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "小三百九十五", "bbox": [803, 281, 822, 341], "type": "text", "comment": ""},
+	{"text": "言又广", "bbox": [805, 417, 829, 486], "type": "text", "comment": ""},
+	{"text": "任三", "bbox": [801, 807, 821, 833], "type": "text", "comment": ""},
+	{"text": "倂 毁也从人咎 聲其久切", "bbox": [705, 284, 797, 461], "type": "text", "comment": ""},
+	{"text": "佳 化隹醜面从人 佳聲許惟切", "bbox": [705, 492, 797, 701], "type": "text", "comment": ""},
+	{"text": "偵 措也", "bbox": [705, 733, 797, 846], "type": "text", "comment": ""},
+	{"text": "从人直聲 直吏切", "bbox": [645, 284, 694, 358], "type": "text", "comment": ""},
+	{"text": "寄也从人庀聲庀 古文宅他各切", "bbox": [645, 484, 694, 646], "type": "text", "comment": ""},
+	{"text": "聚也从人 尊聲詩曰", "bbox": [645, 733, 694, 846], "type": "text", "comment": ""},
+	{"text": "傅沓肯憎 慈損切", "bbox": [583, 284, 631, 358], "type": "text", "comment": ""},
+	{"text": "象也从人从象象亦 聲讀若養徐兩切", "bbox": [583, 484, 631, 646], "type": "text", "comment": ""},
+	{"text": "罷也从人 卷聲渠眷", "bbox": [583, 733, 631, 846], "type": "text", "comment": ""},
+	{"text": "切 終也从人曹 聲作曹切", "bbox": [458, 284, 506, 486], "type": "text", "comment": ""},
+	{"text": "桐人也从人 禺聲五口切", "bbox": [458, 518, 506, 708], "type": "text", "comment": ""},
+	{"text": "問終 也古", "bbox": [458, 733, 506, 846], "type": "text", "comment": ""},
+	{"text": "之葬者厚衣之以薪从 人持弓會歐禽多嘯切", "bbox": [348, 284, 396, 518], "type": "text", "comment": ""},
+	{"text": "廟佡穆父爲佡南面子爲 穆北面从人召聲市招切", "bbox": [348, 518, 396, 846], "type": "text", "comment": ""},
+	{"text": "神也从人身 聲失人切", "bbox": [235, 284, 283, 454], "type": "text", "comment": ""},
+	{"text": "長生僊去从人从 壻壻亦聲相然切", "bbox": [235, 518, 283, 731], "type": "text", "comment": ""},
+	{"text": "犍 爲", "bbox": [235, 733, 283, 846], "type": "text", "comment": ""},
+	{"text": "蠻夷从人棘 聲蒲北切", "bbox": [122, 284, 170, 395], "type": "text", "comment": ""},
+	{"text": "人在山上从人 从山呼堅切", "bbox": [122, 492, 170, 646], "type": "text", "comment": ""},
+	{"text": "南方有焦 僥人長三", "bbox": [122, 733, 170, 846], "type": "text", "comment": ""}
+]
+```

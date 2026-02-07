@@ -1,0 +1,226 @@
+```json
+[
+	{
+		"text": "聲吕",
+		"bbox": [869, 275, 904, 331],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "支切",
+		"bbox": [825, 275, 860, 331],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "遠也从人專",
+		"bbox": [872, 332, 912, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲直蠻切",
+		"bbox": [825, 332, 863, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小臣也从人从官詩",
+		"bbox": [872, 542, 912, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰命彼倌人古患切",
+		"bbox": [825, 542, 863, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "善也从人介聲詩曰",
+		"bbox": [779, 332, 818, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "价人惟藩古拜切",
+		"bbox": [733, 332, 772, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "克也从人子",
+		"bbox": [779, 542, 818, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲子之切",
+		"bbox": [733, 542, 772, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "送也从人弇聲呂不韋曰有侁氏以伊尹俠女",
+		"bbox": [685, 332, 725, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文以為訓字臣鉉等曰弇不成字當从臏省",
+		"bbox": [639, 332, 678, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "案勝字从朕聲疑古",
+		"bbox": [592, 275, 632, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "者朕或音俟以證切",
+		"bbox": [545, 275, 585, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "緩也从人余",
+		"bbox": [592, 542, 632, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲似魚切",
+		"bbox": [545, 542, 585, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "僻宴",
+		"bbox": [592, 793, 632, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [545, 793, 585, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人弇聲",
+		"bbox": [499, 275, 538, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "毗正切",
+		"bbox": [452, 275, 491, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屈伸从人申",
+		"bbox": [499, 348, 538, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲失人切",
+		"bbox": [452, 348, 491, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "拙也从人且",
+		"bbox": [499, 542, 538, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲似魚切",
+		"bbox": [452, 542, 491, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "意麗也从人然聲臣鉉等",
+		"bbox": [405, 332, 444, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰麗更易破也人善切",
+		"bbox": [359, 332, 398, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弱也从人从",
+		"bbox": [405, 542, 444, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "更奴亂切",
+		"bbox": [359, 542, 398, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "反也从人吾",
+		"bbox": [263, 332, 302, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲薄亥切",
+		"bbox": [216, 332, 255, 541],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "引為賈也从人",
+		"bbox": [263, 542, 302, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "焉聲於建切",
+		"bbox": [216, 542, 255, 792],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "假",
+		"bbox": [263, 793, 302, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [216, 793, 255, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大二十八",
+		"bbox": [176, 267, 205, 329],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑次八上",
+		"bbox": [176, 399, 197, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張信",
+		"bbox": [183, 797, 202, 837],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

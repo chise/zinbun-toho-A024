@@ -1,0 +1,214 @@
+```json
+[
+	{
+		"text": "小二百六十五",
+		"bbox": [798, 259, 816, 320],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文八上",
+		"bbox": [804, 396, 827, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一",
+		"bbox": [804, 697, 827, 708],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "魏三",
+		"bbox": [799, 807, 819, 833],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臂脛之形凡人之屬皆从人如鄰切",
+		"bbox": [712, 363, 786, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "僮未冠也从人童聲徒紅切",
+		"bbox": [604, 261, 690, 754],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "保養也从人从采省",
+		"bbox": [604, 483, 689, 754],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "采古文示博裒切",
+		"bbox": [599, 483, 688, 754],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [547, 261, 587, 314],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "保古文保",
+		"bbox": [500, 316, 587, 551],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不省",
+		"bbox": [497, 399, 541, 452],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "仁親也从人从二臣鉉等曰",
+		"bbox": [544, 553, 587, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "仁者兼愛故从二如鄰切",
+		"bbox": [500, 553, 541, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文仁",
+		"bbox": [446, 338, 488, 404],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从千心",
+		"bbox": [398, 338, 439, 414],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文仁",
+		"bbox": [445, 494, 488, 574],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或从尸",
+		"bbox": [398, 494, 439, 574],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臥舉踵也从人",
+		"bbox": [445, 661, 488, 800],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "止聲去智切",
+		"bbox": [398, 661, 439, 800],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文金",
+		"bbox": [350, 338, 392, 414],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从足",
+		"bbox": [303, 338, 344, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "伸臂一尋八尺从",
+		"bbox": [350, 494, 392, 678],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人刃聲而震切",
+		"bbox": [303, 494, 344, 658],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "學也从",
+		"bbox": [350, 768, 392, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人从士",
+		"bbox": [303, 768, 344, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鉏里",
+		"bbox": [256, 261, 297, 308],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "交也从人从",
+		"bbox": [256, 386, 297, 534],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "具也从人巽",
+		"bbox": [256, 608, 297, 732],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [209, 261, 250, 286],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "交下巧切",
+		"bbox": [209, 399, 250, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲士勉切",
+		"bbox": [209, 608, 250, 722],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冠飾皃从人求聲詩",
+		"bbox": [161, 261, 203, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大帶佩也从人从凡从巾",
+		"bbox": [161, 558, 203, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日弁服俅俅巨鳩切",
+		"bbox": [114, 261, 155, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "佩必有巾巾謂之飾臣鉉",
+		"bbox": [114, 558, 155, 843],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

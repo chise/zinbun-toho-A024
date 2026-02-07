@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "小豆9", "bbox": [800, 275, 823, 346], "type": "text", "comment": ""},
+	{"text": "言文八下", "bbox": [805, 416, 832, 489], "type": "text", "comment": ""},
+	{"text": "二", "bbox": [808, 702, 825, 715], "type": "text", "comment": ""},
+	{"text": "王生", "bbox": [802, 798, 825, 843], "type": "text", "comment": ""},
+	{"text": "凡尺之屬皆从尺", "bbox": [704, 370, 794, 632], "type": "text", "comment": ""},
+	{"text": "昌石", "bbox": [752, 646, 789, 696], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [711, 646, 747, 671], "type": "text", "comment": ""},
+	{"text": "中婦人手長八寸謂之咫", "bbox": [657, 369, 697, 628], "type": "text", "comment": ""},
+	{"text": "周尺也从尺只聲諸氏切", "bbox": [603, 369, 644, 628], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [616, 695, 688, 777], "type": "text", "comment": ""},
+	{"text": "尾微也从到毛在尸後古人或飾系", "bbox": [509, 279, 588, 848], "type": "text", "comment": ""},
+	{"text": "尾西南夷亦然凡尾之屬皆从尾", "bbox": [402, 359, 483, 847], "type": "text", "comment": ""},
+	{"text": "無斐切今", "bbox": [354, 362, 392, 463], "type": "text", "comment": ""},
+	{"text": "隸變作尾", "bbox": [303, 362, 342, 463], "type": "text", "comment": ""},
+	{"text": "連也从尾蜀", "bbox": [254, 362, 292, 491], "type": "text", "comment": ""},
+	{"text": "聲之欲切", "bbox": [202, 362, 241, 463], "type": "text", "comment": ""},
+	{"text": "無尾也从尾", "bbox": [254, 576, 292, 676], "type": "text", "comment": ""},
+	{"text": "出聲九勿切", "bbox": [202, 576, 241, 705], "type": "text", "comment": ""},
+	{"text": "人小", "bbox": [254, 787, 292, 815], "type": "text", "comment": ""},
+	{"text": "便也", "bbox": [202, 804, 241, 850], "type": "text", "comment": ""},
+	{"text": "从尾从水", "bbox": [154, 278, 193, 385], "type": "text", "comment": ""},
+	{"text": "奴弔切", "bbox": [104, 278, 142, 350], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [104, 533, 176, 613], "type": "text", "comment": ""}
+]
+```

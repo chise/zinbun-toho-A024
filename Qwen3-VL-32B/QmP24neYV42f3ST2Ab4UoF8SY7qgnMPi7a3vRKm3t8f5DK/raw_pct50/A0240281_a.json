@@ -1,0 +1,256 @@
+```json
+[
+	{
+		"text": "小三百八十六",
+		"bbox": [805, 267, 829, 347],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言三一",
+		"bbox": [805, 405, 834, 451],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴華",
+		"bbox": [805, 813, 829, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "供給俱",
+		"bbox": [755, 273, 801, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "待也从人从",
+		"bbox": [755, 354, 801, 572],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "侍也从人諸",
+		"bbox": [755, 661, 801, 789],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "容切",
+		"bbox": [708, 270, 753, 316],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "待直里切",
+		"bbox": [708, 442, 753, 540],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲直魚切",
+		"bbox": [708, 661, 753, 762],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "慎也从人葡",
+		"bbox": [661, 351, 707, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [661, 568, 707, 614],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "列中庭之左",
+		"bbox": [661, 703, 707, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲平祕切",
+		"bbox": [612, 350, 659, 454],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "備",
+		"bbox": [612, 568, 659, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "右謂之位从",
+		"bbox": [612, 713, 659, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人立于",
+		"bbox": [565, 270, 611, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "導也从人賓",
+		"bbox": [565, 443, 611, 571],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "償或",
+		"bbox": [565, 661, 611, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "佺也",
+		"bbox": [565, 787, 611, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "備切",
+		"bbox": [519, 270, 565, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲必刃切",
+		"bbox": [519, 442, 565, 540],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从手",
+		"bbox": [519, 659, 565, 703],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从人",
+		"bbox": [519, 787, 565, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屋聲於",
+		"bbox": [472, 270, 518, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "偓佺仙人也从",
+		"bbox": [472, 442, 518, 592],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "心服也从人",
+		"bbox": [472, 684, 518, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角切",
+		"bbox": [426, 270, 472, 316],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人全聲此緣切",
+		"bbox": [426, 442, 472, 591],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聶聲齒涉切",
+		"bbox": [426, 684, 472, 809],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "約也从人勹",
+		"bbox": [380, 350, 426, 455],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲徒歷切",
+		"bbox": [380, 443, 426, 540],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "等輩也从人齊聲春秋",
+		"bbox": [380, 568, 426, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰吾儕小人仕皆切",
+		"bbox": [380, 568, 426, 804],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "輩也从人侖聲一",
+		"bbox": [283, 350, 329, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰道也力屯切",
+		"bbox": [237, 350, 283, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齊等也从人",
+		"bbox": [237, 628, 283, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牟聲莫浮切",
+		"bbox": [237, 720, 283, 799],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "彊也",
+		"bbox": [237, 811, 283, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从人皆聲詩曰偕偕士",
+		"bbox": [190, 270, 236, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "子一曰俱也古諧切",
+		"bbox": [144, 270, 190, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "偕也从人具",
+		"bbox": [144, 604, 190, 732],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲舉朱切",
+		"bbox": [144, 604, 190, 709],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

@@ -1,0 +1,142 @@
+```json
+[
+	{
+		"text": "徐錯曰王者人在土",
+		"bbox": [854, 349, 896, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "上故爲厚也柱用切",
+		"bbox": [810, 349, 852, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "稱輕重也从重省",
+		"bbox": [765, 349, 807, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "𡙜省聲呂張切",
+		"bbox": [720, 349, 762, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "量古文",
+		"bbox": [745, 616, 804, 669],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [623, 413, 688, 495],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [623, 560, 688, 621],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臥休也从人臣取其伏也凡臥之屬",
+		"bbox": [506, 349, 594, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皆从臥吾貨",
+		"bbox": [410, 342, 487, 519],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [410, 462, 447, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臨下也从臥酯",
+		"bbox": [356, 349, 396, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲古銜切",
+		"bbox": [299, 349, 340, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文監",
+		"bbox": [356, 580, 396, 657],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言",
+		"bbox": [300, 580, 340, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "監臨也从",
+		"bbox": [356, 747, 396, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臥品聲力",
+		"bbox": [299, 747, 340, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尋楚謂小兒嬾餐",
+		"bbox": [251, 268, 286, 533],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切从臥食尼厄切",
+		"bbox": [198, 268, 239, 533],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文四",
+		"bbox": [210, 587, 281, 660],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [210, 726, 281, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十二",
+		"bbox": [166, 262, 190, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑天止",
+		"bbox": [166, 400, 190, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴振",
+		"bbox": [172, 808, 192, 842],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

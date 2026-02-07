@@ -1,0 +1,130 @@
+```json
+[
+	{
+		"text": "昌兩",
+		"bbox": [856, 264, 904, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [818, 265, 854, 294],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文七",
+		"bbox": [824, 388, 898, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "新附",
+		"bbox": [858, 492, 905, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "毛毳細毛也从三毛凡毳之屬皆从",
+		"bbox": [717, 266, 804, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "此芮",
+		"bbox": [656, 389, 695, 443],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "毳切",
+		"bbox": [625, 352, 693, 436],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "毛紛紛也从毳",
+		"bbox": [557, 351, 604, 511],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "非聲南微切",
+		"bbox": [517, 352, 554, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [518, 637, 587, 708],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尸陳也象臥之形凡尸之屬皆从尸",
+		"bbox": [412, 264, 494, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "式脂",
+		"bbox": [356, 350, 393, 407],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [313, 353, 349, 380],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "侍也从尸奠",
+		"bbox": [257, 347, 301, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲堂練切",
+		"bbox": [206, 347, 250, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蹲也从尸古者居从古臣",
+		"bbox": [256, 573, 301, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鉉等曰居从古者言法古",
+		"bbox": [204, 573, 249, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十二",
+		"bbox": [171, 263, 198, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑六十二",
+		"bbox": [168, 398, 195, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十二",
+		"bbox": [171, 672, 197, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周太",
+		"bbox": [171, 797, 197, 833],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
