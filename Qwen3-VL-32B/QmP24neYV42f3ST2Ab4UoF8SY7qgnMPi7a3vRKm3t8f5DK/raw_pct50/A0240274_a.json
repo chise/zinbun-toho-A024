@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "小三百九十三",
+		"bbox": [806, 264, 827, 332],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文十一",
+		"bbox": [806, 395, 828, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十入",
+		"bbox": [806, 666, 828, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴華",
+		"bbox": [806, 806, 828, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从巾妃聲",
+		"bbox": [742, 268, 798, 369],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "於袁切",
+		"bbox": [713, 268, 768, 344],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "書見拭觚布也从",
+		"bbox": [742, 372, 798, 644],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "中番聲南煩切",
+		"bbox": [713, 372, 768, 615],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "制也从巾剌",
+		"bbox": [742, 646, 798, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲盧達切",
+		"bbox": [713, 646, 768, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "拭也从巾鐵",
+		"bbox": [645, 268, 699, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲精廉切",
+		"bbox": [614, 268, 668, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "車弊皃从巾單聲詩",
+		"bbox": [645, 488, 699, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰檀車惲憚昌善切",
+		"bbox": [614, 488, 668, 787],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蓋衣也从巾",
+		"bbox": [547, 268, 601, 467],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冡聲莫紅切",
+		"bbox": [516, 268, 570, 478],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蓋幭也从巾蔑聲",
+		"bbox": [547, 469, 601, 747],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰襌被莫結切",
+		"bbox": [516, 469, 570, 747],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "覆也从巾無",
+		"bbox": [450, 268, 504, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲荒烏切",
+		"bbox": [419, 268, 473, 369],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "取也从巾从人食聲讀",
+		"bbox": [450, 402, 504, 727],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若式一曰禒飾賞隻切",
+		"bbox": [419, 402, 473, 727],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "囊也",
+		"bbox": [450, 729, 504, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [419, 729, 473, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从巾韋聲",
+		"bbox": [352, 268, 406, 369],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "許歸切",
+		"bbox": [321, 268, 375, 344],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "囊也今鹽官三斛爲一",
+		"bbox": [352, 469, 406, 685],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黍从巾彞聲居倦切",
+		"bbox": [321, 469, 375, 685],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "糞也",
+		"bbox": [352, 687, 406, 803],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从又",
+		"bbox": [321, 687, 375, 803],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "持巾埽门内古者少康初作箕帚",
+		"bbox": [254, 268, 308, 604],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秫酒少康杜康也葬長垣支手切",
+		"bbox": [223, 268, 277, 615],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籍也禮天子",
+		"bbox": [254, 705, 308, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "諸矦席有黼",
+		"bbox": [223, 705, 277, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "繡純飾从巾庶省臣鉉等曰席以待賓",
+		"bbox": [165, 268, 219, 672],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "客之禮賓客非一人故从庶祥易切",
+		"bbox": [134, 268, 188, 644],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文席",
+		"bbox": [165, 758, 219, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从石省",
+		"bbox": [134, 758, 188, 844],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
