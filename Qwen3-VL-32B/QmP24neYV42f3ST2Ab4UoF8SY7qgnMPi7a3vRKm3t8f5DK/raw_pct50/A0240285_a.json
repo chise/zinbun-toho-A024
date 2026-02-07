@@ -1,0 +1,274 @@
+```json
+[
+	{
+		"text": "小三百六十五",
+		"bbox": [798, 270, 823, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文八上",
+		"bbox": [800, 405, 841, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "任三",
+		"bbox": [798, 798, 825, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "僜醉舞兒从人差聲詩",
+		"bbox": [744, 273, 792, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰屢舞傞傞素何切",
+		"bbox": [703, 273, 747, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "僛醉舞兒从人欺聲",
+		"bbox": [744, 651, 792, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰屢舞傞傞去",
+		"bbox": [703, 651, 747, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "其",
+		"bbox": [649, 273, 686, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [601, 273, 639, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傷也从人每",
+		"bbox": [649, 343, 686, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲文甫切",
+		"bbox": [601, 381, 639, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [649, 588, 686, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "姦也从人",
+		"bbox": [649, 750, 686, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从毋",
+		"bbox": [601, 588, 639, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾聲一曰",
+		"bbox": [601, 736, 639, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "毒也秦",
+		"bbox": [544, 273, 584, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "悉切",
+		"bbox": [495, 273, 534, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俠或",
+		"bbox": [544, 449, 584, 506],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从女",
+		"bbox": [495, 449, 534, 506],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "輕也从人易聲一",
+		"bbox": [544, 598, 584, 776],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰交傷以豉切",
+		"bbox": [495, 598, 534, 759],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訟面相是从人",
+		"bbox": [441, 351, 482, 506],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夅聲喜皆切",
+		"bbox": [392, 351, 431, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "僵也从人賁",
+		"bbox": [441, 598, 482, 727],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲匹問切",
+		"bbox": [392, 598, 431, 702],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "債",
+		"bbox": [441, 798, 482, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [392, 809, 431, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从人畺聲",
+		"bbox": [339, 273, 379, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "居良切",
+		"bbox": [290, 273, 330, 351],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頳也从人卜",
+		"bbox": [339, 457, 379, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲芳遇切",
+		"bbox": [290, 457, 330, 563],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "僵也从人匽",
+		"bbox": [339, 671, 379, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲於幰切",
+		"bbox": [290, 671, 330, 776],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "創也从人傷",
+		"bbox": [238, 351, 278, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲式羊切",
+		"bbox": [189, 351, 229, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刺也从人脊聲一",
+		"bbox": [238, 559, 278, 727],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰痛聲胡茅切",
+		"bbox": [189, 559, 229, 719],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "備",
+		"bbox": [238, 809, 278, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詞",
+		"bbox": [189, 809, 229, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从人夸聲",
+		"bbox": [139, 273, 179, 381],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "苦瓜切",
+		"bbox": [90, 273, 130, 351],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相擣也从人崔聲詩曰",
+		"bbox": [139, 467, 179, 719],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "室人交徧催我倉回切",
+		"bbox": [90, 467, 130, 719],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "痛也",
+		"bbox": [139, 798, 179, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从人",
+		"bbox": [90, 798, 130, 841],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
