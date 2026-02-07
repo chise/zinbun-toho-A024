@@ -1,0 +1,755 @@
+```json
+[
+	{
+		"text": "制",
+		"bbox": [860, 263, 904, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [815, 263, 857, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徒",
+		"bbox": [770, 263, 809, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [725, 263, 765, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲",
+		"bbox": [680, 263, 719, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "慕",
+		"bbox": [635, 263, 674, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲",
+		"bbox": [590, 263, 629, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "到",
+		"bbox": [545, 263, 584, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "病",
+		"bbox": [454, 341, 493, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰",
+		"bbox": [410, 341, 449, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不",
+		"bbox": [365, 341, 404, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疑",
+		"bbox": [320, 341, 359, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬",
+		"bbox": [860, 375, 904, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日",
+		"bbox": [815, 375, 857, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "治",
+		"bbox": [770, 375, 809, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲",
+		"bbox": [725, 375, 765, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楚",
+		"bbox": [680, 375, 719, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从",
+		"bbox": [635, 375, 674, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲",
+		"bbox": [590, 375, 629, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "懈",
+		"bbox": [545, 375, 584, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瘡",
+		"bbox": [454, 375, 493, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "別",
+		"bbox": [410, 375, 449, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "慧",
+		"bbox": [365, 375, 404, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲",
+		"bbox": [320, 375, 359, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "病",
+		"bbox": [860, 408, 904, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "痠",
+		"bbox": [815, 408, 857, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [770, 408, 809, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "力",
+		"bbox": [725, 408, 765, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人",
+		"bbox": [680, 408, 719, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丌",
+		"bbox": [635, 408, 674, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [590, 408, 629, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "又",
+		"bbox": [545, 408, 584, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从",
+		"bbox": [454, 408, 493, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "作",
+		"bbox": [410, 408, 449, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [365, 408, 404, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丑",
+		"bbox": [320, 408, 359, 435],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "多",
+		"bbox": [860, 439, 904, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駱",
+		"bbox": [815, 439, 857, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从",
+		"bbox": [770, 439, 809, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "照",
+		"bbox": [725, 439, 765, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謂",
+		"bbox": [680, 439, 719, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲"
+		,
+		"bbox": [635, 439, 674, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "才"
+		,
+		"bbox": [590, 439, 629, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "他"
+		,
+		"bbox": [545, 439, 584, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俞"
+		,
+		"bbox": [454, 439, 493, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "愈"
+		,
+		"bbox": [410, 439, 449, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从"
+		,
+		"bbox": [365, 439, 404, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之"
+		,
+		"bbox": [320, 439, 359, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲"
+		,
+		"bbox": [860, 470, 904, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬"
+		,
+		"bbox": [815, 470, 857, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樂"
+		,
+		"bbox": [770, 470, 809, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切"
+		,
+		"bbox": [725, 470, 765, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "藥"
+		,
+		"bbox": [680, 470, 719, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盧"
+		,
+		"bbox": [635, 470, 674, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楚"
+		,
+		"bbox": [590, 470, 629, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲"
+		,
+		"bbox": [545, 470, 584, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臣"
+		,
+		"bbox": [454, 470, 493, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "非"
+		,
+		"bbox": [410, 470, 449, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "广"
+		,
+		"bbox": [365, 470, 404, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切"
+		,
+		"bbox": [320, 470, 359, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丁"
+		,
+		"bbox": [860, 499, 904, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "脛"
+		,
+		"bbox": [815, 499, 857, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或"
+		,
+		"bbox": [770, 499, 809, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "倉"
+		,
+		"bbox": [725, 499, 765, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "毒"
+		,
+		"bbox": [680, 499, 719, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "達"
+		,
+		"bbox": [635, 499, 674, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鑿"
+		,
+		"bbox": [590, 499, 629, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "等"
+		,
+		"bbox": [545, 499, 584, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "是"
+		,
+		"bbox": [454, 499, 493, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以"
+		,
+		"bbox": [410, 499, 449, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "主"
+		,
+		"bbox": [365, 499, 404, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切"
+		,
+		"bbox": [320, 499, 359, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "可"
+		,
+		"bbox": [860, 531, 904, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蕩"
+		,
+		"bbox": [815, 531, 857, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从"
+		,
+		"bbox": [770, 531, 809, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一"
+		,
+		"bbox": [725, 531, 765, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "謂"
+		,
+		"bbox": [680, 531, 719, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從"
+		,
+		"bbox": [635, 531, 674, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "楚"
+		,
+		"bbox": [590, 531, 629, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "追"
+		,
+		"bbox": [545, 531, 584, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾"
+		,
+		"bbox": [454, 531, 493, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "習"
+		,
+		"bbox": [410, 531, 449, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲"
+		,
+		"bbox": [365, 531, 404, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敢"
+		,
+		"bbox": [320, 531, 359, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌"
+		,
+		"bbox": [860, 561, 904, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也"
+		,
+		"bbox": [815, 561, 857, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "久"
+		,
+		"bbox": [770, 561, 809, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰"
+		,
+		"bbox": [725, 561, 765, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "藥"
+		,
+		"bbox": [680, 561, 719, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "勞"
+		,
+		"bbox": [635, 561, 674, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "哀"
+		,
+		"bbox": [590, 561, 629, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切"
+		,
+		"bbox": [545, 561, 584, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "瘡"
+		,
+		"bbox": [454, 561, 493, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鴆"
+		,
+		"bbox": [410, 561, 449, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从"
+		,
+		"bbox": [365, 561, 404, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切"
+		,
+		"bbox": [320, 561, 359, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "將"
+		,
+		"bbox": [860, 590, 904, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从"
+		,
+		"bbox": [815, 590, 857, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "病"
+		,
+		"bbox": [770, 590, 809, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从"
+		,
+		"bbox": [725, 590, 765, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "毒"
+		,
+		"bbox": [680, 590, 719, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从"
+		,
+		"bbox": [635, 590, 674, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲"
+		,
+		"bbox": [590, 590, 629, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一"
+		,
+		"bbox": [545, 590, 584, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "广"
+		,
+		"bbox": [454, 590, 493, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "伤"
+		,
+		"bbox": [410, 590, 449, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "广"
+		,
+		"bbox": [365, 590, 404, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古"
+		,
+		"bbox": [320, 590, 359, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文一百二",
+		"bbox": [211, 375, 287, 535],
+		"type": "title",
+		"comment": ""
+	},
+	{
+		"text": "重七",
+		"bbox": [213, 605, 280, 687],
+		"type": "subtitle",
+		"comment": ""
+	},
+	{
+		"text": "大十七",
+		"bbox": [174, 258, 197, 298],
+		"type": "page_number",
+		"comment": ""
+	},
+	{
+		"text": "兑天三",
+		"bbox": [163, 398, 190, 482],
+		"type": "section_marker",
+		"comment": ""
+	},
+	{
+		"text": "上三",
+		"bbox": [163, 668, 190, 700],
+		"type": "section_marker",
+		"comment": ""
+	},
+	{
+		"text": "嚴振",
+		"bbox": [175, 798, 198, 840],
+		"type": "publisher_or_editor",
+		"comment": ""
+	}
+]
+```
