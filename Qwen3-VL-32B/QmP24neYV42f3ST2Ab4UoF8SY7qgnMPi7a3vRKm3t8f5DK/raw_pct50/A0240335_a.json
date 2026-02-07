@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小舞六", "bbox": [805, 257, 824, 326], "type": "text", "comment": ""},
+	{"text": "言三十一", "bbox": [805, 399, 825, 476], "type": "text", "comment": ""},
+	{"text": "一", "bbox": [806, 671, 825, 688], "type": "text", "comment": ""},
+	{"text": "陳元", "bbox": [803, 799, 824, 837], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [748, 344, 774, 389], "type": "text", "comment": ""},
+	{"text": "亦古", "bbox": [748, 439, 774, 483], "type": "text", "comment": ""},
+	{"text": "極陳也从長", "bbox": [754, 634, 797, 747], "type": "text", "comment": ""},
+	{"text": "隶聲息利切", "bbox": [711, 634, 748, 747], "type": "text", "comment": ""},
+	{"text": "久長也从長", "bbox": [655, 410, 693, 541], "type": "text", "comment": ""},
+	{"text": "蛇惡毒長也从", "bbox": [655, 634, 693, 785], "type": "text", "comment": ""},
+	{"text": "長失聲徒結切", "bbox": [603, 634, 643, 785], "type": "text", "comment": ""},
+	{"text": "爾聲武移切", "bbox": [603, 410, 643, 541], "type": "text", "comment": ""},
+	{"text": "或从", "bbox": [655, 264, 693, 307], "type": "text", "comment": ""},
+	{"text": "髟", "bbox": [603, 262, 643, 288], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [507, 410, 583, 492], "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [512, 597, 583, 674], "type": "text", "comment": ""},
+	{"text": "勿州里所建旗象其柄有三游雜帛", "bbox": [402, 257, 486, 843], "type": "text", "comment": ""},
+	{"text": "幅半異所以趣民故遽稱勿勿凡", "bbox": [303, 337, 381, 843], "type": "text", "comment": ""},
+	{"text": "勿之屬皆从勿", "bbox": [206, 345, 280, 579], "type": "text", "comment": ""},
+	{"text": "文弗", "bbox": [256, 584, 280, 632], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [206, 584, 238, 609], "type": "text", "comment": ""},
+	{"text": "勿或", "bbox": [159, 347, 189, 401], "type": "text", "comment": ""},
+	{"text": "開也从日一勿一日飛揚一日", "bbox": [159, 486, 189, 772], "type": "text", "comment": ""},
+	{"text": "長也一日彊者衆皃與章切", "bbox": [101, 486, 135, 772], "type": "text", "comment": ""},
+	{"text": "从朿", "bbox": [101, 349, 135, 399], "type": "text", "comment": ""}
+]
+```
