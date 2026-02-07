@@ -1,0 +1,262 @@
+```json
+[
+	{
+		"text": "小豆六",
+		"bbox": [801, 283, 819, 341],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文九上",
+		"bbox": [802, 406, 835, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二",
+		"bbox": [809, 673, 828, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李云",
+		"bbox": [801, 794, 820, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頁分聲一曰鬢也詩",
+		"bbox": [751, 278, 793, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰有頒其首布還切",
+		"bbox": [704, 278, 746, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大頭也从頁",
+		"bbox": [657, 278, 698, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "羔聲口幺切",
+		"bbox": [610, 278, 652, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "髙長頭从頁",
+		"bbox": [564, 278, 605, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [517, 278, 559, 380],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "堯聲五吊切",
+		"bbox": [517, 380, 559, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "岳岳也从頁",
+		"bbox": [471, 278, 513, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "岳聲五角切",
+		"bbox": [424, 278, 466, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "靁聲郎",
+		"bbox": [378, 278, 420, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丁切",
+		"bbox": [332, 278, 374, 331],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小頭蔭蔭也从頁枝",
+		"bbox": [286, 278, 328, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若規又己恚切",
+		"bbox": [240, 278, 282, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "短面也从頁吾聲",
+		"bbox": [194, 278, 236, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "五活切又下括切",
+		"bbox": [148, 278, 190, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大頭也从頁禺聲詩",
+		"bbox": [751, 558, 793, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰其大有顒魚容切",
+		"bbox": [704, 558, 746, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大頭也从頁骨聲",
+		"bbox": [657, 558, 698, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若魁苦骨切",
+		"bbox": [610, 558, 652, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "贅頰高也从頁",
+		"bbox": [564, 558, 605, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敖聲五到切",
+		"bbox": [517, 558, 559, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "昧前也从頁昆聲",
+		"bbox": [471, 558, 513, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若昧莫佩切",
+		"bbox": [424, 558, 466, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頭蔽額也从頁",
+		"bbox": [378, 558, 420, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冢聲五怪切",
+		"bbox": [332, 558, 374, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小頭也从頁",
+		"bbox": [286, 558, 328, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "果聲苦惰切",
+		"bbox": [240, 558, 282, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "狹頭頲也从頁",
+		"bbox": [194, 558, 236, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廷聲他挺切",
+		"bbox": [148, 558, 190, 760],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頭閑習",
+		"bbox": [148, 760, 190, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从頁",
+		"bbox": [102, 760, 144, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大頭也从",
+		"bbox": [657, 760, 698, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頁原聲魚",
+		"bbox": [610, 760, 652, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "面",
+		"bbox": [564, 760, 605, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "前",
+		"bbox": [517, 760, 559, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "面瘦淺顱",
+		"bbox": [471, 760, 513, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "顱也从頁",
+		"bbox": [424, 760, 466, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樞頭也从頁",
+		"bbox": [378, 760, 420, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "元聲五還切",
+		"bbox": [332, 760, 374, 847],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
