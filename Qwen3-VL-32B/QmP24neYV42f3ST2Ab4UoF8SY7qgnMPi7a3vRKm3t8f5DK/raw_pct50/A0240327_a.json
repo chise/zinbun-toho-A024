@@ -1,0 +1,226 @@
+```json
+[
+	{
+		"text": "山壟聲讀若",
+		"bbox": [768, 270, 795, 403],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "厲力制切",
+		"bbox": [715, 270, 743, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山巖也从山品讀若吟臣鉉等曰",
+		"bbox": [663, 350, 691, 668],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从品象巖厓連屬之形五咸切",
+		"bbox": [610, 350, 638, 668],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "落猥",
+		"bbox": [557, 268, 585, 316],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [504, 268, 532, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山兒从山阜",
+		"bbox": [557, 406, 585, 538],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲祖賄切",
+		"bbox": [504, 406, 532, 495],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山兒一曰山名从",
+		"bbox": [557, 627, 585, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山告聲古到切",
+		"bbox": [504, 627, 532, 778],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山兒从山陸聲徒果切臣鉉等案陸與墳",
+		"bbox": [451, 354, 479, 768],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "同墳今亦音徒果切則是陸兼有此音",
+		"bbox": [398, 354, 426, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山兒从山笠",
+		"bbox": [345, 268, 373, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲昨何切",
+		"bbox": [292, 268, 320, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嵯峨也从山",
+		"bbox": [345, 480, 373, 590],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "我聲五何切",
+		"bbox": [292, 480, 320, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嶸也从山青",
+		"bbox": [345, 700, 373, 768],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲臣鉉等曰",
+		"bbox": [292, 700, 320, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "今俗別作崢",
+		"bbox": [239, 268, 267, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "非是七耕切",
+		"bbox": [186, 268, 214, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嶠巗也从山",
+		"bbox": [239, 480, 267, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "榮聲戶萌切",
+		"bbox": [186, 480, 214, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "谷也从山至",
+		"bbox": [239, 700, 267, 830],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲戶經切",
+		"bbox": [186, 700, 214, 808],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山壤也从山",
+		"bbox": [133, 350, 161, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "朋聲北滕切",
+		"bbox": [80, 350, 108, 478],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [133, 560, 161, 610],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从阜",
+		"bbox": [80, 560, 108, 610],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山脅道也从山",
+		"bbox": [133, 694, 161, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弗聲符勿切",
+		"bbox": [80, 694, 108, 820],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山耑也从山",
+		"bbox": [768, 210, 795, 308],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夆聲敷容切",
+		"bbox": [715, 350, 743, 478],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "岸也从山嚴",
+		"bbox": [768, 700, 795, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲五緘切",
+		"bbox": [715, 700, 743, 810],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辠也从",
+		"bbox": [663, 770, 691, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山絫聲",
+		"bbox": [610, 770, 638, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嚴華",
+		"bbox": [801, 800, 826, 840],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
