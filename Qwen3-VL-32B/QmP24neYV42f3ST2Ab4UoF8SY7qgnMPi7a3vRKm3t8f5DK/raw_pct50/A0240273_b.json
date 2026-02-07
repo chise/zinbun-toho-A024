@@ -1,0 +1,250 @@
+```json
+[
+	{
+		"text": "有慎人",
+		"bbox": [865, 264, 907, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "莫狄切",
+		"bbox": [816, 264, 858, 342],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "惟也从巾兼",
+		"bbox": [767, 264, 808, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲力鹽切",
+		"bbox": [718, 264, 759, 369],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張也从巾長",
+		"bbox": [669, 342, 710, 462],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲知諒切",
+		"bbox": [620, 342, 661, 445],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幃在上曰幕覆食案亦",
+		"bbox": [669, 554, 710, 795],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰幕从巾莫聲慕各切",
+		"bbox": [620, 554, 661, 786],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "在旁曰帷从巾",
+		"bbox": [767, 488, 808, 642],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "佳聲消悲切",
+		"bbox": [718, 488, 759, 620],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文",
+		"bbox": [767, 717, 808, 775],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "帷",
+		"bbox": [718, 723, 759, 755],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幕也从巾曼",
+		"bbox": [865, 421, 907, 554],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禪帳也从巾",
+		"bbox": [865, 633, 907, 723],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "昌聲直由切",
+		"bbox": [816, 633, 858, 748],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲莫半切",
+		"bbox": [816, 421, 858, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幘裂也从巾",
+		"bbox": [571, 342, 612, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "匕聲卑復切",
+		"bbox": [522, 342, 563, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "殘帛也从巾祭聲",
+		"bbox": [571, 554, 612, 744],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "先列切又所例切",
+		"bbox": [522, 554, 563, 736],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "正耑裂也从巾",
+		"bbox": [473, 264, 514, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俞聲山樞切",
+		"bbox": [424, 264, 465, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "帛書署也从巾",
+		"bbox": [473, 498, 514, 642],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "占聲他叶切",
+		"bbox": [424, 498, 465, 631],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "書衣也从",
+		"bbox": [473, 736, 514, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "巾失聲直",
+		"bbox": [424, 736, 465, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "質",
+		"bbox": [375, 264, 416, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "帗或",
+		"bbox": [375, 369, 416, 421],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从衣",
+		"bbox": [326, 369, 367, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幡幟也从巾",
+		"bbox": [375, 498, 416, 631],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "前聲則前切",
+		"bbox": [326, 498, 367, 631],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幟也以絳",
+		"bbox": [375, 736, 416, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "微帛箸於",
+		"bbox": [326, 736, 367, 836],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "背从中微省聲春秋傳",
+		"bbox": [277, 264, 318, 510],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰揚微者公徒許歸切",
+		"bbox": [228, 264, 269, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幟也从巾輿",
+		"bbox": [277, 590, 318, 723],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲方招切",
+		"bbox": [228, 590, 269, 695],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幡",
+		"bbox": [277, 805, 318, 836],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也",
+		"bbox": [228, 811, 269, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十",
+		"bbox": [179, 264, 200, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "沈三",
+		"bbox": [179, 805, 200, 830],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
