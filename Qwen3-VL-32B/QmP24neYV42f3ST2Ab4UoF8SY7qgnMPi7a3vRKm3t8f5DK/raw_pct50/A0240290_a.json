@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小三百六", "bbox": [804, 263, 824, 319], "type": "text", "comment": ""},
+	{"text": "言三八一", "bbox": [805, 407, 831, 502], "type": "text", "comment": ""},
+	{"text": "一三", "bbox": [805, 675, 826, 711], "type": "text", "comment": ""},
+	{"text": "李明", "bbox": [799, 811, 818, 847], "type": "text", "comment": ""},
+	{"text": "王善也从人士士事也一曰象物出", "bbox": [714, 272, 793, 851], "type": "text", "comment": ""},
+	{"text": "地挺生也凡王之屬皆从王", "bbox": [610, 344, 688, 754], "type": "text", "comment": ""},
+	{"text": "臣鉉等", "bbox": [657, 777, 690, 847], "type": "text", "comment": ""},
+	{"text": "曰人在", "bbox": [601, 777, 637, 850], "type": "text", "comment": ""},
+	{"text": "土上王然而", "bbox": [559, 345, 596, 483], "type": "text", "comment": ""},
+	{"text": "立也他鼎切", "bbox": [507, 348, 548, 485], "type": "text", "comment": ""},
+	{"text": "徵召也从微省王爲徵行於微", "bbox": [418, 266, 498, 647], "type": "text", "comment": ""},
+	{"text": "而文達者即徵之陟陵切", "bbox": [400, 348, 442, 622], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [455, 738, 487, 791], "type": "text", "comment": ""},
+	{"text": "徵", "bbox": [399, 741, 432, 768], "type": "text", "comment": ""},
+	{"text": "朢", "bbox": [310, 668, 380, 749], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [356, 745, 389, 798], "type": "text", "comment": ""},
+	{"text": "朢省", "bbox": [306, 773, 338, 805], "type": "text", "comment": ""},
+	{"text": "望", "bbox": [306, 668, 384, 749], "type": "text", "comment": ""},
+	{"text": "月滿與日相朢以朝君也从月", "bbox": [351, 352, 394, 664], "type": "text", "comment": ""},
+	{"text": "从臣从王王朝廷也無放切", "bbox": [300, 353, 343, 644], "type": "text", "comment": ""},
+	{"text": "近求也从爪王王", "bbox": [250, 353, 292, 533], "type": "text", "comment": ""},
+	{"text": "徵幸也余箴切", "bbox": [201, 350, 247, 528], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [215, 577, 275, 657], "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [209, 728, 275, 802], "type": "text", "comment": ""},
+	{"text": "重厚也从壬東聲凡重之屬皆从重", "bbox": [108, 268, 187, 850], "type": "text", "comment": ""}
+]
+```
