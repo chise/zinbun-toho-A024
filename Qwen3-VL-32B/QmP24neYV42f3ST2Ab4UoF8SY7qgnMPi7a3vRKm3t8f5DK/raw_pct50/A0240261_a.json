@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "小三百仝一",
+		"bbox": [805, 269, 824, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文一千",
+		"bbox": [807, 404, 834, 491],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "祁三",
+		"bbox": [802, 805, 824, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦古",
+		"bbox": [758, 275, 793, 320],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "置物也从宀",
+		"bbox": [758, 325, 795, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬聲悉也切",
+		"bbox": [715, 325, 750, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夜也从宀宀下冥",
+		"bbox": [758, 630, 795, 786],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也肖聲相邀切",
+		"bbox": [715, 630, 750, 786],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "止也从宀侶聲侶",
+		"bbox": [670, 325, 704, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文夙息逐切",
+		"bbox": [607, 325, 642, 514],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臥也从宀夒",
+		"bbox": [670, 630, 704, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲七荏切",
+		"bbox": [607, 630, 642, 728],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [549, 271, 584, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冥合也从宀丏聲讀若周",
+		"bbox": [549, 325, 584, 676],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "書若藥不眄眩莫甸切",
+		"bbox": [506, 325, 540, 653],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屋寬大",
+		"bbox": [549, 680, 584, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从宀",
+		"bbox": [506, 769, 540, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "寑省",
+		"bbox": [506, 271, 540, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蒐聲苦",
+		"bbox": [462, 271, 497, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "官切",
+		"bbox": [405, 271, 440, 317],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "寤也从宀吾",
+		"bbox": [462, 325, 497, 553],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲五故切",
+		"bbox": [405, 325, 440, 534],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "居之速也从宀",
+		"bbox": [462, 630, 497, 794],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蚩聲子感切",
+		"bbox": [405, 630, 440, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "少也从宀从頌頒分",
+		"bbox": [361, 325, 395, 562],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "賦也故為少古瓦切",
+		"bbox": [307, 325, 341, 562],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "寄也从宀各",
+		"bbox": [361, 630, 395, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦格切",
+		"bbox": [307, 630, 341, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "託也从宀奇",
+		"bbox": [253, 325, 287, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲居義切",
+		"bbox": [200, 325, 234, 479],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "寄也从宀禺",
+		"bbox": [253, 562, 287, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲牛具切",
+		"bbox": [200, 562, 234, 676],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "寓或",
+		"bbox": [253, 788, 287, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从广",
+		"bbox": [200, 788, 234, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "無禮居也从宀",
+		"bbox": [146, 325, 180, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "婁聲其桀切",
+		"bbox": [102, 325, 136, 494],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "貧病也从宀久聲詩",
+		"bbox": [146, 562, 180, 803],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰熒熒在灾居又切",
+		"bbox": [102, 562, 136, 803],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "小二百十四", "bbox": [805, 267, 824, 325], "type": "text", "comment": ""},
+	{"text": "說文解字", "bbox": [805, 404, 843, 485], "type": "text", "comment": ""},
+	{"text": "景昌", "bbox": [803, 807, 825, 846], "type": "text", "comment": ""},
+	{"text": "林", "bbox": [714, 274, 799, 342], "type": "text", "comment": ""},
+	{"text": "葩之總名也林之爲言微也微纖", "bbox": [714, 351, 793, 846], "type": "text", "comment": ""},
+	{"text": "爲功象形凡林之屬皆从林", "bbox": [617, 352, 689, 787], "type": "text", "comment": ""},
+	{"text": "匹卦", "bbox": [663, 770, 688, 817], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [614, 767, 641, 797], "type": "text", "comment": ""},
+	{"text": "火", "bbox": [511, 274, 592, 349], "type": "text", "comment": ""},
+	{"text": "枲屬从林熒省詩曰", "bbox": [561, 352, 597, 544], "type": "text", "comment": ""},
+	{"text": "衣錦織衣去穎切", "bbox": [511, 352, 548, 544], "type": "text", "comment": ""},
+	{"text": "椒", "bbox": [506, 567, 597, 653], "type": "text", "comment": ""},
+	{"text": "分離也从支从林", "bbox": [558, 658, 598, 845], "type": "text", "comment": ""},
+	{"text": "林分椒之意也蘇", "bbox": [506, 658, 545, 845], "type": "text", "comment": ""},
+	{"text": "旰", "bbox": [463, 275, 491, 299], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [406, 275, 435, 299], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [417, 404, 484, 481], "type": "text", "comment": ""},
+	{"text": "麻", "bbox": [304, 274, 388, 351], "type": "text", "comment": ""},
+	{"text": "與林同人所治在屋下从广从林", "bbox": [307, 352, 382, 846], "type": "text", "comment": ""},
+	{"text": "凡麻之屬皆从麻", "bbox": [211, 354, 278, 618], "type": "text", "comment": ""},
+	{"text": "莫遐", "bbox": [254, 624, 283, 676], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [208, 625, 239, 655], "type": "text", "comment": ""},
+	{"text": "復", "bbox": [98, 274, 183, 351], "type": "text", "comment": ""},
+	{"text": "未練治繵也从麻後聲臣鉉等曰後非", "bbox": [150, 354, 192, 750], "type": "text", "comment": ""},
+	{"text": "聲疑復字譌當从復省乃得聲空谷切", "bbox": [100, 354, 140, 749], "type": "text", "comment": ""},
+	{"text": "廠", "bbox": [104, 759, 188, 843], "type": "text", "comment": ""}
+]
+```

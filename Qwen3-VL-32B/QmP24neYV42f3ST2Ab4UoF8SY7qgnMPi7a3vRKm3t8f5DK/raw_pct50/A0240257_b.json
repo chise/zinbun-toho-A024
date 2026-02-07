@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "麻薰也从麻", "bbox": [863, 270, 905, 400], "type": "text", "comment": ""},
+	{"text": "取聲側鳩切", "bbox": [816, 270, 858, 400], "type": "text", "comment": ""},
+	{"text": "聲度矦切", "bbox": [816, 478, 858, 587], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [839, 699, 901, 780], "type": "text", "comment": ""},
+	{"text": "豆也象尗豆生之形也凡尗之屬", "bbox": [728, 270, 800, 849], "type": "text", "comment": ""},
+	{"text": "皆从尗", "bbox": [633, 344, 698, 455], "type": "text", "comment": ""},
+	{"text": "式竹", "bbox": [665, 460, 700, 522], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [627, 467, 657, 496], "type": "text", "comment": ""},
+	{"text": "配鹽幽尗也从", "bbox": [565, 348, 604, 501], "type": "text", "comment": ""},
+	{"text": "尗支聲是義切", "bbox": [518, 348, 557, 512], "type": "text", "comment": ""},
+	{"text": "俗菽", "bbox": [569, 587, 606, 615], "type": "text", "comment": ""},
+	{"text": "从豆", "bbox": [515, 587, 554, 636], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [426, 431, 491, 512], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [426, 604, 491, 685], "type": "text", "comment": ""},
+	{"text": "物初生之題也上象生形下象", "bbox": [320, 366, 393, 849], "type": "text", "comment": ""},
+	{"text": "其根也凡耑之屬皆从耑", "bbox": [217, 366, 290, 740], "type": "text", "comment": ""},
+	{"text": "臣鉉等曰", "bbox": [268, 745, 303, 844], "type": "text", "comment": ""},
+	{"text": "中一地也", "bbox": [217, 745, 252, 844], "type": "text", "comment": ""},
+	{"text": "大十二", "bbox": [175, 266, 197, 305], "type": "text", "comment": ""},
+	{"text": "說文三下", "bbox": [165, 403, 191, 495], "type": "text", "comment": ""},
+	{"text": "二", "bbox": [165, 677, 191, 701], "type": "text", "comment": ""},
+	{"text": "嚴振", "bbox": [182, 811, 204, 844], "type": "text", "comment": ""}
+]
+```

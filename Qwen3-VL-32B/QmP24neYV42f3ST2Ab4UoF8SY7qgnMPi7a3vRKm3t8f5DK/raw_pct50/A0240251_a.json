@@ -1,0 +1,238 @@
+```json
+[
+	{
+		"text": "小三九七",
+		"bbox": [798, 265, 820, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文七上",
+		"bbox": [802, 403, 832, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一三",
+		"bbox": [807, 667, 829, 704],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳元",
+		"bbox": [798, 793, 819, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穀皮也从禾从",
+		"bbox": [748, 268, 795, 425],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "米康聲苦岡切",
+		"bbox": [719, 270, 754, 425],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相近未詳",
+		"bbox": [656, 270, 696, 374],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之若切",
+		"bbox": [601, 270, 642, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禾旱聲春秋傳曰或",
+		"bbox": [551, 270, 595, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "投一秉稺古旱切",
+		"bbox": [504, 270, 547, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不成粟也从禾",
+		"bbox": [457, 348, 494, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "比聲卑履切",
+		"bbox": [402, 348, 442, 492],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从禾劉",
+		"bbox": [356, 270, 392, 345],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲良薛切",
+		"bbox": [307, 270, 344, 374],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "良",
+		"bbox": [258, 270, 289, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [211, 270, 244, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穀孰也从禾千聲春秋",
+		"bbox": [156, 268, 191, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰大有秊奴顛切",
+		"bbox": [99, 268, 135, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "綾或",
+		"bbox": [754, 516, 793, 572],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臣鉉等曰羔聲不",
+		"bbox": [702, 659, 741, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禾皮也从禾羔聲",
+		"bbox": [752, 659, 791, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禾藁去其皮祭天以爲",
+		"bbox": [654, 458, 694, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "席从禾皆聲古黠切",
+		"bbox": [603, 458, 644, 677],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "稈或",
+		"bbox": [554, 565, 593, 611],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "稈也从禾高",
+		"bbox": [552, 696, 592, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从干",
+		"bbox": [507, 565, 545, 611],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲古老切",
+		"bbox": [504, 696, 544, 806],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "麥莖也从禾",
+		"bbox": [456, 589, 496, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冐聲古玄切",
+		"bbox": [404, 589, 442, 723],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黍繫已治者从",
+		"bbox": [356, 458, 393, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禾襄聲汝羊切",
+		"bbox": [308, 458, 345, 611],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禾若秧穮也",
+		"bbox": [356, 700, 394, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从禾央聲於",
+		"bbox": [308, 700, 345, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穡程穀名从禾",
+		"bbox": [258, 376, 295, 611],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "勥聲薄庚切",
+		"bbox": [211, 376, 248, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穡程也从禾",
+		"bbox": [258, 617, 295, 749],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皇聲戶光切",
+		"bbox": [211, 617, 248, 749],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "續也百穀之總名",
+		"bbox": [156, 589, 191, 767],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从禾殼聲古祿切",
+		"bbox": [99, 589, 135, 772],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

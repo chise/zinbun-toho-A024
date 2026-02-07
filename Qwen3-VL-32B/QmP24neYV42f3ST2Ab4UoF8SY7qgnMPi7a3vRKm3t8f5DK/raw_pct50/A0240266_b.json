@@ -1,0 +1,268 @@
+```json
+[
+	{
+		"text": "口呙也从广",
+		"bbox": [875, 274, 903, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "為聲韋委切",
+		"bbox": [817, 274, 857, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "癁也从广汥",
+		"bbox": [875, 490, 903, 620],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲古穴切",
+		"bbox": [817, 490, 857, 620],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不能言也从",
+		"bbox": [875, 712, 903, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "广音聲於今",
+		"bbox": [817, 712, 857, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [760, 274, 790, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頸瘤也从广",
+		"bbox": [760, 378, 790, 516],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嬰聲於郢切",
+		"bbox": [715, 378, 746, 516],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頸腫也从广",
+		"bbox": [760, 599, 790, 736],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "妻聲力豆切",
+		"bbox": [715, 599, 746, 736],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "顫也",
+		"bbox": [715, 785, 746, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从广又聲",
+		"bbox": [661, 274, 691, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "積血也从广",
+		"bbox": [661, 472, 691, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "於聲依倨切",
+		"bbox": [616, 472, 646, 595],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "腹痛也从广",
+		"bbox": [661, 676, 691, 807],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山聲所晏切",
+		"bbox": [616, 676, 646, 807],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "于救切",
+		"bbox": [616, 274, 646, 336],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小腹病从广肘",
+		"bbox": [562, 352, 592, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲陟柳切",
+		"bbox": [517, 352, 547, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "滿也从广纍",
+		"bbox": [562, 599, 592, 736],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲平祕切",
+		"bbox": [517, 599, 547, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俛病",
+		"bbox": [517, 752, 547, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从广付",
+		"bbox": [462, 274, 492, 386],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曲脅也从广",
+		"bbox": [462, 472, 492, 583],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "句聲其俱切",
+		"bbox": [417, 472, 447, 595],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "吊气也从广从",
+		"bbox": [462, 676, 492, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "革从欠居月切",
+		"bbox": [417, 676, 447, 825],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲方桀切",
+		"bbox": [417, 274, 447, 378],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "厥或",
+		"bbox": [362, 352, 392, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省广",
+		"bbox": [317, 352, 347, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "气不定也从广",
+		"bbox": [362, 490, 392, 638],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "季聲其季切",
+		"bbox": [317, 490, 347, 620],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "風病也从",
+		"bbox": [362, 712, 392, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "广非聲蒲",
+		"bbox": [317, 712, 347, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罪",
+		"bbox": [262, 274, 292, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "腫也从广雷",
+		"bbox": [262, 378, 292, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲力求切",
+		"bbox": [217, 378, 247, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小腫也从广坐聲一曰族",
+		"bbox": [262, 599, 292, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "絢臣鉉等曰今別作瘓蠡",
+		"bbox": [217, 599, 247, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十四",
+		"bbox": [173, 266, 197, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文下",
+		"bbox": [173, 401, 197, 463],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十二",
+		"bbox": [173, 672, 197, 702],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "仲奇",
+		"bbox": [173, 804, 197, 838],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

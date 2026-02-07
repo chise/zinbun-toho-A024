@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "小切94一", "bbox": [801, 267, 819, 335], "type": "text", "comment": ""},
+	{"text": "言文十一", "bbox": [801, 343, 834, 490], "type": "text", "comment": ""},
+	{"text": "十方", "bbox": [801, 657, 834, 709], "type": "text", "comment": ""},
+	{"text": "陳元", "bbox": [797, 797, 819, 842], "type": "text", "comment": ""},
+	{"text": "為程十程爲分十分爲", "bbox": [754, 261, 790, 515], "type": "text", "comment": ""},
+	{"text": "寸从禾呈聲直貞切", "bbox": [706, 261, 743, 515], "type": "text", "comment": ""},
+	{"text": "布之八十縷爲稯", "bbox": [754, 521, 790, 793], "type": "text", "comment": ""},
+	{"text": "从禾爰聲子紅切", "bbox": [706, 521, 743, 793], "type": "text", "comment": ""},
+	{"text": "籒文", "bbox": [658, 343, 691, 402], "type": "text", "comment": ""},
+	{"text": "五稯爲秭从禾弔聲一日", "bbox": [658, 408, 691, 793], "type": "text", "comment": ""},
+	{"text": "稷省", "bbox": [606, 261, 642, 335], "type": "text", "comment": ""},
+	{"text": "數億至萬曰秭將几切", "bbox": [606, 343, 642, 793], "type": "text", "comment": ""},
+	{"text": "二秭爲秏从禾毛聲周禮曰二百四十斤爲秉四秉", "bbox": [557, 261, 593, 793], "type": "text", "comment": ""},
+	{"text": "曰筥十筥曰稯十稯曰秏四百秉爲一秏宅加切", "bbox": [506, 261, 542, 793], "type": "text", "comment": ""},
+	{"text": "百二十斤也稻一秳爲粟二十升禾黍一", "bbox": [457, 261, 492, 793], "type": "text", "comment": ""},
+	{"text": "秳爲粟十六升太牛升从禾石聲常隻切", "bbox": [406, 261, 442, 793], "type": "text", "comment": ""},
+	{"text": "復其時也从禾其聲虞書", "bbox": [357, 261, 392, 793], "type": "text", "comment": ""},
+	{"text": "曰棋三百有六旬居之切", "bbox": [306, 261, 342, 793], "type": "text", "comment": ""},
+	{"text": "文八十七重十三", "bbox": [201, 457, 272, 758], "type": "text", "comment": ""},
+	{"text": "蹂穀聚也一日安也从禾", "bbox": [151, 338, 188, 609], "type": "text", "comment": ""},
+	{"text": "隱省古通用安隱烏本切", "bbox": [101, 338, 137, 609], "type": "text", "comment": ""},
+	{"text": "束稈也从禾", "bbox": [151, 698, 188, 842], "type": "text", "comment": ""},
+	{"text": "辜聲之閏切", "bbox": [101, 698, 137, 842], "type": "text", "comment": ""}
+]
+```

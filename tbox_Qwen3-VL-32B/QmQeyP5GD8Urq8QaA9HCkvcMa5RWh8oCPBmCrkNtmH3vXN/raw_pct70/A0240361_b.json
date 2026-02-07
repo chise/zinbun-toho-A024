@@ -1,0 +1,5 @@
+```json
+[
+  {"text": "No text lines detected in the image.", "bbox": [0, 0, 1000, 999], "size": "0", "type": "none", "comment": "The image contains only a brown, vertically oriented object with stitching, placed on a white background. There is no visible text."}
+]
+```
