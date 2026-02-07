@@ -1,0 +1,124 @@
+```json
+[
+	{
+		"text": "大十五",
+		"bbox": [170, 273, 195, 316],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兒",
+		"bbox": [824, 274, 894, 359],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌",
+		"bbox": [715, 274, 796, 359],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "先",
+		"bbox": [510, 274, 599, 359],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禾",
+		"bbox": [413, 274, 490, 359],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌 撓鑿首鐙也从兆从兒",
+		"bbox": [833, 359, 899, 602],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省兒象人頭也當矦切",
+		"bbox": [810, 359, 861, 602],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [826, 679, 894, 764],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "前進也从儿从之凡先之屬皆从",
+		"bbox": [719, 359, 796, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "先 臣鉉等曰之人上",
+		"bbox": [628, 359, 693, 588],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "是先也蘇前切",
+		"bbox": [604, 359, 658, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "進也从二先贊",
+		"bbox": [558, 359, 598, 511],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从此闕所臻切",
+		"bbox": [509, 359, 555, 511],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [515, 572, 592, 657],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "無髮也从人上象禾粟之形取其",
+		"bbox": [413, 359, 491, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲凡禿之屬皆从禿王育說蒼頡",
+		"bbox": [316, 359, 389, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "出見禿人伏禾中因以制字未知",
+		"bbox": [214, 359, 287, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乙六八二",
+		"bbox": [169, 407, 195, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "五",
+		"bbox": [169, 685, 195, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "荊安",
+		"bbox": [170, 796, 199, 837],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
