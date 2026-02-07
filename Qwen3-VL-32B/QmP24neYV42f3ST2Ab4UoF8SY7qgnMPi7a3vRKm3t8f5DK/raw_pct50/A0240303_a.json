@@ -1,0 +1,136 @@
+```json
+[
+	{
+		"text": "小口大十",
+		"bbox": [804, 279, 820, 351],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "説文八下",
+		"bbox": [806, 403, 824, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "四",
+		"bbox": [806, 675, 825, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宏昌",
+		"bbox": [804, 799, 820, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兒頌儀也从人白象人面形凡兒之",
+		"bbox": [713, 269, 789, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屬皆从兒莫敘切",
+		"bbox": [623, 356, 688, 547],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兒或从頁",
+		"bbox": [572, 346, 600, 452],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "豹省聲",
+		"bbox": [512, 347, 548, 432],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文兒",
+		"bbox": [564, 538, 596, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从豹省",
+		"bbox": [506, 538, 545, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冕也周曰兠殷",
+		"bbox": [557, 689, 594, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰吁夏曰收从",
+		"bbox": [507, 689, 545, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兒象形",
+		"bbox": [463, 270, 495, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皮變切",
+		"bbox": [412, 269, 452, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文兌从",
+		"bbox": [455, 427, 493, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丼上象形",
+		"bbox": [406, 427, 448, 531],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或兌",
+		"bbox": [463, 615, 493, 665],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "字",
+		"bbox": [414, 615, 446, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [322, 402, 388, 482],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重四",
+		"bbox": [322, 595, 375, 670],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也廱蔽也从人象左右皆蔽形凡兆",
+		"bbox": [212, 269, 288, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之屬皆从兆讀若瞽公戶切",
+		"bbox": [113, 351, 187, 674],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
