@@ -1,0 +1,190 @@
+```json
+[
+	{
+		"text": "小言三十",
+		"bbox": [805, 270, 826, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皆从舟切職流",
+		"bbox": [718, 349, 799, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俞空中木爲舟也从今从",
+		"bbox": [608, 354, 695, 590],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舟也从月鉛",
+		"bbox": [655, 665, 698, 795],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲食川切",
+		"bbox": [607, 665, 647, 795],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "船行也从月",
+		"bbox": [552, 354, 595, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三聲丑林切",
+		"bbox": [505, 354, 548, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舳艫也一日船頭",
+		"bbox": [451, 501, 494, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从月盧聲洛手切",
+		"bbox": [399, 501, 442, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "長爲舳艫一日舟尾臣鉉等",
+		"bbox": [505, 550, 548, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "船行不",
+		"bbox": [451, 771, 494, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "安也从",
+		"bbox": [399, 771, 442, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日當从冑省乃",
+		"bbox": [451, 272, 494, 420],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "得聲直六切",
+		"bbox": [399, 272, 442, 392],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "月从刖省讀",
+		"bbox": [346, 272, 389, 403],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若兀五忽切",
+		"bbox": [294, 272, 337, 403],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "船著不行也从月夋",
+		"bbox": [346, 498, 389, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若肇子紅切",
+		"bbox": [294, 498, 337, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "我也闕",
+		"bbox": [346, 761, 389, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "直禁切",
+		"bbox": [294, 771, 337, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "船師也明堂月令曰舫人",
+		"bbox": [243, 349, 286, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "習水者从月方聲甫妄切",
+		"bbox": [190, 349, 233, 688],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辟也象舟之旋",
+		"bbox": [243, 698, 286, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从月从殳殳所",
+		"bbox": [190, 698, 233, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以旋也人",
+		"bbox": [138, 272, 181, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古文般",
+		"bbox": [138, 438, 181, 518],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "用也一日車右騎所以",
+		"bbox": [138, 596, 181, 821],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "北潘切",
+		"bbox": [102, 272, 144, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从支",
+		"bbox": [102, 438, 144, 493],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舟旋从月及聲房六切",
+		"bbox": [102, 596, 144, 821],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二王生",
+		"bbox": [805, 672, 826, 834],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
