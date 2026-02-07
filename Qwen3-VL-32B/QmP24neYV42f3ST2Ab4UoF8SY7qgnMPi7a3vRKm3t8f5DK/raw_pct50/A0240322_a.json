@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "小三", "bbox": [798, 265, 817, 329], "type": "text", "comment": ""},
+	{"text": "或省", "bbox": [750, 350, 784, 401], "type": "text", "comment": ""},
+	{"text": "高墳也从夕", "bbox": [750, 492, 785, 620], "type": "text", "comment": ""},
+	{"text": "豕聲知隴切", "bbox": [699, 492, 737, 620], "type": "text", "comment": ""},
+	{"text": "文十五", "bbox": [613, 410, 676, 518], "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [613, 598, 674, 681], "type": "text", "comment": ""},
+	{"text": "象人裹妊已在中象子未成形也", "bbox": [504, 352, 577, 844], "type": "text", "comment": ""},
+	{"text": "元气起於子子人所生也男左行", "bbox": [402, 352, 474, 844], "type": "text", "comment": ""},
+	{"text": "三十女右行二十俱立於巳爲夫", "bbox": [300, 352, 370, 844], "type": "text", "comment": ""},
+	{"text": "婦裹妊於巳巳爲子十月而生男", "bbox": [198, 352, 270, 844], "type": "text", "comment": ""},
+	{"text": "起巳至寅女起巳至申故男季始", "bbox": [99, 352, 170, 844], "type": "text", "comment": ""},
+	{"text": "洪章", "bbox": [794, 797, 816, 838], "type": "text", "comment": ""}
+]
+```
