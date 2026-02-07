@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "小三百五十",
+		"bbox": [804, 267, 825, 399],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文十一",
+		"bbox": [808, 406, 837, 489],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十王",
+		"bbox": [809, 663, 834, 701],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "任三",
+		"bbox": [800, 804, 824, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "魚网也从网厕聲",
+		"bbox": [764, 345, 794, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "厕籀文銳居倒切",
+		"bbox": [715, 345, 745, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "魚罟也从网瓜聲詩",
+		"bbox": [759, 623, 789, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰施罛濊濊古胡切",
+		"bbox": [710, 623, 740, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "网也从网古",
+		"bbox": [659, 345, 689, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲公户切",
+		"bbox": [610, 345, 640, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曲梁寡婦之笱魚所留也",
+		"bbox": [655, 569, 685, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从网留留亦聲力九切",
+		"bbox": [605, 569, 635, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "留或从妻春秋",
+		"bbox": [555, 345, 585, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "國語曰溝罛罭",
+		"bbox": [505, 345, 535, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罣麗魚罟也从",
+		"bbox": [551, 569, 581, 762],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "网主聲之庾切",
+		"bbox": [501, 569, 531, 762],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罣麗也从网",
+		"bbox": [452, 271, 482, 463],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鹿聲盧谷切",
+		"bbox": [402, 271, 432, 463],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "積柴水中以聚魚也",
+		"bbox": [448, 470, 478, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从网林聲所今切",
+		"bbox": [398, 470, 428, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "釣也从",
+		"bbox": [444, 762, 474, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "网民聲",
+		"bbox": [394, 762, 424, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "武巾",
+		"bbox": [345, 271, 375, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [305, 271, 335, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以絲罟鳥也从网从維古",
+		"bbox": [341, 406, 371, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "者芒氏初作羅魯何切",
+		"bbox": [291, 406, 321, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "捕鳥覆",
+		"bbox": [337, 762, 367, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "車也从",
+		"bbox": [287, 762, 317, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "网叕聲",
+		"bbox": [247, 271, 277, 375],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陟劣切",
+		"bbox": [207, 271, 237, 375],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "叕或",
+		"bbox": [243, 406, 273, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从車",
+		"bbox": [197, 406, 227, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "覆車",
+		"bbox": [240, 762, 270, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [195, 762, 225, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "网包聲詩曰雉",
+		"bbox": [156, 271, 186, 463],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "離于罷縛牟切",
+		"bbox": [106, 271, 136, 463],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罷或",
+		"bbox": [152, 470, 182, 573],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从孚",
+		"bbox": [102, 470, 132, 573],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "捕鳥网也从网",
+		"bbox": [148, 580, 178, 783],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "敘聲於位切",
+		"bbox": [98, 635, 128, 817],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
