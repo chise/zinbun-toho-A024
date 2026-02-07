@@ -1,0 +1,226 @@
+```json
+[
+	{
+		"text": "小曰先",
+		"bbox": [798, 265, 823, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文上",
+		"bbox": [802, 404, 831, 494],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十",
+		"bbox": [808, 675, 830, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王明",
+		"bbox": [797, 797, 820, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "印",
+		"bbox": [709, 266, 795, 344],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "高也从卪召",
+		"bbox": [750, 346, 794, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲寔照切",
+		"bbox": [699, 346, 744, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戸",
+		"bbox": [709, 467, 795, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "科厄木節也从卪厂聲賈侍中",
+		"bbox": [750, 545, 794, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說以為厄裹也一曰厄蓋也臣",
+		"bbox": [699, 545, 744, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鉉等曰厂非聲",
+		"bbox": [648, 266, 693, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "脛頭卪也从卪來聲臣鉉等",
+		"bbox": [648, 467, 693, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "未詳五果切",
+		"bbox": [597, 266, 642, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "歗",
+		"bbox": [604, 467, 693, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰今俗作膝非是息七切",
+		"bbox": [597, 545, 642, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卷",
+		"bbox": [498, 266, 586, 344],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "郝曲也从卪",
+		"bbox": [543, 346, 588, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弄聲居轉切",
+		"bbox": [492, 346, 538, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卻",
+		"bbox": [498, 467, 586, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "節欲也从卪",
+		"bbox": [543, 545, 588, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "谷聲去約切",
+		"bbox": [492, 545, 538, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "起",
+		"bbox": [498, 665, 586, 767],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舍車解",
+		"bbox": [543, 769, 588, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬也从",
+		"bbox": [492, 769, 538, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卪止午讀若汝南人寫書之寫臣",
+		"bbox": [442, 266, 487, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鉉等曰午馬也故从午同夜切",
+		"bbox": [391, 266, 436, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卪也關",
+		"bbox": [341, 346, 385, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "則候切",
+		"bbox": [290, 346, 335, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卪",
+		"bbox": [305, 266, 374, 344],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文十三",
+		"bbox": [305, 566, 374, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卪",
+		"bbox": [395, 607, 487, 686],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二卪也巽从",
+		"bbox": [442, 665, 487, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "此闕士戀切",
+		"bbox": [391, 665, 436, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "印",
+		"bbox": [204, 266, 290, 344],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "執政所持信也从爪从卪凡印之",
+		"bbox": [204, 346, 290, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屬皆从印於刃",
+		"bbox": [98, 346, 184, 504],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [98, 506, 143, 547],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
