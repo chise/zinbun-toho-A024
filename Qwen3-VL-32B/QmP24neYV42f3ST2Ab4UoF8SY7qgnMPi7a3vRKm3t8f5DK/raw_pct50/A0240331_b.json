@@ -1,0 +1,244 @@
+```json
+[
+	{
+		"text": "石聲也从厂",
+		"bbox": [869, 337, 908, 465],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "立聲盧荅切",
+		"bbox": [816, 337, 861, 465],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "厂金聲讀若",
+		"bbox": [765, 266, 800, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "紟巨今切",
+		"bbox": [714, 266, 755, 365],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石間見从厂甫聲",
+		"bbox": [764, 485, 802, 660],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若敷芳無切",
+		"bbox": [714, 485, 756, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲詩曰他山之石可以",
+		"bbox": [664, 266, 705, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "為曆蒼各切又七互切",
+		"bbox": [613, 266, 655, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "見也从厂从之省",
+		"bbox": [562, 266, 603, 416],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若躍以灼切",
+		"bbox": [511, 266, 552, 416],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辟也从厂夾",
+		"bbox": [562, 524, 603, 650],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲胡甲切",
+		"bbox": [511, 524, 552, 624],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "側傾也从",
+		"bbox": [562, 743, 603, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人在厂下",
+		"bbox": [511, 743, 552, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石大也从厂",
+		"bbox": [664, 585, 705, 712],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "尨聲莫江切",
+		"bbox": [613, 585, 655, 712],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "岸上",
+		"bbox": [613, 732, 655, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从厂昝",
+		"bbox": [714, 773, 755, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "厲石也",
+		"bbox": [764, 773, 802, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石地",
+		"bbox": [869, 794, 908, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从",
+		"bbox": [816, 794, 861, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "石地惡也从厂",
+		"bbox": [869, 552, 908, 702],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兒聲五歷切",
+		"bbox": [816, 552, 861, 681],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文从矢",
+		"bbox": [461, 396, 500, 497],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "矢亦聲",
+		"bbox": [410, 396, 451, 465],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "反也从厂辟",
+		"bbox": [461, 585, 500, 712],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲普擊切",
+		"bbox": [410, 585, 451, 685],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隱也",
+		"bbox": [461, 794, 500, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从厂非聲",
+		"bbox": [360, 266, 400, 365],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "扶沸切",
+		"bbox": [309, 266, 350, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "笮也从厂歇聲一曰合",
+		"bbox": [360, 455, 400, 685],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也於輒切又一琰切",
+		"bbox": [309, 455, 350, 660],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "仰也",
+		"bbox": [360, 794, 400, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从人",
+		"bbox": [309, 794, 350, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "在厂上一曰屋梠也秦謂",
+		"bbox": [258, 266, 299, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之桷齊謂之产魚毀切",
+		"bbox": [207, 266, 248, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二十七重四",
+		"bbox": [207, 562, 283, 822],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "史悠",
+		"bbox": [176, 810, 200, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑文九下",
+		"bbox": [157, 398, 188, 487],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十",
+		"bbox": [176, 255, 199, 300],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
