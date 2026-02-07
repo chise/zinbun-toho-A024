@@ -1,0 +1,124 @@
+```json
+[
+	{
+		"text": "小曰允人",
+		"bbox": [803, 261, 825, 327],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言多大山",
+		"bbox": [804, 400, 829, 476],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "九",
+		"bbox": [806, 673, 830, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王明",
+		"bbox": [798, 798, 820, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皆从司",
+		"bbox": [716, 336, 784, 453],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "息兹",
+		"bbox": [758, 460, 792, 520],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [712, 460, 746, 493],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "意内而言外也从",
+		"bbox": [646, 339, 693, 524],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "司从言似兹切",
+		"bbox": [602, 340, 641, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [611, 600, 674, 680],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "圜器也一名觛所以節飲食象人",
+		"bbox": [504, 340, 583, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卪在其下也易曰君子節飲食凡",
+		"bbox": [407, 338, 481, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卮之屬皆从卮",
+		"bbox": [305, 338, 378, 578],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "章移",
+		"bbox": [350, 584, 381, 644],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [303, 583, 336, 614],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小卮有耳蓋者从",
+		"bbox": [248, 340, 280, 524],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卮專聲市沉切",
+		"bbox": [199, 340, 233, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小卮也从卮耑聲讀",
+		"bbox": [244, 616, 277, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若捶擊之捶㫖沉切",
+		"bbox": [197, 615, 229, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文三",
+		"bbox": [102, 422, 171, 495],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
