@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "小一百八十", "bbox": [798, 283, 820, 426], "type": "text", "comment": ""},
+	{"text": "言反", "bbox": [805, 426, 828, 502], "type": "text", "comment": ""},
+	{"text": "一二二", "bbox": [798, 678, 820, 715], "type": "text", "comment": ""},
+	{"text": "祁三", "bbox": [798, 816, 820, 844], "type": "text", "comment": ""},
+	{"text": "冀", "bbox": [710, 283, 790, 354], "type": "text", "comment": ""},
+	{"text": "北方州也从北", "bbox": [751, 368, 790, 505], "type": "text", "comment": ""},
+	{"text": "異聲几利切", "bbox": [701, 368, 749, 502], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [711, 671, 784, 743], "type": "text", "comment": ""},
+	{"text": "丘土之高也非人所爲也从北从一", "bbox": [606, 288, 688, 841], "type": "text", "comment": ""},
+	{"text": "一地也人居在丘南故从北中邦", "bbox": [508, 377, 584, 846], "type": "text", "comment": ""},
+	{"text": "之居在崑崙東南一曰四方高中", "bbox": [407, 373, 480, 847], "type": "text", "comment": ""},
+	{"text": "央下爲丘象形凡丘之屬皆从丘", "bbox": [307, 371, 380, 842], "type": "text", "comment": ""},
+	{"text": "去鳩切今", "bbox": [259, 375, 294, 485], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [259, 562, 289, 613], "type": "text", "comment": ""},
+	{"text": "隷變作丘", "bbox": [205, 375, 248, 485], "type": "text", "comment": ""},
+	{"text": "从土", "bbox": [205, 562, 243, 611], "type": "text", "comment": ""},
+	{"text": "大丘也崑崙丘謂之崑崙虛古者九夫爲井四", "bbox": [152, 375, 194, 842], "type": "text", "comment": ""},
+	{"text": "井爲邑四邑爲丘丘謂之虛从丘虍聲臣鉉等", "bbox": [98, 375, 141, 844], "type": "text", "comment": ""}
+]
+```
