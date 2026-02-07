@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "小二页十二", "bbox": [801, 254, 826, 319], "type": "text", "comment": ""},
+	{"text": "也从鬼厭", "bbox": [756, 254, 797, 362], "type": "text", "comment": ""},
+	{"text": "聲於琰切", "bbox": [708, 254, 750, 362], "type": "text", "comment": ""},
+	{"text": "文三新附", "bbox": [717, 483, 783, 564], "type": "text", "comment": ""},
+	{"text": "由鬼頭也象形凡田之屬皆从田敷勿切", "bbox": [611, 256, 685, 834], "type": "text", "comment": ""},
+	{"text": "蟲惡也从白虎省鬼頭而虎爪可畏也於胃切", "bbox": [527, 256, 599, 548], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [553, 650, 588, 697], "type": "text", "comment": ""},
+	{"text": "省", "bbox": [513, 571, 556, 679], "type": "text", "comment": ""},
+	{"text": "母猴", "bbox": [545, 785, 596, 848], "type": "text", "comment": ""},
+	{"text": "屬頭", "bbox": [506, 785, 547, 848], "type": "text", "comment": ""},
+	{"text": "似鬼从白从内牛具切", "bbox": [406, 256, 489, 362], "type": "text", "comment": ""},
+	{"text": "文三重一", "bbox": [412, 483, 478, 730], "type": "text", "comment": ""},
+	{"text": "丮女奴衣也韓非曰蒼頡作字自營為", "bbox": [305, 256, 377, 848], "type": "text", "comment": ""},
+	{"text": "丮凡丮之屬皆从丮息吏切", "bbox": [209, 339, 276, 834], "type": "text", "comment": ""},
+	{"text": "算而奪取曰篡从丮算聲初宦切", "bbox": [107, 256, 188, 506], "type": "text", "comment": ""},
+	{"text": "相誅呼也从丮从羑與久切", "bbox": [107, 595, 188, 739], "type": "text", "comment": ""},
+	{"text": "任三", "bbox": [801, 813, 826, 848], "type": "text", "comment": ""}
+]
+```
