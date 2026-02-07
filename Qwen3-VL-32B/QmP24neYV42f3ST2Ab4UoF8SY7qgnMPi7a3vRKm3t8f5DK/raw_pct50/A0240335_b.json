@@ -1,0 +1,124 @@
+```json
+[
+	{
+		"text": "文二",
+		"bbox": [830, 401, 900, 475],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [830, 590, 900, 662],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "而珍",
+		"bbox": [663, 345, 700, 387],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [619, 347, 658, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文一",
+		"bbox": [628, 583, 695, 636],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "毛冉冉也象形凡冉之屬皆从冉",
+		"bbox": [723, 345, 802, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "而頰毛也象毛之形周禮曰作其鱗",
+		"bbox": [520, 345, 598, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之而凡而之屬皆从而",
+		"bbox": [417, 345, 494, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臣鉉等曰今俗",
+		"bbox": [458, 695, 501, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "別作髾非是如",
+		"bbox": [404, 695, 452, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之",
+		"bbox": [358, 345, 396, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [311, 347, 350, 370],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "罪不至髡也从",
+		"bbox": [258, 345, 298, 447],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "而从彐奴代切",
+		"bbox": [207, 345, 247, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或从寸諸法",
+		"bbox": [258, 583, 298, 719],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "度字从寸",
+		"bbox": [207, 583, 247, 675],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大五",
+		"bbox": [175, 262, 197, 293],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "絕文下",
+		"bbox": [165, 403, 190, 493],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "上一",
+		"bbox": [167, 662, 190, 692],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唐文",
+		"bbox": [178, 795, 200, 819],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
