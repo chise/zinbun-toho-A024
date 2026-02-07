@@ -1,0 +1,238 @@
+```json
+[
+	{
+		"text": "詩曰籋人伎",
+		"bbox": [859, 277, 909, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "掩脅也从人多聲",
+		"bbox": [859, 484, 909, 671],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "癡兒从",
+		"bbox": [859, 767, 909, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人台聲",
+		"bbox": [817, 767, 867, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰奢也尺氏切",
+		"bbox": [817, 484, 867, 671],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "忒渠綺切",
+		"bbox": [817, 277, 867, 382],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詐也从人為",
+		"bbox": [775, 662, 825, 796],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "偪驕也从人",
+		"bbox": [775, 434, 825, 568],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若騤",
+		"bbox": [775, 277, 825, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲危睡切",
+		"bbox": [733, 662, 783, 767],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蚤聲穌遭切",
+		"bbox": [733, 434, 783, 577],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "吏在切",
+		"bbox": [733, 277, 783, 356],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "輕也",
+		"bbox": [691, 788, 741, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "務也从人句",
+		"bbox": [691, 560, 741, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "惰也从人只",
+		"bbox": [691, 349, 741, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦候切",
+		"bbox": [648, 560, 698, 671],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲以豉切",
+		"bbox": [648, 349, 698, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "從人",
+		"bbox": [648, 788, 698, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戲也从人非",
+		"bbox": [599, 671, 649, 803],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "樂也从人昌",
+		"bbox": [599, 440, 649, 577],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "賈聲匹",
+		"bbox": [599, 277, 649, 346],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "妙切",
+		"bbox": [556, 277, 606, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲尺亮切",
+		"bbox": [556, 440, 606, 546],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲步皆切",
+		"bbox": [556, 662, 606, 776],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "作姿也从人",
+		"bbox": [479, 356, 529, 468],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "善聲常演切",
+		"bbox": [417, 356, 467, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "儍互不齊也从",
+		"bbox": [479, 577, 529, 721],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人麌聲士咸切",
+		"bbox": [417, 577, 467, 711],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "佚民",
+		"bbox": [417, 744, 467, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从人失聲一曰",
+		"bbox": [374, 277, 424, 434],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "供忽也夷質切",
+		"bbox": [321, 277, 371, 434],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "行頃也从人我聲詩",
+		"bbox": [374, 546, 424, 736],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰仄弁之俄五何切",
+		"bbox": [321, 546, 371, 749],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "喜也从人豈聲自關以西物",
+		"bbox": [268, 277, 318, 558],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "徽御受屈也从",
+		"bbox": [268, 638, 318, 803],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大小不同謂之傜余招切",
+		"bbox": [215, 277, 265, 532],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人卻聲其虐切",
+		"bbox": [215, 648, 265, 803],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十二",
+		"bbox": [174, 277, 200, 328],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "張信",
+		"bbox": [174, 803, 200, 844],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
