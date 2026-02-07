@@ -1,0 +1,274 @@
+```json
+[
+	{
+		"text": "也从頁卑",
+		"bbox": [865, 270, 915, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲匹米切",
+		"bbox": [816, 270, 865, 324],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "司人也一曰恐也从頁",
+		"bbox": [865, 457, 915, 687],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "契聲讀若禊胡計切",
+		"bbox": [816, 324, 865, 656],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頭不正",
+		"bbox": [865, 774, 915, 807],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从頁",
+		"bbox": [816, 774, 865, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鬼聲口",
+		"bbox": [767, 270, 816, 343],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "猥切",
+		"bbox": [717, 270, 767, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頭偏也从頁",
+		"bbox": [767, 343, 816, 547],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "顱也从頁尤",
+		"bbox": [767, 547, 816, 750],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲于救切",
+		"bbox": [717, 629, 767, 748],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頒或",
+		"bbox": [668, 270, 717, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頭不正也从頁",
+		"bbox": [668, 398, 717, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飯不飽面黃起行也",
+		"bbox": [668, 649, 717, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从頁咸聲讀若戇下",
+		"bbox": [618, 653, 668, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从广",
+		"bbox": [618, 270, 668, 305],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亶聲之繕切",
+		"bbox": [618, 398, 668, 533],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "感下坎",
+		"bbox": [569, 270, 618, 339],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "面頥額皃从頁",
+		"bbox": [569, 398, 618, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "熱頭痛也从頁从",
+		"bbox": [569, 660, 618, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二切",
+		"bbox": [520, 270, 569, 318],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嗿聲盧感切",
+		"bbox": [520, 398, 569, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "火一曰焚省聲附",
+		"bbox": [520, 670, 569, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "袁",
+		"bbox": [470, 270, 520, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "癡不聰明也从",
+		"bbox": [470, 377, 520, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "難曉也从頁米一曰鮮",
+		"bbox": [470, 614, 520, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [421, 270, 470, 300],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頁蒙聲五怪切",
+		"bbox": [421, 377, 470, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "白皃从粉省臣鉉等曰",
+		"bbox": [421, 614, 470, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "難曉亦不聰",
+		"bbox": [372, 270, 421, 390],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "顳頷也从頁焦",
+		"bbox": [372, 472, 421, 632],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "顳頷也从頁",
+		"bbox": [372, 703, 421, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之義盧對切",
+		"bbox": [323, 270, 372, 390],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲昨焦切",
+		"bbox": [323, 472, 372, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "率聲秦醉切",
+		"bbox": [323, 703, 372, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "緊頭脳也从頁",
+		"bbox": [273, 324, 323, 500],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "昏聲莫奔切",
+		"bbox": [273, 595, 323, 750],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "醜也从頁亥",
+		"bbox": [273, 774, 323, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "醜也",
+		"bbox": [224, 774, 273, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲戶來切",
+		"bbox": [224, 574, 273, 679],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从頁",
+		"bbox": [224, 795, 273, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大廿三",
+		"bbox": [175, 274, 202, 321],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑大七二",
+		"bbox": [167, 405, 194, 491],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "四",
+		"bbox": [167, 673, 194, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳玉",
+		"bbox": [175, 793, 202, 834],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
