@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "兄長也从儿从口凡兄之屬皆从兄", "bbox": [814, 275, 893, 846], "type": "text", "comment": ""},
+	{"text": "許榮", "bbox": [758, 358, 797, 410], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [714, 358, 751, 387], "type": "text", "comment": ""},
+	{"text": "競也从二兄二兄競意从丰聲", "bbox": [657, 356, 699, 657], "type": "text", "comment": ""},
+	{"text": "讀若矜一曰競敬也居陵切", "bbox": [604, 356, 647, 631], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [624, 721, 687, 793], "type": "text", "comment": ""},
+	{"text": "先首笄也从人匕象簪形凡先之屬", "bbox": [515, 273, 586, 846], "type": "text", "comment": ""},
+	{"text": "皆从先側琴", "bbox": [423, 352, 489, 529], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [406, 477, 443, 506], "type": "text", "comment": ""},
+	{"text": "俗先从", "bbox": [364, 358, 398, 434], "type": "text", "comment": ""},
+	{"text": "竹从簮", "bbox": [308, 358, 343, 432], "type": "text", "comment": ""},
+	{"text": "簮簮銳意也从", "bbox": [357, 519, 395, 672], "type": "text", "comment": ""},
+	{"text": "二先子林切", "bbox": [304, 519, 341, 653], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [217, 417, 282, 495], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [218, 564, 282, 622], "type": "text", "comment": ""},
+	{"text": "六十二", "bbox": [170, 277, 195, 322], "type": "text", "comment": ""},
+	{"text": "陳玉", "bbox": [174, 797, 199, 834], "type": "text", "comment": ""}
+]
+```

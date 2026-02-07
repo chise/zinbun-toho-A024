@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "小三九千",
+		"bbox": [807, 265, 824, 313],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文一",
+		"bbox": [807, 401, 825, 499],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "心有所惡若吐也从欠烏",
+		"bbox": [765, 261, 805, 618],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲一曰口相就哀都切",
+		"bbox": [718, 260, 757, 617],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "歍歍歇歍也从欠",
+		"bbox": [765, 619, 798, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鼃聲才六切",
+		"bbox": [718, 619, 754, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "俗歗从",
+		"bbox": [664, 343, 699, 419],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "口从就",
+		"bbox": [614, 344, 650, 419],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "恝然也从欠未聲孟子",
+		"bbox": [664, 420, 699, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰曾西欵然才六切",
+		"bbox": [614, 420, 650, 707],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "含",
+		"bbox": [664, 736, 699, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "笑",
+		"bbox": [614, 736, 650, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从欠今",
+		"bbox": [563, 261, 599, 365],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲丘嚴切",
+		"bbox": [513, 261, 549, 365],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人相笑相歔瘉从",
+		"bbox": [563, 366, 599, 640],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "欠虒聲以支切",
+		"bbox": [513, 366, 549, 612],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "歊歊气出",
+		"bbox": [563, 641, 599, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皃从欠高",
+		"bbox": [513, 641, 549, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "高亦聲",
+		"bbox": [462, 261, 497, 339],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "許嬌切",
+		"bbox": [412, 261, 448, 339],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "有所吹起从欠炎",
+		"bbox": [462, 340, 497, 589],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若忽許物切",
+		"bbox": [412, 340, 448, 589],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "攱攱戲笑皃从",
+		"bbox": [462, 590, 497, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "欠之聲許其切",
+		"bbox": [412, 590, 448, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "絲絲气出皃从",
+		"bbox": [362, 340, 397, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "欠蛬聲余招切",
+		"bbox": [311, 340, 347, 507],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "吟也从欠肅聲詩曰其",
+		"bbox": [362, 508, 397, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "歗也訶臣鉉等案口部",
+		"bbox": [311, 508, 347, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "有此籀文嘯字",
+		"bbox": [260, 261, 296, 419],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "此重出蘇弔切",
+		"bbox": [210, 261, 246, 419],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "吟也从欠鸛",
+		"bbox": [260, 420, 296, 640],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲他案切",
+		"bbox": [210, 420, 246, 640],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文歎",
+		"bbox": [260, 641, 296, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "不省",
+		"bbox": [210, 641, 246, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "卒喜也从欠",
+		"bbox": [159, 340, 195, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从喜許其切",
+		"bbox": [108, 340, 144, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "訾也从欠矣聲凶",
+		"bbox": [159, 508, 195, 728],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戒切又烏開切",
+		"bbox": [108, 508, 144, 728],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

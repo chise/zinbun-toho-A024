@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "小品廿一", "bbox": [807, 269, 823, 305], "type": "text", "comment": ""},
+	{"text": "上声三十一", "bbox": [806, 398, 824, 496], "type": "text", "comment": ""},
+	{"text": "九", "bbox": [807, 675, 824, 697], "type": "text", "comment": ""},
+	{"text": "先昌", "bbox": [800, 797, 816, 837], "type": "text", "comment": ""},
+	{"text": "噓或从", "bbox": [754, 346, 797, 402], "type": "text", "comment": ""},
+	{"text": "口从夾", "bbox": [714, 346, 755, 420], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [715, 545, 785, 629], "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [715, 695, 784, 775], "type": "text", "comment": ""},
+	{"text": "涎慕欲口液也从欠从水凡次之屬", "bbox": [609, 266, 690, 848], "type": "text", "comment": ""},
+	{"text": "皆从次叙連", "bbox": [514, 344, 593, 522], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [509, 467, 541, 496], "type": "text", "comment": ""},
+	{"text": "次或", "bbox": [455, 346, 496, 400], "type": "text", "comment": ""},
+	{"text": "籀文", "bbox": [455, 480, 493, 542], "type": "text", "comment": ""},
+	{"text": "貪欲也从次从羑省", "bbox": [447, 631, 485, 847], "type": "text", "comment": ""},
+	{"text": "从侃", "bbox": [407, 346, 446, 400], "type": "text", "comment": ""},
+	{"text": "次", "bbox": [407, 481, 442, 510], "type": "text", "comment": ""},
+	{"text": "羑呼之羑文王所拘", "bbox": [396, 630, 435, 847], "type": "text", "comment": ""},
+	{"text": "羑里似", "bbox": [355, 266, 393, 342], "type": "text", "comment": ""},
+	{"text": "面切", "bbox": [312, 266, 349, 312], "type": "text", "comment": ""},
+	{"text": "歟也从次厂聲", "bbox": [354, 425, 393, 597], "type": "text", "comment": ""},
+	{"text": "讀若移以支切", "bbox": [305, 425, 344, 592], "type": "text", "comment": ""},
+	{"text": "私利物也从次", "bbox": [354, 690, 392, 847], "type": "text", "comment": ""},
+	{"text": "次欲皿者徒到", "bbox": [304, 690, 342, 847], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [252, 266, 289, 295], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [212, 522, 281, 605], "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [212, 670, 281, 753], "type": "text", "comment": ""},
+	{"text": "氣歛食气市不得息曰兂从反兂凡", "bbox": [105, 265, 185, 847], "type": "text", "comment": ""}
+]
+```

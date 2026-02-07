@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "小三十三", "bbox": [804, 276, 825, 341], "type": "text", "comment": ""},
+	{"text": "言三十一", "bbox": [810, 412, 831, 479], "type": "text", "comment": ""},
+	{"text": "三", "bbox": [810, 685, 828, 707], "type": "text", "comment": ""},
+	{"text": "宏昌", "bbox": [802, 799, 821, 843], "type": "text", "comment": ""},
+	{"text": "仁人也古文奇字人也象形孔子", "bbox": [711, 273, 795, 846], "type": "text", "comment": ""},
+	{"text": "曰在人下故詰屈凡儿之屬皆从", "bbox": [609, 356, 691, 850], "type": "text", "comment": ""},
+	{"text": "儿如鄰", "bbox": [517, 356, 593, 455], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [513, 404, 543, 429], "type": "text", "comment": ""},
+	{"text": "高而上平也从一在人上讀", "bbox": [456, 356, 495, 641], "type": "text", "comment": ""},
+	{"text": "若夐茂陵有兀桑里五忽切", "bbox": [404, 356, 450, 641], "type": "text", "comment": ""},
+	{"text": "孺子也从", "bbox": [722, 741, 785, 849], "type": "text", "comment": ""},
+	{"text": "兒", "bbox": [415, 652, 480, 738], "type": "text", "comment": ""},
+	{"text": "儿象小兒", "bbox": [404, 743, 450, 846], "type": "text", "comment": ""},
+	{"text": "頭囟未合", "bbox": [364, 275, 400, 375], "type": "text", "comment": ""},
+	{"text": "信也从儿吕", "bbox": [361, 457, 398, 575], "type": "text", "comment": ""},
+	{"text": "說也从儿谷聲臣", "bbox": [358, 673, 395, 849], "type": "text", "comment": ""},
+	{"text": "汝移切", "bbox": [311, 275, 348, 347], "type": "text", "comment": ""},
+	{"text": "聲余準切", "bbox": [310, 456, 347, 557], "type": "text", "comment": ""},
+	{"text": "鉉等曰合古文兖", "bbox": [308, 671, 345, 848], "type": "text", "comment": ""},
+	{"text": "字非聲當从口从八象气之分", "bbox": [259, 275, 298, 583], "type": "text", "comment": ""},
+	{"text": "散易曰兌爲巫爲口大外切", "bbox": [209, 275, 249, 556], "type": "text", "comment": ""},
+	{"text": "長也高也从儿", "bbox": [258, 671, 295, 822], "type": "text", "comment": ""},
+	{"text": "育省聲昌終切", "bbox": [205, 671, 243, 822], "type": "text", "comment": ""},
+	{"text": "文六", "bbox": [121, 452, 191, 531], "type": "text", "comment": ""}
+]
+```

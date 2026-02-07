@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "小二00", "bbox": [798, 274, 823, 326], "type": "text", "comment": ""},
+	{"text": "說文八下", "bbox": [805, 405, 833, 498], "type": "text", "comment": ""},
+	{"text": "三", "bbox": [805, 674, 831, 708], "type": "text", "comment": ""},
+	{"text": "其審切他谷", "bbox": [717, 356, 788, 505], "type": "text", "comment": ""},
+	{"text": "覡秃皃从秃賢聲杜回切", "bbox": [604, 273, 695, 462], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [614, 654, 686, 733], "type": "text", "comment": ""},
+	{"text": "見視也从儿从目凡見之屬皆从見", "bbox": [509, 273, 587, 846], "type": "text", "comment": ""},
+	{"text": "古匈切", "bbox": [408, 357, 485, 399], "type": "text", "comment": ""},
+	{"text": "視瞻也从見示神至切", "bbox": [297, 273, 388, 462], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [345, 526, 391, 574], "type": "text", "comment": ""},
+	{"text": "亦古文視", "bbox": [302, 588, 394, 696], "type": "text", "comment": ""},
+	{"text": "求也", "bbox": [307, 730, 394, 846], "type": "text", "comment": ""},
+	{"text": "从見麗聲讀若池郎計切", "bbox": [243, 273, 289, 406], "type": "text", "comment": ""},
+	{"text": "好視也从見委聲於爲切", "bbox": [201, 495, 289, 629], "type": "text", "comment": ""},
+	{"text": "㫙視也从見兒聲五計切", "bbox": [201, 685, 291, 846], "type": "text", "comment": ""},
+	{"text": "好視也从見", "bbox": [152, 353, 193, 482], "type": "text", "comment": ""},
+	{"text": "笑視也从見", "bbox": [152, 557, 193, 704], "type": "text", "comment": ""},
+	{"text": "大視也从", "bbox": [152, 712, 193, 846], "type": "text", "comment": ""},
+	{"text": "爵聲洛戈切", "bbox": [99, 352, 141, 482], "type": "text", "comment": ""},
+	{"text": "釆聲力玉切", "bbox": [99, 557, 141, 704], "type": "text", "comment": ""}
+]
+```
