@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小司羊人", "bbox": [794, 263, 815, 330], "type": "text", "comment": ""},
+	{"text": "說文十上", "bbox": [797, 397, 826, 478], "type": "text", "comment": ""},
+	{"text": "从炏語斤", "bbox": [703, 349, 780, 481], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [703, 425, 736, 458], "type": "text", "comment": ""},
+	{"text": "司空也从炏臣聲復", "bbox": [638, 344, 689, 560], "type": "text", "comment": ""},
+	{"text": "說獄司空息茲切", "bbox": [592, 344, 634, 532], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [539, 261, 577, 289], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [500, 466, 579, 552], "type": "text", "comment": ""},
+	{"text": "确也从炏从言二", "bbox": [646, 645, 692, 838], "type": "text", "comment": ""},
+	{"text": "犬所以守也魚欲", "bbox": [592, 645, 641, 840], "type": "text", "comment": ""},
+	{"text": "鼠穴蟲之總名也象形凡鼠之屬皆", "bbox": [396, 259, 475, 847], "type": "text", "comment": ""},
+	{"text": "从鼠書呂", "bbox": [339, 338, 373, 466], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [293, 410, 328, 442], "type": "text", "comment": ""},
+	{"text": "鼠也从鼠香聲讀若", "bbox": [239, 341, 281, 554], "type": "text", "comment": ""},
+	{"text": "樊或曰鼠婦附袁切", "bbox": [189, 341, 230, 554], "type": "text", "comment": ""},
+	{"text": "鼠出胡地皮可作裘", "bbox": [239, 632, 281, 838], "type": "text", "comment": ""},
+	{"text": "从鼠各聲下各切", "bbox": [189, 632, 230, 816], "type": "text", "comment": ""},
+	{"text": "地行鼠伯勞所作也一曰", "bbox": [135, 341, 178, 588], "type": "text", "comment": ""},
+	{"text": "偃鼠从鼠分聲房吻切", "bbox": [83, 341, 127, 583], "type": "text", "comment": ""},
+	{"text": "或从", "bbox": [135, 679, 178, 729], "type": "text", "comment": ""},
+	{"text": "虫分", "bbox": [83, 676, 127, 731], "type": "text", "comment": ""},
+	{"text": "令", "bbox": [83, 753, 127, 843], "type": "text", "comment": ""},
+	{"text": "鼯", "bbox": [135, 748, 178, 844], "type": "text", "comment": ""},
+	{"text": "十二", "bbox": [798, 667, 826, 702], "type": "text", "comment": ""},
+	{"text": "陸安", "bbox": [797, 795, 820, 832], "type": "text", "comment": ""}
+]
+```
