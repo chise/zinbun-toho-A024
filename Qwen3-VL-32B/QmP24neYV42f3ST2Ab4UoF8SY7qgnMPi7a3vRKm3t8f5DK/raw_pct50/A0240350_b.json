@@ -1,0 +1,208 @@
+```json
+[
+	{
+		"text": "馬徒",
+		"bbox": [870, 264, 923, 322],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "獨俗獸也从犬",
+		"bbox": [870, 418, 923, 574],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "秋田也从犬",
+		"bbox": [870, 661, 923, 785],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "谷切",
+		"bbox": [825, 264, 870, 322],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "谷聲余蜀切",
+		"bbox": [825, 418, 870, 554],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壐聲息淺切",
+		"bbox": [825, 661, 870, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穪或从豕宗廟之",
+		"bbox": [774, 351, 818, 536],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "放獵逐禽也从",
+		"bbox": [774, 639, 818, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "田也故从豕示",
+		"bbox": [727, 351, 772, 512],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬豈聲良涉切",
+		"bbox": [727, 639, 772, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "獵也从犬寮",
+		"bbox": [674, 351, 718, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬田也从犬守聲易曰",
+		"bbox": [674, 586, 718, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲力照切",
+		"bbox": [625, 351, 668, 455],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "明夷于南狩書究切",
+		"bbox": [625, 586, 668, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "禽走臭而知其迹者犬也从犬从自臣鉉等",
+		"bbox": [571, 368, 615, 831],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰自古鼻字犬走以鼻知臭故从自尺救切",
+		"bbox": [518, 368, 562, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "獵所獲也从犬",
+		"bbox": [464, 351, 508, 512],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頓仆也从犬敝聲春秋",
+		"bbox": [464, 586, 508, 798],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "隻聲胡伯切",
+		"bbox": [411, 351, 455, 486],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "傳曰與犬大獘毗祭切",
+		"bbox": [411, 586, 455, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "獒或",
+		"bbox": [358, 351, 402, 406],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宗廟犬名羹獻犬肥者以",
+		"bbox": [358, 495, 402, 758],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从死",
+		"bbox": [304, 351, 348, 406],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "獻之从犬虜聲許建切",
+		"bbox": [304, 495, 348, 758],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "撓犬也从犬开聲一",
+		"bbox": [251, 264, 295, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰逐虎犬也五旬切",
+		"bbox": [251, 264, 295, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "狌犬也从犬",
+		"bbox": [251, 586, 295, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "堯聲五弔切",
+		"bbox": [251, 586, 295, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "狂犬也",
+		"bbox": [251, 758, 295, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从犬折",
+		"bbox": [251, 776, 295, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大中六",
+		"bbox": [176, 264, 198, 312],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌下上",
+		"bbox": [176, 406, 198, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十二",
+		"bbox": [176, 661, 198, 706],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蔣安",
+		"bbox": [176, 798, 198, 835],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
