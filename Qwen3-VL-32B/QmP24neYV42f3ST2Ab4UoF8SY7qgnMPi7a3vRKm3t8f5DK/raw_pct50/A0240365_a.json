@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小學", "bbox": [798, 267, 820, 335], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [748, 268, 785, 296], "type": "text", "comment": ""},
+	{"text": "火赤兒从二", "bbox": [749, 300, 785, 485], "type": "text", "comment": ""},
+	{"text": "赤呼格切", "bbox": [698, 301, 739, 485], "type": "text", "comment": ""},
+	{"text": "文八", "bbox": [708, 546, 785, 626], "type": "text", "comment": ""},
+	{"text": "重五", "bbox": [708, 692, 785, 772], "type": "text", "comment": ""},
+	{"text": "陳元", "bbox": [798, 797, 818, 831], "type": "text", "comment": ""},
+	{"text": "二", "bbox": [801, 679, 821, 702], "type": "text", "comment": ""},
+	{"text": "言五一一", "bbox": [801, 404, 822, 485], "type": "text", "comment": ""},
+	{"text": "大赤也从赤色", "bbox": [653, 354, 689, 510], "type": "text", "comment": ""},
+	{"text": "色亦聲許力切", "bbox": [599, 354, 640, 510], "type": "text", "comment": ""},
+	{"text": "赤色也从赤", "bbox": [653, 588, 689, 728], "type": "text", "comment": ""},
+	{"text": "叚聲乎加切", "bbox": [599, 588, 640, 728], "type": "text", "comment": ""},
+	{"text": "文二新附", "bbox": [505, 404, 579, 539], "type": "text", "comment": ""},
+	{"text": "天大地大人亦大故大象人形古", "bbox": [400, 354, 479, 843], "type": "text", "comment": ""},
+	{"text": "文大他達切也凡大之屬皆从大徒蓋切", "bbox": [300, 347, 379, 835], "type": "text", "comment": ""},
+	{"text": "兩髀之間从大", "bbox": [246, 354, 284, 510], "type": "text", "comment": ""},
+	{"text": "圭聲苦圭切", "bbox": [194, 354, 233, 485], "type": "text", "comment": ""},
+	{"text": "持也从大俠", "bbox": [246, 588, 284, 728], "type": "text", "comment": ""},
+	{"text": "二人古狎切", "bbox": [194, 588, 233, 728], "type": "text", "comment": ""},
+	{"text": "覆", "bbox": [246, 814, 284, 846], "type": "text", "comment": ""},
+	{"text": "也", "bbox": [194, 814, 233, 846], "type": "text", "comment": ""},
+	{"text": "大有餘也又欠也从大", "bbox": [142, 270, 181, 510], "type": "text", "comment": ""},
+	{"text": "从申申展也依檢切", "bbox": [91, 270, 131, 510], "type": "text", "comment": ""},
+	{"text": "奢也从大于", "bbox": [142, 588, 181, 728], "type": "text", "comment": ""},
+	{"text": "聲苦瓜切", "bbox": [91, 588, 131, 690], "type": "text", "comment": ""},
+	{"text": "奢查", "bbox": [142, 778, 181, 846], "type": "text", "comment": ""},
+	{"text": "也从", "bbox": [91, 797, 131, 846], "type": "text", "comment": ""}
+]
+```
