@@ -1,0 +1,148 @@
+```json
+[
+	{
+		"text": "罪人也从夲从人",
+		"bbox": [856, 274, 913, 445],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从言竹聲居六切",
+		"bbox": [816, 274, 870, 445],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或省",
+		"bbox": [872, 528, 914, 575],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言",
+		"bbox": [823, 528, 860, 562],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文七",
+		"bbox": [834, 635, 903, 706],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [835, 747, 902, 817],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奢張也从大者聲凡奢之屬皆从奢",
+		"bbox": [719, 267, 811, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "式車",
+		"bbox": [665, 366, 704, 425],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [624, 369, 660, 402],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文臣鉉等曰今俗作陟加",
+		"bbox": [560, 354, 603, 633],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切以為嘗厚之嘗非是",
+		"bbox": [512, 354, 557, 607],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "富韡韡皃从",
+		"bbox": [575, 712, 615, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奢單聲丁可",
+		"bbox": [514, 712, 555, 849],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [459, 278, 501, 304],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [423, 446, 497, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [428, 594, 497, 677],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "人頸也从大省象頸脈形凡亢之",
+		"bbox": [320, 368, 399, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屬皆从亢",
+		"bbox": [217, 364, 296, 522],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古郎",
+		"bbox": [265, 522, 303, 565],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [214, 522, 253, 549],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十五",
+		"bbox": [179, 271, 203, 316],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文下",
+		"bbox": [168, 408, 199, 495],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "六",
+		"bbox": [174, 955, 198, 979],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蔣安",
+		"bbox": [181, 792, 204, 836],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
