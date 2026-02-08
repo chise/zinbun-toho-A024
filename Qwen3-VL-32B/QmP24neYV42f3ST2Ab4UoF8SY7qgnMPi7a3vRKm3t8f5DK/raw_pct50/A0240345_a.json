@@ -1,0 +1,232 @@
+```json
+[
+	{
+		"text": "小三牛八",
+		"bbox": [803, 279, 825, 340],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言三二一",
+		"bbox": [806, 412, 830, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王必",
+		"bbox": [804, 799, 824, 831],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文一百一十五 重八",
+		"bbox": [305, 380, 388, 723],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬高八尺从馬",
+		"bbox": [258, 579, 288, 733],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲如融切",
+		"bbox": [205, 631, 246, 709],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "髮馬",
+		"bbox": [258, 804, 288, 844],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾也从馬吏",
+		"bbox": [255, 362, 288, 464],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲疏吏切",
+		"bbox": [205, 360, 246, 464],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从馬夋",
+		"bbox": [155, 281, 193, 382],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲子紅切",
+		"bbox": [105, 281, 143, 382],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "負物也从馬大聲",
+		"bbox": [155, 464, 193, 650],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "此俗語也唐佐切",
+		"bbox": [105, 467, 143, 651],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬赤色也",
+		"bbox": [155, 740, 193, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从馬鮮省",
+		"bbox": [105, 740, 143, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鹽父馬母从馬",
+		"bbox": [752, 360, 792, 496],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "贏聲洛戈切",
+		"bbox": [703, 360, 742, 496],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或从",
+		"bbox": [752, 598, 792, 648],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "似馬長耳",
+		"bbox": [752, 734, 792, 826],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从馬盧聲",
+		"bbox": [703, 734, 742, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "力居",
+		"bbox": [654, 281, 692, 331],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "驢子也从馬",
+		"bbox": [654, 412, 692, 548],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "驒騱野馬也从馬單",
+		"bbox": [654, 631, 692, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [605, 281, 643, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "冢聲莫紅切",
+		"bbox": [605, 412, 643, 548],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲一曰青驪白鱗文",
+		"bbox": [605, 631, 643, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "如鼉魚",
+		"bbox": [555, 281, 593, 348],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "驒騱馬也从馬",
+		"bbox": [555, 442, 593, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒騌北野之良",
+		"bbox": [555, 692, 593, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "代何切",
+		"bbox": [505, 281, 543, 355],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奚聲胡雞切",
+		"bbox": [505, 442, 543, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬从馬匋聲徒",
+		"bbox": [505, 689, 543, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刀",
+		"bbox": [456, 281, 494, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒騌也从馬",
+		"bbox": [456, 391, 494, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "衆馬也从三",
+		"bbox": [456, 611, 494, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [406, 281, 444, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "余聲同都切",
+		"bbox": [406, 391, 444, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬甫虬切",
+		"bbox": [406, 611, 444, 712],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

@@ -1,0 +1,190 @@
+```json
+[
+	{
+		"text": "小豆切",
+		"bbox": [794, 268, 817, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文十七",
+		"bbox": [794, 401, 823, 475],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "六",
+		"bbox": [794, 670, 823, 715],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "繆春",
+		"bbox": [794, 789, 817, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頠",
+		"bbox": [698, 268, 786, 350],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亢或",
+		"bbox": [745, 352, 786, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "直項莽䯻皃从亢从夋夋倨",
+		"bbox": [734, 401, 786, 753],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从頁",
+		"bbox": [698, 352, 736, 400],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也亢亦聲岡朗切又胡朗切",
+		"bbox": [698, 401, 736, 753],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文二",
+		"bbox": [606, 416, 673, 494],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "重一",
+		"bbox": [606, 558, 673, 635],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廾進趣也从大从十大十猶兼十人",
+		"bbox": [497, 268, 584, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也凡仐之屬皆从仐讀若滔",
+		"bbox": [398, 340, 476, 782],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "土刀",
+		"bbox": [454, 773, 484, 823],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [398, 773, 435, 797],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾也从仐卉聲",
+		"bbox": [340, 352, 380, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "拜从此呼骨切",
+		"bbox": [298, 352, 338, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾有所趣也从日",
+		"bbox": [339, 638, 379, 823],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "出仐丼之薄報切",
+		"bbox": [297, 638, 338, 823],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "進也从仐从中允聲易",
+		"bbox": [236, 352, 276, 578],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰歛升大吉余準切",
+		"bbox": [194, 352, 234, 567],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奏進也从仐从",
+		"bbox": [236, 681, 276, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从中中上進",
+		"bbox": [194, 681, 234, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "之義則",
+		"bbox": [138, 268, 177, 348],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "候切",
+		"bbox": [93, 268, 132, 316],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古",
+		"bbox": [138, 439, 177, 475],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亦古",
+		"bbox": [138, 549, 177, 599],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "气皐白之進也",
+		"bbox": [138, 681, 177, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从仐从白禮祝",
+		"bbox": [93, 681, 132, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "支",
+		"bbox": [93, 439, 132, 475],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文",
+		"bbox": [93, 549, 132, 577],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

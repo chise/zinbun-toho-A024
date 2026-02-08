@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小三部", "bbox": [796, 263, 815, 325], "type": "text", "comment": ""},
+	{"text": "言文十一", "bbox": [799, 402, 823, 485], "type": "text", "comment": ""},
+	{"text": "三", "bbox": [799, 672, 821, 698], "type": "text", "comment": ""},
+	{"text": "陳元", "bbox": [792, 796, 813, 832], "type": "text", "comment": ""},
+	{"text": "亦之屬皆从示", "bbox": [706, 343, 778, 577], "type": "text", "comment": ""},
+	{"text": "臣鉉等曰今別作", "bbox": [748, 587, 783, 770], "type": "text", "comment": ""},
+	{"text": "腋非是羊益切", "bbox": [694, 588, 737, 749], "type": "text", "comment": ""},
+	{"text": "夾盜竊裹物也从亦有所持俗謂蔽人", "bbox": [637, 262, 687, 705], "type": "text", "comment": ""},
+	{"text": "俾夾是也弘農陜字从此失冉切", "bbox": [592, 345, 638, 690], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [606, 739, 675, 818], "type": "text", "comment": ""},
+	{"text": "大傾頭也从大象形凡矢之屬皆从", "bbox": [494, 260, 587, 840], "type": "text", "comment": ""},
+	{"text": "矢阻力", "bbox": [446, 343, 482, 455], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [397, 393, 430, 422], "type": "text", "comment": ""},
+	{"text": "頭傾也从矢吉聲", "bbox": [339, 345, 382, 539], "type": "text", "comment": ""},
+	{"text": "讀若子古屑切", "bbox": [296, 345, 336, 509], "type": "text", "comment": ""},
+	{"text": "吳姓也亦郡也一曰吳大言也从矢口五乎切徐", "bbox": [235, 263, 281, 842], "type": "text", "comment": ""},
+	{"text": "鍇曰大言故矢口以出聲詩曰不吳不揚今寫", "bbox": [187, 351, 231, 840], "type": "text", "comment": ""},
+	{"text": "詩者改吳作吳又音", "bbox": [139, 260, 183, 455], "type": "text", "comment": ""},
+	{"text": "平化切其謬甚矣", "bbox": [94, 260, 136, 452], "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [142, 561, 180, 598], "type": "text", "comment": ""},
+	{"text": "如此", "bbox": [92, 563, 132, 605], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [98, 641, 169, 712], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [98, 746, 164, 815], "type": "text", "comment": ""},
+	{"text": "頭裏骩婁態也从", "bbox": [337, 626, 380, 806], "type": "text", "comment": ""},
+	{"text": "矢圭聲胡結切", "bbox": [291, 627, 333, 778], "type": "text", "comment": ""}
+]
+```

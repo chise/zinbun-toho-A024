@@ -1,0 +1,208 @@
+```json
+[
+	{
+		"text": "大廿二",
+		"bbox": [178, 265, 200, 315],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兌文十下",
+		"bbox": [170, 404, 201, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二",
+		"bbox": [170, 675, 200, 698],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "泰和",
+		"bbox": [175, 797, 200, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "爜 多也从炙察聲讀",
+		"bbox": [823, 270, 913, 540],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若熏燎力照切",
+		"bbox": [815, 354, 866, 512],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文三 重一",
+		"bbox": [828, 607, 906, 830],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赤 南方色也从火从火凡赤之屬",
+		"bbox": [720, 269, 807, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皆从赤 昌石切",
+		"bbox": [628, 357, 703, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "炎 古文从",
+		"bbox": [530, 270, 601, 396],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "炎土",
+		"bbox": [518, 345, 559, 397],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赨 赤色也从赤蟲",
+		"bbox": [512, 433, 609, 648],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "省聲徒冬切",
+		"bbox": [515, 505, 564, 645],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赧 日出之",
+		"bbox": [515, 675, 609, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赤从赤",
+		"bbox": [515, 768, 567, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "穀省聲",
+		"bbox": [463, 269, 509, 351],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "火沃切",
+		"bbox": [417, 270, 457, 348],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "頳 面慙赤也从赤反聲周",
+		"bbox": [417, 354, 507, 680],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "失天下於赧王女版切",
+		"bbox": [415, 441, 467, 680],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "經 赤色也",
+		"bbox": [415, 685, 509, 835],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从赤巠",
+		"bbox": [417, 769, 469, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲詩曰魴魚",
+		"bbox": [364, 267, 409, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "經尾敕貞切",
+		"bbox": [315, 267, 362, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赬 經或",
+		"bbox": [312, 405, 408, 527],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从貞",
+		"bbox": [315, 495, 352, 538],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丁 或从",
+		"bbox": [312, 616, 408, 663],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "漐 經棠棗之",
+		"bbox": [312, 668, 408, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "汁或从水",
+		"bbox": [315, 744, 362, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "沲 涉或",
+		"bbox": [255, 342, 303, 397],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从正",
+		"bbox": [212, 346, 252, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赭 赤土也从赤",
+		"bbox": [210, 405, 303, 605],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "者聲之也切",
+		"bbox": [212, 590, 259, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燄 赤色也从赤敦",
+		"bbox": [210, 616, 303, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若浣胡玩",
+		"bbox": [212, 692, 259, 843],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

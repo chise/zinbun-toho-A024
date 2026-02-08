@@ -1,0 +1,262 @@
+```json
+[
+	{
+		"text": "小三五九",
+		"bbox": [796, 263, 814, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文一",
+		"bbox": [797, 395, 820, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十",
+		"bbox": [799, 661, 821, 680],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曹昌",
+		"bbox": [799, 794, 816, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黷齊謂黑為驢从",
+		"bbox": [749, 262, 788, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "沃黑色从黑",
+		"bbox": [749, 512, 788, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "深",
+		"bbox": [749, 722, 788, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黑盧聲洛乎切",
+		"bbox": [697, 263, 738, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會聲惡外切",
+		"bbox": [697, 512, 738, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黑",
+		"bbox": [697, 722, 738, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从黑音",
+		"bbox": [646, 263, 687, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "中黑也从黑",
+		"bbox": [646, 512, 687, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小黑子从黑",
+		"bbox": [646, 722, 687, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲乙滅切",
+		"bbox": [595, 263, 636, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "厭聲於珍切",
+		"bbox": [595, 512, 636, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "殿聲烏雞切",
+		"bbox": [595, 722, 636, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "白而有黑也从黑旦聲",
+		"bbox": [543, 263, 584, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雖皙而黑也从黑",
+		"bbox": [543, 512, 584, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "箴聲古人名黵字",
+		"bbox": [543, 722, 584, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "五原有莫黜縣當割切",
+		"bbox": [492, 263, 533, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赤黑也从黑易聲",
+		"bbox": [492, 512, 533, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "淺青黑也从",
+		"bbox": [492, 722, 533, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "晳古",
+		"bbox": [440, 263, 481, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若煬餘亮切",
+		"bbox": [440, 512, 481, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黑參聲七感",
+		"bbox": [440, 722, 481, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "咸切",
+		"bbox": [389, 263, 429, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "青黑也从黑",
+		"bbox": [389, 512, 429, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "微青黑色从黑幼聲爾",
+		"bbox": [389, 722, 429, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [337, 263, 377, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奄聲於檻切",
+		"bbox": [337, 512, 377, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "雅曰地謂之黝於糾切",
+		"bbox": [337, 722, 377, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黃濁黑从黑",
+		"bbox": [285, 263, 326, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小黑也从黑",
+		"bbox": [285, 512, 326, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "淺黃",
+		"bbox": [285, 722, 326, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屯聲他哀切",
+		"bbox": [234, 263, 275, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "占聲多忝切",
+		"bbox": [234, 512, 275, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黑也",
+		"bbox": [234, 722, 275, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从黑甘聲讀若染繒",
+		"bbox": [182, 263, 223, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黃黑也从黑",
+		"bbox": [182, 512, 223, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黑有",
+		"bbox": [182, 722, 223, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "中東緅黜巨淹切",
+		"bbox": [130, 263, 171, 508],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "金聲古咸切",
+		"bbox": [130, 512, 171, 718],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文也",
+		"bbox": [130, 722, 171, 843],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

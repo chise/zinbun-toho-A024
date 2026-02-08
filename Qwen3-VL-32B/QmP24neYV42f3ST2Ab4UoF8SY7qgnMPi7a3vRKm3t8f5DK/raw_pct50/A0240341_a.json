@@ -1,0 +1,208 @@
+```json
+[
+	{
+		"text": "凡馬之屬皆从馬莫下切",
+		"bbox": [706, 345, 787, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小三十九",
+		"bbox": [799, 264, 822, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文一上",
+		"bbox": [802, 398, 825, 458],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李云",
+		"bbox": [799, 795, 821, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古",
+		"bbox": [648, 265, 684, 366],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文馬與",
+		"bbox": [648, 450, 691, 559],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "影同有髦",
+		"bbox": [601, 340, 643, 559],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牡馬也从馬陟聲",
+		"bbox": [648, 645, 693, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若鄧之日切",
+		"bbox": [601, 645, 644, 806],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬一歲也从馬一絆其足",
+		"bbox": [551, 340, 594, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若弦一日若環戶關切",
+		"bbox": [502, 340, 545, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬二歲曰駒",
+		"bbox": [551, 645, 594, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三歲曰駣从",
+		"bbox": [502, 645, 545, 837],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬句聲",
+		"bbox": [451, 264, 493, 340],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬八歲也从馬",
+		"bbox": [451, 435, 493, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从八博拔切",
+		"bbox": [402, 340, 444, 580],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬一目白曰騧",
+		"bbox": [451, 676, 493, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二目白曰魚从",
+		"bbox": [402, 676, 444, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬閒聲",
+		"bbox": [351, 264, 393, 340],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬青驪文如博綦也",
+		"bbox": [351, 435, 393, 649],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从馬其聲渠之切",
+		"bbox": [302, 435, 344, 624],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬深黑色",
+		"bbox": [351, 676, 393, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从馬麗聲",
+		"bbox": [302, 742, 344, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戶間切",
+		"bbox": [299, 264, 341, 340],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "呂支",
+		"bbox": [248, 264, 290, 311],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "青驪馬从馬冐聲詩",
+		"bbox": [248, 403, 290, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰駜彼乘駽火玄切",
+		"bbox": [199, 403, 241, 613],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬淺黑色从",
+		"bbox": [248, 704, 290, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬鬼聲俱位",
+		"bbox": [199, 704, 241, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [199, 264, 241, 295],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "赤馬黑毛尾也从",
+		"bbox": [148, 371, 190, 559],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬雷聲力求切",
+		"bbox": [99, 371, 141, 538],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬赤白雜毛从馬",
+		"bbox": [148, 657, 190, 845],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "叚聲謂色似鰕魚",
+		"bbox": [99, 657, 141, 845],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

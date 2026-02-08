@@ -1,0 +1,10 @@
+```json
+[
+  {
+    "text": "",
+    "bbox": [0, 0, 999, 999],
+    "type": "image",
+    "comment": "No text is visible in the image. The image shows a vertical strip of brown material with white stitching on a white background."
+  }
+]
+```

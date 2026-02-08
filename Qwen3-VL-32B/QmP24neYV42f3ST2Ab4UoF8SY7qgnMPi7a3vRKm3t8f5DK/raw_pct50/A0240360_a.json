@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "說文解字第十", "bbox": [107, 263, 174, 485], "type": "text", "comment": ""},
+	{"text": "上四月廿日入城廿八日校此卷至十六葉止", "bbox": [149, 488, 180, 712], "type": "text", "comment": ""},
+	{"text": "四月九日錫山王子任來訪盤桓竟日至五月朔校完此卷", "bbox": [99, 509, 129, 827], "type": "text", "comment": ""},
+	{"text": "文三十七　重一", "bbox": [306, 406, 373, 688], "type": "text", "comment": ""},
+	{"text": "黒謂之涇涇滓也从水黒　桑葚之黑也从", "bbox": [748, 353, 790, 797], "type": "text", "comment": ""},
+	{"text": "黒殿省聲堂練切　黒甚聲他感切", "bbox": [701, 353, 743, 797], "type": "text", "comment": ""},
+	{"text": "果實黔黯黑也从黒京聲渠京切", "bbox": [655, 353, 697, 797], "type": "text", "comment": ""},
+	{"text": "黒弇聲烏感切", "bbox": [609, 353, 651, 797], "type": "text", "comment": ""},
+	{"text": "黙或黙者忘而息也从黒敢聲於檻切", "bbox": [562, 353, 604, 797], "type": "text", "comment": ""},
+	{"text": "从刀　黒木也从黒多", "bbox": [516, 353, 558, 797], "type": "text", "comment": ""},
+	{"text": "聲丹陽有黟縣烏雞切", "bbox": [470, 262, 512, 797], "type": "text", "comment": ""},
+	{"text": "小三○二", "bbox": [802, 264, 818, 324], "type": "text", "comment": ""},
+	{"text": "古文一一", "bbox": [802, 348, 821, 421], "type": "text", "comment": ""},
+	{"text": "十", "bbox": [802, 671, 820, 691], "type": "text", "comment": ""},
+	{"text": "曹昌", "bbox": [798, 799, 814, 842], "type": "text", "comment": ""}
+]
+```

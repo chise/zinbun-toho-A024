@@ -1,0 +1,226 @@
+```json
+[
+	{
+		"text": "犬鬬聲从犬",
+		"bbox": [876, 253, 918, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "番聲附袁切",
+		"bbox": [826, 335, 868, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬怒皃从犬示聲一曰犬",
+		"bbox": [876, 567, 918, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "難得代郡有狋氏縣讀又",
+		"bbox": [826, 567, 868, 828],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬猲猲不附人也",
+		"bbox": [776, 643, 818, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从犬鳥聲南楚謂",
+		"bbox": [726, 643, 768, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬吠聲从犬",
+		"bbox": [776, 416, 818, 549],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "斤聲語斤切",
+		"bbox": [726, 416, 768, 549],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若銀語",
+		"bbox": [776, 253, 818, 335],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "其切",
+		"bbox": [726, 253, 768, 308],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "相駕曰猲讀",
+		"bbox": [676, 253, 718, 385],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若愬式略切",
+		"bbox": [626, 253, 668, 385],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬獷獷不可附也从犬廣",
+		"bbox": [676, 478, 718, 744],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲漁陽有獷平縣古猛切",
+		"bbox": [626, 478, 668, 744],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬形也从犬",
+		"bbox": [576, 253, 618, 385],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艸聲鉏亮切",
+		"bbox": [526, 253, 568, 385],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "妄彊犬也从犬从",
+		"bbox": [576, 478, 618, 664],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壯壯亦聲徂朗切",
+		"bbox": [526, 478, 568, 664],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬如人",
+		"bbox": [576, 769, 618, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "心可使",
+		"bbox": [526, 769, 568, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "者从犬敖聲春秋傳",
+		"bbox": [476, 253, 518, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰公嗾夫獒五牢切",
+		"bbox": [426, 253, 468, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "怒犬皃从犬需聲讀若",
+		"bbox": [476, 567, 518, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "槫奴豆切又乃矦切",
+		"bbox": [426, 567, 468, 779],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬食也从犬从舌讀若",
+		"bbox": [376, 335, 418, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "此目魚鰈之鰈他合切",
+		"bbox": [326, 335, 368, 584],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬可習也从犬",
+		"bbox": [376, 664, 418, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "甲聲胡甲切",
+		"bbox": [326, 664, 368, 815],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬性驕也从犬",
+		"bbox": [276, 335, 318, 499],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丑聲女久切",
+		"bbox": [226, 335, 268, 474],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "侵也从犬巳",
+		"bbox": [276, 584, 318, 708],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲防險切",
+		"bbox": [226, 584, 268, 708],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "賊恨",
+		"bbox": [276, 815, 318, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "唐文",
+		"bbox": [185, 793, 206, 823],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "十",
+		"bbox": [172, 672, 194, 704],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑之二",
+		"bbox": [172, 385, 194, 470],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大廿八",
+		"bbox": [172, 259, 194, 325],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

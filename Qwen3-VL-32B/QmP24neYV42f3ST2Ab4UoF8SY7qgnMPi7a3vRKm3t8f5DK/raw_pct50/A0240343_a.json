@@ -1,0 +1,316 @@
+```json
+[
+	{
+		"text": "小言十九",
+		"bbox": [798, 263, 814, 337],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文一上",
+		"bbox": [804, 398, 823, 475],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三",
+		"bbox": [808, 676, 832, 702],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "洪章",
+		"bbox": [798, 791, 818, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "跨馬也从馬",
+		"bbox": [742, 267, 787, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "奇聲渠羈切",
+		"bbox": [700, 267, 742, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬在軛中从馬",
+		"bbox": [742, 406, 787, 641],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "加聲古訝切",
+		"bbox": [700, 406, 742, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [742, 735, 787, 777],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駕",
+		"bbox": [700, 645, 742, 766],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "驂",
+		"bbox": [654, 267, 698, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "驂旁馬从馬",
+		"bbox": [654, 406, 698, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "非聲甫微切",
+		"bbox": [610, 267, 654, 475],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒",
+		"bbox": [654, 488, 698, 565],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駕二馬也从馬",
+		"bbox": [654, 570, 698, 734],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "幷聲部田切",
+		"bbox": [610, 488, 654, 704],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒",
+		"bbox": [654, 738, 698, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駕三馬也从馬",
+		"bbox": [565, 267, 610, 431],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "參聲倉含切",
+		"bbox": [522, 267, 565, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駟",
+		"bbox": [565, 435, 610, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一乘也从馬",
+		"bbox": [565, 514, 610, 653],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "四聲息利切",
+		"bbox": [522, 435, 565, 641],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒",
+		"bbox": [565, 657, 610, 728],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "副馬也从",
+		"bbox": [565, 734, 610, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬付聲一",
+		"bbox": [522, 734, 565, 827],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰近也一曰",
+		"bbox": [478, 267, 522, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾也符遇切",
+		"bbox": [435, 267, 478, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駑",
+		"bbox": [478, 406, 522, 484],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬和也从馬",
+		"bbox": [478, 488, 522, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皆聲戶皆切",
+		"bbox": [435, 488, 478, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駝",
+		"bbox": [478, 630, 522, 697],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬搖頭也从",
+		"bbox": [478, 701, 522, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬我聲五可",
+		"bbox": [435, 701, 478, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [392, 267, 435, 294],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒",
+		"bbox": [392, 298, 435, 365],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駛駛也从馬",
+		"bbox": [392, 370, 435, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皮聲普火切",
+		"bbox": [348, 370, 392, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒",
+		"bbox": [392, 514, 435, 590],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬行皃从馬",
+		"bbox": [392, 595, 435, 734],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舀聲土刀切",
+		"bbox": [348, 595, 392, 734],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒",
+		"bbox": [392, 738, 435, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬行頓遲从馬",
+		"bbox": [304, 267, 348, 431],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹聲冬毒切",
+		"bbox": [261, 267, 304, 401],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒",
+		"bbox": [304, 435, 348, 509],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬行威儀也从馬癸聲",
+		"bbox": [304, 514, 348, 753],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰四牡騤騤渠追切",
+		"bbox": [261, 514, 304, 753],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒",
+		"bbox": [304, 757, 348, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬行徐而疾也从",
+		"bbox": [217, 267, 261, 459],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬學省聲於角切",
+		"bbox": [174, 267, 217, 459],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駒",
+		"bbox": [217, 463, 261, 531],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬行疾也从馬侵省聲",
+		"bbox": [217, 540, 261, 791],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "詩曰載驪駸駸子林切",
+		"bbox": [174, 540, 217, 791],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

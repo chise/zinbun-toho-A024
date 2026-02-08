@@ -1,0 +1,214 @@
+```json
+[
+	{
+		"text": "小三十七",
+		"bbox": [793, 254, 813, 306],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "說文一千",
+		"bbox": [799, 392, 828, 472],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丁元",
+		"bbox": [790, 795, 813, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲於",
+		"bbox": [743, 254, 780, 290],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大視兒从犬",
+		"bbox": [743, 399, 785, 513],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "古閩切",
+		"bbox": [697, 454, 737, 532],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "离切",
+		"bbox": [696, 254, 737, 306],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "實中犬聲从犬从",
+		"bbox": [744, 621, 785, 795],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "音音亦聲乙咸切",
+		"bbox": [696, 621, 737, 816],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬暫逐人也从犬黑",
+		"bbox": [647, 337, 685, 548],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若墨莫北切",
+		"bbox": [598, 337, 638, 519],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬从艸暴出逐人也",
+		"bbox": [647, 621, 685, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从犬卒聲麤沒切",
+		"bbox": [598, 621, 638, 819],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "猩猩犬吠聲从",
+		"bbox": [549, 337, 588, 485],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬星聲桑經切",
+		"bbox": [498, 337, 538, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬吠不止也从犬兼聲讀",
+		"bbox": [549, 575, 588, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若檻一曰兩犬爭也胡黯",
+		"bbox": [498, 575, 538, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小犬吠从犬敢聲南陽",
+		"bbox": [449, 373, 488, 607],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "新亭有獰鄉荒檻切",
+		"bbox": [398, 373, 437, 577],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬吠聲从犬",
+		"bbox": [449, 686, 488, 819],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "畏聲鳥賄切",
+		"bbox": [398, 705, 437, 829],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "獿猲也从犬",
+		"bbox": [348, 343, 386, 476],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "憂聲女交切",
+		"bbox": [298, 343, 336, 473],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬獿獿咳吠也从",
+		"bbox": [348, 575, 386, 753],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬翏聲火包切",
+		"bbox": [298, 575, 336, 725],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬容頭進也从犬參聲",
+		"bbox": [248, 254, 286, 488],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰賊疾也山檻切",
+		"bbox": [198, 254, 236, 463],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "嗾大厲之也从犬",
+		"bbox": [248, 575, 286, 731],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "將省聲卽兩切",
+		"bbox": [198, 575, 236, 731],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "齧也从犬戔",
+		"bbox": [148, 254, 186, 384],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "惡健犬也从犬",
+		"bbox": [148, 475, 186, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "刪省聲所晏切",
+		"bbox": [98, 475, 136, 626],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "吠闢聲从犬",
+		"bbox": [148, 707, 186, 839],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "艮聲五還切",
+		"bbox": [98, 707, 136, 841],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲初版切",
+		"bbox": [98, 254, 136, 367],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

@@ -1,0 +1,124 @@
+```json
+[
+	{
+		"text": "小學九十二",
+		"bbox": [798, 269, 815, 320],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言三一",
+		"bbox": [804, 401, 825, 454],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "陳元",
+		"bbox": [793, 797, 814, 840],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "焱火華也从三火凡焱之屬皆从焱",
+		"bbox": [703, 269, 786, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "以冉",
+		"bbox": [642, 355, 687, 399],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [604, 355, 642, 379],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屋下镫燭之光",
+		"bbox": [544, 355, 587, 501],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从焱门户扃切",
+		"bbox": [492, 355, 536, 495],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盛皃从焱在木上讀若詩",
+		"bbox": [544, 584, 587, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰莘莘征夫一曰役也所",
+		"bbox": [492, 584, 536, 847],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "臻",
+		"bbox": [449, 269, 486, 294],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [399, 269, 436, 294],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文三",
+		"bbox": [404, 445, 471, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "炙炮肉也从肉在火上凡炙之屬皆",
+		"bbox": [297, 269, 378, 848],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从炙之石",
+		"bbox": [207, 355, 275, 462],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [198, 433, 234, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀",
+		"bbox": [151, 269, 189, 352],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "宗廟火孰肉从炙番聲春秋傳曰天",
+		"bbox": [148, 466, 186, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "子有事鰡焉以饋同姓諸矦附袁切",
+		"bbox": [93, 466, 132, 834],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文",
+		"bbox": [92, 355, 128, 379],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

@@ -1,0 +1,322 @@
+```json
+[
+	{
+		"text": "烏到",
+		"bbox": [850, 274, 918, 326],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [830, 274, 871, 303],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "煖",
+		"bbox": [830, 325, 923, 406],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "溫也从火爰",
+		"bbox": [870, 406, 923, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲沉袁切",
+		"bbox": [830, 406, 888, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燂",
+		"bbox": [824, 537, 920, 617],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "溫也从火奐",
+		"bbox": [867, 617, 920, 763],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲乃管切",
+		"bbox": [828, 617, 885, 738],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "炅",
+		"bbox": [830, 763, 903, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "見也从火",
+		"bbox": [780, 274, 821, 376],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "日古迥切",
+		"bbox": [725, 274, 775, 380],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "炕",
+		"bbox": [728, 380, 820, 467],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乾也从火亢",
+		"bbox": [775, 467, 820, 606],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燥",
+		"bbox": [725, 606, 818, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "乾也从火呆",
+		"bbox": [775, 693, 820, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲穌到切",
+		"bbox": [725, 693, 775, 813],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "成",
+		"bbox": [633, 274, 715, 357],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "滅也从火戌火周於戍陽氣至戊而",
+		"bbox": [670, 357, 715, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盡詩曰赫赫宗死褎姒威之許劣切",
+		"bbox": [620, 357, 670, 735],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "焅",
+		"bbox": [620, 735, 715, 820],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "早",
+		"bbox": [670, 820, 715, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "气",
+		"bbox": [620, 820, 665, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从火告",
+		"bbox": [575, 274, 620, 376],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲苦沃切",
+		"bbox": [525, 274, 575, 376],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燾",
+		"bbox": [525, 376, 620, 472],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "溥覆照也从火",
+		"bbox": [575, 472, 620, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "壽聲徒到切",
+		"bbox": [525, 472, 575, 608],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燿",
+		"bbox": [520, 627, 615, 712],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "取火於日宮",
+		"bbox": [570, 712, 615, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "名舉火曰燿",
+		"bbox": [520, 712, 570, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周禮曰司燿掌行火之",
+		"bbox": [470, 274, 520, 513],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "政令从火蒦聲古玩切",
+		"bbox": [420, 274, 470, 513],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "烜",
+		"bbox": [420, 513, 515, 596],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "或从",
+		"bbox": [470, 596, 515, 643],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亘",
+		"bbox": [420, 596, 465, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燁",
+		"bbox": [420, 643, 515, 740],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燧候表也",
+		"bbox": [470, 740, 515, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "邊有警則",
+		"bbox": [420, 740, 465, 851],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "舉火从火逢",
+		"bbox": [370, 274, 420, 395],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲敷容切",
+		"bbox": [320, 274, 370, 376],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "熾",
+		"bbox": [320, 376, 415, 472],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "苣火祓也从火爵聲呂不韋曰湯",
+		"bbox": [370, 472, 415, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "得伊尹爝以燿火纍以犧豭子肖切",
+		"bbox": [320, 472, 370, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "生",
+		"bbox": [225, 274, 310, 348],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "暴乾火也从火",
+		"bbox": [270, 348, 315, 515],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "彗聲于歲切",
+		"bbox": [220, 348, 270, 490],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "炰",
+		"bbox": [220, 515, 315, 598],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燥也从火黽",
+		"bbox": [270, 598, 315, 740],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲許其切",
+		"bbox": [220, 598, 270, 712],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大十三",
+		"bbox": [188, 263, 210, 308],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "说文十上",
+		"bbox": [180, 395, 200, 473],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一八一",
+		"bbox": [175, 665, 198, 700],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "束五",
+		"bbox": [180, 798, 200, 835],
+		"type": "text",
+		"comment": ""
+	}
+]
+```

@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "小豆女", "bbox": [795, 264, 816, 329], "type": "text", "comment": ""},
+	{"text": "言三十一", "bbox": [800, 406, 822, 475], "type": "text", "comment": ""},
+	{"text": "王", "bbox": [800, 677, 822, 698], "type": "text", "comment": ""},
+	{"text": "穆春", "bbox": [798, 791, 820, 838], "type": "text", "comment": ""},
+	{"text": "夲所以驚人也从大从羊一曰大聲", "bbox": [700, 265, 785, 842], "type": "text", "comment": ""},
+	{"text": "也凡夲之屬皆从夲一曰讀若瓠", "bbox": [607, 362, 682, 842], "type": "text", "comment": ""},
+	{"text": "一曰俗語以盜不止爲夲夲讀若", "bbox": [505, 362, 582, 842], "type": "text", "comment": ""},
+	{"text": "簘尼輒切", "bbox": [409, 362, 482, 437], "type": "text", "comment": ""},
+	{"text": "司視也从橫目从夲令吏", "bbox": [344, 346, 388, 603], "type": "text", "comment": ""},
+	{"text": "將目捕罪人也羊益切", "bbox": [294, 346, 335, 578], "type": "text", "comment": ""},
+	{"text": "圉圈所以拘罪人从夲从口一曰", "bbox": [246, 381, 284, 684], "type": "text", "comment": ""},
+	{"text": "圉坐也一曰圉人掌馬者魚舉切", "bbox": [195, 381, 235, 712], "type": "text", "comment": ""},
+	{"text": "引擊", "bbox": [259, 795, 285, 846], "type": "text", "comment": ""},
+	{"text": "也从", "bbox": [195, 808, 234, 846], "type": "text", "comment": ""},
+	{"text": "夲支見血也扶風", "bbox": [144, 272, 183, 451], "type": "text", "comment": ""},
+	{"text": "有盩厔縣張流切", "bbox": [95, 272, 135, 451], "type": "text", "comment": ""},
+	{"text": "當罪人也从夲从艮", "bbox": [143, 521, 184, 730], "type": "text", "comment": ""},
+	{"text": "艮服罪也博号切", "bbox": [94, 521, 134, 709], "type": "text", "comment": ""},
+	{"text": "窮理", "bbox": [94, 785, 134, 846], "type": "text", "comment": ""},
+	{"text": "入切", "bbox": [200, 272, 280, 304], "type": "text", "comment": ""},
+	{"text": "捕罪人也从凥", "bbox": [344, 684, 388, 817], "type": "text", "comment": ""},
+	{"text": "从夲夲亦聲之", "bbox": [294, 684, 335, 846], "type": "text", "comment": ""}
+]
+```
