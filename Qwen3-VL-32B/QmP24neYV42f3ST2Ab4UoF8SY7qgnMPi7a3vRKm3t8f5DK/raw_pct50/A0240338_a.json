@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "小言", "bbox": [803, 269, 824, 317], "type": "text", "comment": ""},
+	{"text": "居例", "bbox": [752, 645, 777, 692], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [714, 634, 741, 663], "type": "text", "comment": ""},
+	{"text": "屬皆从丄讀若罽", "bbox": [715, 350, 782, 627], "type": "text", "comment": ""},
+	{"text": "豕也後蹏廢謂之彘从丄矢聲", "bbox": [658, 350, 694, 656], "type": "text", "comment": ""},
+	{"text": "从二匕彘足與鹿足同直例切", "bbox": [608, 350, 644, 656], "type": "text", "comment": ""},
+	{"text": "豕也从丄下象其", "bbox": [556, 350, 592, 656], "type": "text", "comment": ""},
+	{"text": "足讀若瑕乎加切", "bbox": [505, 350, 541, 656], "type": "text", "comment": ""},
+	{"text": "豕走也从丄从", "bbox": [556, 666, 592, 806], "type": "text", "comment": ""},
+	{"text": "豕省通貫切", "bbox": [505, 666, 541, 794], "type": "text", "comment": ""},
+	{"text": "从豕讀若", "bbox": [608, 741, 644, 840], "type": "text", "comment": ""},
+	{"text": "豕也从丄", "bbox": [658, 741, 694, 840], "type": "text", "comment": ""},
+	{"text": "文五", "bbox": [414, 397, 478, 477], "type": "text", "comment": ""},
+	{"text": "小豕也从彖省象形从又持肉以", "bbox": [305, 350, 378, 840], "type": "text", "comment": ""},
+	{"text": "給祠祀凡豚之屬皆从豚", "bbox": [202, 347, 281, 731], "type": "text", "comment": ""},
+	{"text": "徒魂", "bbox": [252, 730, 285, 783], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [200, 730, 231, 756], "type": "text", "comment": ""},
+	{"text": "篆文从", "bbox": [152, 341, 187, 416], "type": "text", "comment": ""},
+	{"text": "肉豕", "bbox": [100, 341, 133, 385], "type": "text", "comment": ""},
+	{"text": "豚屬从豚衛聲", "bbox": [152, 424, 187, 673], "type": "text", "comment": ""},
+	{"text": "讀若屬於歲切", "bbox": [100, 510, 133, 673], "type": "text", "comment": ""},
+	{"text": "李云", "bbox": [800, 794, 823, 834], "type": "text", "comment": ""}
+]
+```
