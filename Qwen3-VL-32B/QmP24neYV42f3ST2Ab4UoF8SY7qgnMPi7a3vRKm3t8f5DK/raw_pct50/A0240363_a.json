@@ -1,0 +1,10 @@
+```json
+[
+  {
+    "text": "KIL",
+    "bbox": [715, 468, 780, 543],
+    "type": "text",
+    "comment": "Faint vertical text on the right side of the page."
+  }
+]
+```
