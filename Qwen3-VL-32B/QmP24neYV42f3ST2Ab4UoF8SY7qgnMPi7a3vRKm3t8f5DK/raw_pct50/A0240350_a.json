@@ -1,0 +1,250 @@
+```json
+[
+	{
+		"text": "小口艹一",
+		"bbox": [795, 254, 820, 306],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言三十一",
+		"bbox": [797, 384, 823, 466],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "丁元",
+		"bbox": [795, 787, 821, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也从犬青",
+		"bbox": [748, 254, 789, 366],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲倉才切",
+		"bbox": [704, 254, 746, 366],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "健犬也从犬",
+		"bbox": [748, 453, 790, 564],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "孟聲莫杏切",
+		"bbox": [704, 375, 747, 564],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "健犬也从犬",
+		"bbox": [748, 680, 790, 811],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "亢聲苦浪切",
+		"bbox": [704, 574, 747, 811],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "多畏也从犬",
+		"bbox": [658, 331, 697, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "去聲去劫切",
+		"bbox": [609, 331, 650, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "杜林說",
+		"bbox": [658, 546, 698, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "狤从心",
+		"bbox": [609, 546, 650, 627],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "健也从犬",
+		"bbox": [658, 718, 698, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "焱聲詩曰",
+		"bbox": [609, 718, 650, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "盧犲犲",
+		"bbox": [552, 254, 593, 331],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "力珍切",
+		"bbox": [504, 254, 546, 331],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "疾跳也一曰急也",
+		"bbox": [552, 413, 593, 605],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从犬罝聲古縣切",
+		"bbox": [504, 413, 546, 605],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走也从犬攸",
+		"bbox": [552, 701, 593, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀若叔式",
+		"bbox": [504, 701, 546, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "竹",
+		"bbox": [454, 254, 488, 275],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [405, 254, 445, 275],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬行也从犬亘聲周",
+		"bbox": [454, 366, 488, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "書曰尚貆貆胡官切",
+		"bbox": [405, 366, 445, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "過弗取也从犬",
+		"bbox": [454, 670, 488, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "市聲讀若孛蒲",
+		"bbox": [405, 670, 445, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "没",
+		"bbox": [356, 254, 390, 275],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [308, 254, 347, 275],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬張耳皃从犬",
+		"bbox": [356, 366, 390, 522],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "易聲陟革切",
+		"bbox": [308, 366, 347, 503],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬張斷怒也从犬來",
+		"bbox": [356, 625, 390, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲讀又若銀魚僅切",
+		"bbox": [308, 625, 347, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "走犬皃从犬而ノ之曵",
+		"bbox": [256, 331, 297, 585],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "其足則刺攴也蒲撥切",
+		"bbox": [208, 331, 248, 575],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曲也从犬出戶下",
+		"bbox": [256, 652, 297, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "戾者身曲戾也郎",
+		"bbox": [208, 652, 248, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "討",
+		"bbox": [159, 254, 192, 275],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [111, 254, 151, 275],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犬相得而鬬也从犬蜀聲羊為群犬為獨也",
+		"bbox": [159, 366, 192, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一曰北鄙山有獨俗獸如虎白身豕鬣尾如",
+		"bbox": [111, 366, 151, 838],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
