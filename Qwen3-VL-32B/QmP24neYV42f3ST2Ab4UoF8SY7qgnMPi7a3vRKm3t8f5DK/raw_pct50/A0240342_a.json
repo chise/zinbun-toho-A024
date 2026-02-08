@@ -1,0 +1,256 @@
+```json
+[
+	{
+		"text": "小の00人",
+		"bbox": [798, 262, 825, 320],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言夕一",
+		"bbox": [801, 398, 825, 457],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "二",
+		"bbox": [801, 674, 827, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "李云",
+		"bbox": [799, 794, 825, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲疑象駁",
+		"bbox": [748, 262, 799, 368],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "文北角切",
+		"bbox": [748, 368, 799, 423],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬後左足白也从馬二",
+		"bbox": [748, 465, 799, 694],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "驪馬",
+		"bbox": [748, 785, 799, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "其足讀若注之成切",
+		"bbox": [700, 465, 750, 674],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "黃脣",
+		"bbox": [700, 785, 750, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从馬覃聲讀",
+		"bbox": [653, 262, 700, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬白州也从馬",
+		"bbox": [653, 480, 700, 638],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬豪骭也",
+		"bbox": [653, 738, 700, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若簟徒玷切",
+		"bbox": [605, 262, 653, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "燕聲於甸切",
+		"bbox": [605, 480, 653, 621],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从馬習聲",
+		"bbox": [605, 738, 653, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "似入",
+		"bbox": [559, 262, 605, 302],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬毛長也从馬",
+		"bbox": [559, 398, 605, 562],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬逸足也从馬从",
+		"bbox": [559, 648, 605, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [513, 262, 559, 294],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "皐聲侯旰切",
+		"bbox": [513, 398, 559, 530],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "飛司馬法曰飛衛",
+		"bbox": [513, 648, 559, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "斯輿甫",
+		"bbox": [466, 262, 513, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "駿馬以壬申日死乘馬",
+		"bbox": [466, 425, 513, 674],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "千里馬",
+		"bbox": [466, 765, 513, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "微切",
+		"bbox": [419, 262, 466, 302],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "忌之从馬敖聲五到切",
+		"bbox": [419, 425, 466, 674],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "也孫陽",
+		"bbox": [419, 765, 466, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "所相者从馬冀聲天",
+		"bbox": [373, 262, 419, 480],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬之良材者从",
+		"bbox": [373, 562, 419, 730],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "水有驥縣几利切",
+		"bbox": [326, 262, 373, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬夋聲子峻切",
+		"bbox": [326, 562, 373, 725],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "良馬也从馬",
+		"bbox": [279, 262, 326, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬小兒从馬垂聲",
+		"bbox": [279, 480, 326, 674],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "籀文",
+		"bbox": [279, 765, 326, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "堯聲古堯切",
+		"bbox": [233, 262, 279, 398],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "讀若箠之壘切",
+		"bbox": [233, 480, 279, 650],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从夆",
+		"bbox": [233, 765, 279, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬高六尺為驕从馬喬聲詩曰",
+		"bbox": [186, 345, 233, 674],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "馬七尺",
+		"bbox": [186, 765, 233, 838],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "我馬維驕一日野馬舉喬切",
+		"bbox": [139, 345, 186, 650],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "為騋八",
+		"bbox": [139, 765, 186, 838],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
