@@ -1,0 +1,184 @@
+```json
+[
+	{
+		"text": "鹿獸也象頭角四足之形鳥鹿足相",
+		"bbox": [706, 259, 787, 843],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "似从匕凡鹿之屬皆从鹿盧谷",
+		"bbox": [604, 341, 683, 765],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "切",
+		"bbox": [604, 734, 643, 766],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牡鹿从鹿叚聲以",
+		"bbox": [540, 351, 596, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "夏至解角古牙切",
+		"bbox": [503, 349, 541, 525],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大牝鹿也从鹿",
+		"bbox": [541, 627, 593, 782],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "犇聲力珍切",
+		"bbox": [502, 621, 541, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鹿麛也从鹿夾聲讀",
+		"bbox": [443, 348, 488, 565],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "若便弱之僕奴亂切",
+		"bbox": [394, 348, 440, 565],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鹿迹也从鹿",
+		"bbox": [455, 647, 489, 786],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "速聲桑谷切",
+		"bbox": [395, 648, 440, 786],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鹿子也从鹿玉",
+		"bbox": [337, 348, 381, 515],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "弭聲莫兮切",
+		"bbox": [294, 348, 334, 515],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鹿之絕有力者从",
+		"bbox": [337, 568, 382, 752],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鹿开聲古賢切",
+		"bbox": [294, 568, 334, 729],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "仁獸也麋身牛尾一",
+		"bbox": [240, 262, 282, 462],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "角从鹿其聲渠之切",
+		"bbox": [192, 262, 237, 483],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牝麒也从鹿",
+		"bbox": [240, 568, 284, 702],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "吝聲力珍切",
+		"bbox": [192, 568, 236, 696],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "鹿屬",
+		"bbox": [241, 783, 285, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从鹿",
+		"bbox": [192, 784, 237, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "米聲麋冬至解",
+		"bbox": [137, 262, 183, 427],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "其角武悲切",
+		"bbox": [91, 262, 135, 403],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "牝麋也从鹿",
+		"bbox": [137, 513, 183, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "辰聲植鄰切",
+		"bbox": [91, 514, 135, 647],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大麋也狗",
+		"bbox": [137, 738, 183, 818],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "足从鹿白",
+		"bbox": [91, 738, 135, 846],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "小豆十三",
+		"bbox": [802, 262, 820, 325],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "言文十一",
+		"bbox": [804, 399, 824, 473],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "王必",
+		"bbox": [802, 798, 823, 828],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
