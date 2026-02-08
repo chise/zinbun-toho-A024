@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "小言十九", "bbox": [795, 254, 816, 325], "type": "text", "comment": ""},
+	{"text": "說文十二", "bbox": [802, 395, 825, 456], "type": "text", "comment": ""},
+	{"text": "七六", "bbox": [804, 662, 827, 714], "type": "text", "comment": ""},
+	{"text": "于必", "bbox": [799, 799, 819, 833], "type": "text", "comment": ""},
+	{"text": "灼龜不兆也从火从龜春秋傳", "bbox": [734, 254, 787, 596], "type": "text", "comment": ""},
+	{"text": "曰龜鱉不兆讀若焦即消切", "bbox": [699, 254, 745, 560], "type": "text", "comment": ""},
+	{"text": "炙灼也从火久聲舉友切", "bbox": [705, 594, 788, 844], "type": "text", "comment": ""},
+	{"text": "煆炙也从火勺聲之若切", "bbox": [599, 254, 684, 455], "type": "text", "comment": ""},
+	{"text": "煉鑠冶金也从火柬聲郎電切", "bbox": [599, 478, 686, 706], "type": "text", "comment": ""},
+	{"text": "熾庭燎", "bbox": [595, 734, 684, 844], "type": "text", "comment": ""},
+	{"text": "火燭也从火蜀聲之欲切", "bbox": [542, 254, 586, 394], "type": "text", "comment": ""},
+	{"text": "炡然麻蒸也从火息聲作孔切", "bbox": [498, 397, 584, 631], "type": "text", "comment": ""},
+	{"text": "烛燭夌也从火也聲徐", "bbox": [492, 734, 584, 844], "type": "text", "comment": ""},
+	{"text": "野火餘也从火聿聲一曰薪也臣鉉等曰聿", "bbox": [442, 254, 485, 811], "type": "text", "comment": ""},
+	{"text": "切非聲疑从聿省今俗別作燼非是徐刃切", "bbox": [394, 254, 438, 811], "type": "text", "comment": ""},
+	{"text": "烣堅刀刃也从火卒聲七內切", "bbox": [301, 254, 376, 477], "type": "text", "comment": ""},
+	{"text": "炢屈申木也从火柔柔亦聲人久切", "bbox": [298, 505, 376, 751], "type": "text", "comment": ""},
+	{"text": "焚燒田也从火林林亦聲附袁切", "bbox": [191, 254, 279, 505], "type": "text", "comment": ""},
+	{"text": "爍火燥車網絕也从火兼聲周禮曰爍牙外不爍", "bbox": [187, 523, 279, 844], "type": "text", "comment": ""},
+	{"text": "力鹽切", "bbox": [134, 254, 178, 300], "type": "text", "comment": ""},
+	{"text": "燎放火也从火炑聲力小切", "bbox": [88, 317, 173, 548], "type": "text", "comment": ""},
+	{"text": "炎火飛也从火臽與譽同意方昭切", "bbox": [86, 558, 173, 844], "type": "text", "comment": ""}
+]
+```
