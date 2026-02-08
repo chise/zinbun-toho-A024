@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "小二百七九", "bbox": [803, 250, 826, 307], "type": "text", "comment": ""},
+	{"text": "言五十一", "bbox": [804, 395, 829, 452], "type": "text", "comment": ""},
+	{"text": "任三", "bbox": [804, 801, 828, 823], "type": "text", "comment": ""},
+	{"text": "凡圜傾側而轉者从反仄凡丸之屬", "bbox": [715, 253, 787, 840], "type": "text", "comment": ""},
+	{"text": "皆从丸胡官切", "bbox": [614, 345, 684, 495], "type": "text", "comment": ""},
+	{"text": "個鷙鳥食已吐其皮毛如丸从丸咼聲讀若骫於跪切", "bbox": [511, 253, 583, 575], "type": "text", "comment": ""},
+	{"text": "而聲奴禾切", "bbox": [492, 684, 558, 836], "type": "text", "comment": ""},
+	{"text": "丸之孰也从丸", "bbox": [542, 682, 588, 839], "type": "text", "comment": ""},
+	{"text": "侒闕芳萬切", "bbox": [403, 253, 482, 386], "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [407, 534, 474, 611], "type": "text", "comment": ""},
+	{"text": "危在高而懼也从夊自卪止之凡危", "bbox": [306, 253, 379, 843], "type": "text", "comment": ""},
+	{"text": "之屬皆从危魚爲切", "bbox": [206, 331, 273, 557], "type": "text", "comment": ""},
+	{"text": "敿敿嘔也从危支聲去其切", "bbox": [98, 253, 188, 464], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [108, 553, 169, 628], "type": "text", "comment": ""}
+]
+```

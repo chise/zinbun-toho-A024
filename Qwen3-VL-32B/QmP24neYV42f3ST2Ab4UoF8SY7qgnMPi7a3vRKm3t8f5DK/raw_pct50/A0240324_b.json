@@ -1,0 +1,70 @@
+```json
+[
+	{
+		"text": "說文解字第九上",
+		"bbox": [214, 253, 298, 506],
+		"type": "title",
+		"comment": "书名及卷次"
+	},
+	{
+		"text": "大四",
+		"bbox": [177, 255, 201, 284],
+		"type": "page_marker",
+		"comment": "页码或卷册标记"
+	},
+	{
+		"text": "說文九上",
+		"bbox": [164, 396, 193, 487],
+		"type": "book_title",
+		"comment": "书名缩写，位于书脊处"
+	},
+	{
+		"text": "十五",
+		"bbox": [167, 657, 198, 696],
+		"type": "page_number",
+		"comment": "页面编号"
+	},
+	{
+		"text": "焦克",
+		"bbox": [183, 798, 205, 837],
+		"type": "publisher_or_collector",
+		"comment": "出版者或收藏者印记"
+	},
+	{
+		"text": "或从誩或如言秀此美進善也此古文重出",
+		"bbox": [819, 253, 907, 777],
+		"type": "definition_text",
+		"comment": "对“誩”字的解释，含古文异体说明"
+	},
+	{
+		"text": "文三 重三",
+		"bbox": [727, 394, 800, 626],
+		"type": "section_header",
+		"comment": "表示本节包含三个字，共三重（重复）"
+	},
+	{
+		"text": "崑高不平也从山鬼聲凡崑之屬皆",
+		"bbox": [626, 253, 701, 837],
+		"type": "character_definition",
+		"comment": "对“崑”字的构形与意义解释"
+	},
+	{
+		"text": "从鬼五灰切",
+		"bbox": [527, 337, 604, 470],
+		"type": "phonetic_and_radical",
+		"comment": "说明“鬼”为声旁，五灰切为反切注音"
+	},
+	{
+		"text": "魏高也从嵬委聲牛威切臣鉉等曰今人省山以爲魏國之魏語韋切",
+		"bbox": [425, 253, 508, 684],
+		"type": "character_definition",
+		"comment": "对“魏”字的构形、读音及用法演变的说明"
+	},
+	{
+		"text": "文二",
+		"bbox": [425, 735, 495, 806],
+		"type": "section_footer",
+		"comment": "表示本节包含两个字"
+	}
+]
+```

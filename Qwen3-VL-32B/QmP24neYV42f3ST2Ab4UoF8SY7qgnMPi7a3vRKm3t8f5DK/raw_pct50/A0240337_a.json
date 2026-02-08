@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "小三日个", "bbox": [803, 264, 827, 335], "type": "text", "comment": ""},
+	{"text": "說文九一", "bbox": [804, 401, 834, 490], "type": "text", "comment": ""},
+	{"text": "十二", "bbox": [807, 664, 834, 716], "type": "text", "comment": ""},
+	{"text": "繆春", "bbox": [796, 793, 820, 840], "type": "text", "comment": ""},
+	{"text": "以穀圈養豕也从", "bbox": [753, 352, 794, 536], "type": "text", "comment": ""},
+	{"text": "豕夾聲胡慣切", "bbox": [708, 352, 750, 536], "type": "text", "comment": ""},
+	{"text": "豕屬从豕且", "bbox": [753, 622, 794, 746], "type": "text", "comment": ""},
+	{"text": "聲疾余切", "bbox": [708, 622, 750, 728], "type": "text", "comment": ""},
+	{"text": "逸也从豕原聲周書曰豨有爪", "bbox": [664, 266, 699, 558], "type": "text", "comment": ""},
+	{"text": "而不敢以撅讀若桓胡官切", "bbox": [610, 266, 647, 572], "type": "text", "comment": ""},
+	{"text": "豕走豨豨从豕", "bbox": [664, 668, 699, 846], "type": "text", "comment": ""},
+	{"text": "希聲古有封豨", "bbox": [610, 672, 647, 838], "type": "text", "comment": ""},
+	{"text": "脩蛇之害", "bbox": [554, 266, 591, 376], "type": "text", "comment": ""},
+	{"text": "豕絆足行豕豕从", "bbox": [554, 460, 591, 646], "type": "text", "comment": ""},
+	{"text": "鬬相丸不", "bbox": [554, 738, 591, 838], "type": "text", "comment": ""},
+	{"text": "虛豈切", "bbox": [506, 266, 544, 348], "type": "text", "comment": ""},
+	{"text": "豕繫二足丑六切", "bbox": [506, 460, 544, 646], "type": "text", "comment": ""},
+	{"text": "解也从豕", "bbox": [506, 758, 544, 838], "type": "text", "comment": ""},
+	{"text": "虍豕虍之鬬不解也讀若薊孳草之薊司馬", "bbox": [454, 266, 492, 716], "type": "text", "comment": ""},
+	{"text": "相如說虞封豕之屬一曰虎兩足舉强魚切", "bbox": [402, 266, 440, 710], "type": "text", "comment": ""},
+	{"text": "豕怒", "bbox": [454, 798, 492, 838], "type": "text", "comment": ""},
+	{"text": "毛豎", "bbox": [402, 798, 440, 846], "type": "text", "comment": ""},
+	{"text": "一曰殘艾也从豕辛臣鉉", "bbox": [350, 266, 389, 536], "type": "text", "comment": ""},
+	{"text": "等曰从車未詳魚旣切", "bbox": [300, 266, 338, 512], "type": "text", "comment": ""},
+	{"text": "一豕也豳从此闕", "bbox": [350, 622, 389, 796], "type": "text", "comment": ""},
+	{"text": "伯貧切又呼關切", "bbox": [300, 616, 338, 788], "type": "text", "comment": ""},
+	{"text": "文二十二", "bbox": [207, 404, 276, 560], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [207, 642, 276, 718], "type": "text", "comment": ""},
+	{"text": "脩豪獸一曰河內名豕也从卩下", "bbox": [105, 352, 182, 846], "type": "text", "comment": ""}
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "大二十六", "bbox": [173, 254, 198, 320], "type": "text", "comment": ""},
+	{"text": "說文九下", "bbox": [154, 396, 187, 490], "type": "text", "comment": ""},
+	{"text": "周太", "bbox": [179, 801, 202, 848], "type": "text", "comment": ""},
+	{"text": "厂山石之厓巖人可居象形凡厂之", "bbox": [218, 263, 289, 842], "type": "text", "comment": ""},
+	{"text": "从广未詳", "bbox": [359, 263, 395, 366], "type": "text", "comment": ""},
+	{"text": "丑拯切", "bbox": [309, 263, 345, 341], "type": "text", "comment": ""},
+	{"text": "廖人姓从广未詳當是", "bbox": [309, 378, 398, 669], "type": "text", "comment": ""},
+	{"text": "省廖字爾力救切", "bbox": [309, 464, 345, 653], "type": "text", "comment": ""},
+	{"text": "文六新附", "bbox": [323, 692, 389, 838], "type": "text", "comment": ""},
+	{"text": "廂廊也从广相", "bbox": [440, 263, 497, 473], "type": "text", "comment": ""},
+	{"text": "聲息良切", "bbox": [413, 341, 451, 453], "type": "text", "comment": ""},
+	{"text": "庪祭山曰庪縣从", "bbox": [441, 478, 498, 718], "type": "text", "comment": ""},
+	{"text": "广技聲過委切", "bbox": [413, 552, 451, 718], "type": "text", "comment": ""},
+	{"text": "庝地名", "bbox": [413, 722, 498, 844], "type": "text", "comment": ""},
+	{"text": "廈屋也从广戞", "bbox": [524, 261, 574, 462], "type": "text", "comment": ""},
+	{"text": "聲胡雅切", "bbox": [518, 347, 556, 454], "type": "text", "comment": ""},
+	{"text": "廳東西序也从广毘聲", "bbox": [524, 478, 574, 718], "type": "text", "comment": ""},
+	{"text": "漢書通用毘魯當切", "bbox": [518, 560, 556, 784], "type": "text", "comment": ""},
+	{"text": "文四十九重三", "bbox": [627, 419, 698, 726], "type": "text", "comment": ""},
+	{"text": "廖空虛也从广膠聲臣鉉等", "bbox": [752, 263, 807, 627], "type": "text", "comment": ""},
+	{"text": "曰今別作寥非是洛蕭切", "text": "713, 354, 763, 623", "type": "text", "comment": ""},
+	{"text": "歇卻屋也从广", "bbox": [832, 261, 905, 504], "type": "text", "comment": ""},
+	{"text": "韋聲昌石切", "bbox": [822, 373, 860, 504], "type": "text", "comment": ""},
+	{"text": "廞陳輿服於庭也从广", "bbox": [832, 510, 905, 807], "type": "text", "comment": ""},
+	{"text": "欽聲讀若歆許今切", "bbox": [812, 604, 850, 807], "type": "text", "comment": ""}
+]
+```

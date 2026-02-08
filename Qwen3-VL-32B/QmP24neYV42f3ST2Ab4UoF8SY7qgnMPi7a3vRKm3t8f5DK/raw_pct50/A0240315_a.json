@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "小二〇九", "bbox": [798, 259, 816, 304], "type": "text", "comment": ""},
+	{"text": "言文十一", "bbox": [798, 395, 827, 484], "type": "text", "comment": ""},
+	{"text": "李云", "bbox": [799, 796, 823, 828], "type": "text", "comment": ""},
+	{"text": "即从也凡首之屬皆从首書九切", "bbox": [714, 330, 787, 769], "type": "text", "comment": ""},
+	{"text": "下首也从首", "bbox": [653, 331, 689, 455], "type": "text", "comment": ""},
+	{"text": "截也从首从斷或从", "bbox": [653, 523, 690, 843], "type": "text", "comment": ""},
+	{"text": "旨聲康禮切大丸旨沈二切刀專", "bbox": [604, 331, 641, 846], "type": "text", "comment": ""},
+	{"text": "聲", "bbox": [541, 261, 577, 294], "type": "text", "comment": ""},
+	{"text": "文三重一", "bbox": [506, 425, 577, 646], "type": "text", "comment": ""},
+	{"text": "但从到首也賈侍中說此斷首到縣県", "bbox": [403, 262, 480, 849], "type": "text", "comment": ""},
+	{"text": "字凡県之屬皆从県古堯切", "bbox": [305, 341, 377, 704], "type": "text", "comment": ""},
+	{"text": "繫也从糸持県臣鉉等曰此本是縣挂之縣借", "bbox": [244, 342, 288, 851], "type": "text", "comment": ""},
+	{"text": "為州縣之縣今俗加心別作懸義無所取胡涓", "bbox": [195, 342, 238, 851], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [148, 264, 183, 292], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [103, 455, 175, 538], "type": "text", "comment": ""}
+]
+```

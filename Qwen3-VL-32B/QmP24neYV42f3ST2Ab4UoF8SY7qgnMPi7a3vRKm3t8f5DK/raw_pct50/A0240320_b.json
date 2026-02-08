@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "大十二", "bbox": [174, 273, 195, 306], "type": "text", "comment": ""},
+	{"text": "兑文七二", "bbox": [168, 409, 191, 450], "type": "text", "comment": ""},
+	{"text": "上二", "bbox": [171, 668, 195, 712], "type": "text", "comment": ""},
+	{"text": "唐文", "bbox": [184, 803, 203, 831], "type": "text", "comment": ""},
+	{"text": "按也从反", "bbox": [864, 351, 906, 450], "type": "text", "comment": ""},
+	{"text": "印於棘切", "bbox": [814, 351, 856, 450], "type": "text", "comment": ""},
+	{"text": "俗从", "bbox": [864, 538, 906, 586], "type": "text", "comment": ""},
+	{"text": "手", "bbox": [814, 538, 856, 562], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [829, 628, 900, 700], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [829, 745, 900, 817], "type": "text", "comment": ""},
+	{"text": "色", "bbox": [631, 351, 693, 391], "type": "text", "comment": ""},
+	{"text": "所力", "bbox": [660, 408, 698, 456], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [624, 408, 660, 433], "type": "text", "comment": ""},
+	{"text": "顏气也从人从卩凡色之屬皆从", "bbox": [718, 351, 806, 850], "type": "text", "comment": ""},
+	{"text": "古", "bbox": [565, 351, 602, 372], "type": "text", "comment": ""},
+	{"text": "色艶如也从色弗聲論", "bbox": [565, 456, 606, 697], "type": "text", "comment": ""},
+	{"text": "文", "bbox": [513, 351, 554, 372], "type": "text", "comment": ""},
+	{"text": "語曰色艶如也蒲没切", "bbox": [513, 456, 555, 697], "type": "text", "comment": ""},
+	{"text": "縹色", "bbox": [574, 799, 607, 850], "type": "text", "comment": ""},
+	{"text": "也从", "bbox": [516, 799, 555, 850], "type": "text", "comment": ""},
+	{"text": "色幷聲", "bbox": [461, 276, 501, 360], "type": "text", "comment": ""},
+	{"text": "普丁切", "bbox": [412, 276, 452, 351], "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [423, 500, 491, 582], "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [423, 678, 491, 740], "type": "text", "comment": ""},
+	{"text": "事之制也从卩丂凡卯之屬皆从", "bbox": [319, 351, 393, 850], "type": "text", "comment": ""},
+	{"text": "卯闕切", "bbox": [219, 351, 280, 461], "type": "text", "comment": ""},
+	{"text": "去京", "bbox": [266, 436, 298, 492], "type": "text", "comment": ""}
+]
+```

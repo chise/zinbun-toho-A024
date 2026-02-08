@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "小三百十九", "bbox": [804, 271, 823, 326], "type": "text", "comment": ""},
+	{"text": "說文十", "bbox": [805, 409, 830, 445], "type": "text", "comment": ""},
+	{"text": "三", "bbox": [808, 678, 830, 703], "type": "text", "comment": ""},
+	{"text": "祁三", "bbox": [803, 804, 825, 845], "type": "text", "comment": ""},
+	{"text": "山名从山蔵", "bbox": [758, 278, 797, 398], "type": "text", "comment": ""},
+	{"text": "省聲盧含切", "bbox": [708, 278, 747, 398], "type": "text", "comment": ""},
+	{"text": "中岳嵩高山也从山从高亦从松韋", "bbox": [758, 402, 797, 822], "type": "text", "comment": ""},
+	{"text": "昭國語注云古通用崇字息弓切", "bbox": [708, 402, 747, 822], "type": "text", "comment": ""},
+	{"text": "崑崙山名从山昆聲瀅書", "bbox": [658, 347, 697, 613], "type": "text", "comment": ""},
+	{"text": "揚雄文通用昆侖古渾切", "bbox": [608, 347, 647, 613], "type": "text", "comment": ""},
+	{"text": "崑崙也从山", "bbox": [658, 697, 697, 842], "type": "text", "comment": ""},
+	{"text": "侖聲盧昆切", "bbox": [608, 697, 647, 842], "type": "text", "comment": ""},
+	{"text": "山名从山稽省聲奚氏避", "bbox": [558, 353, 597, 613], "type": "text", "comment": ""},
+	{"text": "難特造此字非古胡雞切", "bbox": [508, 353, 547, 613], "type": "text", "comment": ""},
+	{"text": "新", "bbox": [558, 768, 597, 797], "type": "text", "comment": ""},
+	{"text": "附", "bbox": [508, 768, 547, 797], "type": "text", "comment": ""},
+	{"text": "二山也凡屾之屬皆从屾", "bbox": [408, 353, 486, 715], "type": "text", "comment": ""},
+	{"text": "所臻", "bbox": [458, 715, 486, 775], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [408, 715, 438, 745], "type": "text", "comment": ""},
+	{"text": "會稽山一曰九江當嵞也民以辛壬癸甲之", "bbox": [358, 353, 397, 775], "type": "text", "comment": ""},
+	{"text": "日嫁娶从屾余聲虞書曰子娶嵞山同都切", "bbox": [308, 353, 347, 782], "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [219, 418, 278, 497], "type": "text", "comment": ""},
+	{"text": "岸高也从山厂厂亦聲凡屵之", "bbox": [114, 353, 179, 842], "type": "text", "comment": ""}
+]
+```

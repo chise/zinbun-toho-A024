@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "大二十四", "bbox": [179, 270, 200, 314], "type": "text", "comment": ""},
+	{"text": "凥", "bbox": [211, 276, 295, 362], "type": "text", "comment": ""},
+	{"text": "文書藏也从广付聲臣鉉等曰今", "bbox": [252, 358, 299, 703], "type": "text", "comment": ""},
+	{"text": "藏腑字俗書从肉非是方矩切", "bbox": [213, 358, 251, 676], "type": "text", "comment": ""},
+	{"text": "廡", "bbox": [211, 700, 298, 786], "type": "text", "comment": ""},
+	{"text": "天子", "bbox": [264, 788, 299, 840], "type": "text", "comment": ""},
+	{"text": "饗飲", "bbox": [212, 788, 251, 840], "type": "text", "comment": ""},
+	{"text": "程樹", "bbox": [179, 808, 200, 840], "type": "text", "comment": ""},
+	{"text": "之屬皆从广讀若儼然之儼", "bbox": [317, 354, 392, 770], "type": "text", "comment": ""},
+	{"text": "魚儉", "bbox": [367, 778, 399, 825], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [317, 778, 354, 803], "type": "text", "comment": ""},
+	{"text": "广因广爲屋象對刺高屋之形凡广", "bbox": [418, 276, 493, 844], "type": "text", "comment": ""},
+	{"text": "文六", "bbox": [522, 408, 590, 492], "type": "text", "comment": ""},
+	{"text": "切没", "bbox": [516, 278, 600, 302], "type": "text", "comment": ""},
+	{"text": "都回切", "bbox": [615, 278, 658, 354], "type": "text", "comment": ""},
+	{"text": "从屵佳聲", "bbox": [663, 278, 700, 388], "type": "text", "comment": ""},
+	{"text": "岸水厓而高者从屵千聲五盱切", "bbox": [720, 276, 802, 520], "type": "text", "comment": ""},
+	{"text": "崖高邊也从屵圭聲五佳切", "bbox": [720, 522, 802, 734], "type": "text", "comment": ""},
+	{"text": "産高也", "bbox": [720, 738, 802, 844], "type": "text", "comment": ""},
+	{"text": "崩也从屵肥", "bbox": [663, 474, 700, 604], "type": "text", "comment": ""},
+	{"text": "聲符鄙切", "bbox": [615, 474, 658, 578], "type": "text", "comment": ""},
+	{"text": "崩聲从屵配", "bbox": [663, 704, 700, 844], "type": "text", "comment": ""},
+	{"text": "聲讀若費蒲", "bbox": [615, 704, 658, 844], "type": "text", "comment": ""},
+	{"text": "屬皆从屵", "bbox": [820, 358, 893, 520], "type": "text", "comment": ""},
+	{"text": "五葛", "bbox": [860, 250, 893, 582], "type": "text", "comment": ""},
+	{"text": "切", "bbox": [820, 524, 854, 552], "type": "text", "comment": ""}
+]
+```

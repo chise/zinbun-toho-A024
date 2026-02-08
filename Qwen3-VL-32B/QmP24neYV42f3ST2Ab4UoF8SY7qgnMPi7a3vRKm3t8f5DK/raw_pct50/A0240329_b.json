@@ -1,0 +1,304 @@
+```json
+[
+	{
+		"text": "切",
+		"bbox": [864, 260, 903, 291],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廣",
+		"bbox": [821, 287, 903, 378],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "殿之大屋也从",
+		"bbox": [858, 378, 908, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "广黄聲古晃切",
+		"bbox": [812, 378, 859, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會",
+		"bbox": [819, 544, 905, 625],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "芻藁之藏从广",
+		"bbox": [858, 625, 908, 809],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "會聲古外切",
+		"bbox": [812, 625, 859, 809],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "庾",
+		"bbox": [729, 257, 802, 343],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "水槽倉也从广臾聲一",
+		"bbox": [754, 343, 806, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰倉無屋者以主切",
+		"bbox": [713, 343, 762, 557],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廂",
+		"bbox": [724, 587, 802, 675],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "蔽也从广幷",
+		"bbox": [754, 675, 806, 810],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲必郢切",
+		"bbox": [713, 675, 762, 810],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廊",
+		"bbox": [620, 255, 698, 343],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "清也从广則",
+		"bbox": [658, 343, 706, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲初吏切",
+		"bbox": [618, 343, 664, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "塞",
+		"bbox": [622, 483, 700, 560],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "一畝牛一家之居从",
+		"bbox": [658, 560, 706, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "广里八土直連切",
+		"bbox": [618, 560, 664, 788],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "庋",
+		"bbox": [512, 255, 599, 343],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屋牝瓦下一曰維綱也从",
+		"bbox": [552, 343, 602, 606],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "广閔省聲讀若環户關切",
+		"bbox": [510, 343, 558, 606],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廂",
+		"bbox": [514, 606, 599, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "屋階中會也从",
+		"bbox": [552, 693, 602, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "广恩聲倉紅切",
+		"bbox": [510, 693, 558, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廗",
+		"bbox": [414, 254, 498, 343],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廣也从广侈聲春秋國語",
+		"bbox": [454, 343, 502, 606],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "曰俠溝而廕我尺氏切",
+		"bbox": [412, 343, 460, 570],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廡",
+		"bbox": [415, 606, 499, 693],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "仄也从广兼",
+		"bbox": [454, 693, 502, 836],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "聲力兼切",
+		"bbox": [412, 693, 460, 810],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "広",
+		"bbox": [309, 254, 397, 343],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "開張屋也从广秏聲",
+		"bbox": [352, 343, 400, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "濟陰有広縣宅加切",
+		"bbox": [310, 343, 358, 544],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廡",
+		"bbox": [310, 544, 398, 632],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "高屋也从广",
+		"bbox": [352, 632, 400, 748],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "龍聲薄江切",
+		"bbox": [310, 632, 358, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "底",
+		"bbox": [310, 757, 398, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "山居也一曰下也",
+		"bbox": [253, 257, 299, 449],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从广氐聲都禮切",
+		"bbox": [211, 257, 257, 450],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "座",
+		"bbox": [211, 450, 297, 537],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "礙止也从广",
+		"bbox": [253, 537, 299, 653],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "至聲陟栗切",
+		"bbox": [211, 537, 257, 666],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "廡",
+		"bbox": [211, 666, 297, 757],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "安止也",
+		"bbox": [253, 757, 299, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "从广嬰",
+		"bbox": [211, 757, 257, 842],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "周太",
+		"bbox": [175, 801, 200, 832],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "大三十",
+		"bbox": [175, 255, 200, 297],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "兑天七下",
+		"bbox": [170, 382, 198, 491],
+		"type": "text",
+		"comment": ""
+	},
+	{
+		"text": "三",
+		"bbox": [168, 685, 198, 707],
+		"type": "text",
+		"comment": ""
+	}
+]
+```
