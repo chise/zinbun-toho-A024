@@ -1,0 +1,886 @@
+```json
+[
+  {
+    "text": "小三开",
+    "bbox": [900, 500, 920, 545],
+    "size": "small",
+    "type": "annotation",
+    "comment": "页码或版式标记"
+  },
+  {
+    "text": "言文二",
+    "bbox": [900, 550, 920, 595],
+    "size": "small",
+    "type": "annotation",
+    "comment": "章节或部分标记"
+  },
+  {
+    "text": "任三",
+    "bbox": [900, 920, 920, 965],
+    "size": "small",
+    "type": "annotation",
+    "comment": "页码或卷次标记"
+  },
+  {
+    "text": "張口兒从口",
+    "bbox": [850, 500, 880, 595],
+    "size": "medium",
+    "type": "definition",
+    "comment": "对“吺”字的构形解释"
+  },
+  {
+    "text": "牙聲許加切",
+    "bbox": [820, 500, 850, 595],
+    "size": "medium",
+    "type": "pronunciation",
+    "comment": "注音，反切法"
+  },
+  {
+    "text": "張口也象",
+    "bbox": [770, 500, 800, 595],
+    "size": "medium",
+    "type": "definition",
+    "comment": "对“口”字的释义"
+  },
+  {
+    "text": "文",
+    "bbox": [720, 500, 750, 545],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "驚嘑也",
+    "bbox": [670, 500, 700, 595],
+    "size": "medium",
+    "type": "definition",
+    "comment": "对“吅”字的释义"
+  },
+  {
+    "text": "讀若讙",
+    "bbox": [620, 500, 650, 595],
+    "size": "medium",
+    "type": "pronunciation",
+    "comment": "注音，读若法"
+  },
+  {
+    "text": "亂也从交工",
+    "bbox": [570, 500, 600, 595],
+    "size": "medium",
+    "type": "definition",
+    "comment": "对“叕”字的释义"
+  },
+  {
+    "text": "口噂沓也交",
+    "bbox": [520, 500, 550, 595],
+    "size": "medium",
+    "type": "definition",
+    "comment": "对“叕”字的释义"
+  },
+  {
+    "text": "構形女",
+    "bbox": [470, 500, 500, 595],
+    "size": "medium",
+    "type": "definition",
+    "comment": "对“叕”字的构形说明"
+  },
+  {
+    "text": "庚切",
+    "bbox": [420, 500, 450, 545],
+    "size": "medium",
+    "type": "pronunciation",
+    "comment": "注音，反切法"
+  },
+  {
+    "text": "籒文",
+    "bbox": [420, 550, 450, 595],
+    "size": "medium",
+    "type": "variant",
+    "comment": "籀文（古文字）形式"
+  },
+  {
+    "text": "文一",
+    "bbox": [370, 500, 400, 545],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "文二",
+    "bbox": [320, 500, 350, 545],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "文十",
+    "bbox": [270, 500, 300, 545],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "文新",
+    "bbox": [220, 500, 250, 545],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "文附",
+    "bbox": [170, 500, 200, 545],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "文古",
+    "bbox": [120, 500, 150, 545],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "文",
+    "bbox": [70, 500, 100, 545],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "凡",
+    "bbox": [770, 600, 800, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "之",
+    "bbox": [720, 600, 750, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "屬",
+    "bbox": [670, 600, 700, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "皆",
+    "bbox": [620, 600, 650, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "从",
+    "bbox": [570, 600, 600, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [520, 600, 550, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [470, 600, 500, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [420, 600, 450, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [370, 600, 400, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [320, 600, 350, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [270, 600, 300, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [220, 600, 250, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [170, 600, 200, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [120, 600, 150, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [70, 600, 100, 645],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "凡",
+    "bbox": [770, 650, 800, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "之",
+    "bbox": [720, 650, 750, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "屬",
+    "bbox": [670, 650, 700, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "皆",
+    "bbox": [620, 650, 650, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "从",
+    "bbox": [570, 650, 600, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [520, 650, 550, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [470, 650, 500, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [420, 650, 450, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [370, 650, 400, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [320, 650, 350, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [270, 650, 300, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [220, 650, 250, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [170, 650, 200, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [120, 650, 150, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [70, 650, 100, 695],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "凡",
+    "bbox": [770, 700, 800, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "之",
+    "bbox": [720, 700, 750, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "屬",
+    "bbox": [670, 700, 700, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "皆",
+    "bbox": [620, 700, 650, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "从",
+    "bbox": [570, 700, 600, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [520, 700, 550, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [470, 700, 500, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [420, 700, 450, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [370, 700, 400, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [320, 700, 350, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [270, 700, 300, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [220, 700, 250, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [170, 700, 200, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [120, 700, 150, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [70, 700, 100, 745],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "凡",
+    "bbox": [770, 750, 800, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "之",
+    "bbox": [720, 750, 750, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "屬",
+    "bbox": [670, 750, 700, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "皆",
+    "bbox": [620, 750, 650, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "从",
+    "bbox": [570, 750, 600, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [520, 750, 550, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [470, 750, 500, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [420, 750, 450, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [370, 750, 400, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [320, 750, 350, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [270, 750, 300, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [220, 750, 250, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [170, 750, 200, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [120, 750, 150, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [70, 750, 100, 795],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "凡",
+    "bbox": [770, 800, 800, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "之",
+    "bbox": [720, 800, 750, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "屬",
+    "bbox": [670, 800, 700, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "皆",
+    "bbox": [620, 800, 650, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "从",
+    "bbox": [570, 800, 600, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [520, 800, 550, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [470, 800, 500, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [420, 800, 450, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [370, 800, 400, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [320, 800, 350, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [270, 800, 300, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [220, 800, 250, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [170, 800, 200, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [120, 800, 150, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [70, 800, 100, 845],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "凡",
+    "bbox": [770, 850, 800, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "之",
+    "bbox": [720, 850, 750, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "屬",
+    "bbox": [670, 850, 700, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "皆",
+    "bbox": [620, 850, 650, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "从",
+    "bbox": [570, 850, 600, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [520, 850, 550, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [470, 850, 500, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [420, 850, 450, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [370, 850, 400, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [320, 850, 350, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [270, 850, 300, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [220, 850, 250, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [170, 850, 200, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [120, 850, 150, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [70, 850, 100, 895],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "凡",
+    "bbox": [770, 900, 800, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "之",
+    "bbox": [720, 900, 750, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "屬",
+    "bbox": [670, 900, 700, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "皆",
+    "bbox": [620, 900, 650, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "从",
+    "bbox": [570, 900, 600, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [520, 900, 550, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [470, 900, 500, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [420, 900, 450, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [370, 900, 400, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [320, 900, 350, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [270, 900, 300, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [220, 900, 250, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [170, 900, 200, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [120, 900, 150, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  },
+  {
+    "text": "口",
+    "bbox": [70, 900, 100, 945],
+    "size": "large",
+    "type": "header",
+    "comment": "部首或字类标题"
+  }
+]
+```

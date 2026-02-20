@@ -1,0 +1,6 @@
+<image> Locate every text line.
+Report bbox coordinates of each line in JSON format.
+For example:
+[
+  {"text": "...", "bbox": [x1, y1, x2, y2], "size": "...", "type": "...", "comment": "..."}
+]
