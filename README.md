@@ -2,6 +2,8 @@
 
 所蔵：京都大学人文科学研究所附属人文情報学創新センター
 
+国書 著作ID：[4440598](https://kokusho.nijl.ac.jp/work/4440598)
+
 URL: http://kanji.zinbun.kyoto-u.ac.jp/db-machine/toho/html/A024menu.html
 
 
