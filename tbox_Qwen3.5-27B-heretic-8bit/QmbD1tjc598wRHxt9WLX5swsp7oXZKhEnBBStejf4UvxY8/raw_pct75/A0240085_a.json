@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小二百○五", "bbox": [952, 14, 982, 127], "size": "26.75", "type": "heading", "comment": "Top right page number"},
+	{"text": "谷", "bbox": [831, 16, 941, 132], "size": "110", "type": "character", "comment": "Large seal script character"},
+	{"text": "口上阿也从口上象其理凡谷之", "bbox": [843, 173, 942, 973], "size": "56", "type": "description", "comment": "Main text column"},
+	{"text": "屬皆从谷", "bbox": [701, 177, 803, 425], "size": "76", "type": "description", "comment": "Secondary text column"},
+	{"text": "其虐", "bbox": [754, 429, 814, 526], "size": "33", "type": "description", "comment": "Small annotation text"},
+	{"text": "切", "bbox": [703, 429, 752, 470], "size": "33", "type": "description", "comment": "Small annotation text"},
+	{"text": "嗇", "bbox": [557, 20, 670, 132], "size": "113", "type": "character", "comment": "Large seal script character"},
+	{"text": "谷或", "bbox": [621, 145, 681, 250], "size": "46", "type": "description", "comment": "Small annotation text"},
+	{"text": "如此", "bbox": [560, 145, 618, 250], "size": "46", "type": "description", "comment": "Small annotation text"},
+	{"text": "臡", "bbox": [557, 265, 675, 364], "size": "99", "type": "character", "comment": "Large seal script character"},
+	{"text": "或从肉", "bbox": [625, 371, 682, 488], "size": "44", "type": "description", "comment": "Small annotation text"},
+	{"text": "从虖", "bbox": [557, 370, 618, 461], "size": "44", "type": "description", "comment": "Small annotation text"},
+	{"text": "舌", "bbox": [560, 516, 675, 624], "size": "108", "type": "character", "comment": "Large seal script character"},
+	{"text": "舌皃从谷省", "bbox": [625, 632, 682, 854], "size": "44", "type": "description", "comment": "Small annotation text"},
+	{"text": "象形他念切", "bbox": [560, 626, 618, 854], "size": "44", "type": "description", "comment": "Small annotation text"},
+	{"text": "舌", "bbox": [576, 869, 677, 964], "size": "95", "type": "character", "comment": "Large seal script character"},
+	{"text": "古文舌讀若三年導服之導一曰竹", "bbox": [493, 22, 543, 623], "size": "44", "type": "description", "comment": "Small annotation text"},
+	{"text": "上皮讀若沾一曰讀若誓弼字从此", "bbox": [425, 22, 478, 623], "size": "44", "type": "description", "comment": "Small annotation text"},
+	{"text": "文二重三", "bbox": [442, 671, 533, 955], "size": "80", "type": "heading", "comment": "Section heading"},
+	{"text": "只", "bbox": [303, 20, 394, 147], "size": "91", "type": "character", "comment": "Large seal script character"},
+	{"text": "語已詞也从口象气下引之形凡", "bbox": [298, 155, 398, 975], "size": "68", "type": "description", "comment": "Main text column"},
+	{"text": "只之屬皆从只", "bbox": [174, 167, 260, 516], "size": "58", "type": "description", "comment": "Secondary text column"},
+	{"text": "諸氏", "bbox": [227, 528, 281, 623], "size": "33", "type": "description", "comment": "Small annotation text"},
+	{"text": "切", "bbox": [170, 537, 217, 573], "size": "33", "type": "description", "comment": "Small annotation text"},
+	{"text": "呮", "bbox": [27, 20, 144, 147], "size": "120", "type": "character", "comment": "Large seal script character"},
+	{"text": "聲也从只㕦聲", "bbox": [86, 157, 144, 423], "size": "44", "type": "description", "comment": "Small annotation text"},
+	{"text": "讀若馨呼形切", "bbox": [26, 157, 83, 423], "size": "44", "type": "description", "comment": "Small annotation text"},
+	{"text": "文二", "bbox": [36, 667, 135, 804], "size": "80", "type": "heading", "comment": "Section heading"}
+]
+```
