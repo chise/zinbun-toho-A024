@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "文四", "bbox": [856, 328, 941, 474], "size": "42", "type": "heading", "comment": "The heading of the page."},
+	{"text": "重一", "bbox": [857, 630, 941, 775], "size": "42", "type": "heading", "comment": "The sub-heading of the page."},
+	{"text": "音聲也生於心有節於外謂之音宮", "bbox": [725, 155, 820, 986], "size": "42", "type": "description", "comment": "The main text of the page."},
+	{"text": "商角徵羽聲絲竹金石匏土革木", "bbox": [594, 152, 689, 983], "size": "42", "type": "description", "comment": "The main text of the page."},
+	{"text": "音也从言含一凡音之屬皆从音", "bbox": [463, 155, 558, 985], "size": "42", "type": "description", "comment": "The main text of the page."},
+	{"text": "於今", "bbox": [384, 165, 437, 245], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "切", "bbox": [324, 166, 377, 203], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "聲也从音鄉", "bbox": [251, 157, 304, 374], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "聲許兩切", "bbox": [191, 156, 244, 374], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "下徹聲从音", "bbox": [251, 522, 304, 720], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "禽聲恩甘切", "bbox": [191, 523, 244, 721], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "虞舜樂", "bbox": [251, 856, 304, 985], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "也書曰", "bbox": [191, 856, 244, 985], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "簫韶九成鳳皇來儀", "bbox": [120, 21, 173, 374], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "從音召聲市招切", "bbox": [59, 20, 112, 374], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "樂竟為一章从音从十", "bbox": [120, 522, 173, 900], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "十數之終也諸良切", "bbox": [59, 522, 112, 900], "size": "21", "type": "description", "comment": "The text on the right side of the page."},
+	{"text": "大十一", "bbox": [23, 26, 38, 84], "size": "11", "type": "description", "comment": "The text on the left side of the page."},
+	{"text": "袁正", "bbox": [18, 923, 37, 972], "size": "11", "type": "description", "comment": "The text on the left side of the page."}
+]
+```
