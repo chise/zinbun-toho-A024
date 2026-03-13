@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "【小口】", "bbox": [948, 29, 983, 114], "size": "小", "type": "font", "comment": ""},
+	{"text": "【言文二】", "bbox": [962, 246, 1000, 336], "size": "小", "type": "font", "comment": ""},
+	{"text": "【十四】", "bbox": [965, 676, 1000, 730], "size": "小", "type": "font", "comment": ""},
+	{"text": "【吳慶】", "bbox": [955, 893, 987, 960], "size": "小", "type": "font", "comment": ""},
+	{"text": "蹔踔行無常皃从", "bbox": [887, 162, 946, 450], "size": "小", "type": "font", "comment": ""},
+	{"text": "足甚聲丑甚切", "bbox": [825, 162, 883, 406], "size": "小", "type": "font", "comment": ""},
+	{"text": "文七", "bbox": [835, 553, 936, 676], "size": "大", "type": "font", "comment": ""},
+	{"text": "新附", "bbox": [887, 693, 943, 781], "size": "中", "type": "font", "comment": ""},
+	{"text": "足也上象腓腸下从止弟子職曰", "bbox": [703, 156, 803, 958], "size": "大", "type": "font", "comment": ""},
+	{"text": "問疋何止古文以爲詩大疋字亦", "bbox": [569, 156, 669, 971], "size": "大", "type": "font", "comment": ""},
+	{"text": "以爲足字或曰胥字一曰疋記也", "bbox": [437, 152, 537, 965], "size": "大", "type": "font", "comment": ""},
+	{"text": "凡疋之屬皆从疋", "bbox": [305, 156, 406, 583], "size": "大", "type": "font", "comment": ""},
+	{"text": "所菹", "bbox": [368, 603, 417, 681], "size": "小", "type": "font", "comment": ""},
+	{"text": "切", "bbox": [309, 603, 348, 643], "size": "小", "type": "font", "comment": ""},
+	{"text": "門戸疏窻也从疋疋亦聲", "bbox": [231, 156, 289, 569], "size": "小", "type": "font", "comment": ""},
+	{"text": "囱象衺形讀若疏所菹切", "bbox": [169, 156, 228, 569], "size": "小", "type": "font", "comment": ""},
+	{"text": "通也从爻从疋", "bbox": [231, 717, 289, 958], "size": "小", "type": "font", "comment": ""},
+	{"text": "疋亦聲所菹切", "bbox": [169, 717, 228, 958], "size": "小", "type": "font", "comment": ""},
+	{"text": "文三", "bbox": [46, 361, 146, 483], "size": "大", "type": "font", "comment": ""}
+]
+```
