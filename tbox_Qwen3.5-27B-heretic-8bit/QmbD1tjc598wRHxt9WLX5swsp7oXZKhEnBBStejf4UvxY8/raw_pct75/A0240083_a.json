@@ -1,0 +1,9 @@
+```json
+[
+	{"text": "【文】", "bbox": [969, 235, 998, 359], "size": "小", "type": "text", "comment": "heading"},
+	{"text": "【吴喜】", "bbox": [971, 904, 998, 982], "size": "小", "type": "text", "comment": "author"},
+	{"text": "信文猶字弟二十", "bbox": [297, 16, 409, 454], "size": "小", "type": "text", "comment": ""},
+	{"text": "【重二】", "bbox": [41, 564, 140, 702], "size": "小", "type": "text", "comment": ""},
+	{"text": "【文編】", "bbox": [39, 245, 142, 444], "size": "小", "type": "text", "comment": ""}
+]
+```
