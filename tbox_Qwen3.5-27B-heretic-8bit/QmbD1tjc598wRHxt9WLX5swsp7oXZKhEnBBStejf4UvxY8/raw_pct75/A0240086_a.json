@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "小九九十七", "bbox": [957, 25, 979, 69], "size": "19.82", "type": "title", "comment": ""},
+	{"text": "曲竹捕魚筍也从竹", "bbox": [901, 558, 947, 874], "size": "20.96", "type": "description", "comment": ""},
+	{"text": "句亦聲舉朱切", "bbox": [833, 167, 882, 411], "size": "24.17", "type": "description", "comment": ""},
+	{"text": "止也从句从手", "bbox": [897, 167, 945, 411], "size": "24.17", "type": "description", "comment": ""},
+	{"text": "从𠤎句亦聲古厚切", "bbox": [829, 560, 880, 886], "size": "24.17", "type": "description", "comment": ""},
+	{"text": "句亦聲古矦切", "bbox": [700, 169, 752, 411], "size": "24.17", "type": "description", "comment": ""},
+	{"text": "曲也从金从句", "bbox": [762, 169, 812, 411], "size": "24.17", "type": "description", "comment": ""},
+	{"text": "文四", "bbox": [716, 657, 802, 770], "size": "43.65", "type": "title", "comment": ""},
+	{"text": "相糾繚也一曰瓜瓠結卩起象形", "bbox": [580, 164, 672, 964], "size": "32.99", "type": "description", "comment": ""},
+	{"text": "居虯", "bbox": [498, 589, 539, 665], "size": "18.25", "type": "description", "comment": ""},
+	{"text": "凡卩之屬皆从卩", "bbox": [449, 171, 534, 574], "size": "32.99", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [440, 589, 484, 659], "size": "18.25", "type": "description", "comment": ""},
+	{"text": "繩三合也从", "bbox": [369, 635, 421, 825], "size": "22.63", "type": "description", "comment": ""},
+	{"text": "卩之相卩者从黹从", "bbox": [367, 165, 419, 579], "size": "22.63", "type": "description", "comment": ""},
+	{"text": "卩卩亦聲居虯切", "bbox": [304, 165, 356, 441], "size": "22.63", "type": "description", "comment": ""},
+	{"text": "系卩居黝切", "bbox": [304, 635, 356, 825], "size": "22.63", "type": "description", "comment": ""},
+	{"text": "文三", "bbox": [187, 267, 271, 381], "size": "43.65", "type": "title", "comment": ""},
+	{"text": "古故也从十口識前言者也凡古之", "bbox": [41, 30, 149, 973], "size": "33.0", "type": "description", "comment": ""},
+	{"text": "春髙", "bbox": [963, 927, 983, 975], "size": "11.4", "type": "title", "comment": ""}
+]
+```
