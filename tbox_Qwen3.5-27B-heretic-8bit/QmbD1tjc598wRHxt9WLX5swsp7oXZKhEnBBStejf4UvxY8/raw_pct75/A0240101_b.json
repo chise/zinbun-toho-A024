@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "說文解字弟三下 漢太尉祭酒許愼記", "bbox": [858, 13, 961, 633], "size": "58.00", "type": "line", "comment": "big"},
+	{"text": "銀靑光禄大夫右散騎常侍上柱國東海縣開國子食邑", "bbox": [744, 56, 810, 583], "size": "50.00", "type": "line", "comment": "big"},
+	{"text": "晉雇徐鉉等奉", "bbox": [744, 587, 808, 993], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "敕校定", "bbox": [615, 48, 673, 150], "size": "50.00", "type": "line", "comment": "big"},
+	{"text": "革 獸皮治去其毛革更之象古文", "bbox": [455, 15, 573, 983], "size": "50.00", "type": "line", "comment": "big"},
+	{"text": "革之形凡革之屬皆从革 古覈切", "bbox": [327, 185, 427, 948], "size": "50.00", "type": "line", "comment": "big"},
+	{"text": "古文革从三十三十年", "bbox": [249, 158, 302, 561], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "去毛皮也論語曰", "bbox": [248, 694, 302, 988], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "爲一世而道更也曰聲", "bbox": [183, 167, 243, 556], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "虎豹之鞹从革郭", "bbox": [183, 694, 239, 991], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "聲苦", "bbox": [115, 15, 172, 106], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "軒乾革也武威有麗軒", "bbox": [115, 238, 172, 640], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "生革可以爲", "bbox": [115, 776, 167, 988], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "郭切", "bbox": [58, 15, 109, 110], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "縣从革干聲苦旰切", "bbox": [57, 238, 110, 613], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "縷束也从革", "bbox": [48, 776, 103, 991], "size": "45.00", "type": "line", "comment": "big"},
+	{"text": "大廿", "bbox": [15, 18, 37, 65], "size": "15.00", "type": "line", "comment": "big"},
+	{"text": "說文三下", "bbox": [2, 242, 24, 379], "size": "20.00", "type": "line", "comment": "big"},
+	{"text": "一", "bbox": [3, 692, 15, 714], "size": "15.00", "type": "line", "comment": "big"},
+	{"text": "陳王", "bbox": [12, 902, 34, 968], "size": "15.00", "type": "line", "comment": "big"}
+]
+```
