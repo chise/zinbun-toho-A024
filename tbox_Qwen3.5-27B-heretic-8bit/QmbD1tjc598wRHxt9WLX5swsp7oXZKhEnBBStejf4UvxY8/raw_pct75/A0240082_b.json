@@ -1,0 +1,11 @@
+```json
+[
+	{"text": "說文解字第二下", "bbox": [582, 24, 692, 406], "size": "25", "type": "heading", "comment": ""},
+	{"text": "文三", "bbox": [844, 255, 937, 388], "size": "25", "type": "heading", "comment": ""},
+	{"text": "重二", "bbox": [844, 556, 937, 688], "size": "25", "type": "heading", "comment": ""},
+	{"text": "字十七", "bbox": [39, 42, 64, 111], "size": "10", "type": "running header", "comment": ""},
+	{"text": "文十六", "bbox": [25, 250, 64, 375], "size": "10", "type": "running header", "comment": ""},
+	{"text": "十六", "bbox": [25, 679, 64, 736], "size": "10", "type": "running header", "comment": ""},
+	{"text": "蔣安", "bbox": [25, 901, 64, 943], "size": "10", "type": "running header", "comment": ""}
+]
+```
