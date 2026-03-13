@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "屬皆从古", "bbox": [884, 145, 984, 411], "size": "large", "type": "heading", "comment": ""},
+	{"text": "臣鉉等曰十口所傳", "bbox": [939, 435, 994, 723], "size": "small", "type": "text", "comment": ""},
+	{"text": "是前言也公户切", "bbox": [876, 435, 934, 723], "size": "small", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [803, 158, 855, 246], "size": "small", "type": "text", "comment": ""},
+	{"text": "古", "bbox": [747, 158, 780, 203], "size": "small", "type": "text", "comment": ""},
+	{"text": "大遠也从古", "bbox": [803, 392, 858, 612], "size": "small", "type": "text", "comment": ""},
+	{"text": "段聲古雅切", "bbox": [744, 392, 798, 612], "size": "small", "type": "text", "comment": ""},
+	{"text": "文二重一", "bbox": [752, 691, 844, 972], "size": "large", "type": "text", "comment": ""},
+	{"text": "十數之具也一爲東西丨爲南北則", "bbox": [615, 158, 714, 980], "size": "large", "type": "text", "comment": ""},
+	{"text": "四方中央備矣凡十之屬皆从十", "bbox": [473, 163, 570, 980], "size": "large", "type": "text", "comment": ""},
+	{"text": "是執", "bbox": [391, 179, 446, 255], "size": "small", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [337, 179, 383, 217], "size": "small", "type": "text", "comment": ""},
+	{"text": "十尺也从又", "bbox": [252, 158, 308, 359], "size": "small", "type": "text", "comment": ""},
+	{"text": "持十直兩切", "bbox": [189, 158, 244, 369], "size": "small", "type": "text", "comment": ""},
+	{"text": "十百也从十", "bbox": [260, 511, 315, 697], "size": "small", "type": "text", "comment": ""},
+	{"text": "从人此先切", "bbox": [197, 511, 252, 711], "size": "small", "type": "text", "comment": ""},
+	{"text": "響布也", "bbox": [257, 829, 312, 980], "size": "small", "type": "text", "comment": ""},
+	{"text": "从十从", "bbox": [194, 829, 249, 980], "size": "small", "type": "text", "comment": ""},
+	{"text": "臣鉉等曰𠧗", "bbox": [117, 17, 172, 271], "size": "small", "type": "text", "comment": ""},
+	{"text": "振𠧗也羲乙切", "bbox": [54, 17, 109, 271], "size": "small", "type": "text", "comment": ""},
+	{"text": "𠪘𠪘盛也从十从甚汝", "bbox": [117, 422, 172, 811], "size": "small", "type": "text", "comment": ""},
+	{"text": "南名蠶盛曰𠪘子入切", "bbox": [54, 422, 109, 811], "size": "small", "type": "text", "comment": ""},
+	{"text": "六十四", "bbox": [15, 17, 35, 64], "size": "small", "type": "text", "comment": ""},
+	{"text": "陳玉", "bbox": [15, 932, 45, 980], "size": "small", "type": "text", "comment": ""}
+]
+```
