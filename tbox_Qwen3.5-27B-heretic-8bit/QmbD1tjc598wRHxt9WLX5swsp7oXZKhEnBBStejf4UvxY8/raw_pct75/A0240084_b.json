@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "干於舌故从", "bbox": [930, 151, 997, 355], "size": "36.45", "type": "text", "comment": ""},
+	{"text": "干食𠟭切", "bbox": [871, 151, 927, 316], "size": "32.7", "type": "text", "comment": ""},
+	{"text": "歠也从舌沓", "bbox": [799, 146, 852, 363], "size": "36.45", "type": "text", "comment": ""},
+	{"text": "聲他合切", "bbox": [730, 146, 789, 324], "size": "35.1", "type": "text", "comment": ""},
+	{"text": "以舌取食也从", "bbox": [799, 503, 852, 764], "size": "36.45", "type": "text", "comment": ""},
+	{"text": "舌易聲神旨切", "bbox": [730, 503, 789, 764], "size": "35.1", "type": "text", "comment": ""},
+	{"text": "䫆或", "bbox": [799, 899, 852, 983], "size": "36.45", "type": "text", "comment": ""},
+	{"text": "从也", "bbox": [730, 899, 789, 983], "size": "35.1", "type": "text", "comment": ""},
+	{"bbox": [583, 15, 704, 1001], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [611, 258, 704, 391], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [611, 572, 704, 699], "size": "40.9", "type": "text", "comment": ""},
+	{"bbox": [454, 15, 575, 1001], "size": "35.5", "type": "text", "comment": ""},
+	{"text": "犯也从反入从一凡干之屬皆从", "bbox": [464, 166, 575, 998], "size": "35.5", "type": "text", "comment": ""},
+	{"bbox": [319, 15, 442, 1001], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "古寒", "bbox": [385, 236, 442, 324], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [323, 236, 379, 281], "size": "40.9", "type": "text", "comment": ""},
+	{"bbox": [186, 15, 307, 1001], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "𢷓也从干入一爲干入二爲", "bbox": [247, 146, 307, 643], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "羊讀若餁言稍甚也如審切", "bbox": [186, 146, 247, 643], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "不順也从", "bbox": [247, 818, 307, 983], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "干下屮", "bbox": [186, 818, 247, 983], "size": "40.9", "type": "text", "comment": ""},
+	{"bbox": [51, 15, 172, 1001], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "之也魚", "bbox": [114, 15, 172, 149], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "㦸切", "bbox": [51, 15, 114, 103], "size": "40.9", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [65, 416, 158, 543], "size": "40.9", "type": "text", "comment": ""},
+	{"bbox": [0, 15, 40, 1001], "size": "24.9", "type": "text", "comment": ""},
+	{"text": "大十三", "bbox": [0, 15, 35, 108], "size": "24.9", "type": "text", "comment": ""},
+	{"text": "張信", "bbox": [0, 929, 35, 993], "size": "24.9", "type": "text", "comment": ""}
+]
+```
