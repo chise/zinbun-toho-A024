@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "草叢生艸也象艸嶽相竝出也凡", "bbox": [856, 155, 950, 912], "size": "146.97", "type": "text", "comment": ""},
+	{"text": "艸之屬皆从𦰩讀若浘", "bbox": [723, 159, 818, 662], "size": "87.75", "type": "text", "comment": ""},
+	{"text": "士角", "bbox": [778, 672, 823, 758], "size": "25.62", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [719, 671, 768, 705], "size": "36.5", "type": "text", "comment": ""},
+	{"text": "大版也所以飾縣鐘鼓捷業如鋸齒以白畫之象", "bbox": [644, 163, 698, 980], "size": "60.24", "type": "text", "comment": ""},
+	{"text": "其鉏鋙相承也从𦰩从巾巾象版詩曰巨業維樅", "bbox": [580, 163, 635, 980], "size": "56.09", "type": "text", "comment": ""},
+	{"text": "魚怯", "bbox": [525, 27, 572, 98], "size": "34.37", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [520, 241, 567, 312], "size": "43.1", "type": "text", "comment": ""},
+	{"text": "聚也从𦰩取", "bbox": [515, 466, 569, 669], "size": "57.17", "type": "text", "comment": ""},
+	{"text": "麜無方也", "bbox": [510, 807, 565, 975], "size": "53.2", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [454, 30, 505, 64], "size": "34.97", "type": "text", "comment": ""},
+	{"text": "業", "bbox": [454, 233, 499, 279], "size": "45.25", "type": "text", "comment": ""},
+	{"text": "聲徂紅切", "bbox": [454, 463, 505, 632], "size": "49.1", "type": "text", "comment": ""},
+	{"text": "从𦰩从口", "bbox": [448, 814, 503, 976], "size": "50.6", "type": "text", "comment": ""},
+	{"text": "从寸都", "bbox": [388, 30, 441, 148], "size": "45.59", "type": "text", "comment": ""},
+	{"text": "對或从士漢文帝以爲責對而爲", "bbox": [384, 289, 438, 849], "size": "56.33", "type": "text", "comment": ""},
+	{"text": "隊切", "bbox": [324, 30, 375, 111], "size": "37.28", "type": "text", "comment": ""},
+	{"text": "言多非誠對故去其口以从士也", "bbox": [318, 291, 374, 847], "size": "55.87", "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [206, 255, 288, 376], "size": "80.37", "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [207, 565, 286, 681], "size": "81.59", "type": "text", "comment": ""},
+	{"text": "𦰩瀆業也从𦰩从丅丅亦聲凡業之", "bbox": [57, 159, 167, 964], "size": "97.73", "type": "text", "comment": ""},
+	{"text": "大十一", "bbox": [22, 30, 44, 90], "size": "15.56", "type": "text", "comment": ""},
+	{"text": "兑文三上", "bbox": [11, 246, 41, 367], "size": "16.5", "type": "text", "comment": ""},
+	{"text": "十五", "bbox": [10, 656, 32, 713], "size": "13.44", "type": "text", "comment": ""},
+	{"text": "陳玉", "bbox": [22, 903, 43, 973], "size": "17.29", "type": "text", "comment": ""}
+]
+```
