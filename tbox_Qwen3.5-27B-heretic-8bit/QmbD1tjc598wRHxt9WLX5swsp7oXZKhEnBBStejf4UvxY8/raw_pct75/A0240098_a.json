@@ -1,0 +1,31 @@
+```json
+[
+	{"bbox_2d": [960, 36, 984, 123], "text_content": "小言四一", "font_size": "15", "font_style": "serif", "line_height": "15"},
+	{"bbox_2d": [965, 253, 996, 373], "text_content": "許文三一", "font_size": "15", "font_style": "serif", "line_height": "15"},
+	{"bbox_2d": [983, 666, 999, 710], "text_content": "十五", "font_size": "15", "font_style": "serif", "line_height": "15"},
+	{"bbox_2d": [960, 901, 983, 970], "text_content": "李云", "font_size": "15", "font_style": "serif", "line_height": "15"},
+	{"bbox_2d": [833, 162, 936, 399], "text_content": "屬皆从業", "font_size": "35", "font_style": "serif", "line_height": "35"},
+	{"bbox_2d": [897, 413, 951, 962], "text_content": "臣鉉等曰瀆讀爲煩瀆之瀆一本", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [830, 410, 886, 970], "text_content": "注云犖衆多也兩手奉之是煩瀆", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [765, 162, 812, 250], "text_content": "也蒲", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [704, 166, 749, 247], "text_content": "沃切", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [557, 27, 685, 155], "text_content": "僱", "font_size": "35", "font_style": "serif", "line_height": "35"},
+	{"bbox_2d": [627, 166, 687, 468], "text_content": "給事者从人从業", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [566, 166, 619, 422], "text_content": "業亦聲蒲沃切", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [567, 477, 684, 606], "text_content": "僱", "font_size": "35", "font_style": "serif", "line_height": "35"},
+	{"bbox_2d": [633, 617, 681, 690], "text_content": "古文", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [566, 615, 617, 692], "text_content": "从臣", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [564, 698, 683, 839], "text_content": "僱", "font_size": "35", "font_style": "serif", "line_height": "35"},
+	{"bbox_2d": [630, 848, 687, 962], "text_content": "賦事也", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [565, 848, 618, 967], "text_content": "从業从", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [493, 37, 548, 468], "text_content": "八八分之也八亦聲讀若", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [432, 37, 485, 425], "text_content": "頒一曰讀若非布還切", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [314, 286, 403, 414], "text_content": "文三", "font_size": "35", "font_style": "serif", "line_height": "35"},
+	{"bbox_2d": [314, 604, 404, 732], "text_content": "重一", "font_size": "35", "font_style": "serif", "line_height": "35"},
+	{"bbox_2d": [175, 30, 281, 150], "text_content": "廾", "font_size": "35", "font_style": "serif", "line_height": "35"},
+	{"bbox_2d": [178, 159, 275, 961], "text_content": "竦手也从屮从又凡廾之屬皆从", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [98, 246, 152, 419], "text_content": "居竦切今", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [35, 246, 89, 414], "text_content": "變隷作廾", "font_size": "28", "font_style": "serif", "line_height": "28"},
+	{"bbox_2d": [49, 157, 137, 226], "text_content": "廾", "font_size": "35", "font_style": "serif", "line_height": "35"}
+]
+```
