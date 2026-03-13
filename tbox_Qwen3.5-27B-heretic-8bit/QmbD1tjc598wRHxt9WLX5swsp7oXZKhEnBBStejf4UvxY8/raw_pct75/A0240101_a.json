@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "小己九十二", "bbox": [960, 25, 982, 109], "size": "small", "type": "text", "comment": "small text in the top right corner"},
+	{"text": "齍齊謂之炊爨臼象持甑门爲竈口", "bbox": [846, 17, 941, 960], "size": "large", "type": "text", "comment": "main text column"},
+	{"text": "丱推林内火凡爨之屬皆从爨", "bbox": [715, 141, 814, 937], "size": "large", "type": "text", "comment": "main text column"},
+	{"text": "七亂切", "bbox": [783, 910, 826, 972], "size": "small", "type": "text", "comment": "small text next to the main text"},
+	{"text": "籀文", "bbox": [641, 141, 681, 224], "size": "small", "type": "text", "comment": "small text next to the main text"},
+	{"text": "爨省", "bbox": [573, 141, 615, 224], "size": "small", "type": "text", "comment": "small text next to the main text"},
+	{"text": "所以枝鬲者从爨", "bbox": [630, 374, 690, 672], "size": "small", "type": "text", "comment": "small text next to the main text"},
+	{"text": "省鬲省渠容切", "bbox": [573, 374, 615, 619], "size": "small", "type": "text", "comment": "small text next to the main text"},
+	{"text": "血祭也", "bbox": [641, 841, 681, 960], "size": "small", "type": "text", "comment": "small text next to the main text"},
+	{"text": "象祭竈", "bbox": [573, 841, 615, 960], "size": "small", "type": "text", "comment": "small text next to the main text"},
+	{"text": "也从爨省从酉酉所以祭也从分", "bbox": [503, 21, 548, 587], "size": "small", "type": "text", "comment": "small text next to the main text"},
+	{"text": "分亦聲臣鉉等曰分布也虚振切", "bbox": [432, 21, 477, 587], "size": "small", "type": "text", "comment": "small text next to the main text"},
+	{"text": "文三", "bbox": [311, 326, 408, 448], "size": "large", "type": "text", "comment": "large text in the middle of the page"},
+	{"text": "重一", "bbox": [311, 646, 408, 690], "size": "large", "type": "text", "comment": "large text in the middle of the page"},
+	{"text": "說文解字弟三", "bbox": [43, 25, 144, 440], "size": "large", "type": "text", "comment": "large text on the left side of the page"},
+	{"text": "上", "bbox": [85, 456, 135, 478], "size": "small", "type": "text", "comment": "small text below the large text"}
+]
+```
