@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "言之訥也从口从內凡㕣之屬皆", "bbox": [807, 28, 946, 967], "size": "70.5", "type": "heading", "comment": ""},
+	{"text": "从㕣", "bbox": [719, 184, 815, 318], "size": "65", "type": "description", "comment": ""},
+	{"text": "女滑", "bbox": [776, 318, 823, 387], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [719, 318, 767, 352], "size": "31", "type": "description", "comment": ""},
+	{"text": "以錐有所穿也从矛从㕣", "bbox": [647, 184, 700, 597], "size": "31", "type": "description", "comment": ""},
+	{"text": "从外知內也", "bbox": [647, 616, 697, 904], "size": "31", "type": "description", "comment": ""},
+	{"text": "一曰滿有所出也余律切", "bbox": [590, 184, 641, 600], "size": "31", "type": "description", "comment": ""},
+	{"text": "从㕣章省聲", "bbox": [588, 616, 638, 904], "size": "31", "type": "description", "comment": ""},
+	{"text": "古文", "bbox": [526, 259, 566, 328], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "亦古", "bbox": [526, 437, 566, 506], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "籀文", "bbox": [526, 693, 566, 762], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "商", "bbox": [468, 259, 510, 302], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "文商", "bbox": [468, 437, 507, 506], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "商", "bbox": [468, 693, 510, 741], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "式陽", "bbox": [526, 30, 573, 113], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [468, 30, 510, 65], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "文三", "bbox": [346, 273, 431, 394], "size": "50", "type": "description", "comment": ""},
+	{"text": "重三", "bbox": [346, 587, 429, 708], "size": "50", "type": "description", "comment": ""},
+	{"text": "也", "bbox": [346, 838, 384, 876], "size": "31", "type": "description", "comment": ""},
+	{"text": "曲也从口丩聲凡句之屬皆从句", "bbox": [207, 184, 312, 967], "size": "65", "type": "heading", "comment": ""},
+	{"text": "古矦切又", "bbox": [139, 184, 187, 340], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "九遇切", "bbox": [81, 184, 127, 302], "size": "26.5", "type": "description", "comment": ""},
+	{"text": "大十四", "bbox": [42, 30, 64, 90], "size": "11.5", "type": "description", "comment": ""},
+	{"text": "三", "bbox": [29, 708, 50, 729], "size": "11.5", "type": "description", "comment": ""},
+	{"text": "陳玉", "bbox": [42, 920, 64, 962], "size": "11.5", "type": "description", "comment": ""},
+	{"text": "玉", "bbox": [991, 943, 1002, 958], "size": "4", "type": "description", "comment": ""}
+]
+```
