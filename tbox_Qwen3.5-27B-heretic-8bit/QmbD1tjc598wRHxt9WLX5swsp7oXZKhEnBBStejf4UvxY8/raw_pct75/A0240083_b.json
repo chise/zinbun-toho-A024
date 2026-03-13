@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "說文解字第三 上 漢太尉祭酒許慎記", "bbox": [871, 19, 965, 878], "size": "大", "type": "title"},
+	{"text": "銀青光祿大夫右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [748, 57, 818, 990], "size": "中", "type": "author"},
+	{"text": "敕校定", "bbox": [615, 56, 679, 155], "size": "中", "type": "author"},
+	{"text": "五十三部 文六百三十 重一百四十五", "bbox": [466, 97, 566, 979], "size": "大", "type": "section"},
+	{"text": "凡八千六百八十四字", "bbox": [334, 213, 426, 729], "size": "大", "type": "section"},
+	{"text": "文十六 新附", "bbox": [197, 212, 290, 488], "size": "中", "type": "section"},
+	{"text": "㗊", "bbox": [64, 24, 165, 131], "size": "大", "type": "character"},
+	{"text": "衆口也从四口凡㗊之屬皆从㗊", "bbox": [64, 160, 166, 990], "size": "大", "type": "definition"},
+	{"text": "大九", "bbox": [16, 17, 41, 64], "size": "小", "type": "page"},
+	{"text": "說文三上", "bbox": [1, 262, 35, 380], "size": "小", "type": "page"},
+	{"text": "一", "bbox": [1, 715, 35, 740], "size": "小", "type": "page"},
+	{"text": "張信", "bbox": [20, 922, 45, 989], "size": "小", "type": "page"}
+]
+```
