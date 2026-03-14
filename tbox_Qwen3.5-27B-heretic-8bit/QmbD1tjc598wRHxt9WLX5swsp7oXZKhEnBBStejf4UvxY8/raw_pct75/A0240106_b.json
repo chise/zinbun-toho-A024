@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "胡瓦", "bbox": [916, 37, 971, 76], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "亦持也从反", "bbox": [917, 258, 971, 455], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [857, 37, 907, 75], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "戠闕居玉切", "bbox": [858, 258, 907, 455], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "文八", "bbox": [738, 293, 819, 400], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [736, 593, 819, 699], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "兩士相對兵杖在後象鬥之形凡", "bbox": [598, 177, 686, 972], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "鬥之屬皆从鬥", "bbox": [472, 177, 557, 536], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "都豆", "bbox": [518, 566, 566, 638], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [458, 566, 503, 599], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "遇也从鬥斷", "bbox": [385, 177, 441, 338], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "聲都豆切", "bbox": [328, 177, 375, 322], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "鬬也从鬥共聲孟子", "bbox": [384, 501, 438, 840], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "曰鄒與魯鬬下降切", "bbox": [327, 519, 374, 839], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "經繆殺也从鬥", "bbox": [252, 32, 302, 288], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "參聲力求切", "bbox": [193, 32, 242, 252], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "鬬取也从鬥龜聲讀", "bbox": [249, 427, 301, 761], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "若三合繩糾古矦切", "bbox": [191, 427, 242, 751], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "智少", "bbox": [249, 905, 297, 972], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "力劣", "bbox": [191, 905, 238, 972], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "也从鬥爾", "bbox": [120, 31, 169, 215], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "鬬連結鬨紛相牽也从鬥熒聲臣鉉等", "bbox": [120, 343, 168, 972], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "聲奴禮切", "bbox": [57, 31, 104, 201], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "案熒今先典切从豖聲豖呼還切蓋熒", "bbox": [57, 343, 104, 972], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "大十五", "bbox": [17, 31, 37, 95], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "表", "bbox": [14, 894, 34, 922], "size": "1.00", "type": "heading", "comment": ""},
+	{"text": "和", "bbox": [23, 944, 43, 963], "size": "1.00", "type": "heading", "comment": ""}
+]
+```
