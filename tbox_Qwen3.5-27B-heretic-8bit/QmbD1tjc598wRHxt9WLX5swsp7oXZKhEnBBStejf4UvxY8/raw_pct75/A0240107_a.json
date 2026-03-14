@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "亦爲聲一本", "bbox": [885, 30, 958, 450], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "從鬥賓省聲", "bbox": [885, 500, 958, 796], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "闘也", "bbox": [893, 607, 937, 673], "size": "30", "type": "text", "comment": "豎排"},
+	{"text": "讀若賓匹賓切", "bbox": [829, 607, 885, 796], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "從𤴓說文無𤴓字撫文切", "bbox": [829, 30, 885, 450], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "從戰省讀若", "bbox": [622, 30, 679, 240], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "縣胡畎切", "bbox": [563, 30, 619, 206], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "文十", "bbox": [581, 500, 664, 627], "size": "64", "type": "text", "comment": "豎排"},
+	{"text": "不靜也從市", "bbox": [491, 168, 548, 371], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "鬥奴敎切", "bbox": [427, 168, 483, 333], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "文一", "bbox": [438, 498, 521, 624], "size": "64", "type": "text", "comment": "豎排"},
+	{"text": "新附", "bbox": [483, 639, 545, 725], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "手也象形三指者手之別多略不", "bbox": [306, 168, 406, 976], "size": "64", "type": "text", "comment": "豎排"},
+	{"text": "過三也凡又之屬皆從又", "bbox": [174, 168, 271, 773], "size": "64", "type": "text", "comment": "豎排"},
+	{"text": "于救", "bbox": [231, 802, 286, 868], "size": "30", "type": "text", "comment": "豎排"},
+	{"text": "切", "bbox": [174, 802, 229, 825], "size": "30", "type": "text", "comment": "豎排"},
+	{"text": "手口相助也從又從口臣鉉", "bbox": [90, 168, 148, 642], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "等曰今俗別作佑于救切", "bbox": [30, 168, 86, 602], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "臂上也從", "bbox": [96, 805, 154, 978], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "又從古文", "bbox": [31, 805, 88, 978], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "恒訟也詩云兄弟鬩于牆從", "bbox": [759, 168, 818, 500], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "鬥從兒兒善訟者也許激切", "bbox": [697, 168, 756, 500], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "試力士錘也", "bbox": [759, 763, 818, 958], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "從鬥從戈或", "bbox": [697, 763, 756, 973], "size": "32", "type": "text", "comment": "豎排"},
+	{"text": "小豆半", "bbox": [962, 30, 985, 92], "size": "12", "type": "text", "comment": "豎排"},
+	{"text": "李云", "bbox": [962, 894, 992, 963], "size": "20", "type": "text", "comment": "豎排"}
+]
+```
