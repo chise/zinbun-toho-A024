@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "文十三 重十二", "bbox": [594, 200, 695, 686], "size": "42.5", "type": "heading", "comment": ""},
+	{"text": "爪 爪也覆手曰爪象形凡爪之屬皆", "bbox": [463, 28, 577, 967], "size": "50", "type": "text", "comment": ""},
+	{"text": "从爪", "bbox": [336, 162, 436, 296], "size": "42.5", "type": "text", "comment": ""},
+	{"text": "側狡", "bbox": [393, 298, 438, 369], "size": "23", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [334, 297, 380, 336], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "卵孚也从爪从子一曰信也徐锴曰鳥之孚卵皆", "bbox": [256, 154, 306, 974], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "如其期不失信也鳥裹恒以爪反覆其卵也芳無", "bbox": [185, 154, 236, 974], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "古文孚从矛", "bbox": [127, 188, 178, 416], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [123, 27, 173, 65], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "古古文係", "bbox": [63, 208, 112, 380], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "母猴也其為禽好爪爪母", "bbox": [120, 552, 170, 974], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "猴象也下腹為母猴形王", "bbox": [57, 551, 107, 974], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "大十九", "bbox": [22, 36, 43, 103], "size": "15", "type": "text", "comment": ""},
+	{"text": "說文三下", "bbox": [1, 257, 28, 385], "size": "23", "type": "text", "comment": ""},
+	{"text": "五", "bbox": [0, 692, 31, 715], "size": "23", "type": "text", "comment": ""},
+	{"text": "袁和", "bbox": [16, 896, 36, 964], "size": "15", "type": "text", "comment": ""},
+	{"text": "炒非是", "bbox": [915, 32, 972, 157], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "內肉及菜湯中薄出", "bbox": [915, 286, 972, 631], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "音也从鬻者", "bbox": [909, 647, 970, 973], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "尺沼切", "bbox": [853, 33, 910, 157], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "之从鬻翟聲以勺切", "bbox": [847, 296, 909, 631], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "聲章與切", "bbox": [847, 649, 909, 942], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "鬻或", "bbox": [785, 157, 842, 240], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "鬻鬻或从水", "bbox": [785, 372, 841, 630], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "吹釜溢也从鬻", "bbox": [782, 648, 840, 953], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "从火", "bbox": [724, 157, 780, 240], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "在其中", "bbox": [722, 372, 780, 513], "size": "31.5", "type": "text", "comment": ""},
+	{"text": "孛聲蒲没切", "bbox": [719, 649, 777, 916], "size": "31.5", "type": "text", "comment": ""}
+]
+```
