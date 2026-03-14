@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "及也從又從尸省又持尸者從後", "bbox": [861, 172, 964, 974], "size": "53", "type": "body", "comment": ""},
+	{"text": "及之也凡隶之屬皆從隶", "bbox": [729, 172, 823, 799], "size": "51", "type": "body", "comment": ""},
+	{"text": "徒耐", "bbox": [775, 813, 834, 899], "size": "31", "type": "body", "comment": ""},
+	{"text": "切", "bbox": [720, 823, 767, 862], "size": "37", "type": "body", "comment": ""},
+	{"text": "及也從隶臬聲詩曰隸天之未陰", "bbox": [648, 158, 706, 711], "size": "39", "type": "body", "comment": ""},
+	{"text": "附箸也", "bbox": [643, 858, 699, 977], "size": "38", "type": "body", "comment": ""},
+	{"text": "雨臣鉉等曰臬非聲未詳徒耐切", "bbox": [585, 158, 643, 730], "size": "39", "type": "body", "comment": ""},
+	{"text": "從隶柰", "bbox": [579, 858, 635, 977], "size": "38", "type": "body", "comment": ""},
+	{"text": "篆文隸從古文之體臣", "bbox": [517, 252, 573, 619], "size": "38", "type": "body", "comment": ""},
+	{"text": "聲郎", "bbox": [519, 25, 573, 109], "size": "38", "type": "body", "comment": ""},
+	{"text": "計切", "bbox": [455, 24, 510, 109], "size": "38", "type": "body", "comment": ""},
+	{"text": "鉉等未詳古文所出", "bbox": [452, 249, 508, 577], "size": "38", "type": "body", "comment": ""},
+	{"text": "文三", "bbox": [337, 245, 426, 368], "size": "66", "type": "body", "comment": ""},
+	{"text": "重一", "bbox": [331, 558, 421, 661], "size": "66", "type": "body", "comment": ""},
+	{"text": "堅也從又臣聲凡取之屬皆從取", "bbox": [191, 165, 295, 974], "size": "54", "type": "body", "comment": ""},
+	{"text": "讀若鏗鏘之鏗古文以為賢字", "bbox": [56, 152, 160, 915], "size": "53", "type": "body", "comment": ""},
+	{"text": "苦", "bbox": [112, 928, 167, 970], "size": "36", "type": "body", "comment": ""},
+	{"text": "閑", "bbox": [48, 930, 103, 970], "size": "36", "type": "body", "comment": ""},
+	{"text": "大十三", "bbox": [13, 29, 37, 100], "size": "14", "type": "body", "comment": ""},
+	{"text": "玄", "bbox": [4, 904, 29, 930], "size": "14", "type": "body", "comment": ""},
+	{"text": "和", "bbox": [9, 934, 32, 957], "size": "10", "type": "body", "comment": ""}
+]
+```
