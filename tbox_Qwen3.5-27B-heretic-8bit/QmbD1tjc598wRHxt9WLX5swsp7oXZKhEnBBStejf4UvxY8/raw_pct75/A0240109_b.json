@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "帛", "bbox": [844, 26, 957, 158], "size": "21.83", "type": "Heading"},
+	{"text": "手之毳巧也从又持巾凡帛之屬", "bbox": [846, 185, 946, 981], "size": "21.83", "type": "Description"},
+	{"text": "皆从帛", "bbox": [721, 169, 821, 361], "size": "21.83", "type": "Description"},
+	{"text": "尼輒", "bbox": [769, 369, 825, 455], "size": "13.83", "type": "Description"},
+	{"text": "切", "bbox": [715, 364, 765, 414], "size": "21.83", "type": "Description"},
+	{"text": "帙", "bbox": [583, 24, 690, 158], "size": "21.83", "type": "Heading"},
+	{"text": "習也从帛屛", "bbox": [648, 169, 695, 361], "size": "13.83", "type": "Description"},
+	{"text": "聲羊至切", "bbox": [583, 169, 633, 323], "size": "13.83", "type": "Description"},
+	{"text": "籀文", "bbox": [645, 486, 695, 572], "size": "13.83", "type": "Description"},
+	{"text": "隸", "bbox": [583, 484, 630, 533], "size": "21.83", "type": "Description"},
+	{"text": "篆文", "bbox": [642, 693, 695, 781], "size": "13.83", "type": "Description"},
+	{"text": "𢅥", "bbox": [583, 693, 630, 742], "size": "21.83", "type": "Description"},
+	{"text": "持", "bbox": [635, 933, 690, 982], "size": "21.83", "type": "Description"},
+	{"text": "事", "bbox": [580, 933, 630, 981], "size": "21.83", "type": "Description"},
+	{"text": "振敬也从帛在帨上", "bbox": [517, 26, 567, 361], "size": "13.83", "type": "Description"},
+	{"text": "戰戰競競也息逐切", "bbox": [450, 26, 500, 361], "size": "13.83", "type": "Description"},
+	{"text": "古文肅从", "bbox": [515, 518, 565, 681], "size": "13.83", "type": "Description"},
+	{"text": "心从卩", "bbox": [448, 518, 495, 642], "size": "13.83", "type": "Description"},
+	{"text": "文三", "bbox": [333, 270, 420, 397], "size": "21.83", "type": "Description"},
+	{"text": "重三", "bbox": [333, 520, 420, 648], "size": "21.83", "type": "Description"},
+	{"text": "帛", "bbox": [190, 22, 305, 154], "size": "21.83", "type": "Heading"},
+	{"text": "所以書也楚謂之帛吳謂之不律", "bbox": [195, 162, 293, 982], "size": "21.83", "type": "Description"},
+	{"text": "燕謂之帛从帛一聲凡帛之屬皆", "bbox": [60, 148, 160, 982], "size": "21.83", "type": "Description"},
+	{"text": "大十五", "bbox": [15, 30, 50, 98], "size": "13.83", "type": "Description"},
+	{"text": "袁和", "bbox": [15, 903, 50, 974], "size": "13.83", "type": "Description"}
+]
+```
