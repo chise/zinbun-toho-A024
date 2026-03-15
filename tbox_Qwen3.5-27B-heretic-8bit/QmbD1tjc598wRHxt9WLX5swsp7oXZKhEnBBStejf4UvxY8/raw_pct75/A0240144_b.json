@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "細也从么麻", "bbox": [910, 174, 964, 394], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "聲亡果切", "bbox": [844, 174, 903, 348], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "文一", "bbox": [860, 512, 951, 628], "size": "119.0", "type": "traditional", "comment": ""},
+	{"text": "新附", "bbox": [902, 638, 958, 722], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "微也从二么凡么之屬皆从么", "bbox": [722, 154, 820, 883], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "於虬", "bbox": [777, 890, 831, 974], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "切", "bbox": [725, 890, 769, 927], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "隱也从山中么", "bbox": [650, 152, 699, 392], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "么亦聲於虬切", "bbox": [583, 152, 636, 394], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "微也殆也从么从戌戌兵", "bbox": [641, 564, 699, 974], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "守也么而兵守者危也居", "bbox": [581, 549, 636, 974], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "衣", "bbox": [516, 34, 563, 66], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "切", "bbox": [455, 34, 502, 66], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "文三", "bbox": [461, 300, 557, 416], "size": "119.0", "type": "traditional", "comment": ""},
+	{"text": "專小謹也从么省中財見也中亦", "bbox": [334, 159, 432, 974], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "聲凡𤣥之屬皆从𤣥", "bbox": [195, 174, 294, 661], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "職緣", "bbox": [250, 664, 309, 740], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "切", "bbox": [193, 664, 242, 696], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "古文", "bbox": [125, 156, 175, 240], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "𤣥", "bbox": [63, 156, 102, 191], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "亦古", "bbox": [122, 367, 169, 450], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "文𤣥", "bbox": [61, 367, 108, 450], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "仁也从心从𤣥徐鍇曰", "bbox": [122, 601, 177, 969], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "爲惠者心專也胡桂切", "bbox": [61, 601, 115, 972], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "大六三", "bbox": [21, 19, 40, 76], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "說文四下", "bbox": [3, 252, 40, 379], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "二", "bbox": [16, 709, 26, 733], "size": "105.0", "type": "traditional", "comment": ""},
+	{"text": "陳廣", "bbox": [25, 902, 48, 971], "size": "105.0", "type": "traditional", "comment": ""}
+]
+```
