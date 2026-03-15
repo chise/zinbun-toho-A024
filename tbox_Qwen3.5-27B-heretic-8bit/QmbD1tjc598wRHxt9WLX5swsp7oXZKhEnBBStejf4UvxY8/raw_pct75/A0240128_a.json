@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小二百五", "bbox": [963, 29, 980, 97], "size": "16", "type": "text", "comment": "vertical"},
+	{"text": "領理也凡𠩑之屬皆从𠩑", "bbox": [840, 169, 939, 787], "size": "48", "type": "text", "comment": "vertical"},
+	{"text": "武悲", "bbox": [895, 805, 948, 886], "size": "29", "type": "text", "comment": "vertical"},
+	{"text": "切", "bbox": [835, 808, 889, 839], "size": "28", "type": "text", "comment": "vertical"},
+	{"text": "𠩑", "bbox": [712, 27, 805, 152], "size": "111", "type": "text", "comment": "vertical"},
+	{"text": "視也从𠩑省从中臣鉉", "bbox": [764, 165, 821, 541], "size": "36", "type": "text", "comment": "vertical"},
+	{"text": "等曰中通識也所景切", "bbox": [703, 165, 757, 541], "size": "36", "type": "text", "comment": "vertical"},
+	{"text": "古文从", "bbox": [766, 677, 821, 805], "size": "35", "type": "text", "comment": "vertical"},
+	{"text": "少从囟", "bbox": [705, 677, 757, 815], "size": "35", "type": "text", "comment": "vertical"},
+	{"text": "文二", "bbox": [584, 269, 667, 372], "size": "64", "type": "text", "comment": "vertical"},
+	{"text": "重一", "bbox": [584, 573, 667, 681], "size": "64", "type": "text", "comment": "vertical"},
+	{"text": "盾", "bbox": [444, 26, 546, 142], "size": "111", "type": "text", "comment": "vertical"},
+	{"text": "蔽也所以扞身蔽目象形凡盾之", "bbox": [444, 157, 546, 968], "size": "57", "type": "text", "comment": "vertical"},
+	{"text": "屬皆从盾", "bbox": [317, 157, 410, 403], "size": "57", "type": "text", "comment": "vertical"},
+	{"text": "食閏", "bbox": [374, 415, 420, 495], "size": "29", "type": "text", "comment": "vertical"},
+	{"text": "切", "bbox": [310, 417, 357, 453], "size": "28", "type": "text", "comment": "vertical"},
+	{"text": "𦯑", "bbox": [173, 29, 292, 150], "size": "111", "type": "text", "comment": "vertical"},
+	{"text": "盾也从盾犮", "bbox": [237, 160, 292, 363], "size": "35", "type": "text", "comment": "vertical"},
+	{"text": "聲扶發切", "bbox": [176, 160, 232, 322], "size": "36", "type": "text", "comment": "vertical"},
+	{"text": "𧱾", "bbox": [179, 375, 294, 489], "size": "111", "type": "text", "comment": "vertical"},
+	{"text": "盾握也从盾", "bbox": [237, 508, 292, 710], "size": "35", "type": "text", "comment": "vertical"},
+	{"text": "圭聲苦圭切", "bbox": [176, 508, 232, 710], "size": "36", "type": "text", "comment": "vertical"},
+	{"text": "文三", "bbox": [189, 787, 283, 911], "size": "64", "type": "text", "comment": "vertical"},
+	{"text": "自", "bbox": [56, 27, 149, 142], "size": "111", "type": "text", "comment": "vertical"},
+	{"text": "鼻也象鼻形凡自之屬皆从自", "bbox": [56, 155, 149, 896], "size": "57", "type": "text", "comment": "vertical"},
+	{"text": "疾二", "bbox": [111, 903, 164, 976], "size": "29", "type": "text", "comment": "vertical"},
+	{"text": "切", "bbox": [44, 903, 97, 941], "size": "28", "type": "text", "comment": "vertical"},
+	{"text": "楊永", "bbox": [961, 911, 987, 970], "size": "16", "type": "text", "comment": "vertical"}
+]
+```
