@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "睦", "bbox": [846, 19, 960, 142], "size": "46.315", "type": "Chinese", "comment": ""},
+	{"text": "目童子也从目牟聲", "bbox": [911, 156, 969, 502], "size": "33.548", "type": "Chinese", "comment": ""},
+	{"text": "說文直作牟莫浮切", "bbox": [843, 155, 903, 502], "size": "33.822", "type": "Chinese", "comment": ""},
+	{"text": "睢", "bbox": [850, 515, 970, 636], "size": "46.315", "type": "Chinese", "comment": ""},
+	{"text": "目際也从目", "bbox": [911, 651, 969, 861], "size": "33.548", "type": "Chinese", "comment": ""},
+	{"text": "夬五隘切", "bbox": [849, 650, 908, 821], "size": "33.822", "type": "Chinese", "comment": ""},
+	{"text": "文六", "bbox": [726, 213, 815, 337], "size": "45.997", "type": "Chinese", "comment": ""},
+	{"text": "新附", "bbox": [773, 351, 828, 425], "size": "34.119", "type": "Chinese", "comment": ""},
+	{"text": "眀", "bbox": [582, 30, 688, 120], "size": "45.547", "type": "Chinese", "comment": ""},
+	{"text": "左右視也从二目凡眀之屬皆从眀", "bbox": [589, 132, 689, 981], "size": "42.338", "type": "Chinese", "comment": ""},
+	{"text": "讀若拘又若良士瞿瞿", "bbox": [458, 129, 552, 713], "size": "42.338", "type": "Chinese", "comment": ""},
+	{"text": "九遇", "bbox": [509, 726, 564, 802], "size": "34.119", "type": "Chinese", "comment": ""},
+	{"text": "切", "bbox": [454, 726, 495, 755], "size": "34.119", "type": "Chinese", "comment": ""},
+	{"text": "𥄑", "bbox": [320, 33, 422, 135], "size": "45.547", "type": "Chinese", "comment": ""},
+	{"text": "目圍也从眀冖讀若書卷之", "bbox": [381, 160, 436, 628], "size": "33.822", "type": "Chinese", "comment": ""},
+	{"text": "卷古文以爲醜字居倦切", "bbox": [316, 159, 376, 595], "size": "33.822", "type": "Chinese", "comment": ""},
+	{"text": "𥄟", "bbox": [314, 635, 433, 760], "size": "45.547", "type": "Chinese", "comment": ""},
+	{"text": "目衰也从眀", "bbox": [381, 773, 436, 984], "size": "33.822", "type": "Chinese", "comment": ""},
+	{"text": "从大大人也", "bbox": [315, 772, 374, 990], "size": "33.822", "type": "Chinese", "comment": ""},
+	{"text": "舉朱", "bbox": [238, 32, 297, 123], "size": "33.822", "type": "Chinese", "comment": ""},
+	{"text": "切", "bbox": [179, 33, 228, 76], "size": "33.822", "type": "Chinese", "comment": ""},
+	{"text": "文三", "bbox": [196, 361, 286, 484], "size": "45.997", "type": "Chinese", "comment": ""},
+	{"text": "眉", "bbox": [58, 36, 145, 164], "size": "46.315", "type": "Chinese", "comment": ""},
+	{"text": "目上毛也从目象眉之形上象", "bbox": [57, 201, 152, 994], "size": "42.338", "type": "Chinese", "comment": ""},
+	{"text": "六十二", "bbox": [7, 30, 25, 87], "size": "11.134", "type": "Chinese", "comment": ""},
+	{"text": "張信", "bbox": [14, 930, 35, 980], "size": "11.134", "type": "Chinese", "comment": ""}
+]
+```
