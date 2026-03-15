@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "之屬皆从用", "bbox": [838, 161, 948, 477], "size": "34.67", "type": "Heading", "comment": "之頭部的「丶」為短豎"},
+	{"text": "臣鉉等曰卜中乃可用也余訟切", "bbox": [832, 483, 953, 780], "size": "20.0", "type": "Description", "comment": "鉉為草書書法"},
+	{"text": "古文", "bbox": [772, 164, 817, 238], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "用", "bbox": [712, 164, 756, 212], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "男子美稱也从用", "bbox": [767, 392, 817, 690], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "父父亦聲方矩切", "bbox": [700, 392, 759, 690], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "用也从", "bbox": [767, 842, 819, 974], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "用从庚", "bbox": [702, 842, 754, 974], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "庚更事也易曰先", "bbox": [630, 23, 687, 322], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "庚三日余封切", "bbox": [569, 23, 625, 283], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "具也从用苟省臣鉉等曰", "bbox": [625, 477, 686, 897], "size": "20.0", "type": "Description", "comment": "鉉為草書書法"},
+	{"text": "苟急榖也會意平祕切", "bbox": [566, 477, 627, 860], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "所願也从用寧", "bbox": [501, 164, 554, 415], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "省聲乃定切", "bbox": [440, 164, 489, 376], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "文五", "bbox": [448, 535, 531, 666], "size": "34.67", "type": "Heading", "comment": ""},
+	{"text": "重一", "bbox": [448, 779, 535, 891], "size": "34.67", "type": "Heading", "comment": ""},
+	{"text": "交也象易六爻頭交也凡交之", "bbox": [313, 178, 414, 968], "size": "34.67", "type": "Heading", "comment": ""},
+	{"text": "屬皆从爻", "bbox": [181, 181, 280, 480], "size": "34.67", "type": "Heading", "comment": ""},
+	{"text": "胡茅", "bbox": [237, 485, 289, 524], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "切", "bbox": [178, 485, 228, 524], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "藩也从爻从林詩曰營", "bbox": [108, 158, 160, 563], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "營青蠅止于棥附袁切", "bbox": [41, 158, 97, 560], "size": "20.0", "type": "Description", "comment": ""},
+	{"text": "文二", "bbox": [47, 671, 152, 802], "size": "34.67", "type": "Heading", "comment": ""}
+]
+```
