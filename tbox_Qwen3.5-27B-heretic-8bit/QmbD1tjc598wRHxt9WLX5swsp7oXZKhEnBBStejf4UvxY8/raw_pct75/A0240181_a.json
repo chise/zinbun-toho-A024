@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "小六", "bbox": [914, 35, 940, 84], "size": "10", "type": "heading", "comment": "page number"},
+	{"text": "言文正一", "bbox": [921, 261, 952, 377], "size": "10", "type": "heading", "comment": "text in the right margin"}
+]
+```
