@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "說文解字第五", "bbox": [867, 7, 977, 389], "size": "41.97", "type": "classical", "comment": ""},
+	{"text": "下", "bbox": [920, 399, 960, 432], "size": "12.92", "type": "classical", "comment": ""},
+	{"text": "漢太尉祭酒許慎記", "bbox": [870, 485, 983, 964], "size": "50.35", "type": "classical", "comment": ""},
+	{"text": "銀靑光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [747, 51, 829, 996], "size": "34.26", "type": "classical", "comment": ""},
+	{"text": "敕校定", "bbox": [615, 50, 680, 144], "size": "28.65", "type": "classical", "comment": ""},
+	{"text": "丹", "bbox": [470, 10, 570, 156], "size": "103.76", "type": "classical", "comment": ""},
+	{"text": "巴越之赤石也象采丹井、象丹", "bbox": [467, 168, 570, 992], "size": "62.91", "type": "classical", "comment": ""},
+	{"text": "形凡丹之屬皆从丹", "bbox": [330, 157, 437, 674], "size": "70.93", "type": "classical", "comment": ""},
+	{"text": "都寒", "bbox": [382, 680, 442, 764], "size": "31.36", "type": "classical", "comment": ""},
+	{"text": "切", "bbox": [328, 691, 380, 728], "size": "21.19", "type": "classical", "comment": ""},
+	{"text": "古文", "bbox": [247, 146, 300, 234], "size": "24.65", "type": "classical", "comment": ""},
+	{"text": "丹", "bbox": [190, 149, 242, 195], "size": "31.36", "type": "classical", "comment": ""},
+	{"text": "亦古", "bbox": [247, 358, 300, 447], "size": "24.65", "type": "classical", "comment": ""},
+	{"text": "文丹", "bbox": [190, 365, 242, 453], "size": "27.84", "type": "classical", "comment": ""},
+	{"text": "善丹也从丹獲聲周", "bbox": [247, 615, 312, 993], "size": "31.6", "type": "classical", "comment": ""},
+	{"text": "書曰惟其廟丹臒讀", "bbox": [190, 617, 247, 992], "size": "33.59", "type": "classical", "comment": ""},
+	{"text": "若雿鳥", "bbox": [112, 17, 172, 152], "size": "39.17", "type": "classical", "comment": ""},
+	{"text": "郭切", "bbox": [50, 16, 105, 96], "size": "31.36", "type": "classical", "comment": ""},
+	{"text": "丹飾也从丹从彡", "bbox": [115, 303, 177, 617], "size": "42.99", "type": "classical", "comment": ""},
+	{"text": "彡其畫也徒冬切", "bbox": [50, 312, 102, 617], "size": "34.26", "type": "classical", "comment": ""},
+	{"text": "文三", "bbox": [67, 668, 160, 814], "size": "65.4", "type": "classical", "comment": ""},
+	{"text": "重二", "bbox": [70, 840, 160, 978], "size": "65.4", "type": "classical", "comment": ""},
+	{"text": "大九", "bbox": [2, 30, 35, 91], "size": "19.39", "type": "classical", "comment": ""},
+	{"text": "說文五下", "bbox": [0, 290, 27, 378], "size": "20.15", "type": "classical", "comment": ""},
+	{"text": "陳玉", "bbox": [12, 898, 42, 978], "size": "17.4", "type": "classical", "comment": ""}
+]
+```
