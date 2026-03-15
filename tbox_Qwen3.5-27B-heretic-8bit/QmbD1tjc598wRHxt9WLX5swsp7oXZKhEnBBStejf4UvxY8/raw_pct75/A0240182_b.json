@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "深池也从井瑩", "bbox": [904, 168, 961, 421], "size": "124", "type": "text", "comment": ""},
+	{"text": "省聲烏迥切", "bbox": [840, 168, 896, 389], "size": "116", "type": "text", "comment": ""},
+	{"text": "阱或", "bbox": [776, 23, 824, 111], "size": "63", "type": "text", "comment": ""},
+	{"text": "古文阱", "bbox": [776, 309, 824, 373], "size": "63", "type": "text", "comment": ""},
+	{"text": "从穴", "bbox": [710, 23, 759, 95], "size": "63", "type": "text", "comment": ""},
+	{"text": "从水", "bbox": [710, 309, 759, 389], "size": "63", "type": "text", "comment": ""},
+	{"text": "陷也从自从井", "bbox": [904, 578, 961, 830], "size": "124", "type": "text", "comment": ""},
+	{"text": "井亦聲疾正切", "bbox": [840, 578, 896, 825], "size": "116", "type": "text", "comment": ""},
+	{"text": "罰辠也从井从刀易曰", "bbox": [776, 548, 824, 853], "size": "63", "type": "text", "comment": ""},
+	{"text": "井法也井亦聲户經切", "bbox": [710, 532, 759, 925], "size": "63", "type": "text", "comment": ""},
+	{"text": "造法剏業也从井刂", "bbox": [643, 168, 690, 515], "size": "63", "type": "text", "comment": ""},
+	{"text": "聲讀若創初亮切", "bbox": [580, 168, 627, 456], "size": "63", "type": "text", "comment": ""},
+	{"text": "文五", "bbox": [595, 578, 684, 699], "size": "124", "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [604, 801, 684, 925], "size": "124", "type": "text", "comment": ""},
+	{"text": "𣪢之聲香也象嘉榖在裹中之形", "bbox": [459, 168, 555, 980], "size": "152", "type": "text", "comment": ""},
+	{"text": "匕所以扱之或說皀一粒也凡皀", "bbox": [326, 168, 421, 980], "size": "124", "type": "text", "comment": ""},
+	{"text": "之屬皆从皀又讀若香", "bbox": [194, 168, 289, 751], "size": "124", "type": "text", "comment": ""},
+	{"text": "皮及", "bbox": [241, 751, 289, 847], "size": "63", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [194, 767, 223, 801], "size": "32", "type": "text", "comment": ""},
+	{"text": "即食也从皀卪聲徐", "bbox": [111, 168, 168, 515], "size": "63", "type": "text", "comment": ""},
+	{"text": "鍇曰即就也子力切", "bbox": [45, 168, 101, 502], "size": "63", "type": "text", "comment": ""},
+	{"text": "小食也从皀旡聲", "bbox": [111, 681, 168, 980], "size": "63", "type": "text", "comment": ""},
+	{"text": "論語曰不使勝食", "bbox": [45, 681, 101, 980], "size": "63", "type": "text", "comment": ""},
+	{"text": "大十三", "bbox": [6, 39, 26, 111], "size": "32", "type": "text", "comment": ""},
+	{"text": "二", "bbox": [3, 706, 26, 736], "size": "32", "type": "text", "comment": ""},
+	{"text": "陳玉", "bbox": [13, 909, 38, 974], "size": "32", "type": "text", "comment": ""}
+]
+```
