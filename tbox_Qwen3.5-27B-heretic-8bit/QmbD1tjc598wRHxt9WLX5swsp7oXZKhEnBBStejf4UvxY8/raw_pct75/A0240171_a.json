@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小言○三", "bbox": [918, 35, 942, 113], "size": "7.62", "type": "text", "comment": ""},
+	{"text": "往也讀若仍臣鉉等曰", "bbox": [850, 30, 910, 418], "size": "29.32", "type": "text", "comment": ""},
+	{"text": "古", "bbox": [855, 573, 880, 611], "size": "13.77", "type": "text", "comment": ""},
+	{"text": "文", "bbox": [859, 612, 883, 651], "size": "14.58", "type": "text", "comment": ""},
+	{"text": "氣行兒从", "bbox": [845, 784, 900, 920], "size": "30.53", "type": "text", "comment": ""},
+	{"text": "昌", "bbox": [857, 921, 882, 955], "size": "9.8", "type": "text", "comment": ""},
+	{"text": "卤非聲未詳如乗切", "bbox": [791, 30, 847, 382], "size": "29.58", "type": "text", "comment": ""},
+	{"text": "𠄥", "bbox": [797, 570, 842, 612], "size": "19.55", "type": "text", "comment": ""},
+	{"text": "乃卤聲讀", "bbox": [787, 784, 840, 965], "size": "29.67", "type": "text", "comment": ""},
+	{"text": "若攸以", "bbox": [728, 35, 779, 152], "size": "29.48", "type": "text", "comment": ""},
+	{"text": "周切", "bbox": [665, 35, 717, 120], "size": "29.47", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [677, 391, 766, 523], "size": "79.33", "type": "heading", "comment": ""},
+	{"text": "重三", "bbox": [677, 633, 766, 765], "size": "79.33", "type": "heading", "comment": ""},
+	{"text": "气欲舒出彳上礙於一也𠄎古文", "bbox": [545, 167, 644, 965], "size": "44.66", "type": "text", "comment": ""},
+	{"text": "以爲𠄎字又以爲巧字凡𠄎之屬", "bbox": [423, 174, 514, 965], "size": "44.56", "type": "text", "comment": ""},
+	{"text": "皆从𠄎", "bbox": [305, 157, 393, 346], "size": "44.66", "type": "text", "comment": ""},
+	{"text": "苦", "bbox": [351, 354, 375, 390], "size": "14.33", "type": "text", "comment": ""},
+	{"text": "浩", "bbox": [348, 391, 372, 440], "size": "24.13", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [302, 354, 326, 390], "size": "14.33", "type": "text", "comment": ""},
+	{"text": "亟詞也从𠄎从由或曰㢲俠也三輔謂輕財者", "bbox": [225, 167, 280, 928], "size": "29.48", "type": "text", "comment": ""},
+	{"text": "爲㢲臣鉉等曰由用也任俠用气也普丁切", "bbox": [163, 167, 218, 880], "size": "29.48", "type": "text", "comment": ""},
+	{"text": "願詞也从𠄎", "bbox": [103, 167, 156, 379], "size": "29.48", "type": "text", "comment": ""},
+	{"text": "反𠄎也讀若", "bbox": [99, 518, 152, 727], "size": "29.48", "type": "text", "comment": ""},
+	{"text": "𠄥聲奴丁切", "bbox": [43, 167, 96, 381], "size": "29.48", "type": "text", "comment": ""},
+	{"text": "呵虎何切", "bbox": [41, 518, 94, 680], "size": "29.48", "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [51, 780, 139, 902], "size": "79.33", "type": "heading", "comment": ""},
+	{"text": "言文五十一", "bbox": [920, 256, 950, 381], "size": "22.16", "type": "text", "comment": ""},
+	{"text": "宏昌", "bbox": [909, 890, 934, 954], "size": "12.38", "type": "text", "comment": ""}
+]
+```
