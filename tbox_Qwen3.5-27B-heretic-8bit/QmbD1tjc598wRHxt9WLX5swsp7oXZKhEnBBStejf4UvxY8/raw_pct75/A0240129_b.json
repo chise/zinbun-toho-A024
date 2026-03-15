@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "彼利", "bbox": [916, 155, 983, 224], "size": "55", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [863, 156, 916, 184], "size": "30", "type": "text", "comment": ""},
+	{"text": "盛也从大从㱃㱃亦聲此燕召公名讀若郝史篇", "bbox": [788, 155, 856, 984], "size": "35", "type": "text", "comment": ""},
+	{"text": "名醜徐鍇曰史篇謂所作倉頡十五篇也詩亦切", "bbox": [726, 156, 790, 984], "size": "35", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [659, 156, 711, 235], "size": "35", "type": "text", "comment": ""},
+	{"text": "奭", "bbox": [599, 156, 652, 198], "size": "35", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [614, 433, 704, 546], "size": "60", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [614, 748, 704, 860], "size": "60", "type": "text", "comment": ""},
+	{"text": "數飛也从羽从白凡習之屬皆从", "bbox": [473, 154, 571, 984], "size": "55", "type": "text", "comment": ""},
+	{"text": "似入", "bbox": [379, 230, 441, 305], "size": "35", "type": "text", "comment": ""},
+	{"text": "習", "bbox": [333, 155, 410, 215], "size": "55", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [324, 230, 374, 261], "size": "30", "type": "text", "comment": ""},
+	{"text": "習獸也从習兀聲春秋傳", "bbox": [250, 155, 312, 589], "size": "35", "type": "text", "comment": ""},
+	{"text": "曰翫歲而愒日五換切", "bbox": [188, 156, 249, 540], "size": "35", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [206, 714, 292, 827], "size": "60", "type": "text", "comment": ""},
+	{"text": "鳥長毛也象形凡羽之屬皆从羽", "bbox": [60, 155, 162, 984], "size": "55", "type": "text", "comment": ""},
+	{"text": "六十九", "bbox": [10, 27, 27, 81], "size": "10", "type": "text", "comment": ""},
+	{"text": "沈錫", "bbox": [17, 926, 41, 983], "size": "15", "type": "text", "comment": ""}
+]
+```
