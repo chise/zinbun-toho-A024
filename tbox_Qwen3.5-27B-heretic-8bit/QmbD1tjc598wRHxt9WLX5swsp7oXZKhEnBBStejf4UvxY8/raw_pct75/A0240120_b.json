@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "「", "bbox": [87, 23, 106, 31], "size": "19", "type": "symbol", "comment": ""},
+	{"text": "」", "bbox": [85, 23, 106, 31], "size": "21", "type": "symbol", "comment": ""}
+]
+```
