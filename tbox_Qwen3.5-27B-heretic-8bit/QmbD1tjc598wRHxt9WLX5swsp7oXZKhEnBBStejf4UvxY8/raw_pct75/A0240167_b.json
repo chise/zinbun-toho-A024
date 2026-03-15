@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "公及士所搢也从竹勿聲案籀文作曱象形", "bbox": [855, 169, 981, 923], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '公及士所搢也' is followed by '从竹勿聲案籀文作曱象形'. The OCR result combines these into one line."},
+	{"text": "義云佩也古笏佩之此字後人所加呼骨切", "bbox": [855, 169, 981, 923], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '義云佩也古笏佩之此字後人所加呼骨切' is followed by '从竹勿聲案籀文作曱象形'. The OCR result combines these into one line."},
+	{"text": "導也今俗謂之篦所以進船也从", "bbox": [717, 169, 843, 923], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '導也今俗謂之篦所以進船也从' is followed by '从竹毘聲邊兮切'. The OCR result combines these into one line."},
+	{"text": "从竹毘聲邊兮切", "bbox": [717, 169, 843, 923], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '導也今俗謂之篦所以進船也从' is followed by '从竹毘聲邊兮切'. The OCR result combines these into one line."},
+	{"text": "竹高聲古牢切", "bbox": [717, 169, 843, 923], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '竹高聲古牢切' is followed by '从竹毘聲邊兮切'. The OCR result combines these into one line."},
+	{"text": "文五", "bbox": [602, 206, 680, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '文五' is followed by '新附'. The OCR result combines these into one line."},
+	{"text": "新附", "bbox": [602, 206, 680, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '文五' is followed by '新附'. The OCR result combines these into one line."},
+	{"text": "箙也从竹甘象形下其斤也凡", "bbox": [462, 206, 572, 923], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '箙也从竹甘象形下其斤也凡' is followed by '箙之屬皆从箙'. The OCR result combines these into one line."},
+	{"text": "箙之屬皆从箙", "bbox": [322, 206, 432, 583], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '箙之屬皆从箙' is followed by '居之切'. The OCR result combines these into one line."},
+	{"text": "居之", "bbox": [322, 206, 432, 583], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '箙之屬皆从箙' is followed by '居之切'. The OCR result combines these into one line."},
+	{"text": "切", "bbox": [322, 206, 432, 583], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '箙之屬皆从箙' is followed by '居之切'. The OCR result combines these into one line."},
+	{"text": "古文", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '古文' is followed by '箙省'. The OCR result combines these into one line."},
+	{"text": "箙省", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '古文' is followed by '箙省'. The OCR result combines these into one line."},
+	{"text": "亦古", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '亦古' is followed by '文箙'. The OCR result combines these into one line."},
+	{"text": "文箙", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '亦古' is followed by '文箙'. The OCR result combines these into one line."},
+	{"text": "亦古", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '亦古' is followed by '文箙'. The OCR result combines these into one line."},
+	{"text": "文箙", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '亦古' is followed by '文箙'. The OCR result combines these into one line."},
+	{"text": "籀文", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '籀文' is followed by '箙'. The OCR result combines these into one line."},
+	{"text": "箙", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '籀文' is followed by '箙'. The OCR result combines these into one line."},
+	{"text": "籀文", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '籀文' is followed by '箙'. The OCR result combines these into one line."},
+	{"text": "箙", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '籀文' is followed by '箙'. The OCR result combines these into one line."},
+	{"text": "揚米去糠也从", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '揚米去糠也从' is followed by '箙皮聲布火切'. The OCR result combines these into one line."},
+	{"text": "箙皮聲布火切", "bbox": [184, 169, 300, 347], "size": "40.0", "type": "main_text", "comment": "Note that the original text is a bit unclear, and '揚米去糠也从' is followed by '箙皮聲布火切'. The OCR result combines these into one line."},
+	{"text": "大十七", "bbox": [11, 24, 43, 78], "size": "20.0", "type": "page_number", "comment": "Note that the original text is a bit unclear, and '大十七' is followed by '说文解字'. The OCR result combines these into one line."},
+	{"text": "说文解字", "bbox": [11, 24, 43, 78], "size": "20.0", "type": "page_number", "comment": "Note that the original text is a bit unclear, and '大十七' is followed by '说文解字'. The OCR result combines these into one line."},
+	{"text": "唐文", "bbox": [11, 24, 43, 78], "size": "20.0", "type": "page_number", "comment": "Note that the original text is a bit unclear, and '唐文' is followed by '说文解字'. The OCR result combines these into one line."}
+]
+```
