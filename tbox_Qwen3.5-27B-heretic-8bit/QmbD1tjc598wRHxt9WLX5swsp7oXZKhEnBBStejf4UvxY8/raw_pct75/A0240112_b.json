@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "文二十", "bbox": [867, 299, 966, 498], "size": "大", "type": "title", "comment": ""},
+	{"text": "重一", "bbox": [858, 569, 956, 700], "size": "大", "type": "title", "comment": ""},
+	{"text": "殺戮也从殳杀聲凡殺之屬皆从殺", "bbox": [721, 31, 830, 977], "size": "大", "type": "body", "comment": ""},
+	{"text": "臣鉉等曰説文無杀字相傳", "bbox": [642, 176, 707, 645], "size": "中", "type": "body", "comment": ""},
+	{"text": "云音察未知所出所八切", "bbox": [585, 176, 642, 599], "size": "中", "type": "body", "comment": ""},
+	{"text": "古文", "bbox": [518, 155, 572, 430], "size": "中", "type": "body", "comment": ""},
+	{"text": "殺", "bbox": [456, 155, 515, 187], "size": "小", "type": "body", "comment": ""},
+	{"text": "古文", "bbox": [517, 552, 572, 620], "size": "中", "type": "body", "comment": ""},
+	{"text": "殺", "bbox": [455, 552, 515, 585], "size": "小", "type": "body", "comment": ""},
+	{"text": "臣殺君也", "bbox": [515, 761, 571, 940], "size": "中", "type": "body", "comment": ""},
+	{"text": "易曰臣弑", "bbox": [455, 761, 512, 940], "size": "中", "type": "body", "comment": ""},
+	{"text": "其君从殺省", "bbox": [381, 25, 439, 247], "size": "中", "type": "body", "comment": ""},
+	{"text": "弑聲弑吏切", "bbox": [321, 25, 376, 247], "size": "中", "type": "body", "comment": ""},
+	{"text": "文二", "bbox": [334, 403, 421, 500], "size": "大", "type": "title", "comment": ""},
+	{"text": "重三", "bbox": [323, 685, 417, 775], "size": "大", "type": "title", "comment": ""},
+	{"text": "鳥之短羽飛几几也象形凡几之", "bbox": [185, 150, 283, 977], "size": "大", "type": "body", "comment": ""},
+	{"text": "屬皆从几讀若殊", "bbox": [50, 150, 158, 620], "size": "大", "type": "body", "comment": ""},
+	{"text": "市朱", "bbox": [108, 595, 154, 670], "size": "小", "type": "body", "comment": ""},
+	{"text": "切", "bbox": [50, 595, 102, 625], "size": "小", "type": "body", "comment": ""},
+	{"text": "六十五", "bbox": [7, 25, 38, 90], "size": "小", "type": "title", "comment": ""},
+	{"text": "陳五", "bbox": [5, 892, 32, 950], "size": "小", "type": "title", "comment": ""}
+]
+```
