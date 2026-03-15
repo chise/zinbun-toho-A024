@@ -1,0 +1,30 @@
+```json
+[
+	{"bbox_2d": [952, 36, 973, 109], "text": "小三百八十九", "size": "small", "type": "normal text", "comment": ""},
+	{"bbox_2d": [946, 911, 972, 975], "text": "嚴華", "size": "small", "type": "normal text", "comment": ""},
+	{"bbox_2d": [887, 34, 939, 589], "text": "會鳥白肥澤皃从羽高聲", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [883, 622, 934, 970], "text": "樂舞以羽翟自", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [827, 35, 878, 971], "text": "切詩云白鳥翯翯胡角切翿其首以祀星", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [751, 36, 804, 160], "text": "辰也从羽王聲", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [750, 431, 804, 846], "text": "樂舞執全羽以祀社稷也", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [695, 34, 746, 274], "text": "讀若皇胡光切", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [692, 431, 745, 844], "text": "从羽㱿聲讀若絿分勿切", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [628, 34, 680, 428], "text": "翳也所以舞也从羽毄", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [623, 550, 674, 971], "text": "華蓋也从羽棺羽", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [564, 34, 614, 414], "text": "聲詩曰左執翿徒到切", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [560, 551, 610, 973], "text": "毄聲於計切翿也", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [494, 34, 543, 446], "text": "天子八諸侯六大夫四士", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [431, 34, 479, 446], "text": "二下垂从羽妾聲山洽切", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [315, 273, 392, 497], "text": "文三十四", "size": "large", "type": "heading", "comment": ""},
+	{"bbox_2d": [314, 628, 391, 734], "text": "重一", "size": "large", "type": "heading", "comment": ""},
+	{"bbox_2d": [233, 162, 284, 650], "text": "飛也从羽番聲羽也从羽令", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [232, 897, 283, 971], "text": "飛聲", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [170, 158, 222, 408], "text": "或从飛孚袁切", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [167, 543, 219, 714], "text": "聲郎丁切", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [166, 896, 217, 972], "text": "从羽", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [108, 38, 148, 164], "text": "工聲戶", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [51, 34, 90, 109], "text": "公切", "size": "medium", "type": "normal text", "comment": ""},
+	{"bbox_2d": [53, 351, 145, 471], "text": "文三", "size": "large", "type": "heading", "comment": ""},
+	{"bbox_2d": [96, 502, 145, 578], "text": "新附", "size": "medium", "type": "normal text", "comment": ""}
+]
+```
