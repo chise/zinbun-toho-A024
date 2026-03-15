@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "小二百○八", "bbox": [963, 27, 984, 130], "size": "19.95", "type": "text", "comment": "Small text in the top right corner."},
+	{"text": "言文", "bbox": [969, 244, 999, 331], "size": "15.73", "type": "text", "comment": "Text in the top right corner, partially cut off."},
+	{"text": "一", "bbox": [996, 619, 1012, 636], "size": "10.15", "type": "text", "comment": "A single character on the right side."},
+	{"text": "穆春", "bbox": [967, 903, 991, 982], "size": "13.54", "type": "text", "comment": "Text at the bottom right."},
+	{"text": "青東方色也木生火从生丹丹青之", "bbox": [843, 6, 947, 974], "size": "54.95", "type": "text", "comment": "Large vertical text column on the right side."},
+	{"text": "信言必然凡青之屬皆从青", "bbox": [713, 143, 807, 854], "size": "45.71", "type": "text", "comment": "Vertical text column in the middle."},
+	{"text": "倉經", "bbox": [763, 851, 808, 931], "size": "24.88", "type": "text", "comment": "Small text below the middle vertical column."},
+	{"text": "切", "bbox": [707, 855, 751, 896], "size": "24.88", "type": "text", "comment": "Single character below the middle vertical column."},
+	{"text": "古", "bbox": [632, 147, 658, 179], "size": "19.25", "type": "text", "comment": "Small character at the top of the second column from the left."},
+	{"text": "文", "bbox": [630, 181, 657, 213], "size": "19.25", "type": "text", "comment": "Small character below the previous one."},
+	{"text": "青", "bbox": [569, 147, 612, 197], "size": "34.42", "type": "text", "comment": "Large character in the second column from the left."},
+	{"text": "審也从青爭聲徐鍇曰", "bbox": [624, 378, 681, 757], "size": "34.42", "type": "text", "comment": "Vertical text column in the middle-left."},
+	{"text": "丹青明審也疾郢切", "bbox": [567, 378, 611, 728], "size": "34.42", "type": "text", "comment": "Vertical text column in the middle-left."},
+	{"text": "文二", "bbox": [438, 256, 526, 376], "size": "56.65", "type": "text", "comment": "Large text in the center."},
+	{"text": "重一", "bbox": [438, 522, 526, 636], "size": "56.65", "type": "text", "comment": "Large text below the previous one."},
+	{"text": "八家一井象構韓形．讙之象也", "bbox": [299, 140, 402, 974], "size": "57.44", "type": "text", "comment": "Large vertical text column on the left side."},
+	{"text": "古者伯益初作井凡井之屬皆从", "bbox": [166, 140, 260, 974], "size": "57.44", "type": "text", "comment": "Large vertical text column on the far left."},
+	{"text": "井", "bbox": [34, 142, 106, 221], "size": "57.44", "type": "text", "comment": "Large character at the bottom left."},
+	{"text": "子郢", "bbox": [86, 240, 134, 316], "size": "24.14", "type": "text", "comment": "Small text at the bottom left."},
+	{"text": "切", "bbox": [24, 240, 74, 271], "size": "24.14", "type": "text", "comment": "Small text at the bottom left."}
+]
+```
