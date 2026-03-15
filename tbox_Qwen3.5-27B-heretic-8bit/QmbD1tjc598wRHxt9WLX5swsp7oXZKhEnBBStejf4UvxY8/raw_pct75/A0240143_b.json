@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "説文解字第四下", "bbox": [854, 15, 963, 423], "size": "39.76", "type": "heading", "comment": ""},
+	{"text": "漢太尉祭酒許慎記", "bbox": [856, 491, 970, 972], "size": "41.57", "type": "heading", "comment": ""},
+	{"text": "銀青光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百戶徐鎡奉", "bbox": [741, 55, 806, 997], "size": "28.35", "type": "heading", "comment": ""},
+	{"text": "敕校定", "bbox": [606, 51, 669, 150], "size": "26.86", "type": "heading", "comment": ""},
+	{"text": "華筥屬所以推棄之器也象形凡華", "bbox": [448, 20, 557, 990], "size": "44.89", "type": "text", "comment": ""},
+	{"text": "之屬皆從華官溥說", "bbox": [320, 156, 421, 672], "size": "40.13", "type": "text", "comment": ""},
+	{"text": "北潘", "bbox": [379, 686, 430, 773], "size": "22.85", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [318, 688, 357, 727], "size": "18.47", "type": "text", "comment": ""},
+	{"text": "田罔也从華象畢形微也或曰", "bbox": [245, 173, 298, 681], "size": "25.83", "type": "text", "comment": ""},
+	{"text": "田聲臣鉉等曰田音弗甲吉切", "bbox": [182, 170, 236, 685], "size": "24.59", "type": "text", "comment": ""},
+	{"text": "棄除也从", "bbox": [244, 837, 298, 995], "size": "25.48", "type": "text", "comment": ""},
+	{"text": "卂推華棄", "bbox": [184, 839, 236, 995], "size": "25.13", "type": "text", "comment": ""},
+	{"text": "采也官溥說似米而", "bbox": [110, 23, 167, 377], "size": "26.89", "type": "text", "comment": ""},
+	{"text": "揫也从卂推華棄之从云云", "bbox": [111, 550, 167, 993], "size": "26.03", "type": "text", "comment": ""},
+	{"text": "非米者矢字方問切", "bbox": [47, 22, 99, 377], "size": "26.69", "type": "text", "comment": ""},
+	{"text": "逆子也臣鉉等曰云他忽切", "bbox": [47, 550, 101, 997], "size": "25.94", "type": "text", "comment": ""},
+	{"text": "大十一", "bbox": [8, 17, 30, 70], "size": "10.61", "type": "text", "comment": ""},
+	{"text": "説文四下", "bbox": [0, 257, 21, 393], "size": "11.02", "type": "text", "comment": ""},
+	{"text": "陳廣", "bbox": [13, 922, 35, 986], "size": "10.36", "type": "text", "comment": ""}
+]
+```
