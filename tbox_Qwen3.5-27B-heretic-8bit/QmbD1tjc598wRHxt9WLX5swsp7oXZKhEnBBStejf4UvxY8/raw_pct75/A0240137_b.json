@@ -1,0 +1,28 @@
+```json
+[
+	{"bbox_2d": [874, 148, 971, 730], "text_content": "从匕凡鳥之屬皆从鳥", "font_size": "46", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [915, 745, 976, 775], "text_content": "都", "font_size": "20", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [934, 777, 950, 793], "text_content": "˙", "font_size": "11", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [857, 745, 911, 775], "text_content": "切", "font_size": "20", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [781, 158, 839, 986], "text_content": "神鳥也天老曰鳳之象也鴻前麐後蛇頸魚尾鸛", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [719, 158, 777, 986], "text_content": "顙鴛思龍文龜背燕頷雞喙五色備舉出於東方", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [651, 31, 708, 861], "text_content": "君子之國翱翔四海之外過崐崘飲砥柱濯羽弱", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [584, 31, 643, 861], "text_content": "水莫宿風穴見則天下大安寧从鳥凡聲馮貢切", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [516, 25, 572, 681], "text_content": "古文鳳象形鳳飛羣鳥從", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [514, 695, 570, 986], "text_content": "亦古亦神靈", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [453, 25, 509, 434], "text_content": "以萬數故以爲朋黨字", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [452, 607, 509, 986], "text_content": "文鳳之精也", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [386, 25, 441, 730], "text_content": "赤色五采雞形鳴中五音頌聲作則至从", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [321, 21, 375, 703], "text_content": "鳥鸞聲周成王時氏羗獻鸞鳥洛官切", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [376, 795, 434, 986], "text_content": "鸞鶤", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [314, 876, 370, 986], "text_content": "鳳屬", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [249, 21, 305, 832], "text_content": "神鳥也从鳥獄聲春秋國語曰周之興也鸞鶤", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [268, 834, 299, 861], "text_content": "鳴", "font_size": "11", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [249, 834, 269, 852], "text_content": "于", "font_size": "11", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [181, 21, 239, 813], "text_content": "鳴於岐山江中有鸞鶤似鳧而大赤目五角切", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [109, 21, 165, 986], "text_content": "鸞鶤也从鳥鵠鶂也五方神鳥也東方發明南方", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [44, 21, 102, 986], "text_content": "族聲士角切焦明西方鸊鵜北方幽昌中央鳳皇", "font_size": "29", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [11, 17, 33, 82], "text_content": "大二十五", "font_size": "11", "font_type": "standard", "comments": ""},
+	{"bbox_2d": [12, 922, 35, 986], "text_content": "仲奇", "font_size": "11", "font_type": "standard", "comments": ""}
+]
+```
