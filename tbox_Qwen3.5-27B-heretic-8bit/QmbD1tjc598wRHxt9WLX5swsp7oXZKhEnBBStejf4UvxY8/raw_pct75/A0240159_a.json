@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "耒手耕曲木也从木推丰古者垂作", "bbox": [846, 28, 955, 981], "size": "56.56936666666667", "type": "description", "comment": ""},
+	{"text": "耒耜以振民也凡耒之屬皆从耒", "bbox": [711, 159, 821, 977], "size": "49.28306666666667", "type": "description", "comment": ""},
+	{"text": "盧對", "bbox": [637, 157, 689, 256], "size": "24.895", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [569, 161, 624, 206], "size": "24.895", "type": "description", "comment": ""},
+	{"text": "耜", "bbox": [441, 28, 560, 155], "size": "43.86866666666667", "type": "heading", "comment": ""},
+	{"text": "犂也从耒井聲一曰", "bbox": [499, 165, 559, 510], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "古者井田古莖切", "bbox": [441, 165, 493, 439], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "耜", "bbox": [430, 503, 550, 630], "size": "43.86866666666667", "type": "heading", "comment": ""},
+	{"text": "耒廣五寸爲伐二伐", "bbox": [499, 638, 550, 983], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "爲耦从耒禺聲五口", "bbox": [441, 638, 493, 983], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "耤", "bbox": [303, 28, 423, 203], "size": "43.86866666666667", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [363, 28, 414, 73], "size": "24.895", "type": "description", "comment": ""},
+	{"text": "帝耤千畝也古者使民如借", "bbox": [363, 350, 423, 677], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "故謂之耤从耒昔聲秦昔切", "bbox": [303, 208, 355, 677], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "耜", "bbox": [303, 677, 423, 805], "size": "43.86866666666667", "type": "heading", "comment": ""},
+	{"text": "耜义可以", "bbox": [363, 812, 423, 983], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "劃麥河内", "bbox": [303, 812, 355, 983], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "用之从耒圭", "bbox": [245, 28, 297, 223], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "聲古攜切", "bbox": [169, 28, 220, 223], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "耬", "bbox": [169, 237, 289, 365], "size": "43.86866666666667", "type": "heading", "comment": ""},
+	{"text": "除苗間穢也从", "bbox": [245, 372, 297, 645], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "耒員聲羽文切", "bbox": [169, 372, 220, 645], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "耬", "bbox": [169, 645, 289, 773], "size": "43.86866666666667", "type": "heading", "comment": ""},
+	{"text": "賴或", "bbox": [245, 780, 297, 845], "size": "24.895", "type": "description", "comment": ""},
+	{"text": "从芸", "bbox": [169, 780, 220, 845], "size": "24.895", "type": "description", "comment": ""},
+	{"text": "耢", "bbox": [169, 845, 289, 973], "size": "43.86866666666667", "type": "heading", "comment": ""},
+	{"text": "商七十而耡耡耤稅也从耒助", "bbox": [94, 28, 155, 592], "size": "28.037", "type": "description", "comment": ""},
+	{"text": "聲周禮曰以興耡利萌牀倨切", "bbox": [36, 28, 88, 534], "size": "28.037", "type": "description", "comment": ""}
+]
+```
