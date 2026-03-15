@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "室也从𢇍从𠔿窒宀", "bbox": [924, 173, 981, 475], "size": "25", "type": "text", "comment": ""},
+	{"text": "中𢇍猶齊也穌則切", "bbox": [862, 173, 919, 509], "size": "25", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [875, 679, 970, 804], "size": "100", "type": "heading", "comment": ""},
+	{"text": "祝也女能事無形以舞降神者也", "bbox": [738, 154, 836, 983], "size": "50", "type": "text", "comment": ""},
+	{"text": "象人兩袌舞形與工同意古者巫", "bbox": [598, 154, 697, 983], "size": "50", "type": "text", "comment": ""},
+	{"text": "咸初作巫凡巫之屬皆从巫", "bbox": [463, 150, 563, 852], "size": "50", "type": "text", "comment": ""},
+	{"text": "武扶", "bbox": [513, 852, 568, 946], "size": "30", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [454, 859, 503, 904], "size": "30", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [382, 170, 441, 250], "size": "30", "type": "text", "comment": ""},
+	{"text": "巫", "bbox": [328, 170, 377, 209], "size": "30", "type": "text", "comment": ""},
+	{"text": "能齋肅事神明也在男曰覡在女", "bbox": [382, 418, 441, 989], "size": "30", "type": "text", "comment": ""},
+	{"text": "曰巫从巫从見徐鍇曰能見神也", "bbox": [328, 418, 380, 993], "size": "30", "type": "text", "comment": ""},
+	{"text": "胡狄", "bbox": [247, 23, 305, 103], "size": "30", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [184, 23, 236, 63], "size": "30", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [195, 360, 296, 483], "size": "100", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [195, 607, 296, 731], "size": "100", "type": "heading", "comment": ""},
+	{"text": "甘美也从口含一一道也凡甘之屬", "bbox": [59, 23, 159, 983], "size": "50", "type": "text", "comment": ""},
+	{"text": "大十五", "bbox": [6, 20, 33, 87], "size": "15", "type": "text", "comment": ""},
+	{"text": "陳玉", "bbox": [15, 904, 46, 975], "size": "15", "type": "text", "comment": ""}
+]
+```
