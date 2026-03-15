@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小三百○九", "bbox": [953, 22, 971, 118], "size": "small", "type": "text", "comment": "page number"},
+	{"text": "嚴華", "bbox": [947, 911, 970, 974], "size": "small", "type": "text", "comment": "printer name"},
+	{"text": "烏孝鳥也象形孔子曰烏𦔙呼也取", "bbox": [830, 25, 924, 976], "size": "large", "type": "text", "comment": "main text"},
+	{"text": "其助气故以爲烏呼凡烏之屬皆", "bbox": [705, 161, 792, 980], "size": "large", "type": "text", "comment": "main text"},
+	{"text": "从烏", "bbox": [576, 163, 663, 281], "size": "large", "type": "text", "comment": "main text"},
+	{"text": "哀都切臣鉉等曰", "bbox": [620, 308, 673, 608], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "今俗作嗚非是", "bbox": [557, 310, 610, 571], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "古文烏", "bbox": [487, 171, 539, 301], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "象形", "bbox": [431, 172, 483, 248], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "象古文", "bbox": [487, 444, 539, 568], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "烏省", "bbox": [431, 445, 483, 520], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "鵹也象形", "bbox": [487, 718, 539, 841], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "七雀切", "bbox": [431, 720, 483, 844], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "篆文烏", "bbox": [368, 174, 420, 287], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "从隹㕣", "bbox": [305, 163, 357, 287], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "焉鳥黃色出於江淮象形凡字", "bbox": [364, 449, 416, 978], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "朋者羽蟲之長烏者日中之禽", "bbox": [300, 450, 352, 977], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "烏者知太歲之所在燕者請子之候作巢避", "bbox": [235, 27, 287, 782], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "戊巳所賚者故皆象形焉亦是也有乾切", "bbox": [170, 26, 222, 733], "size": "small", "type": "text", "comment": "main text"},
+	{"text": "文三", "bbox": [52, 271, 137, 397], "size": "large", "type": "text", "comment": "main text"},
+	{"text": "重三", "bbox": [51, 521, 137, 647], "size": "large", "type": "text", "comment": "main text"}
+]
+```
