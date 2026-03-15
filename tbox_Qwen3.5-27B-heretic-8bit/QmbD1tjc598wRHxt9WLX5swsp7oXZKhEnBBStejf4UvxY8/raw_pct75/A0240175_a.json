@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小司馬", "bbox": [928, 33, 954, 100], "size": "24.0", "type": "heading", "comment": ""},
+	{"text": "古文", "bbox": [862, 162, 920, 232], "size": "32.0", "type": "heading", "comment": ""},
+	{"text": "豆", "bbox": [814, 164, 856, 200], "size": "32.0", "type": "heading", "comment": ""},
+	{"text": "木豆謂之桓从", "bbox": [864, 336, 920, 608], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "木豆徒候切", "bbox": [811, 365, 859, 576], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "蠡也从豆蒸", "bbox": [864, 752, 920, 910], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "省聲居隱切", "bbox": [814, 781, 856, 988], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "豆屬从豆爇", "bbox": [740, 171, 787, 420], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "聲居倦切", "bbox": [681, 199, 728, 376], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "豆飴也从豆", "bbox": [740, 538, 787, 732], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "妃聲一九切", "bbox": [679, 534, 725, 734], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "禮器", "bbox": [738, 895, 787, 972], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "也从", "bbox": [679, 895, 725, 968], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "升持肉在豆上讀", "bbox": [612, 38, 661, 334], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "若鐙同都縢切", "bbox": [551, 35, 597, 336], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "文六", "bbox": [558, 435, 656, 566], "size": "64.0", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [560, 734, 654, 851], "size": "64.0", "type": "heading", "comment": ""},
+	{"text": "行禮之器也从豆象形凡豊之屬", "bbox": [431, 160, 522, 963], "size": "64.0", "type": "description", "comment": ""},
+	{"text": "皆从豊讀與禮同", "bbox": [304, 156, 393, 607], "size": "64.0", "type": "description", "comment": ""},
+	{"text": "盧啟", "bbox": [354, 608, 410, 697], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [295, 608, 342, 644], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "爵之次弟也从豊从弟虞", "bbox": [220, 171, 278, 601], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "書曰平豔東作直質切", "bbox": [165, 168, 213, 649], "size": "32.0", "type": "description", "comment": ""},
+	{"text": "文二", "bbox": [184, 732, 268, 851], "size": "64.0", "type": "heading", "comment": ""},
+	{"text": "豆之豐滿者也从豆象形一曰鄕", "bbox": [50, 162, 142, 963], "size": "64.0", "type": "description", "comment": ""}
+]
+```
