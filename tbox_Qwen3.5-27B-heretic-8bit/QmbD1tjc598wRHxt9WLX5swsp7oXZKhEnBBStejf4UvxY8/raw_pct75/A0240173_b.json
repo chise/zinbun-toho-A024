@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "之屬皆从壴中句", "bbox": [862, 147, 973, 506], "size": "41", "type": "normal", "comment": ""},
+	{"text": "也讀若駐常句切", "bbox": [723, 154, 841, 456], "size": "30", "type": "normal", "comment": ""},
+	{"text": "立也从壴从寸持之", "bbox": [786, 154, 841, 499], "size": "30", "type": "normal", "comment": ""},
+	{"text": "鼓聲也从壴彡聲臣", "bbox": [657, 642, 714, 978], "size": "30", "type": "normal", "comment": ""},
+	{"text": "鉉等曰當从形省乃", "bbox": [593, 642, 647, 978], "size": "30", "type": "normal", "comment": ""},
+	{"text": "鼓夜半三通爲戒晨旦明五", "bbox": [657, 23, 712, 499], "size": "30", "type": "normal", "comment": ""},
+	{"text": "通爲發明讀若戚倉歷切", "bbox": [593, 23, 647, 456], "size": "30", "type": "normal", "comment": ""},
+	{"text": "得聲薄", "bbox": [526, 23, 580, 144], "size": "30", "type": "normal", "comment": ""},
+	{"text": "美也从壴加", "bbox": [526, 309, 580, 500], "size": "30", "type": "normal", "comment": ""},
+	{"text": "聲古牙切", "bbox": [462, 309, 516, 456], "size": "30", "type": "normal", "comment": ""},
+	{"text": "庚切", "bbox": [462, 23, 516, 104], "size": "30", "type": "normal", "comment": ""},
+	{"text": "郭也春分之音萬物郭皮甲而出", "bbox": [336, 154, 439, 978], "size": "51", "type": "normal", "comment": ""},
+	{"text": "故謂之鼓从壴支象其手擊之也", "bbox": [202, 154, 306, 978], "size": "51", "type": "normal", "comment": ""},
+	{"text": "周禮六鼓靁鼓八面靈鼓六面路", "bbox": [68, 154, 172, 978], "size": "51", "type": "normal", "comment": ""},
+	{"text": "聲禮昏鼓四通爲大", "bbox": [723, 642, 786, 978], "size": "30", "type": "normal", "comment": ""},
+	{"text": "夜戒守鼓也从壴蚤", "bbox": [786, 642, 841, 978], "size": "30", "type": "normal", "comment": ""},
+	{"text": "文五", "bbox": [476, 642, 570, 763], "size": "51", "type": "normal", "comment": ""},
+	{"text": "說文五上", "bbox": [0, 249, 44, 378], "size": "14", "type": "normal", "comment": ""},
+	{"text": "大十七", "bbox": [20, 23, 44, 78], "size": "14", "type": "normal", "comment": ""},
+	{"text": "十三", "bbox": [0, 692, 44, 747], "size": "14", "type": "normal", "comment": ""},
+	{"text": "陳玉", "bbox": [20, 902, 54, 957], "size": "14", "type": "normal", "comment": ""}
+]
+```
