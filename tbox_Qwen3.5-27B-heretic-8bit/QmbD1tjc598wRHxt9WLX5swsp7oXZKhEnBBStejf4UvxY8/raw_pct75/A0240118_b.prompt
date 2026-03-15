@@ -1,0 +1,5 @@
+<image> Run OCR for Classical Chinese and output the text and coordinates of each bounding box in the following JSON format:
+[
+  {"text": "...", "bbox": [x1, y1, x2, y2], "size": "...", "type": "...", "comment": "..."}
+]
+Note that be sure to treat the heading text as a separate line from the description.

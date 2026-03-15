@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "XX", "bbox": [835, 29, 950, 147], "size": "55.0", "type": "heading", "comment": ""},
+	{"text": "二爻也凡爻之屬皆从爻", "bbox": [839, 169, 945, 775], "size": "55.0", "type": "heading", "comment": ""},
+	{"text": "力几", "bbox": [896, 778, 956, 865], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "切", "bbox": [843, 789, 891, 827], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "爾", "bbox": [705, 25, 819, 146], "size": "55.0", "type": "heading", "comment": ""},
+	{"text": "麗爾猶靡麗也从㔾从爻其孔", "bbox": [768, 164, 823, 661], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "爻尒聲此與𠁊同意兒氏切", "bbox": [708, 158, 763, 627], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "𠁊", "bbox": [707, 668, 818, 785], "size": "55.0", "type": "heading", "comment": ""},
+	{"text": "明也从爻", "bbox": [772, 819, 826, 973], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "从大徐鍇", "bbox": [712, 820, 767, 978], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "曰大其中隙縫", "bbox": [638, 26, 693, 284], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "爻也疏兩切", "bbox": [579, 26, 634, 242], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "𠁊", "bbox": [579, 291, 690, 418], "size": "55.0", "type": "heading", "comment": ""},
+	{"text": "篆文", "bbox": [636, 430, 691, 518], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "𠁊", "bbox": [579, 432, 634, 478], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "文三", "bbox": [455, 262, 545, 393], "size": "55.0", "type": "subheading", "comment": ""},
+	{"text": "重一", "bbox": [454, 518, 545, 631], "size": "55.0", "type": "subheading", "comment": ""},
+	{"text": "說文解字弟三", "bbox": [185, 19, 285, 419], "size": "55.0", "type": "subheading", "comment": ""},
+	{"text": "下", "bbox": [230, 434, 265, 472], "size": "30.0", "type": "subheading", "comment": ""},
+	{"text": "大", "bbox": [8, 27, 28, 44], "size": "15.0", "type": "page_number", "comment": ""},
+	{"text": "四", "bbox": [8, 50, 28, 67], "size": "15.0", "type": "page_number", "comment": ""},
+	{"text": "說文解字弟三下", "bbox": [0, 251, 29, 378], "size": "15.0", "type": "page_number", "comment": ""},
+	{"text": "八", "bbox": [0, 692, 29, 739], "size": "30.0", "type": "page_number", "comment": ""},
+	{"text": "袁", "bbox": [8, 909, 33, 936], "size": "15.0", "type": "page_number", "comment": ""},
+	{"text": "和", "bbox": [8, 953, 33, 971], "size": "15.0", "type": "page_number", "comment": ""}
+]
+```
