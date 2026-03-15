@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "小", "bbox": [951, 39, 973, 65], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "臣鉉等曰冑不可", "bbox": [883, 26, 945, 314], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "過多故从冂符非切", "bbox": [820, 26, 883, 384], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "文一百四十", "bbox": [704, 206, 792, 511], "size": "large", "type": "heading", "comment": "竖排"},
+	{"text": "重二十", "bbox": [703, 630, 792, 820], "size": "large", "type": "heading", "comment": "竖排"},
+	{"text": "肥腸也从冂啓", "bbox": [619, 155, 680, 397], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "省聲康禮切", "bbox": [559, 155, 619, 368], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "赤子陰也从冂爻", "bbox": [619, 526, 680, 851], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "聲或从血子回切", "bbox": [557, 526, 619, 840], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "内空也从冂从空", "bbox": [495, 29, 554, 322], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "空亦聲苦江切", "bbox": [432, 29, 492, 280], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "胸脽蟲名漢中有胸脽縣地下", "bbox": [492, 462, 552, 987], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "多此蟲因以爲名从冂旬聲考", "bbox": [430, 462, 490, 987], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "其義當作潤", "bbox": [367, 29, 427, 244], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "蠢如順切", "bbox": [305, 29, 365, 193], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "胸脽也从冂", "bbox": [365, 397, 425, 588], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "忍聲尺尹切", "bbox": [302, 397, 362, 588], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "文五", "bbox": [310, 682, 398, 809], "size": "large", "type": "heading", "comment": "竖排"},
+	{"text": "新附", "bbox": [352, 816, 412, 892], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "肉之力也从力从肉从竹竹物之", "bbox": [180, 173, 278, 981], "size": "large", "type": "common", "comment": "竖排"},
+	{"text": "多筋者凡筋之屬皆从筋", "bbox": [43, 168, 142, 798], "size": "large", "type": "common", "comment": "竖排"},
+	{"text": "居銀", "bbox": [92, 806, 152, 895], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "切", "bbox": [45, 806, 95, 844], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "東元", "bbox": [951, 900, 978, 971], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "東元", "bbox": [951, 900, 978, 971], "size": "medium", "type": "common", "comment": "竖排"},
+	{"text": "東元", "bbox": [951, 900, 978, 971], "size": "medium", "type": "common", "comment": "竖排"}
+]
+```
