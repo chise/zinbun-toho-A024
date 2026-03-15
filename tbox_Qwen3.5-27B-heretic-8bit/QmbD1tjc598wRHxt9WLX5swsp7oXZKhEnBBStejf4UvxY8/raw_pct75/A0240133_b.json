@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "雀", "bbox": [856, 25, 982, 161], "size": "51.626", "type": "heading", "comment": "小篆"},
+	{"text": "鳥張毛羽自奮也从大从隹凡雀", "bbox": [864, 163, 975, 969], "size": "17.61", "type": "main", "comment": ""},
+	{"text": "之屬皆从雀讀若睢", "bbox": [733, 163, 835, 666], "size": "19.61", "type": "main", "comment": ""},
+	{"text": "息遺", "bbox": [787, 668, 847, 767], "size": "12.61", "type": "main", "comment": ""},
+	{"text": "切", "bbox": [729, 670, 772, 713], "size": "12.61", "type": "main", "comment": ""},
+	{"text": "𠣻", "bbox": [587, 24, 710, 161], "size": "51.626", "type": "heading", "comment": "小篆"},
+	{"text": "手持隹失之也从", "bbox": [658, 174, 714, 475], "size": "15.61", "type": "main", "comment": ""},
+	{"text": "又从雀徒活切", "bbox": [587, 174, 646, 417], "size": "13.61", "type": "main", "comment": ""},
+	{"text": "舊", "bbox": [591, 474, 711, 612], "size": "51.626", "type": "heading", "comment": "小篆"},
+	{"text": "暈也从雀在田上詩", "bbox": [658, 620, 714, 955], "size": "15.61", "type": "main", "comment": ""},
+	{"text": "曰不能奮飛方問切", "bbox": [589, 620, 647, 955], "size": "13.61", "type": "main", "comment": ""},
+	{"text": "文三", "bbox": [468, 229, 566, 334], "size": "30.61", "type": "main", "comment": ""},
+	{"text": "雀", "bbox": [321, 24, 442, 161], "size": "51.626", "type": "heading", "comment": "小篆"},
+	{"text": "鴝屬从隹从屰有毛角所鳴其民", "bbox": [327, 163, 439, 984], "size": "17.61", "type": "main", "comment": ""},
+	{"text": "有甌凡雀之屬皆从雀讀若和", "bbox": [189, 154, 292, 883], "size": "19.61", "type": "main", "comment": ""},
+	{"text": "胡官", "bbox": [244, 885, 302, 984], "size": "12.61", "type": "main", "comment": ""},
+	{"text": "切", "bbox": [186, 887, 229, 929], "size": "12.61", "type": "main", "comment": ""},
+	{"text": "舊", "bbox": [52, 23, 175, 161], "size": "51.626", "type": "heading", "comment": "小篆"},
+	{"text": "規舊商也从又持雀一曰視遽皃一曰舊度", "bbox": [108, 174, 166, 894], "size": "15.61", "type": "main", "comment": ""},
+	{"text": "也徐鍇曰商度也雀善度人禍福也乙號切", "bbox": [40, 174, 99, 855], "size": "13.61", "type": "main", "comment": ""},
+	{"text": "陳廣", "bbox": [7, 920, 35, 984], "size": "12.61", "type": "main", "comment": ""},
+	{"text": "大十二", "bbox": [6, 22, 27, 67], "size": "12.61", "type": "main", "comment": ""}
+]
+```
