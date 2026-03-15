@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "之屬皆从𤴞讀若奭一曰若僦門", "bbox": [853, 168, 946, 921], "size": "51", "type": "head", "comment": ""},
+	{"text": "臣鉉", "bbox": [845, 927, 942, 971], "size": "22", "type": "small_comment", "comment": ""},
+	{"text": "等曰北者反覆柔治", "bbox": [775, 174, 830, 514], "size": "30", "type": "small_comment", "comment": ""},
+	{"text": "之也覔營也而克切", "bbox": [712, 174, 767, 514], "size": "30", "type": "small_comment", "comment": ""},
+	{"text": "𤴞", "bbox": [579, 26, 696, 147], "size": "90", "type": "head", "comment": ""},
+	{"text": "古文", "bbox": [640, 158, 693, 241], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "𤴞", "bbox": [582, 158, 637, 206], "size": "33", "type": "small_comment", "comment": ""},
+	{"text": "𤴞", "bbox": [579, 263, 696, 382], "size": "90", "type": "head", "comment": ""},
+	{"text": "籀文𤴞", "bbox": [637, 392, 693, 500], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "从覔省", "bbox": [579, 392, 635, 500], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "𤴞", "bbox": [579, 516, 696, 635], "size": "90", "type": "head", "comment": ""},
+	{"text": "羽獵韋絝从𤴞", "bbox": [637, 645, 693, 917], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "奔聲而隴切", "bbox": [579, 645, 635, 871], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "褎", "bbox": [441, 26, 559, 147], "size": "90", "type": "head", "comment": ""},
+	{"text": "或从衣从朕虞", "bbox": [502, 158, 557, 429], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "書曰鳥獸褎毛", "bbox": [441, 158, 497, 354], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "文三", "bbox": [454, 524, 547, 651], "size": "60", "type": "small_comment", "comment": ""},
+	{"text": "重二", "bbox": [454, 735, 547, 861], "size": "60", "type": "small_comment", "comment": ""},
+	{"text": "攴", "bbox": [315, 26, 432, 147], "size": "90", "type": "head", "comment": ""},
+	{"text": "小擊也从又卜聲凡攴之屬皆从", "bbox": [315, 158, 412, 971], "size": "51", "type": "small_comment", "comment": ""},
+	{"text": "攴", "bbox": [186, 163, 282, 235], "size": "60", "type": "head", "comment": ""},
+	{"text": "普木", "bbox": [244, 243, 296, 320], "size": "30", "type": "small_comment", "comment": ""},
+	{"text": "切", "bbox": [181, 243, 233, 281], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "啟", "bbox": [44, 26, 161, 147], "size": "90", "type": "head", "comment": ""},
+	{"text": "敎也从攴启聲論語", "bbox": [105, 158, 161, 500], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "曰不憤不啓康禮切", "bbox": [44, 158, 99, 500], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "啟", "bbox": [44, 516, 161, 635], "size": "90", "type": "head", "comment": ""},
+	{"text": "通也从亾从攴", "bbox": [105, 645, 161, 894], "size": "35", "type": "small_comment", "comment": ""},
+	{"text": "从育丑列切", "bbox": [44, 645, 99, 846], "size": "35", "type": "small_comment", "comment": ""}
+]
+```
