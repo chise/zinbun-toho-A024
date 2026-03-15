@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "變隸", "bbox": [908, 159, 961, 245], "size": "35.89", "type": "text", "comment": "Right column heading"},
+	{"text": "作于", "bbox": [841, 159, 893, 245], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "气損也从亏", "bbox": [775, 159, 827, 245], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "僿或", "bbox": [775, 500, 827, 586], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "虧", "bbox": [710, 25, 762, 159], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "僱聲去爲切", "bbox": [710, 159, 762, 245], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "从亏", "bbox": [710, 500, 762, 586], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "亏也審慎之詞", "bbox": [775, 715, 827, 850], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "者从亏从宀周", "bbox": [710, 715, 762, 850], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "書曰粤三日", "bbox": [644, 25, 696, 159], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "驚語也从口从亏亏亦聲臣鉉", "bbox": [644, 375, 696, 850], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "丁亥王伐切", "bbox": [578, 25, 630, 159], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "等按口部已有此重出況于切", "bbox": [578, 375, 630, 850], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "語平舒也从亏从入八", "bbox": [512, 159, 564, 530], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "古文平", "bbox": [512, 670, 564, 756], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "分也爰礼說符兵切", "bbox": [446, 159, 498, 530], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "如此", "bbox": [446, 670, 498, 756], "size": "35.89", "type": "text", "comment": "Right column text"},
+	{"text": "文五", "bbox": [323, 241, 417, 359], "size": "35.89", "type": "text", "comment": "Middle column heading"},
+	{"text": "重二", "bbox": [323, 480, 417, 615], "size": "35.89", "type": "text", "comment": "Middle column heading"},
+	{"text": "美也从甘从声凡旨之屬皆从旨", "bbox": [188, 139, 283, 975], "size": "35.89", "type": "text", "comment": "Middle column text"},
+	{"text": "職雉", "bbox": [97, 188, 160, 262], "size": "35.89", "type": "text", "comment": "Left column heading"},
+	{"text": "切", "bbox": [40, 188, 92, 262], "size": "35.89", "type": "text", "comment": "Left column text"}
+]
+```
