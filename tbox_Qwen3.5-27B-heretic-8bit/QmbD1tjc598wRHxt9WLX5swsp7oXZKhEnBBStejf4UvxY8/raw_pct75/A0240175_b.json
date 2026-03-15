@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "飲酒有豐侯者凡豐之屬皆从", "bbox": [867, 159, 977, 984], "size": "大", "type": "text", "comment": ""},
+	{"text": "豐", "bbox": [737, 157, 825, 226], "size": "大", "type": "text", "comment": ""},
+	{"text": "敷戎", "bbox": [783, 232, 843, 336], "size": "小", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [725, 251, 779, 293], "size": "小", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [649, 150, 708, 239], "size": "中", "type": "text", "comment": ""},
+	{"text": "豐", "bbox": [590, 157, 642, 227], "size": "大", "type": "text", "comment": ""},
+	{"text": "好而長也从豐豐大也奣聲", "bbox": [649, 399, 721, 880], "size": "中", "type": "text", "comment": ""},
+	{"text": "春秋傳曰美而豔以贍切", "bbox": [588, 400, 660, 828], "size": "中", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [466, 267, 564, 440], "size": "大", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [466, 527, 561, 699], "size": "大", "type": "text", "comment": ""},
+	{"text": "𤲅", "bbox": [318, 11, 428, 142], "size": "大", "type": "text", "comment": ""},
+	{"text": "古陶器也从豆虍聲凡𤲅之屬皆", "bbox": [318, 147, 428, 991], "size": "大", "type": "text", "comment": ""},
+	{"text": "从𤲅", "bbox": [185, 146, 285, 267], "size": "大", "type": "text", "comment": ""},
+	{"text": "許羈", "bbox": [243, 276, 297, 367], "size": "小", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [185, 296, 241, 339], "size": "小", "type": "text", "comment": ""},
+	{"text": "𤲬", "bbox": [36, 12, 145, 143], "size": "大", "type": "text", "comment": ""},
+	{"text": "土鍪也从𤲅号聲", "bbox": [108, 149, 167, 471], "size": "中", "type": "text", "comment": ""},
+	{"text": "讀若鎬胡到切", "bbox": [36, 149, 97, 411], "size": "中", "type": "text", "comment": ""},
+	{"text": "𤲲", "bbox": [100, 477, 162, 601], "size": "大", "type": "text", "comment": ""},
+	{"text": "器也从𤲅宀宀", "bbox": [108, 623, 171, 888], "size": "中", "type": "text", "comment": ""},
+	{"text": "亦聲闕直呂切", "bbox": [43, 623, 100, 887], "size": "中", "type": "text", "comment": ""},
+	{"text": "大", "bbox": [0, 11, 17, 34], "size": "小", "type": "text", "comment": ""},
+	{"text": "す", "bbox": [0, 35, 17, 57], "size": "小", "type": "text", "comment": ""},
+	{"text": "蔣", "bbox": [5, 908, 33, 931], "size": "小", "type": "text", "comment": ""},
+	{"text": "安", "bbox": [5, 948, 33, 971], "size": "小", "type": "text", "comment": ""}
+]
+```
