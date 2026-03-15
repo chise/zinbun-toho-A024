@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "黑色也从𤣥旅省聲", "bbox": [915, 164, 977, 518], "size": "19.32", "type": "normal", "comment": ""},
+	{"text": "義當用𥂁洛乎切", "bbox": [851, 164, 915, 460], "size": "22.63", "type": "normal", "comment": ""},
+	{"text": "文一", "bbox": [877, 552, 968, 678], "size": "63.28", "type": "title", "comment": ""},
+	{"text": "新附", "bbox": [911, 731, 973, 815], "size": "27.37", "type": "normal", "comment": ""},
+	{"text": "𠧞推予也象相予之形凡予之屬皆", "bbox": [731, 140, 827, 980], "size": "50.39", "type": "normal", "comment": ""},
+	{"text": "从予", "bbox": [597, 152, 683, 276], "size": "56.63", "type": "normal", "comment": ""},
+	{"text": "余吕", "bbox": [658, 280, 707, 361], "size": "20.77", "type": "normal", "comment": ""},
+	{"text": "切", "bbox": [593, 281, 645, 323], "size": "31.47", "type": "normal", "comment": ""},
+	{"text": "𠧝伸也从𠂤从予予亦聲", "bbox": [519, 163, 577, 552], "size": "24.91", "type": "normal", "comment": ""},
+	{"text": "一曰舒緩也傷魚切", "bbox": [454, 163, 511, 500], "size": "24.91", "type": "normal", "comment": ""},
+	{"text": "𠧟相詐惑也从反", "bbox": [516, 706, 577, 973], "size": "25.02", "type": "normal", "comment": ""},
+	{"text": "予周書曰無或", "bbox": [454, 706, 513, 977], "size": "25.02", "type": "normal", "comment": ""},
+	{"text": "𧫩張爲幻", "bbox": [386, 20, 438, 203], "size": "27.37", "type": "normal", "comment": ""},
+	{"text": "胡辦切", "bbox": [318, 20, 375, 135], "size": "27.37", "type": "normal", "comment": ""},
+	{"text": "文三", "bbox": [330, 455, 424, 588], "size": "63.28", "type": "title", "comment": ""},
+	{"text": "𠯗逐也从攴方聲凡放之屬皆从放", "bbox": [195, 144, 301, 980], "size": "49.88", "type": "normal", "comment": ""},
+	{"text": "甫妄", "bbox": [120, 168, 169, 249], "size": "20.77", "type": "normal", "comment": ""},
+	{"text": "切", "bbox": [55, 169, 104, 211], "size": "31.47", "type": "normal", "comment": ""},
+	{"text": "大十六", "bbox": [5, 16, 40, 98], "size": "16.52", "type": "normal", "comment": ""},
+	{"text": "說文曰下", "bbox": [0, 254, 34, 384], "size": "16.52", "type": "normal", "comment": ""},
+	{"text": "陳廣", "bbox": [10, 917, 44, 973], "size": "15.41", "type": "normal", "comment": ""}
+]
+```
