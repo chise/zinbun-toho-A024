@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "瞿鷹隼之視也从隹从𥄉𥄉亦聲凡", "bbox": [854, 23, 968, 981], "size": "大", "type": "heading", "comment": ""},
+	{"text": "瞿之屬皆从瞿讀若章句之句", "bbox": [727, 162, 831, 905], "size": "中", "type": "body", "comment": ""},
+	{"text": "九遇", "bbox": [777, 907, 834, 984], "size": "小", "type": "body", "comment": ""},
+	{"text": "切又", "bbox": [718, 901, 775, 984], "size": "小", "type": "body", "comment": ""},
+	{"text": "音", "bbox": [660, 161, 704, 206], "size": "小", "type": "body", "comment": ""},
+	{"text": "衢", "bbox": [582, 164, 647, 209], "size": "小", "type": "body", "comment": ""},
+	{"text": "矍", "bbox": [465, 22, 575, 158], "size": "大", "type": "heading", "comment": ""},
+	{"text": "隹欲𨓜𢔃也从又持之矍矍也讀若詩", "bbox": [515, 163, 573, 803], "size": "中", "type": "body", "comment": ""},
+	{"text": "云穡彼淮夷之穡一曰視遽皃九縛切", "bbox": [452, 163, 510, 800], "size": "中", "type": "body", "comment": ""},
+	{"text": "文二", "bbox": [332, 265, 427, 385], "size": "大", "type": "body", "comment": ""},
+	{"text": "雎", "bbox": [188, 20, 304, 143], "size": "大", "type": "heading", "comment": ""},
+	{"text": "雙鳥也从二隹凡雎之屬皆从雎", "bbox": [188, 152, 302, 973], "size": "中", "type": "body", "comment": ""},
+	{"text": "讀若醻", "bbox": [61, 146, 158, 344], "size": "大", "type": "body", "comment": ""},
+	{"text": "市流", "bbox": [115, 355, 173, 444], "size": "小", "type": "body", "comment": ""},
+	{"text": "切", "bbox": [58, 355, 113, 394], "size": "小", "type": "body", "comment": ""},
+	{"text": "說文四上", "bbox": [0, 255, 34, 379], "size": "小", "type": "body", "comment": ""},
+	{"text": "大十", "bbox": [11, 21, 37, 66], "size": "小", "type": "body", "comment": ""},
+	{"text": "仲奇", "bbox": [12, 928, 37, 989], "size": "小", "type": "body", "comment": ""}
+]
+```
