@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "首", "bbox": [847, 26, 948, 139], "size": "400", "type": "seal", "comment": "header"},
+	{"text": "目不正也从𠂇从目凡首之屬皆", "bbox": [847, 148, 948, 975], "size": "160", "type": "regular", "comment": "body"},
+	{"text": "从首茍从此讀若末", "bbox": [722, 164, 815, 637], "size": "140", "type": "regular", "comment": "body"},
+	{"text": "徐鍇曰𠂇角", "bbox": [777, 666, 831, 890], "size": "70", "type": "regular", "comment": "body"},
+	{"text": "戾也模結切", "bbox": [719, 666, 769, 878], "size": "70", "type": "regular", "comment": "body"},
+	{"text": "茍", "bbox": [585, 23, 682, 162], "size": "400", "type": "seal", "comment": "header"},
+	{"text": "目不明也从首从旬", "bbox": [643, 170, 698, 495], "size": "90", "type": "regular", "comment": "body"},
+	{"text": "旬目數搖也木空切", "bbox": [577, 170, 632, 503], "size": "90", "type": "regular", "comment": "body"},
+	{"text": "苶", "bbox": [592, 508, 687, 641], "size": "400", "type": "seal", "comment": "header"},
+	{"text": "火不明也从苴从火", "bbox": [643, 650, 698, 983], "size": "90", "type": "regular", "comment": "body"},
+	{"text": "苴亦聲周書曰布重", "bbox": [580, 650, 632, 983], "size": "90", "type": "regular", "comment": "body"},
+	{"text": "苶席織蒻席也讀", "bbox": [510, 25, 562, 335], "size": "90", "type": "regular", "comment": "body"},
+	{"text": "與蔑同莫結切", "bbox": [446, 25, 498, 335], "size": "90", "type": "regular", "comment": "body"},
+	{"text": "蔑", "bbox": [452, 333, 552, 467], "size": "400", "type": "seal", "comment": "header"},
+	{"text": "勞目無精也从苴人勞", "bbox": [510, 477, 562, 867], "size": "90", "type": "regular", "comment": "body"},
+	{"text": "則蔑然从戍莫結切", "bbox": [446, 477, 498, 809], "size": "90", "type": "regular", "comment": "body"},
+	{"text": "文四", "bbox": [332, 268, 422, 364], "size": "140", "type": "regular", "comment": "body"},
+	{"text": "羊", "bbox": [178, 26, 279, 152], "size": "400", "type": "seal", "comment": "header"},
+	{"text": "祥也从𠂇象頭角足尾之形孔子", "bbox": [190, 162, 282, 978], "size": "160", "type": "regular", "comment": "body"},
+	{"text": "曰牛羊之字以形舉也凡羊之屬", "bbox": [56, 164, 148, 985], "size": "140", "type": "regular", "comment": "body"},
+	{"text": "陳廣", "bbox": [11, 917, 37, 973], "size": "40", "type": "regular", "comment": "body"},
+	{"text": "大十八", "bbox": [7, 25, 27, 80], "size": "40", "type": "regular", "comment": "body"}
+]
+```
