@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "竹之屬皆从竹", "bbox": [839, 159, 944, 476], "size": "53.5", "type": "heading", "comment": ""},
+	{"text": "陟玉切", "bbox": [836, 524, 946, 576], "size": "18.5", "type": "comment", "comment": ""},
+	{"text": "箭矢也从竹前聲子賤切", "bbox": [702, 167, 816, 361], "size": "22", "type": "comment", "comment": ""},
+	{"text": "箇箇路也从竹囷聲一曰博棊也渠隕切", "bbox": [700, 418, 813, 747], "size": "22", "type": "comment", "comment": ""},
+	{"text": "箇箇路也从竹路聲夏書曰惟箇路椁洛故切", "bbox": [564, 32, 689, 360], "size": "22", "type": "comment", "comment": ""},
+	{"text": "箇古文路", "bbox": [564, 532, 682, 640], "size": "22", "type": "comment", "comment": ""},
+	{"text": "从輅", "bbox": [564, 661, 611, 723], "size": "22", "type": "comment", "comment": ""},
+	{"text": "筱箭屬小竹也从", "bbox": [561, 742, 679, 967], "size": "22", "type": "comment", "comment": ""},
+	{"text": "竹攸聲先杳切", "bbox": [430, 29, 549, 175], "size": "22", "type": "comment", "comment": ""},
+	{"text": "簜大竹也从竹湯聲夏書曰瑤琨簜簜可爲幹篾可爲矢徒朗切", "bbox": [425, 206, 548, 746], "size": "22", "type": "comment", "comment": ""},
+	{"text": "竹也从竹微聲無非切", "bbox": [298, 29, 420, 300], "size": "22", "type": "comment", "comment": ""},
+	{"text": "籀文从微省", "bbox": [298, 413, 417, 488], "size": "22", "type": "comment", "comment": ""},
+	{"text": "筍竹胎也从竹旬聲思允切", "bbox": [296, 510, 414, 848], "size": "22", "type": "comment", "comment": ""},
+	{"text": "竹萌也从竹急聲徒哀切", "bbox": [162, 30, 283, 302], "size": "22", "type": "comment", "comment": ""},
+	{"text": "筈竹箙也从竹咼聲薄侯切", "bbox": [161, 334, 281, 606], "size": "22", "type": "comment", "comment": ""},
+	{"text": "筈楚謂竹皮曰箙从竹若聲而勺", "bbox": [159, 636, 278, 964], "size": "22", "type": "comment", "comment": ""},
+	{"text": "竹約也从竹切", "bbox": [28, 180, 149, 437], "size": "22", "type": "comment", "comment": ""},
+	{"text": "即聲子結切", "bbox": [28, 456, 147, 556], "size": "22", "type": "comment", "comment": ""},
+	{"text": "折竹篋也从竹余聲讀若絮同都切", "bbox": [28, 575, 147, 962], "size": "22", "type": "comment", "comment": ""},
+	{"text": "小言不九", "bbox": [964, 42, 994, 87], "size": "7", "type": "comment", "comment": ""},
+	{"text": "言五", "bbox": [968, 262, 997, 309], "size": "10", "type": "comment", "comment": ""},
+	{"text": "一", "bbox": [983, 540, 998, 561], "size": "7", "type": "comment", "comment": ""},
+	{"text": "繆春", "bbox": [953, 892, 982, 965], "size": "7", "type": "comment", "comment": ""}
+]
+```
