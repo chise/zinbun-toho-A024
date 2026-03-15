@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "說文解字弟四", "bbox": [842, 19, 948, 395], "size": "136", "type": "Heading", "comment": "The character '弟' is used here as a variant for '第' (ordinal number)."},
+	{"text": "上", "bbox": [899, 409, 938, 437], "size": "36", "type": "Text", "comment": "This is the character '上' (shàng), meaning 'Part 1' or 'Upper', typically found on the title page."},
+	{"text": "漢太尉祭酒許慎記", "bbox": [850, 468, 955, 954], "size": "100", "type": "Text", "comment": "Attribution to Xu Shen, who held the titles of Grand Commandant (太尉) and Imperial Librarian (祭酒)."},
+	{"text": "銀青光禄大夫右散騎常侍上桂國東海縣開國子食邑五百戸臣徐鍇等奉", "bbox": [728, 51, 804, 975], "size": "66", "type": "Text", "comment": "A long line of titles and names, identifying Xu Kai (徐鍇) and his official positions, who presented this work."},
+	{"text": "敕校定", "bbox": [590, 49, 658, 169], "size": "76", "type": "Text", "comment": "Imperial edict for collation and verification."},
+	{"text": "四十五部文七百四十八重百一十二", "bbox": [450, 92, 548, 919], "size": "86", "type": "Text", "comment": "A summary of the contents: 45 sections, 748 characters, 112 variants (重文)."},
+	{"text": "凡七千六百三十八字", "bbox": [327, 201, 422, 713], "size": "94", "type": "Text", "comment": "Total character count of the dictionary."},
+	{"text": "文二十四", "bbox": [196, 201, 279, 433], "size": "86", "type": "Text", "comment": "This refers to the 'Wen' (文) radical being the 24th one in the sequence."},
+	{"text": "新附", "bbox": [229, 439, 292, 522], "size": "68", "type": "Text", "comment": "Indicates newly added characters not in the original work."},
+	{"text": "目", "bbox": [72, 23, 137, 100], "size": "73", "type": "Text", "comment": "The character '目' (mù), meaning 'eye', which is the main radical of this page."},
+	{"text": "又", "bbox": [61, 104, 152, 153], "size": "51", "type": "Text", "comment": "The character '又' (yòu), which is the 'hand' radical component."},
+	{"text": "舉目使人也从支从目凡目之屬", "bbox": [52, 157, 160, 977], "size": "98", "type": "Text", "comment": "The definition and etymology of the character '目'. '舉' is the example character. '目使人也' is the definition. '从支从目' describes its composition. '凡目之屬' introduces the section."},
+	{"text": "大八", "bbox": [11, 21, 34, 62], "size": "19", "type": "Text", "comment": "Page number, likely 'Da Ba' (大八)."},
+	{"text": "說文解字", "bbox": [2, 253, 31, 379], "size": "26", "type": "Text", "comment": "Title in the margin, running vertically."},
+	{"text": "二", "bbox": [1, 719, 31, 747], "size": "25", "type": "Text", "comment": "A character in the margin, possibly a folio number or section marker."},
+	{"text": "張信", "bbox": [20, 913, 44, 972], "size": "26", "type": "Text", "comment": "Name in the bottom-left corner, likely a collector or annotator."},
+	{"text": "東方文化學院京都研究所", "bbox": [811, 702, 850, 969], "size": "30", "type": "Text", "comment": "Institutional stamp or label, likely from the Institute for Oriental Studies in Kyoto."}
+]
+```
