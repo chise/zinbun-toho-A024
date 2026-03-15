@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小一百七十六", "bbox": [956, 23, 984, 138], "size": "28", "type": "text", "comment": "On the right margin"},
+	{"text": "言文四一", "bbox": [967, 249, 995, 374], "size": "28", "type": "text", "comment": "On the right margin"},
+	{"text": "五", "bbox": [965, 697, 991, 745], "size": "48", "type": "text", "comment": "On the right margin"},
+	{"text": "得明", "bbox": [959, 928, 984, 967], "size": "39", "type": "text", "comment": "On the right margin"},
+	{"text": "飛聲也雨而雙飛者", "bbox": [893, 159, 947, 489], "size": "120", "type": "text", "comment": "Top right column"},
+	{"text": "其聲霍然呼郭切", "bbox": [831, 159, 890, 457], "size": "69", "type": "text", "comment": "Top right column"},
+	{"text": "佳二枚也从雝", "bbox": [893, 632, 947, 868], "size": "60", "type": "text", "comment": "Top right column"},
+	{"text": "又持之所江切", "bbox": [832, 632, 890, 868], "size": "58", "type": "text", "comment": "Top right column"},
+	{"text": "文三", "bbox": [709, 198, 806, 325], "size": "97", "type": "text", "comment": "Heading"},
+	{"text": "群鳥也从三佳凡雝之屬皆从雝", "bbox": [577, 163, 675, 977], "size": "98", "type": "text", "comment": "Middle column"},
+	{"text": "祖合", "bbox": [495, 167, 550, 238], "size": "55", "type": "text", "comment": "Middle column"},
+	{"text": "切", "bbox": [436, 167, 484, 198], "size": "31", "type": "text", "comment": "Middle column"},
+	{"text": "鳥羣也从雝", "bbox": [366, 163, 419, 373], "size": "53", "type": "text", "comment": "Middle column"},
+	{"text": "開聲烏玄切", "bbox": [306, 163, 359, 368], "size": "53", "type": "text", "comment": "Middle column"},
+	{"text": "羣鳥在木上也从", "bbox": [365, 514, 419, 804], "size": "60", "type": "text", "comment": "Middle column"},
+	{"text": "雝从木秦入切", "bbox": [305, 514, 359, 765], "size": "54", "type": "text", "comment": "Middle column"},
+	{"text": "彙或", "bbox": [237, 27, 285, 107], "size": "58", "type": "text", "comment": "Left column"},
+	{"text": "省", "bbox": [174, 27, 216, 69], "size": "42", "type": "text", "comment": "Left column"},
+	{"text": "文三", "bbox": [191, 301, 277, 421], "size": "80", "type": "text", "comment": "Left column"},
+	{"text": "重一", "bbox": [189, 601, 271, 710], "size": "109", "type": "text", "comment": "Left column"},
+	{"text": "長尾禽總名也象形鳥之足似匕", "bbox": [48, 159, 146, 961], "size": "98", "type": "text", "comment": "Bottom left column"}
+]
+```
