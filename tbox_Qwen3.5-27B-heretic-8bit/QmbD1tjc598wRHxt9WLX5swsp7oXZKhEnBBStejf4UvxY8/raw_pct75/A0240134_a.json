@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "小三百三十", "bbox": [957, 26, 981, 119], "size": "13.0", "type": "text", "comment": "page number"},
+	{"text": "說文四上", "bbox": [971, 263, 995, 385], "size": "13.0", "type": "text", "comment": "book title"},
+	{"text": "二", "bbox": [971, 684, 995, 725], "size": "13.0", "type": "text", "comment": "chapter number"},
+	{"text": "楊永", "bbox": [957, 910, 981, 964], "size": "13.0", "type": "text", "comment": "author name"},
+	{"text": "藿或从尋尋亦度也楚", "bbox": [888, 166, 942, 546], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "詞曰求矩藿之所同", "bbox": [825, 166, 878, 495], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "藿小爵也从翟口聲", "bbox": [888, 546, 942, 977], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "詩曰翟鳴于垤工", "bbox": [825, 546, 878, 977], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "𠦈", "bbox": [825, 26, 878, 154], "size": "13.0", "type": "text", "comment": "character"},
+	{"text": "𠦈舊舊留也从", "bbox": [762, 207, 815, 458], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "雊白聲巨救切", "bbox": [699, 207, 752, 458], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "𠦈舊或从", "bbox": [762, 584, 815, 716], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "鳥休聲", "bbox": [699, 584, 752, 716], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "𠦈", "bbox": [699, 76, 752, 204], "size": "13.0", "type": "text", "comment": "character"},
+	{"text": "文四", "bbox": [568, 263, 664, 385], "size": "13.0", "type": "text", "comment": "section title"},
+	{"text": "重二", "bbox": [568, 499, 664, 620], "size": "13.0", "type": "text", "comment": "section title"},
+	{"text": "羊角也象形凡之屬皆从讀", "bbox": [434, 145, 527, 977], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "若𦶜", "bbox": [311, 145, 395, 263], "size": "13.0", "type": "text", "comment": "character"},
+	{"text": "工瓦", "bbox": [365, 290, 418, 355], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "切", "bbox": [297, 280, 350, 315], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "戾也从而古文別臣鉉等曰", "bbox": [226, 145, 279, 749], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "兵列切篆文分别字也古懷切", "bbox": [163, 145, 216, 716], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "相當", "bbox": [226, 892, 279, 977], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "也闕", "bbox": [163, 892, 216, 977], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "文三", "bbox": [40, 399, 137, 521], "size": "13.0", "type": "text", "comment": "section title"},
+	{"text": "讀若", "bbox": [97, 26, 150, 119], "size": "13.0", "type": "text", "comment": "definition"},
+	{"text": "母官切", "bbox": [34, 26, 87, 154], "size": "13.0", "type": "text", "comment": "definition"}
+]
+```
