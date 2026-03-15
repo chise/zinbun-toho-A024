@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "此六種也西南僰人僬僥从人盖在坤地頗有順理之性", "bbox": [889, 36, 953, 964], "size": "17.0", "type": "body", "comment": ""},
+	{"text": "唯東夷从大大人也夷俗仁仁者壽有君子不死之國孔", "bbox": [829, 36, 884, 964], "size": "17.0", "type": "body", "comment": ""},
+	{"text": "子曰道不行欲之九夷乘", "bbox": [760, 36, 816, 459], "size": "17.0", "type": "body", "comment": ""},
+	{"text": "古文羌", "bbox": [765, 596, 812, 709], "size": "11.0", "type": "body", "comment": ""},
+	{"text": "進善也", "bbox": [760, 855, 812, 970], "size": "11.0", "type": "body", "comment": ""},
+	{"text": "浮浮於海有以也去羊切", "bbox": [695, 36, 751, 462], "size": "17.0", "type": "body", "comment": ""},
+	{"text": "如此", "bbox": [705, 599, 746, 672], "size": "11.0", "type": "body", "comment": ""},
+	{"text": "从羊久", "bbox": [697, 851, 746, 970], "size": "11.0", "type": "body", "comment": ""},
+	{"text": "聲文王拘羑里", "bbox": [628, 32, 680, 283], "size": "17.0", "type": "body", "comment": ""},
+	{"text": "在湯陰與久切", "bbox": [564, 32, 618, 283], "size": "17.0", "type": "body", "comment": ""},
+	{"text": "文二十六", "bbox": [576, 390, 663, 638], "size": "33.0", "type": "heading", "comment": ""},
+	{"text": "重二", "bbox": [576, 713, 668, 828], "size": "33.0", "type": "heading", "comment": ""},
+	{"text": "羱羱羊臭也从三羊凡羱之屬皆从羱", "bbox": [440, 34, 543, 975], "size": "17.0", "type": "body", "comment": ""},
+	{"text": "式連", "bbox": [356, 172, 415, 267], "size": "11.0", "type": "body", "comment": ""},
+	{"text": "切", "bbox": [306, 178, 349, 211], "size": "11.0", "type": "body", "comment": ""},
+	{"text": "羳或", "bbox": [233, 170, 280, 276], "size": "11.0", "type": "body", "comment": ""},
+	{"text": "羾相厠也从羳在尸下尸屋", "bbox": [225, 387, 280, 847], "size": "11.0", "type": "body", "comment": ""},
+	{"text": "从亶", "bbox": [171, 170, 228, 276], "size": "11.0", "type": "body", "comment": ""},
+	{"text": "也一曰相出前也初限切", "bbox": [168, 394, 223, 806], "size": "11.0", "type": "body", "comment": ""},
+	{"text": "文二", "bbox": [48, 291, 137, 406], "size": "33.0", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [48, 526, 137, 641], "size": "33.0", "type": "heading", "comment": ""},
+	{"text": "小三百六十八", "bbox": [959, 32, 982, 96], "size": "3.0", "type": "heading", "comment": ""},
+	{"text": "言文四上", "bbox": [968, 255, 998, 363], "size": "10.0", "type": "heading", "comment": ""},
+	{"text": "吳明", "bbox": [959, 913, 982, 962], "size": "3.0", "type": "heading", "comment": ""}
+]
+```
