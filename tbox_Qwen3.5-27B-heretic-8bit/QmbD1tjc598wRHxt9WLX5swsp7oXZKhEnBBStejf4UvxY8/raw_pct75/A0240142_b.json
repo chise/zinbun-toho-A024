@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "説文解字弟四上", "bbox": [714, 26, 808, 429], "size": "34.8", "type": "heading", "comment": "The last character is '上' (shàng, meaning 'upper')."},
+	{"text": "漢太尉祭酒許慎記", "bbox": [848, 43, 939, 955], "size": "18.3", "type": "description", "comment": "This text is very faint, indicating it might be a watermark or part of the paper texture."},
+	{"text": "華萟屬所以推棄之器也象形凡華", "bbox": [449, 42, 541, 961], "size": "18.4", "type": "description", "comment": "This text is also very faint, similar to the watermark text."},
+	{"text": "之屬皆从華官溥說", "bbox": [321, 43, 414, 667], "size": "18.3", "type": "description", "comment": "This text is also very faint."},
+	{"text": "北潘", "bbox": [377, 683, 414, 766], "size": "10.0", "type": "description", "comment": "This text is very faint."},
+	{"text": "切", "bbox": [317, 683, 353, 723], "size": "18.3", "type": "description", "comment": "This text is very faint."},
+	{"text": "説文四上", "bbox": [0, 260, 37, 388], "size": "11.4", "type": "description", "comment": "This text is located on the left edge of the page."},
+	{"text": "十一", "bbox": [0, 689, 32, 731], "size": "11.4", "type": "description", "comment": "This text is located on the left edge of the page."},
+	{"text": "沈錫", "bbox": [17, 918, 44, 974], "size": "10.5", "type": "description", "comment": "This text is located at the bottom left corner."}
+]
+```
