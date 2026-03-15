@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小言下二", "bbox": [913, 41, 938, 119], "size": "small", "type": "page_number", "comment": ""},
+	{"text": "古文", "bbox": [854, 167, 906, 245], "size": "small", "type": "heading", "comment": ""},
+	{"text": "口味之也从旨", "bbox": [854, 399, 906, 652], "size": "small", "type": "description", "comment": ""},
+	{"text": "旨", "bbox": [803, 167, 844, 207], "size": "small", "type": "heading", "comment": ""},
+	{"text": "尚聲市羊切", "bbox": [791, 393, 844, 606], "size": "small", "type": "description", "comment": ""},
+	{"text": "文二", "bbox": [681, 348, 767, 470], "size": "large", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [681, 595, 767, 715], "size": "large", "type": "heading", "comment": ""},
+	{"text": "喜樂也从㠯从口凡喜之屬皆从喜", "bbox": [547, 169, 642, 963], "size": "large", "type": "description", "comment": ""},
+	{"text": "虚里", "bbox": [475, 175, 528, 253], "size": "small", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [414, 175, 466, 213], "size": "small", "type": "description", "comment": ""},
+	{"text": "古文喜从", "bbox": [352, 166, 403, 320], "size": "small", "type": "heading", "comment": ""},
+	{"text": "說也从心从喜", "bbox": [346, 465, 401, 722], "size": "small", "type": "description", "comment": ""},
+	{"text": "欠與歡同", "bbox": [288, 165, 339, 320], "size": "small", "type": "description", "comment": ""},
+	{"text": "喜亦聲許記切", "bbox": [288, 465, 340, 722], "size": "small", "type": "description", "comment": ""},
+	{"text": "大也", "bbox": [346, 876, 401, 929], "size": "small", "type": "description", "comment": ""},
+	{"text": "从喜", "bbox": [288, 876, 340, 960], "size": "small", "type": "description", "comment": ""},
+	{"text": "否聲春秋傳吳有", "bbox": [222, 37, 273, 343], "size": "small", "type": "description", "comment": ""},
+	{"text": "太宰嚭匹鄙切", "bbox": [165, 37, 217, 343], "size": "small", "type": "description", "comment": ""},
+	{"text": "文三", "bbox": [177, 457, 262, 587], "size": "large", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [177, 697, 262, 818], "size": "large", "type": "heading", "comment": ""},
+	{"text": "陳樂立而上見也从㐱从豆凡㐱", "bbox": [48, 165, 143, 963], "size": "large", "type": "description", "comment": ""}
+]
+```
