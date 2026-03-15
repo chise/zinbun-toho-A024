@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "下基也薦物之廾象形凡廾之屬", "bbox": [681, 34, 786, 967], "size": "42", "type": "heading", "comment": "definition of the character '廾'"},
+	{"text": "文二重五", "bbox": [807, 338, 901, 636], "size": "42", "type": "heading", "comment": "count of characters and radicals"},
+	{"text": "皆从廾讀若箕同", "bbox": [550, 170, 647, 592], "size": "42", "type": "description", "comment": "phonetic information"},
+	{"text": "居之", "bbox": [602, 607, 658, 690], "size": "21", "type": "description", "comment": "phonetic information"},
+	{"text": "切", "bbox": [550, 607, 598, 648], "size": "21", "type": "description", "comment": "phonetic information"},
+	{"text": "古之遒人以木鐸記詩言从辵从廾廾亦聲讀與", "bbox": [478, 166, 532, 931], "size": "21", "type": "description", "comment": "etymology and phonetic information"},
+	{"text": "記同徐鍇曰遒人行而求之故从辵廾薦而進之", "bbox": [417, 166, 471, 962], "size": "21", "type": "description", "comment": "etymology and phonetic information"},
+	{"text": "於上也", "bbox": [347, 38, 405, 163], "size": "21", "type": "description", "comment": "definition"},
+	{"text": "居吏切", "bbox": [295, 38, 346, 163], "size": "21", "type": "description", "comment": "phonetic information"},
+	{"text": "五帝之書也从冊在廾上尊閣", "bbox": [358, 327, 405, 815], "size": "21", "type": "description", "comment": "definition"},
+	{"text": "之也莊都說典大冊也多殄切", "bbox": [295, 327, 347, 815], "size": "21", "type": "description", "comment": "definition"},
+	{"text": "古文典", "bbox": [232, 38, 280, 166], "size": "21", "type": "description", "comment": "archaic form"},
+	{"text": "从竹", "bbox": [169, 38, 220, 131], "size": "21", "type": "description", "comment": "etymology"},
+	{"text": "巽也从廾从顛此易巽卦爲長女爲風", "bbox": [232, 327, 280, 962], "size": "21", "type": "description", "comment": "definition and etymology"},
+	{"text": "者臣鉉等曰顛之義亦選具也蘇困切", "bbox": [169, 327, 220, 962], "size": "21", "type": "description", "comment": "definition and phonetic information"},
+	{"text": "相付與之約在閣上", "bbox": [106, 180, 156, 501], "size": "21", "type": "description", "comment": "definition"},
+	{"text": "也从廾由聲必至切", "bbox": [43, 180, 95, 501], "size": "21", "type": "description", "comment": "etymology and phonetic information"},
+	{"text": "具也从廾臣聲臣", "bbox": [106, 674, 156, 962], "size": "21", "type": "description", "comment": "etymology"},
+	{"text": "鉉等曰庶物皆具", "bbox": [43, 674, 95, 962], "size": "21", "type": "description", "comment": "definition"}
+]
+```
