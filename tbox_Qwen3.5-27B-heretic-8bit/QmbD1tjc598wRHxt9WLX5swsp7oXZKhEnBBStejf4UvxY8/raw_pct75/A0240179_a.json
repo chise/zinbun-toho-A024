@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "去魚", "bbox": [913, 423, 958, 509], "size": "30", "type": "text", "comment": "2"},
+	{"text": "屬皆从", "bbox": [851, 175, 950, 401], "size": "110", "type": "text", "comment": "1"},
+	{"text": "口", "bbox": [875, 361, 926, 400], "size": "50", "type": "text", "comment": "1"},
+	{"text": "切", "bbox": [851, 423, 896, 458], "size": "30", "type": "text", "comment": "1"},
+	{"text": "去或从", "bbox": [777, 175, 829, 248], "size": "30", "type": "text", "comment": "3"},
+	{"text": "竹去聲", "bbox": [714, 175, 763, 296], "size": "30", "type": "text", "comment": "3"},
+	{"text": "文一", "bbox": [718, 430, 814, 503], "size": "110", "type": "text", "comment": "3"},
+	{"text": "重一", "bbox": [718, 677, 806, 789], "size": "110", "type": "text", "comment": "3"},
+	{"text": "人相違也从大", "bbox": [582, 160, 684, 515], "size": "110", "type": "text", "comment": "2"},
+	{"text": "口聲凡去之屬皆", "bbox": [571, 520, 680, 975], "size": "110", "type": "text", "comment": "2"},
+	{"text": "从去", "bbox": [449, 162, 547, 276], "size": "110", "type": "text", "comment": "4"},
+	{"text": "丘據", "bbox": [493, 290, 551, 381], "size": "30", "type": "text", "comment": "4"},
+	{"text": "切", "bbox": [441, 290, 493, 326], "size": "30", "type": "text", "comment": "4"},
+	{"text": "去也从去曷", "bbox": [364, 162, 414, 373], "size": "30", "type": "text", "comment": "5"},
+	{"text": "聲丘竭切", "bbox": [302, 162, 357, 326], "size": "30", "type": "text", "comment": "5"},
+	{"text": "去也从去夌聲", "bbox": [362, 495, 416, 771], "size": "30", "type": "text", "comment": "6"},
+	{"text": "讀若陵力膺切", "bbox": [302, 507, 357, 771], "size": "30", "type": "text", "comment": "6"},
+	{"text": "文三", "bbox": [318, 799, 406, 915], "size": "110", "type": "text", "comment": "6"},
+	{"text": "祭所薦牲血也从", "bbox": [178, 162, 278, 530], "size": "110", "type": "text", "comment": "7"},
+	{"text": "皿一象血形凡", "bbox": [170, 536, 270, 977], "size": "110", "type": "text", "comment": "7"},
+	{"text": "血之屬皆从血", "bbox": [43, 160, 140, 535], "size": "110", "type": "text", "comment": "8"},
+	{"text": "呼洨", "bbox": [97, 553, 145, 639], "size": "30", "type": "text", "comment": "8"},
+	{"text": "切", "bbox": [35, 553, 86, 588], "size": "30", "type": "text", "comment": "8"}
+]
+```
