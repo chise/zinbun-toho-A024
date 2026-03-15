@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "雀鳥之短尾總名也象形凡佳之屬", "bbox": [854, 23, 956, 985], "size": "大", "type": "heading", "comment": "Main heading for the section on birds with short tails"},
+	{"text": "皆从佳", "bbox": [724, 152, 816, 340], "size": "中", "type": "description", "comment": "General description of the character component"},
+	{"text": "職追切", "bbox": [724, 343, 835, 388], "size": "小", "type": "phonetic", "comment": "Phonetic notation"},
+	{"text": "雅楚鳥也一名鸒一名甲居秦謂之雅从佳牙聲臣鉉等曰今俗别作鴉非是五下切又烏加切", "bbox": [583, 24, 701, 938], "size": "大", "type": "heading", "comment": "Description of the character 雅"},
+	{"text": "隹鳥一枚也从又持隹持一隹曰隻二隹曰雙之石切", "bbox": [450, 23, 565, 588], "size": "大", "type": "heading", "comment": "Description of the character 隻"},
+	{"text": "鵓鳧也从隹各聲盧各切", "bbox": [449, 594, 563, 941], "size": "大", "type": "heading", "comment": "Description of the character 鵓"},
+	{"text": "雥今雧似鴝鵒而黃从隹𠃓省聲良刃切", "bbox": [315, 24, 428, 452], "size": "大", "type": "heading", "comment": "Description of the character 雥"},
+	{"text": "籀文不省", "bbox": [315, 491, 430, 715], "size": "大", "type": "heading", "comment": "Description of the character 雥 (籀文 variant)"},
+	{"text": "周燕也从隹中", "bbox": [316, 728, 432, 979], "size": "大", "type": "heading", "comment": "Description of the character 燕"},
+	{"text": "象其冠也𠃓聲一曰蜀王望帝姪其相妻慙亡去化爲子嶠鳥故蜀人聞子嶠鳴皆起云望帝戸圭切", "bbox": [181, 33, 296, 863], "size": "大", "type": "heading", "comment": "Description of the character 子"},
+	{"text": "依人小鳥也从小隹讀與爵同即略切", "bbox": [48, 430, 165, 910], "size": "大", "type": "heading", "comment": "Description of the character 依"},
+	{"text": "鳥也从隹方聲讀若方府良切", "bbox": [48, 33, 165, 418], "size": "大", "type": "heading", "comment": "Description of the character 鳥"},
+	{"text": "大二十三", "bbox": [7, 27, 27, 90], "size": "小", "type": "page number", "comment": "Page number"},
+	{"text": "說文曰上", "bbox": [0, 269, 20, 378], "size": "小", "type": "page number", "comment": "Page number"},
+	{"text": "張信", "bbox": [11, 923, 39, 979], "size": "小", "type": "page number", "comment": "Page number"}
+]
+```
