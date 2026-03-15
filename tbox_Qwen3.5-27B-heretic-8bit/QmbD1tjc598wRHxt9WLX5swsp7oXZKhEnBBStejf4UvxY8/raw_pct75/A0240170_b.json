@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "詞也从曰象气出形春秋", "bbox": [913, 25, 971, 472], "size": "large", "type": "text"},
+	{"text": "傳曰鄭太子眔呼骨切", "bbox": [852, 25, 910, 422], "size": "large", "type": "text"},
+	{"text": "𥄫文眔一曰", "bbox": [917, 608, 968, 824], "size": "medium", "type": "text"},
+	{"text": "佩也象形", "bbox": [852, 608, 897, 774], "size": "medium", "type": "text"},
+	{"text": "曾也从曰烎聲詩曰瞥不畏明臣鉉", "bbox": [789, 26, 836, 636], "size": "large", "type": "text"},
+	{"text": "等曰今俗有眛字蓋瞥之譌七感切", "bbox": [725, 27, 773, 637], "size": "large", "type": "text"},
+	{"text": "語多沓沓", "bbox": [784, 695, 836, 869], "size": "medium", "type": "text"},
+	{"text": "也从水从", "bbox": [725, 696, 771, 973], "size": "medium", "type": "text"},
+	{"text": "曰遼東有沓縣臣鉉等曰語多沓", "bbox": [655, 28, 704, 599], "size": "large", "type": "text"},
+	{"text": "沓若水之流故从水會意徒合切", "bbox": [589, 28, 638, 599], "size": "large", "type": "text"},
+	{"text": "獄之兩輦也", "bbox": [650, 760, 704, 975], "size": "medium", "type": "text"},
+	{"text": "在廷東从輦", "bbox": [584, 761, 635, 976], "size": "medium", "type": "text"},
+	{"text": "治事者从曰徐鍇曰以言", "bbox": [522, 28, 570, 599], "size": "large", "type": "text"},
+	{"text": "詞治獄也故从曰昨牢切", "bbox": [454, 27, 508, 472], "size": "large", "type": "text"},
+	{"text": "文七", "bbox": [466, 591, 556, 699], "size": "large", "type": "text"},
+	{"text": "重一", "bbox": [461, 812, 546, 976], "size": "large", "type": "text"},
+	{"text": "亅曳詞之難也象气之出難凡亅之", "bbox": [327, 155, 422, 976], "size": "large", "type": "text"},
+	{"text": "屬皆从亅", "bbox": [190, 155, 291, 406], "size": "large", "type": "text"},
+	{"text": "奴亥切臣鉉等", "bbox": [248, 421, 300, 637], "size": "medium", "type": "text"},
+	{"text": "曰今隷書作乃", "bbox": [184, 421, 238, 636], "size": "medium", "type": "text"},
+	{"text": "古文", "bbox": [112, 170, 163, 258], "size": "medium", "type": "text"},
+	{"text": "乃", "bbox": [53, 170, 93, 213], "size": "medium", "type": "text"},
+	{"text": "籀文", "bbox": [112, 421, 160, 510], "size": "medium", "type": "text"},
+	{"text": "乃", "bbox": [53, 422, 93, 465], "size": "medium", "type": "text"},
+	{"text": "驚聲也从乃省㔾聲", "bbox": [112, 615, 167, 975], "size": "medium", "type": "text"},
+	{"text": "籀文㔾不省或曰㔾", "bbox": [46, 615, 101, 975], "size": "medium", "type": "text"},
+	{"text": "大十四", "bbox": [6, 26, 34, 135], "size": "medium", "type": "text"},
+	{"text": "說文五上", "bbox": [0, 256, 33, 382], "size": "medium", "type": "text"},
+	{"text": "陳玉", "bbox": [11, 892, 40, 975], "size": "medium", "type": "text"}
+]
+```
