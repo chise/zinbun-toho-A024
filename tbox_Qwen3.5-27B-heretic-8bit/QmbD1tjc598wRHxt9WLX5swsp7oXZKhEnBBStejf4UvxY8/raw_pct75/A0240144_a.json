@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小二百四十一", "bbox": [957, 0, 992, 65], "size": "small", "type": "header"},
+	{"text": "說文四一", "bbox": [970, 249, 999, 382], "size": "medium", "type": "header"},
+	{"text": "景昌", "bbox": [962, 915, 992, 979], "size": "small", "type": "footer"},
+	{"text": "詁利", "bbox": [897, 15, 944, 94], "size": "medium", "type": "text"},
+	{"text": "切", "bbox": [840, 16, 881, 46], "size": "medium", "type": "text"},
+	{"text": "古文", "bbox": [898, 252, 949, 329], "size": "medium", "type": "text"},
+	{"text": "籀文", "bbox": [894, 479, 949, 562], "size": "medium", "type": "text"},
+	{"text": "棄", "bbox": [839, 253, 880, 287], "size": "medium", "type": "text"},
+	{"text": "棄", "bbox": [836, 479, 879, 527], "size": "medium", "type": "text"},
+	{"text": "文四", "bbox": [845, 599, 937, 714], "size": "large", "type": "header"},
+	{"text": "重二", "bbox": [840, 822, 935, 958], "size": "large", "type": "header"},
+	{"text": "萑交積材也象對交之形凡萑之屬", "bbox": [697, 6, 806, 986], "size": "large", "type": "text"},
+	{"text": "皆从萑", "bbox": [575, 142, 671, 331], "size": "medium", "type": "text"},
+	{"text": "古侯", "bbox": [620, 336, 682, 423], "size": "medium", "type": "text"},
+	{"text": "切", "bbox": [567, 337, 609, 372], "size": "medium", "type": "text"},
+	{"text": "再", "bbox": [426, 13, 540, 138], "size": "large", "type": "text"},
+	{"text": "一舉而二也从", "bbox": [487, 155, 541, 419], "size": "medium", "type": "text"},
+	{"text": "一萑省作代切", "bbox": [426, 156, 481, 419], "size": "medium", "type": "text"},
+	{"text": "並舉也从爪", "bbox": [487, 566, 540, 764], "size": "medium", "type": "text"},
+	{"text": "萑省處陵切", "bbox": [427, 556, 480, 763], "size": "medium", "type": "text"},
+	{"text": "文三", "bbox": [432, 811, 528, 937], "size": "large", "type": "header"},
+	{"text": "㐭小也象子初生之形凡㐭之屬", "bbox": [295, 6, 395, 991], "size": "large", "type": "text"},
+	{"text": "皆从㐭", "bbox": [167, 147, 267, 338], "size": "medium", "type": "text"},
+	{"text": "於堯", "bbox": [211, 343, 271, 454], "size": "medium", "type": "text"},
+	{"text": "切", "bbox": [154, 343, 197, 377], "size": "medium", "type": "text"},
+	{"text": "㐭小也从㐭从", "bbox": [78, 158, 133, 375], "size": "medium", "type": "text"},
+	{"text": "力伊謬切", "bbox": [20, 158, 73, 337], "size": "medium", "type": "text"},
+	{"text": "文二", "bbox": [25, 663, 123, 790], "size": "large", "type": "header"}
+]
+```
