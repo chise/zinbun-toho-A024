@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "小十三", "bbox": [945, 26, 970, 88], "size": "13.98", "type": "page_number", "comment": "small font, top right corner"},
+	{"text": "言方口", "bbox": [945, 251, 986, 354], "size": "17.46", "type": "header", "comment": "header, right side"},
+	{"text": "七十一", "bbox": [956, 677, 997, 739], "size": "25.55", "type": "page_number", "comment": "large font, right side"},
+	{"text": "祁三", "bbox": [942, 912, 972, 966], "size": "13.54", "type": "footer", "comment": "footer, bottom right corner"},
+	{"text": "文三", "bbox": [44, 292, 137, 417], "size": "19.67", "type": "section_header", "comment": "section header, left side"},
+	{"text": "重三", "bbox": [49, 528, 134, 654], "size": "19.35", "type": "section_header", "comment": "section header, left side"},
+	{"text": "鸟文解字第四", "bbox": [163, 25, 257, 372], "size": "20.39", "type": "title", "comment": "title, left side"},
+	{"text": "學鳥文篆本報孔子曰鳥", "bbox": [827, 53, 917, 713], "size": "31.84", "type": "main_text", "comment": "main text, right column"},
+	{"text": "其助羌故以為鳥呼凡", "bbox": [699, 180, 794, 734], "size": "31.63", "type": "main_text", "comment": "main text, second column from right"},
+	{"text": "从鳥", "bbox": [571, 182, 663, 307], "size": "31.63", "type": "main_text", "comment": "main text, third column from right"},
+	{"text": "雄", "bbox": [292, 43, 387, 168], "size": "31.63", "type": "main_text", "comment": "main text, left column"},
+	{"text": "王", "bbox": [303, 310, 400, 436], "size": "31.63", "type": "main_text", "comment": "main text, left column"}
+]
+```
