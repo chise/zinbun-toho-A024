@@ -1,0 +1,29 @@
+```json
+[
+	{"bbox_2d": [858, 24, 905, 124], "text": "土盍切", "size": "57", "type": "small", "comment": ""},
+	{"bbox_2d": [920, 23, 970, 155], "text": "鼓缶聲", "size": "60", "type": "small", "comment": ""},
+	{"bbox_2d": [865, 418, 969, 554], "text": "文十", "size": "113", "type": "heading", "comment": ""},
+	{"bbox_2d": [871, 678, 969, 811], "text": "重三", "size": "111", "type": "heading", "comment": ""},
+	{"bbox_2d": [731, 21, 836, 989], "text": "豆還師振旅樂也一曰欲也登也从", "size": "100", "type": "main", "comment": ""},
+	{"bbox_2d": [592, 163, 693, 866], "text": "豆微省聲凡豈之屬皆从豈", "size": "93", "type": "main", "comment": ""},
+	{"bbox_2d": [649, 877, 708, 978], "text": "墟喜", "size": "59", "type": "small", "comment": ""},
+	{"bbox_2d": [590, 878, 646, 917], "text": "切", "size": "58", "type": "small", "comment": ""},
+	{"bbox_2d": [507, 21, 570, 133], "text": "豆", "size": "109", "type": "seal", "comment": ""},
+	{"bbox_2d": [514, 164, 568, 544], "text": "康也从心豈豈", "size": "57", "type": "small", "comment": ""},
+	{"bbox_2d": [446, 22, 504, 152], "text": "忾", "size": "129", "type": "seal", "comment": ""},
+	{"bbox_2d": [450, 164, 502, 385], "text": "亦聲苦亥切", "size": "57", "type": "small", "comment": ""},
+	{"bbox_2d": [511, 444, 570, 561], "text": "豆", "size": "116", "type": "seal", "comment": ""},
+	{"bbox_2d": [514, 599, 567, 985], "text": "幾也訖事之樂也从豈", "size": "57", "type": "small", "comment": ""},
+	{"bbox_2d": [446, 443, 505, 557], "text": "豆", "size": "113", "type": "seal", "comment": ""},
+	{"bbox_2d": [449, 597, 503, 984], "text": "幾聲臣鉉等曰説文無", "size": "57", "type": "small", "comment": ""},
+	{"bbox_2d": [377, 23, 430, 470], "text": "幾字从幾从气義無所取", "size": "57", "type": "small", "comment": ""},
+	{"bbox_2d": [308, 23, 365, 479], "text": "當是訖字之誤尔渠稀切", "size": "57", "type": "small", "comment": ""},
+	{"bbox_2d": [324, 651, 421, 784], "text": "文三", "size": "113", "type": "heading", "comment": ""},
+	{"bbox_2d": [185, 22, 288, 986], "text": "豆古食肉器也从口象形凡豆之屬", "size": "102", "type": "main", "comment": ""},
+	{"bbox_2d": [52, 157, 150, 347], "text": "皆从豆", "size": "94", "type": "main", "comment": ""},
+	{"bbox_2d": [100, 364, 155, 444], "text": "徒候", "size": "57", "type": "small", "comment": ""},
+	{"bbox_2d": [43, 363, 97, 403], "text": "切", "size": "57", "type": "small", "comment": ""},
+	{"bbox_2d": [3, 21, 27, 85], "text": "六十三", "size": "27", "type": "page", "comment": ""},
+	{"bbox_2d": [4, 911, 31, 971], "text": "陳玉", "size": "27", "type": "page", "comment": ""}
+]
+```
