@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "小刁五九", "bbox": [953, 30, 980, 118], "size": "40", "type": "image", "comment": ""},
+	{"text": "言之二一", "bbox": [957, 253, 984, 387], "size": "40", "type": "image", "comment": ""},
+	{"text": "陳元", "bbox": [953, 908, 980, 967], "size": "40", "type": "image", "comment": ""},
+	{"text": "束之形天所來也故爲行來之來", "bbox": [831, 156, 935, 981], "size": "40", "type": "image", "comment": ""},
+	{"text": "詩曰詒我來麰凡來之屬皆从來", "bbox": [698, 156, 803, 983], "size": "40", "type": "image", "comment": ""},
+	{"text": "洛哀", "bbox": [619, 169, 677, 250], "size": "40", "type": "image", "comment": ""},
+	{"text": "切", "bbox": [561, 170, 610, 200], "size": "40", "type": "image", "comment": ""},
+	{"text": "來", "bbox": [424, 23, 547, 151], "size": "40", "type": "image", "comment": ""},
+	{"text": "詩曰不獹不來从", "bbox": [485, 164, 545, 462], "size": "40", "type": "image", "comment": ""},
+	{"text": "來矣聲牀史切", "bbox": [426, 164, 480, 399], "size": "40", "type": "image", "comment": ""},
+	{"text": "獹或", "bbox": [491, 603, 541, 690], "size": "40", "type": "image", "comment": ""},
+	{"text": "从𠄎", "bbox": [428, 603, 479, 690], "size": "40", "type": "image", "comment": ""},
+	{"text": "文二", "bbox": [309, 274, 396, 391], "size": "40", "type": "image", "comment": ""},
+	{"text": "重一", "bbox": [306, 518, 393, 636], "size": "40", "type": "image", "comment": ""},
+	{"text": "麥", "bbox": [163, 22, 278, 149], "size": "40", "type": "image", "comment": ""},
+	{"text": "芒穀秋穜厚藋故謂之麥麥金也", "bbox": [167, 165, 273, 967], "size": "40", "type": "image", "comment": ""},
+	{"text": "金王而生火王而死从來有穗者", "bbox": [37, 162, 142, 978], "size": "40", "type": "image", "comment": ""}
+]
+```
