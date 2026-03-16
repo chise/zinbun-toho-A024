@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "式視", "bbox": [869, 169, 935, 246], "size": "48", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [817, 178, 869, 206], "size": "32", "type": "text", "comment": ""},
+	{"text": "弓弩發於身而中於遠", "bbox": [755, 174, 808, 536], "size": "25", "type": "text", "comment": ""},
+	{"text": "也从矢从身食夜切", "bbox": [690, 174, 743, 499], "size": "25", "type": "text", "comment": ""},
+	{"text": "篆文𠦑从寸寸", "bbox": [755, 676, 808, 838], "size": "25", "type": "text", "comment": ""},
+	{"text": "法度也亦手也", "bbox": [690, 686, 743, 838], "size": "25", "type": "text", "comment": ""},
+	{"text": "揉箭箝也从矢", "bbox": [623, 174, 676, 424], "size": "25", "type": "text", "comment": ""},
+	{"text": "喬聲居夭切", "bbox": [559, 174, 611, 378], "size": "25", "type": "text", "comment": ""},
+	{"text": "堆𠦑矢也从矢", "bbox": [623, 568, 676, 818], "size": "25", "type": "text", "comment": ""},
+	{"text": "曾聲作滕切", "bbox": [559, 568, 611, 772], "size": "25", "type": "text", "comment": ""},
+	{"text": "春饗所𠦑矦也从人从厂象張布矢在其下天子𠦑熊虎", "bbox": [490, 27, 544, 963], "size": "25", "type": "text", "comment": ""},
+	{"text": "豹服猛也諸矦𠦑熊豕虎大夫𠦑麋麋惑也士𠦑鹿豕", "bbox": [425, 27, 478, 953], "size": "25", "type": "text", "comment": ""},
+	{"text": "為田除害也其祝曰母若不寧矦不", "bbox": [359, 27, 413, 656], "size": "25", "type": "text", "comment": ""},
+	{"text": "朝于王所故伉而𠦑汝也乎溝切", "bbox": [295, 27, 348, 595], "size": "25", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [359, 762, 413, 848], "size": "25", "type": "text", "comment": ""},
+	{"text": "矦", "bbox": [295, 762, 348, 818], "size": "25", "type": "text", "comment": ""},
+	{"text": "傷也从矢易", "bbox": [229, 174, 282, 378], "size": "25", "type": "text", "comment": ""},
+	{"text": "聲式陽切", "bbox": [166, 174, 219, 336], "size": "25", "type": "text", "comment": ""},
+	{"text": "有所長短以矢爲正", "bbox": [229, 509, 282, 848], "size": "25", "type": "text", "comment": ""},
+	{"text": "从矢豆聲都管切", "bbox": [166, 509, 219, 808], "size": "25", "type": "text", "comment": ""},
+	{"text": "況也詞也从矢引省聲从矢", "bbox": [100, 27, 153, 509], "size": "25", "type": "text", "comment": ""},
+	{"text": "詞也从口从", "bbox": [100, 676, 153, 858], "size": "25", "type": "text", "comment": ""},
+	{"text": "取詞之所之如矢也式忍切", "bbox": [34, 27, 88, 509], "size": "25", "type": "text", "comment": ""},
+	{"text": "矢陟离切", "bbox": [34, 686, 88, 828], "size": "25", "type": "text", "comment": ""},
+	{"text": "小三十二", "bbox": [941, 18, 963, 106], "size": "16", "type": "text", "comment": ""}
+]
+```
