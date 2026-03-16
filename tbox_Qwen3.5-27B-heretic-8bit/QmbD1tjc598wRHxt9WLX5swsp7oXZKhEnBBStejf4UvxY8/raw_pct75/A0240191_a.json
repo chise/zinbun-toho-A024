@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "小亯一", "bbox": [956, 34, 979, 88], "size": "small", "type": "header"},
+	{"text": "洪章", "bbox": [956, 897, 979, 952], "size": "small", "type": "footer"},
+	{"text": "文二", "bbox": [833, 278, 935, 381], "size": "large", "type": "heading"},
+	{"text": "重一", "bbox": [833, 527, 935, 628], "size": "large", "type": "heading"},
+	{"text": "言", "bbox": [700, 39, 813, 156], "size": "large", "type": "character"},
+	{"text": "獻也从高省曰象進孰物形孝經", "bbox": [700, 185, 813, 974], "size": "medium", "type": "text"},
+	{"text": "曰祭則鬼高之凡高之屬皆从高", "bbox": [576, 193, 673, 974], "size": "medium", "type": "text"},
+	{"text": "許兩切又普庚", "bbox": [497, 200, 552, 447], "size": "small", "type": "text"},
+	{"text": "切又許庚切", "bbox": [438, 215, 492, 399], "size": "small", "type": "text"},
+	{"text": "文二", "bbox": [450, 690, 511, 846], "size": "large", "type": "heading"},
+	{"text": "高", "bbox": [305, 34, 422, 156], "size": "large", "type": "character"},
+	{"text": "篆文", "bbox": [365, 171, 422, 251], "size": "small", "type": "text"},
+	{"text": "孰也从高从羊讀若", "bbox": [365, 387, 422, 744], "size": "small", "type": "text"},
+	{"text": "篆文", "bbox": [365, 867, 422, 952], "size": "small", "type": "text"},
+	{"text": "高", "bbox": [305, 171, 360, 215], "size": "small", "type": "text"},
+	{"text": "高", "bbox": [305, 256, 422, 377], "size": "large", "type": "character"},
+	{"text": "純一曰鬻也常倫切", "bbox": [305, 396, 360, 744], "size": "small", "type": "text"},
+	{"text": "高", "bbox": [305, 734, 422, 856], "size": "large", "type": "character"},
+	{"text": "高", "bbox": [305, 867, 360, 916], "size": "small", "type": "text"},
+	{"text": "高", "bbox": [182, 39, 295, 156], "size": "large", "type": "character"},
+	{"text": "厚也从高竹聲", "bbox": [239, 179, 295, 425], "size": "small", "type": "text"},
+	{"text": "讀若篤冬毒切", "bbox": [182, 171, 239, 425], "size": "small", "type": "text"},
+	{"text": "高", "bbox": [182, 429, 295, 552], "size": "large", "type": "character"},
+	{"text": "用也从高从自自知臭香", "bbox": [239, 562, 295, 974], "size": "small", "type": "text"},
+	{"text": "所食也讀若庸余封切", "bbox": [182, 562, 239, 938], "size": "small", "type": "text"},
+	{"text": "文四", "bbox": [60, 288, 160, 401], "size": "large", "type": "heading"},
+	{"text": "重二", "bbox": [60, 513, 160, 620], "size": "large", "type": "heading"}
+]
+```
