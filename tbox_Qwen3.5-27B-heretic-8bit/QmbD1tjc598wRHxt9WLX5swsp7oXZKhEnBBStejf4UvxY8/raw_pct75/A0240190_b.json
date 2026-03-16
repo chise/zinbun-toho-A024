@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "阜", "bbox": [845, 26, 942, 147], "size": "35.0", "type": "heading"},
+	{"text": "度也民所度居也从回象城阜之", "bbox": [844, 163, 950, 966], "size": "31.66", "type": "description"},
+	{"text": "重兩亭相對也或但从口", "bbox": [725, 164, 822, 773], "size": "33.33", "type": "description"},
+	{"text": "音韋", "bbox": [725, 777, 830, 824], "size": "14.17", "type": "description"},
+	{"text": "凡阜", "bbox": [725, 838, 822, 971], "size": "36.67", "type": "description"},
+	{"text": "之屬皆从阜", "bbox": [586, 174, 691, 505], "size": "33.33", "type": "description"},
+	{"text": "古博", "bbox": [586, 510, 700, 594], "size": "18.33", "type": "description"},
+	{"text": "切", "bbox": [586, 510, 700, 594], "size": "18.33", "type": "description"},
+	{"text": "𡵥", "bbox": [449, 30, 564, 154], "size": "35.0", "type": "heading"},
+	{"text": "𡵥也古者城闕其南方謂之𡵥从阜", "bbox": [452, 166, 570, 764], "size": "25.83", "type": "description"},
+	{"text": "𡵥省讀若㧞物爲溲引也傾雪切", "bbox": [452, 166, 570, 764], "size": "25.83", "type": "description"},
+	{"text": "文二", "bbox": [474, 792, 560, 903], "size": "36.67", "type": "description"},
+	{"text": "京", "bbox": [320, 32, 434, 154], "size": "35.0", "type": "heading"},
+	{"text": "人所爲絕高丘也从高省丨象高", "bbox": [324, 167, 433, 972], "size": "33.33", "type": "description"},
+	{"text": "形凡京之屬皆从京", "bbox": [202, 167, 300, 651], "size": "33.33", "type": "description"},
+	{"text": "舉卿", "bbox": [202, 656, 313, 750], "size": "17.5", "type": "description"},
+	{"text": "切", "bbox": [202, 656, 313, 750], "size": "17.5", "type": "description"},
+	{"text": "就", "bbox": [61, 33, 172, 163], "size": "35.0", "type": "heading"},
+	{"text": "就高也从京从尤尤", "bbox": [63, 170, 181, 508], "size": "26.67", "type": "description"},
+	{"text": "異於凡也疾僦切", "bbox": [63, 170, 181, 508], "size": "26.67", "type": "description"},
+	{"text": "籒文", "bbox": [63, 513, 185, 719], "size": "20.0", "type": "description"},
+	{"text": "就", "bbox": [63, 513, 185, 719], "size": "20.0", "type": "description"},
+	{"text": "大十一", "bbox": [23, 37, 46, 95], "size": "8.33", "type": "description"},
+	{"text": "說文五下", "bbox": [13, 269, 46, 390], "size": "13.33", "type": "description"},
+	{"text": "唐文", "bbox": [35, 901, 61, 962], "size": "11.67", "type": "description"}
+]
+```
