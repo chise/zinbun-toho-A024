@@ -1,0 +1,28 @@
+```json
+[
+	{"bbox_2d": [950, 21, 975, 111], "text": "小弓干", "size": "small", "type": "text", "comment": ""},
+	{"bbox_2d": [946, 904, 976, 966], "text": "王生", "size": "small", "type": "text", "comment": ""},
+	{"bbox_2d": [884, 27, 937, 202], "text": "弟親比之", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [816, 29, 871, 206], "text": "義古蒐切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [836, 347, 931, 452], "text": "文二", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [837, 589, 931, 719], "text": "重一", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [701, 33, 801, 970], "text": "从後至也象人兩脛後有致之者", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [567, 180, 665, 782], "text": "凡夊之屬皆从夊讀若", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [619, 794, 674, 878], "text": "陟侈", "size": "small", "type": "text", "comment": ""},
+	{"bbox_2d": [557, 795, 612, 829], "text": "切", "size": "small", "type": "text", "comment": ""},
+	{"bbox_2d": [486, 182, 541, 602], "text": "相遮要害也从夊丰聲南", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [426, 182, 481, 543], "text": "陽新野有丰亭乎蓋切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [486, 762, 542, 972], "text": "悟也从夊丰", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [426, 754, 481, 971], "text": "聲讀若縫敷", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [358, 31, 412, 541], "text": "容服也从夊干相承", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [298, 32, 353, 494], "text": "切不敢竝也下江切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [358, 656, 412, 970], "text": "秦以市買多得爲", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [297, 657, 352, 970], "text": "易从了从夊益至", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [228, 33, 283, 494], "text": "也从乃詩曰我刍酌彼金罍", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [168, 32, 223, 494], "text": "臣鉉等曰乃難意也古乎切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [228, 650, 283, 903], "text": "跨步也从反夊", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [168, 651, 223, 904], "text": "𣪃从此苦瓦切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [41, 275, 136, 403], "text": "文六", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [955, 257, 990, 313], "text": "言文三", "size": "small", "type": "text", "comment": ""}
+]
+```
