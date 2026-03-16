@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "从羍", "bbox": [851, 162, 955, 284], "size": "50.92", "type": "heading", "comment": "始"},
+	{"text": "舒閏切今", "bbox": [908, 294, 959, 459], "size": "20.00", "type": "description", "comment": "始"},
+	{"text": "隷變作羍", "bbox": [840, 294, 891, 467], "size": "20.00", "type": "description", "comment": "始"},
+	{"text": "古文", "bbox": [771, 162, 821, 250], "size": "20.00", "type": "description", "comment": "羍"},
+	{"text": "羍", "bbox": [709, 162, 760, 220], "size": "20.00", "type": "description", "comment": "羍"},
+	{"text": "𢆤", "bbox": [709, 265, 760, 385], "size": "50.92", "type": "heading", "comment": "羍"},
+	{"text": "𤯮榮也从羍生聲讀若皇", "bbox": [771, 385, 830, 812], "size": "20.00", "type": "description", "comment": "羍"},
+	{"text": "爾雅曰羍𤯮也戸光切", "bbox": [710, 397, 768, 772], "size": "20.00", "type": "description", "comment": "羍"},
+	{"text": "羍", "bbox": [727, 831, 827, 964], "size": "50.92", "type": "heading", "comment": "羍"},
+	{"text": "羍或从", "bbox": [633, 33, 692, 157], "size": "20.00", "type": "description", "comment": "羍"},
+	{"text": "州皇", "bbox": [578, 33, 632, 122], "size": "20.00", "type": "description", "comment": "羍"},
+	{"text": "文二", "bbox": [590, 342, 686, 479], "size": "50.92", "type": "description", "comment": "羍"},
+	{"text": "重二", "bbox": [590, 651, 686, 778], "size": "50.92", "type": "description", "comment": "羍"},
+	{"text": "韋", "bbox": [457, 26, 551, 159], "size": "50.92", "type": "heading", "comment": "韋"},
+	{"text": "相背也从舛口聲獸皮之韋可以", "bbox": [450, 171, 559, 980], "size": "50.92", "type": "description", "comment": "韋"},
+	{"text": "束枉戾相韋背故借以爲皮韋凡", "bbox": [312, 171, 428, 985], "size": "50.92", "type": "description", "comment": "韋"},
+	{"text": "韋之屬皆从韋", "bbox": [185, 169, 285, 575], "size": "50.92", "type": "description", "comment": "韋"},
+	{"text": "宇非", "bbox": [248, 570, 297, 653], "size": "20.00", "type": "description", "comment": "韋"},
+	{"text": "切", "bbox": [190, 570, 242, 615], "size": "20.00", "type": "description", "comment": "韋"},
+	{"text": "古文", "bbox": [106, 184, 160, 262], "size": "20.00", "type": "description", "comment": "韋"},
+	{"text": "韋", "bbox": [48, 184, 99, 230], "size": "20.00", "type": "description", "comment": "韋"},
+	{"text": "韋", "bbox": [48, 268, 103, 389], "size": "50.92", "type": "heading", "comment": "韋"},
+	{"text": "韋", "bbox": [109, 268, 164, 389], "size": "50.92", "type": "heading", "comment": "韋"},
+	{"text": "韋也所以蔽前以韋下廣二尺上", "bbox": [113, 408, 173, 982], "size": "20.00", "type": "description", "comment": "韋"},
+	{"text": "廣一尺其頸五寸一命緼韝再命", "bbox": [47, 408, 107, 987], "size": "20.00", "type": "description", "comment": "韋"},
+	{"text": "古文", "bbox": [16, 908, 41, 987], "size": "20.00", "type": "description", "comment": "韋"},
+	{"text": "大少", "bbox": [6, 33, 31, 100], "size": "20.00", "type": "description", "comment": "韋"}
+]
+```
