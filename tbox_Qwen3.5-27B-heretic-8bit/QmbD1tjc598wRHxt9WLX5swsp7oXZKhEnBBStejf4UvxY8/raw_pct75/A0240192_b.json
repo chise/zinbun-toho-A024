@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "文四重二", "bbox": [891, 272, 986, 665], "size": "heading", "type": "main"},
+	{"text": "𥝁愛濇也从來从囟來者囟而藏之", "bbox": [740, 16, 857, 999], "size": "main", "type": "character"},
+	{"text": "故田夫謂之𥝁夫凡𥝁之屬皆从", "bbox": [604, 156, 714, 999], "size": "main", "type": "character"},
+	{"text": "𥝁所力", "bbox": [471, 150, 581, 312], "size": "main", "type": "phonetic"},
+	{"text": "切", "bbox": [461, 234, 503, 281], "size": "main", "type": "phonetic"},
+	{"text": "古文𥝁", "bbox": [391, 162, 443, 283], "size": "main", "type": "ancient"},
+	{"text": "从田", "bbox": [331, 164, 376, 233], "size": "main", "type": "ancient"},
+	{"text": "𥝁垣蔽也从𥝁", "bbox": [329, 287, 443, 659], "size": "main", "type": "character"},
+	{"text": "𠕎聲才良切", "bbox": [317, 429, 367, 653], "size": "main", "type": "phonetic"},
+	{"text": "𥝁籀文从", "bbox": [308, 663, 438, 884], "size": "main", "type": "ancient"},
+	{"text": "二禾", "bbox": [317, 804, 362, 884], "size": "main", "type": "ancient"},
+	{"text": "𥝁籀文亦", "bbox": [185, 15, 307, 294], "size": "main", "type": "ancient"},
+	{"text": "从二來", "bbox": [181, 163, 232, 294], "size": "main", "type": "ancient"},
+	{"text": "文二", "bbox": [198, 426, 288, 542], "size": "heading", "type": "main"},
+	{"text": "重三", "bbox": [188, 758, 281, 878], "size": "heading", "type": "main"},
+	{"text": "來周所受瑞麥來麰一來二縫象芒", "bbox": [47, 14, 158, 999], "size": "main", "type": "character"},
+	{"text": "大九", "bbox": [0, 15, 24, 60], "size": "header", "type": "page_number"}
+]
+```
