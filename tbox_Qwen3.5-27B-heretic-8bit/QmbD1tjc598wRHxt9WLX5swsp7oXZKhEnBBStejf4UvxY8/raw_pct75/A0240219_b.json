@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "𦴲", "bbox": [845, 29, 955, 167], "size": "large", "type": "seal"},
+	{"text": "艸木白華也从", "bbox": [885, 171, 955, 429], "size": "medium", "type": "regular"},
+	{"text": "華从白筍輒切", "bbox": [845, 171, 895, 421], "size": "medium", "type": "regular"},
+	{"text": "文二", "bbox": [855, 554, 945, 687], "size": "medium", "type": "regular"},
+	{"text": "𣎳", "bbox": [720, 29, 805, 167], "size": "large", "type": "seal"},
+	{"text": "木之曲頭止不能上也凡木之屬", "bbox": [720, 171, 815, 980], "size": "medium", "type": "regular"},
+	{"text": "皆从木", "bbox": [595, 166, 685, 352], "size": "medium", "type": "regular"},
+	{"text": "古兮", "bbox": [645, 364, 685, 443], "size": "small", "type": "regular"},
+	{"text": "切", "bbox": [595, 364, 635, 408], "size": "medium", "type": "regular"},
+	{"text": "𥟖", "bbox": [450, 29, 560, 167], "size": "large", "type": "seal"},
+	{"text": "多小意而止也从𥝌支", "bbox": [510, 171, 570, 554], "size": "medium", "type": "regular"},
+	{"text": "只聲一曰木也職雉切", "bbox": [450, 171, 510, 526], "size": "medium", "type": "regular"},
+	{"text": "𥟕", "bbox": [450, 564, 560, 692], "size": "large", "type": "seal"},
+	{"text": "積𥟏也从𥝌从", "bbox": [510, 717, 570, 976], "size": "medium", "type": "regular"},
+	{"text": "又句聲又者从", "bbox": [450, 717, 510, 976], "size": "medium", "type": "regular"},
+	{"text": "𥝌", "bbox": [185, 29, 295, 167], "size": "large", "type": "seal"},
+	{"text": "留止也从𥝌从尤旨聲凡𥟬之屬", "bbox": [205, 166, 295, 980], "size": "medium", "type": "regular"},
+	{"text": "皆从𥟬", "bbox": [70, 166, 160, 352], "size": "medium", "type": "regular"},
+	{"text": "古今", "bbox": [120, 364, 160, 443], "size": "small", "type": "regular"},
+	{"text": "切", "bbox": [70, 364, 110, 408], "size": "medium", "type": "regular"},
+	{"text": "丑省一曰木名徐鍇曰丑者束", "bbox": [380, 29, 440, 554], "size": "medium", "type": "regular"},
+	{"text": "縳也積𥟏不伸之意俱羽切", "bbox": [320, 29, 380, 509], "size": "medium", "type": "regular"},
+	{"text": "文三", "bbox": [330, 705, 420, 838], "size": "medium", "type": "regular"},
+	{"text": "大十", "bbox": [20, 29, 40, 67], "size": "small", "type": "regular"},
+	{"text": "兇文六下", "bbox": [10, 251, 40, 384], "size": "small", "type": "regular"},
+	{"text": "沈錫", "bbox": [25, 920, 50, 980], "size": "small", "type": "regular"},
+	{"text": "日", "bbox": [15, 732, 40, 758], "size": "small", "type": "regular"}
+]
+```
