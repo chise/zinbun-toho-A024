@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "東動也从木官溥說从日在木中凡", "bbox": [858, 29, 956, 978], "size": "49.667", "type": "text", "comment": ""},
+	{"text": "東之屬皆从東", "bbox": [734, 177, 821, 570], "size": "49.667", "type": "text", "comment": ""},
+	{"text": "得紅", "bbox": [782, 582, 832, 658], "size": "15.167", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [723, 584, 770, 621], "size": "20.083", "type": "text", "comment": ""},
+	{"text": "二東轉", "bbox": [656, 184, 704, 303], "size": "15.167", "type": "text", "comment": ""},
+	{"text": "从此闕", "bbox": [593, 177, 642, 304], "size": "33.667", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [604, 485, 689, 595], "size": "49.667", "type": "text", "comment": ""},
+	{"text": "林平土有叢木曰林从二木凡林之", "bbox": [464, 26, 556, 975], "size": "49.667", "type": "text", "comment": ""},
+	{"text": "屬皆从林", "bbox": [337, 170, 427, 433], "size": "49.667", "type": "text", "comment": ""},
+	{"text": "力尋", "bbox": [386, 443, 434, 522], "size": "15.167", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [327, 443, 376, 482], "size": "20.083", "type": "text", "comment": ""},
+	{"text": "豐也从林奰或說規模字从大冊數之積也林", "bbox": [256, 184, 310, 976], "size": "33.667", "type": "text", "comment": ""},
+	{"text": "者木之多也冊與庶同意商書曰庶草繁無徐", "bbox": [190, 184, 245, 976], "size": "33.667", "type": "text", "comment": ""},
+	{"text": "鍇曰或說大冊爲規模之模", "bbox": [123, 30, 177, 518], "size": "33.667", "type": "text", "comment": ""},
+	{"text": "木叢生者从林", "bbox": [127, 672, 178, 935], "size": "33.667", "type": "text", "comment": ""},
+	{"text": "諸部無者不審信也文甫切", "bbox": [60, 30, 113, 604], "size": "33.667", "type": "text", "comment": ""},
+	{"text": "鬯省聲迂弗切", "bbox": [62, 669, 113, 932], "size": "33.667", "type": "text", "comment": ""},
+	{"text": "大十三", "bbox": [21, 26, 43, 85], "size": "8.75", "type": "text", "comment": ""},
+	{"text": "王得", "bbox": [28, 915, 49, 975], "size": "8.75", "type": "text", "comment": ""}
+]
+```
