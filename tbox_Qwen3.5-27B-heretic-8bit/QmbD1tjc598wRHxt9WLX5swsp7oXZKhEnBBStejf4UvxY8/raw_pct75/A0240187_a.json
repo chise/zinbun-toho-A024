@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小言十五", "bbox": [907, 31, 933, 115], "size": "10", "type": "text", "comment": ""},
+	{"text": "言文五一", "bbox": [915, 252, 942, 378], "size": "10", "type": "text", "comment": ""},
+	{"text": "九", "bbox": [915, 688, 935, 713], "size": "10", "type": "text", "comment": ""},
+	{"text": "王必", "bbox": [907, 901, 933, 926], "size": "10", "type": "text", "comment": ""},
+	{"text": "古文會", "bbox": [849, 166, 899, 278], "size": "25", "type": "text", "comment": ""},
+	{"text": "益也从會皁", "bbox": [845, 422, 901, 626], "size": "25", "type": "text", "comment": ""},
+	{"text": "日月合宿爲", "bbox": [847, 763, 901, 931], "size": "25", "type": "text", "comment": ""},
+	{"text": "如此", "bbox": [790, 166, 843, 231], "size": "25", "type": "text", "comment": ""},
+	{"text": "聲符支切", "bbox": [786, 422, 843, 577], "size": "25", "type": "text", "comment": ""},
+	{"text": "辰从會从辰", "bbox": [786, 763, 845, 931], "size": "25", "type": "text", "comment": ""},
+	{"text": "辰亦聲", "bbox": [719, 30, 772, 158], "size": "25", "type": "text", "comment": ""},
+	{"text": "植鄰切", "bbox": [659, 30, 713, 115], "size": "25", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [669, 338, 762, 486], "size": "50", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [675, 637, 762, 783], "size": "50", "type": "text", "comment": ""},
+	{"text": "倉穀藏也倉黃取而藏之故謂之", "bbox": [542, 28, 645, 945], "size": "50", "type": "text", "comment": ""},
+	{"text": "倉从食省口象倉形凡倉之屬", "bbox": [415, 178, 517, 945], "size": "50", "type": "text", "comment": ""},
+	{"text": "皆从倉", "bbox": [299, 178, 390, 366], "size": "50", "type": "text", "comment": ""},
+	{"text": "七岡", "bbox": [355, 380, 399, 447], "size": "25", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [290, 380, 340, 417], "size": "25", "type": "text", "comment": ""},
+	{"text": "奇字", "bbox": [225, 147, 276, 241], "size": "25", "type": "text", "comment": ""},
+	{"text": "倉", "bbox": [169, 147, 215, 194], "size": "25", "type": "text", "comment": ""},
+	{"text": "鳥獸來食聲也从倉犮聲", "bbox": [222, 370, 276, 793], "size": "25", "type": "text", "comment": ""},
+	{"text": "虞書曰鳥獸膧膧七羊切", "bbox": [167, 370, 219, 785], "size": "25", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [52, 266, 141, 415], "size": "50", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [52, 502, 141, 652], "size": "50", "type": "text", "comment": ""},
+	{"text": "為", "bbox": [100, 901, 141, 931], "size": "25", "type": "text", "comment": ""},
+	{"text": "辰", "bbox": [34, 901, 78, 931], "size": "25", "type": "text", "comment": ""},
+	{"text": "必", "bbox": [786, 901, 812, 926], "size": "10", "type": "text", "comment": ""}
+]
+```

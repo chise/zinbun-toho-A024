@@ -1,0 +1,14 @@
+```json
+[
+	{"text": "小九十八", "bbox": [915, 31, 941, 86], "size": "small", "type": "line"},
+	{"text": "古文棄", "bbox": [847, 31, 904, 155], "size": "medium", "type": "line"},
+	{"text": "从几", "bbox": [792, 31, 845, 110], "size": "medium", "type": "line"},
+	{"text": "文三", "bbox": [792, 367, 897, 492], "size": "large", "type": "heading"},
+	{"text": "重一", "bbox": [792, 664, 897, 787], "size": "large", "type": "heading"},
+	{"text": "説文解字第五", "bbox": [542, 26, 648, 428], "size": "medium", "type": "heading"},
+	{"text": "下", "bbox": [595, 432, 640, 469], "size": "small", "type": "line"},
+	{"text": "言文五一", "bbox": [918, 254, 946, 369], "size": "small", "type": "line"},
+	{"text": "一", "bbox": [918, 676, 946, 729], "size": "small", "type": "line"},
+	{"text": "洪章", "bbox": [886, 894, 941, 952], "size": "small", "type": "line"}
+]
+```
