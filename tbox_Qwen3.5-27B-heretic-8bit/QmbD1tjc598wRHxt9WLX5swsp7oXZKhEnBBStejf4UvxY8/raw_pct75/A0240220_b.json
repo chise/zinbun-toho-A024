@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "黍也从黍影", "bbox": [905, 154, 969, 370], "size": "小", "type": "description", "comment": "heading"},
+	{"text": "聲許尤切", "bbox": [841, 154, 905, 332], "size": "小", "type": "description", "comment": "description"},
+	{"text": "黍堄巳復黍之从", "bbox": [905, 500, 969, 803], "size": "小", "type": "description", "comment": "description"},
+	{"text": "黍包聲匹兒切", "bbox": [841, 500, 905, 762], "size": "小", "type": "description", "comment": "description"},
+	{"text": "文三", "bbox": [864, 829, 954, 960], "size": "中", "type": "description", "comment": "heading"},
+	{"text": "朿縛也从口木凡朿之屬皆从朿", "bbox": [724, 176, 827, 967], "size": "大", "type": "description", "comment": "heading"},
+	{"text": "書玉", "bbox": [647, 174, 700, 259], "size": "中", "type": "description", "comment": "description"},
+	{"text": "切", "bbox": [591, 174, 647, 215], "size": "中", "type": "description", "comment": "description"},
+	{"text": "分別簡之也从朿从", "bbox": [512, 174, 571, 525], "size": "中", "type": "description", "comment": "description"},
+	{"text": "八八分別也古限切", "bbox": [453, 174, 512, 525], "size": "中", "type": "description", "comment": "description"},
+	{"text": "小朿也从朿开聲", "bbox": [512, 675, 571, 977], "size": "中", "type": "description", "comment": "description"},
+	{"text": "讀若薾古典切", "bbox": [453, 675, 512, 926], "size": "中", "type": "description", "comment": "description"},
+	{"text": "朿", "bbox": [469, 17, 558, 161], "size": "大", "type": "description", "comment": "heading"},
+	{"text": "朿", "bbox": [459, 533, 569, 656], "size": "大", "type": "description", "comment": "heading"},
+	{"text": "戾也从朿从刀刀者刺之也徐鍇曰刺", "bbox": [381, 174, 439, 840], "size": "中", "type": "description", "comment": "description"},
+	{"text": "乖違也朿而乖違者莫若刀也盧達切", "bbox": [320, 174, 381, 840], "size": "中", "type": "type", "comment": "description"},
+	{"text": "刺", "bbox": [323, 17, 434, 161], "size": "大", "type": "description", "comment": "heading"},
+	{"text": "文四", "bbox": [207, 280, 288, 397], "size": "大", "type": "description", "comment": "heading"},
+	{"text": "橐也从朿囗聲凡橐之屬皆从", "bbox": [64, 198, 164, 975], "size": "大", "type": "description", "comment": "heading"},
+	{"text": "橐", "bbox": [73, 25, 153, 161], "size": "大", "type": "description", "comment": "heading"},
+	{"text": "大十五", "bbox": [10, 15, 36, 86], "size": "小", "type": "description", "comment": "description"},
+	{"text": "說文下", "bbox": [0, 252, 36, 377], "size": "中", "type": "description", "comment": "description"},
+	{"text": "張信", "bbox": [15, 915, 40, 973], "size": "小", "type": "description", "comment": "description"}
+]
+```
