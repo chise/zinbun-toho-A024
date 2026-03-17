@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "文一", "bbox": [865, 479, 951, 596], "size": "large", "type": "header"},
+	{"text": "一初生岐枝也下", "bbox": [909, 23, 958, 333], "size": "medium", "type": "text"},
+	{"text": "一地也昨哉切", "bbox": [839, 24, 895, 288], "size": "medium", "type": "text"},
+	{"text": "説文解字弟六上", "bbox": [591, 14, 689, 450], "size": "large", "type": "header"},
+	{"text": "大", "bbox": [3, 679, 38, 729], "size": "medium", "type": "text"},
+	{"text": "王", "bbox": [19, 900, 41, 922], "size": "small", "type": "text"},
+	{"text": "明", "bbox": [16, 940, 41, 963], "size": "small", "type": "text"},
+	{"text": "小廿八", "bbox": [9, 30, 34, 88], "size": "small", "type": "text"},
+	{"text": "説文解字弟", "bbox": [0, 249, 31, 379], "size": "medium", "type": "text"}
+]
+```
