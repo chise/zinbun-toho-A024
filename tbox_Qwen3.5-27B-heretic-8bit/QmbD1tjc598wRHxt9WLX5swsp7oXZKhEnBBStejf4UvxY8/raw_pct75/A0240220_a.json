@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "小三百三十九", "bbox": [951, 24, 975, 102], "size": "30", "type": "Small text", "comment": "Small text at the top right corner."},
+	{"text": "𥫗特止也从𥟖省卓聲徐鍇", "bbox": [887, 167, 948, 588], "size": "18", "type": "Small text", "comment": "Small text under the character '𥫗'."},
+	{"text": "𥫗曰特止卓立也竹角切", "bbox": [828, 167, 879, 548], "size": "25", "type": "Main text", "comment": "Main text explaining the character '𥫗'."},
+	{"text": "𥫗𣚨而止也", "bbox": [887, 756, 942, 952], "size": "25", "type": "Main text", "comment": "Main text under the character '𥫗'."},
+	{"text": "𥫗从𥟖省咎聲", "bbox": [824, 756, 877, 969], "size": "25", "type": "Main text", "comment": "Main text under the character '𥫗'."},
+	{"text": "讀若皓賈侍中說𥟖𥫗", "bbox": [756, 24, 812, 434], "size": "25", "type": "Main text", "comment": "Main text describing the pronunciation and meaning."},
+	{"text": "𥫗三字皆木名古老切", "bbox": [692, 24, 749, 417], "size": "25", "type": "Main text", "comment": "Main text describing the characters '𥫗'."},
+	{"text": "文三", "bbox": [709, 638, 790, 753], "size": "40", "type": "Main text", "comment": "Large text indicating the number of characters."},
+	{"text": "巢鳥在木上曰巢在穴曰窠从木", "bbox": [571, 197, 665, 959], "size": "40", "type": "Main text", "comment": "Main text describing the character '巢'."},
+	{"text": "象形凡巢之屬皆从巢", "bbox": [443, 197, 534, 761], "size": "40", "type": "Main text", "comment": "Main text describing the character '巢'."},
+	{"text": "鉏交", "bbox": [491, 789, 547, 875], "size": "25", "type": "Small text", "comment": "Small text indicating the pronunciation."},
+	{"text": "切", "bbox": [441, 789, 481, 831], "size": "25", "type": "Small text", "comment": "Small text indicating the pronunciation."},
+	{"text": "㝵傾覆也从寸臼覆之寸人手也从巢", "bbox": [366, 167, 418, 779], "size": "25", "type": "Small text", "comment": "Small text describing the character '㝵'."},
+	{"text": "省杜林說以爲貶損之貶方歛切", "bbox": [297, 167, 356, 723], "size": "25", "type": "Small text", "comment": "Small text describing the character '㝵'."},
+	{"text": "文二", "bbox": [316, 820, 401, 937], "size": "40", "type": "Main text", "comment": "Large text indicating the number of characters."},
+	{"text": "朁木汁可以𩬊物象形朁如水滴而", "bbox": [185, 186, 271, 969], "size": "40", "type": "Main text", "comment": "Main text describing the character '朁'."},
+	{"text": "下凡朁之屬皆从朁", "bbox": [53, 186, 142, 686], "size": "40", "type": "Main text", "comment": "Main text describing the character '朁'."},
+	{"text": "親吉", "bbox": [100, 696, 156, 782], "size": "25", "type": "Small text", "comment": "Small text indicating the pronunciation."},
+	{"text": "切", "bbox": [42, 696, 82, 738], "size": "25", "type": "Small text", "comment": "Small text indicating the pronunciation."},
+	{"text": "祁三", "bbox": [950, 913, 973, 966], "size": "25", "type": "Small text", "comment": "Small text at the bottom right corner."}
+]
+```
