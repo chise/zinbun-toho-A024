@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "小句九十一", "bbox": [952, 38, 978, 121], "size": "小", "type": "heading", "comment": ""},
+	{"text": "言文十七", "bbox": [960, 233, 988, 291], "size": "小", "type": "heading", "comment": ""},
+	{"text": "小句八十一", "bbox": [956, 675, 983, 709], "size": "小", "type": "heading", "comment": ""},
+	{"text": "陳元", "bbox": [942, 900, 970, 968], "size": "小", "type": "heading", "comment": ""},
+	{"text": "爲程十程爲分十分爲", "bbox": [883, 25, 946, 416], "size": "大", "type": "body", "comment": ""},
+	{"text": "布之八十縷爲稯", "bbox": [878, 571, 938, 861], "size": "大", "type": "body", "comment": ""},
+	{"text": "寸从禾呈聲直貞切", "bbox": [825, 24, 883, 373], "size": "大", "type": "body", "comment": ""},
+	{"text": "从禾戁聲子紅切", "bbox": [820, 586, 878, 855], "size": "大", "type": "body", "comment": ""},
+	{"text": "籀文", "bbox": [756, 177, 807, 245], "size": "大", "type": "body", "comment": ""},
+	{"text": "五稯爲秭从禾弔聲一曰", "bbox": [750, 386, 807, 823], "size": "大", "type": "body", "comment": ""},
+	{"text": "稯省", "bbox": [694, 177, 744, 245], "size": "大", "type": "body", "comment": ""},
+	{"text": "數億至萬曰秭將几切", "bbox": [689, 403, 744, 783], "size": "大", "type": "body", "comment": ""},
+	{"text": "二秭爲秠从禾毛聲周禮曰二百四十斤爲秉四秉", "bbox": [620, 35, 681, 905], "size": "大", "type": "body", "comment": ""},
+	{"text": "曰筥十筥曰稯十稯曰秠四百秉爲一秠宅加切", "bbox": [554, 36, 615, 859], "size": "大", "type": "body", "comment": ""},
+	{"text": "百二十斤也稻一秞爲粟二十升禾黍一", "bbox": [491, 175, 548, 761], "size": "大", "type": "body", "comment": ""},
+	{"text": "秞爲粟十六升太半升从禾石聲常隻切", "bbox": [426, 172, 483, 855], "size": "大", "type": "body", "comment": ""},
+	{"text": "復其時也从禾其聲虞書", "bbox": [361, 25, 420, 457], "size": "大", "type": "body", "comment": ""},
+	{"text": "曰稘三百有六旬居之切", "bbox": [296, 25, 355, 455], "size": "大", "type": "body", "comment": ""},
+	{"text": "文八十七 重十三", "bbox": [170, 348, 279, 828], "size": "大", "type": "heading", "comment": ""},
+	{"text": "蹂穀聚也一曰安也从禾", "bbox": [104, 168, 160, 571], "size": "大", "type": "body", "comment": ""},
+	{"text": "束稈也从禾", "bbox": [99, 748, 155, 968], "size": "大", "type": "body", "comment": ""},
+	{"text": "隱省古通用安隱烏本切", "bbox": [40, 164, 96, 568], "size": "大", "type": "body", "comment": ""},
+	{"text": "辜聲之閏切", "bbox": [35, 747, 91, 966], "size": "大", "type": "body", "comment": ""}
+]
+```
