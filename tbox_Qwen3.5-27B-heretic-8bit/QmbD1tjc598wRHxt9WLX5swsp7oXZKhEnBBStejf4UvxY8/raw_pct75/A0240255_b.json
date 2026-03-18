@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "鬴米一斛舂爲九斗曰", "bbox": [905, 163, 963, 538], "size": "35.37", "type": "main", "comment": ""},
+	{"text": "䴵从𥞟芈聲則各切", "bbox": [846, 163, 903, 536], "size": "27.79", "type": "main", "comment": ""},
+	{"text": "文二", "bbox": [864, 676, 959, 798], "size": "64.33", "type": "main", "comment": ""},
+	{"text": "舂也古者掘地爲臼其後穿木", "bbox": [724, 149, 828, 981], "size": "52.59", "type": "main", "comment": ""},
+	{"text": "石象形中米也凡臼之屬皆从臼", "bbox": [591, 151, 696, 977], "size": "53.92", "type": "main", "comment": ""},
+	{"text": "其九", "bbox": [507, 167, 564, 242], "size": "33.95", "type": "main", "comment": ""},
+	{"text": "切", "bbox": [451, 167, 505, 202], "size": "33.95", "type": "main", "comment": ""},
+	{"text": "擣粟也从廾持杵臨曰上午杵", "bbox": [372, 165, 430, 696], "size": "29.96", "type": "main", "comment": ""},
+	{"text": "省也古者雝父初作舂書容切", "bbox": [315, 165, 371, 694], "size": "29.96", "type": "main", "comment": ""},
+	{"text": "齊謂舂", "bbox": [372, 848, 440, 981], "size": "30.59", "type": "main", "comment": ""},
+	{"text": "曰䴵从", "bbox": [315, 848, 372, 981], "size": "29.96", "type": "main", "comment": ""},
+	{"text": "舂去麥皮也从臼干", "bbox": [240, 384, 303, 748], "size": "31.61", "type": "main", "comment": ""},
+	{"text": "所以䴵之楚洽切", "bbox": [184, 384, 240, 694], "size": "31.61", "type": "main", "comment": ""},
+	{"text": "抒臼", "bbox": [241, 897, 303, 981], "size": "30.59", "type": "main", "comment": ""},
+	{"text": "也从", "bbox": [184, 897, 241, 981], "size": "31.61", "type": "main", "comment": ""},
+	{"text": "臼或从", "bbox": [110, 433, 173, 832], "size": "31.61", "type": "main", "comment": ""},
+	{"text": "手从宂", "bbox": [54, 433, 109, 565], "size": "31.61", "type": "main", "comment": ""},
+	{"text": "臼宂", "bbox": [54, 713, 109, 797], "size": "31.61", "type": "main", "comment": ""},
+	{"text": "爪臼詩曰或簸", "bbox": [110, 22, 172, 287], "size": "32.63", "type": "main", "comment": ""},
+	{"text": "或舀以沼切", "bbox": [54, 22, 109, 287], "size": "32.63", "type": "main", "comment": ""},
+	{"text": "曰芈聲讀若", "bbox": [240, 22, 302, 287], "size": "31.61", "type": "main", "comment": ""},
+	{"text": "膊匹各切", "bbox": [183, 22, 240, 199], "size": "32.63", "type": "main", "comment": ""},
+	{"text": "大十一", "bbox": [4, 30, 35, 95], "size": "10.62", "type": "main", "comment": ""},
+	{"text": "十", "bbox": [3, 694, 27, 721], "size": "14.03", "type": "main", "comment": ""},
+	{"text": "丁山", "bbox": [22, 906, 45, 969], "size": "14.03", "type": "main", "comment": ""},
+	{"text": "說文正", "bbox": [0, 330, 27, 379], "size": "13.53", "type": "main", "comment": ""}
+]
+```
