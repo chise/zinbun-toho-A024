@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "文二", "bbox": [849, 329, 938, 436], "size": "heading", "type": "text", "comment": "This is the main heading on the right side."},
+	{"text": "新附", "bbox": [884, 453, 944, 530], "size": "subheading", "type": "text", "comment": "This is a subheading under the main heading."},
+	{"text": "有", "bbox": [709, 35, 800, 163], "size": "seal", "type": "seal", "comment": "This is a seal script character."},
+	{"text": "不宜有也春秋傳曰日月有食之", "bbox": [709, 172, 806, 957], "size": "description", "type": "text", "comment": "This is the description text."},
+	{"text": "从月又聲凡有之屬皆从有", "bbox": [578, 171, 674, 860], "size": "description", "type": "text", "comment": "This is the description text."},
+	{"text": "云九", "bbox": [640, 872, 693, 945], "size": "small note", "type": "text", "comment": "This is a small note."},
+	{"text": "切", "bbox": [582, 872, 628, 909], "size": "small note", "type": "text", "comment": "This is a small note."},
+	{"text": "𠦝", "bbox": [440, 40, 555, 166], "size": "seal", "type": "seal", "comment": "This is a seal script character."},
+	{"text": "有文章也从有", "bbox": [505, 178, 558, 440], "size": "description", "type": "text", "comment": "This is the description text."},
+	{"text": "㱿聲於六切", "bbox": [439, 177, 500, 440], "size": "description", "type": "text", "comment": "This is the description text."},
+	{"text": "𠦝", "bbox": [440, 450, 561, 576], "size": "seal", "type": "seal", "comment": "This is a seal script character."},
+	{"text": "兼有也从有龍聲", "bbox": [505, 594, 558, 898], "size": "description", "type": "text", "comment": "This is the description text."},
+	{"text": "讀若聾盧紅切", "bbox": [440, 592, 501, 898], "size": "description", "type": "text", "comment": "This is the description text."},
+	{"text": "文三", "bbox": [329, 276, 415, 404], "size": "heading", "type": "text", "comment": "This is a heading."},
+	{"text": "𠃘", "bbox": [182, 56, 291, 154], "size": "seal", "type": "seal", "comment": "This is a seal script character."},
+	{"text": "照也从月从囧凡朙之屬皆从朙", "bbox": [191, 174, 291, 960], "size": "description", "type": "text", "comment": "This is the description text."},
+	{"text": "武兵", "bbox": [112, 183, 165, 273], "size": "small note", "type": "text", "comment": "This is a small note."},
+	{"text": "切", "bbox": [58, 185, 101, 221], "size": "small note", "type": "text", "comment": "This is a small note."},
+	{"text": "大十", "bbox": [16, 46, 35, 105], "size": "page number", "type": "text", "comment": "This is a page number."},
+	{"text": "袁和", "bbox": [21, 904, 47, 966], "size": "small note", "type": "text", "comment": "This is a small note."}
+]
+```
