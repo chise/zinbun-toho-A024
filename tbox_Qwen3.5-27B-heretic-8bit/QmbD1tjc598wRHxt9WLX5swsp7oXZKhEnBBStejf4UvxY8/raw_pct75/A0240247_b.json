@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "隃", "bbox": [846, 17, 967, 151], "size": "71.33", "type": "Han", "comment": "篆"},
+	{"text": "築牆短版也从片俞聲讀", "bbox": [905, 170, 968, 609], "size": "33.88", "type": "Han", "comment": ""},
+	{"text": "若俞一曰若紐度矦切", "bbox": [847, 170, 912, 609], "size": "33.88", "type": "Han", "comment": ""},
+	{"text": "文八", "bbox": [865, 690, 963, 809], "size": "116.42", "type": "Han", "comment": ""},
+	{"text": "鼎", "bbox": [717, 17, 827, 151], "size": "71.33", "type": "Han", "comment": "篆"},
+	{"text": "三足兩耳和五味之寶器也昔禹", "bbox": [733, 166, 827, 980], "size": "67.44", "type": "Han", "comment": ""},
+	{"text": "收九牧之金鑄鼎荆山之下入山", "bbox": [592, 166, 691, 975], "size": "67.44", "type": "Han", "comment": ""},
+	{"text": "林川澤螭魅蝄蜽莫能逢之以協", "bbox": [461, 161, 560, 983], "size": "67.44", "type": "Han", "comment": ""},
+	{"text": "承天休易卦巽木於下者爲鼎象", "bbox": [327, 161, 427, 991], "size": "67.44", "type": "Han", "comment": ""},
+	{"text": "析木以炊也籀文以鼎爲真字凡", "bbox": [193, 161, 289, 983], "size": "67.44", "type": "Han", "comment": ""},
+	{"text": "鼎之屬皆从鼎", "bbox": [58, 166, 150, 570], "size": "67.44", "type": "Han", "comment": ""},
+	{"text": "都挺", "bbox": [105, 587, 159, 673], "size": "39.96", "type": "Han", "comment": ""},
+	{"text": "切", "bbox": [50, 587, 100, 627], "size": "39.96", "type": "Han", "comment": ""},
+	{"text": "表", "bbox": [6, 907, 43, 937], "size": "28.76", "type": "Han", "comment": ""},
+	{"text": "和", "bbox": [10, 950, 43, 978], "size": "28.76", "type": "Han", "comment": ""},
+	{"text": "大", "bbox": [5, 25, 25, 43], "size": "18.17", "type": "Han", "comment": ""},
+	{"text": "十", "bbox": [5, 47, 25, 73], "size": "26.26", "type": "Han", "comment": ""},
+	{"text": "六", "bbox": [1, 260, 25, 293], "size": "32.84", "type": "Han", "comment": ""},
+	{"text": "五", "bbox": [0, 362, 23, 387], "size": "25.02", "type": "Han", "comment": ""},
+	{"text": "三", "bbox": [0, 390, 23, 412], "size": "21.95", "type": "Han", "comment": ""}
+]
+```
