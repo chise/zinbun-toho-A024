@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "籀文三", "bbox": [908, 172, 958, 293], "size": "small", "type": "heading", "comment": ""},
+	{"text": "木也从木其實下", "bbox": [908, 440, 962, 694], "size": "small", "type": "description", "comment": ""},
+	{"text": "垂故从囟力質切", "bbox": [847, 440, 899, 694], "size": "small", "type": "description", "comment": ""},
+	{"text": "古文㯓", "bbox": [912, 777, 958, 989], "size": "small", "type": "description", "comment": ""},
+	{"text": "从西从", "bbox": [847, 777, 899, 989], "size": "small", "type": "description", "comment": ""},
+	{"text": "籀文", "bbox": [633, 28, 687, 113], "size": "small", "type": "heading", "comment": ""},
+	{"text": "二囟徐廵説木", "bbox": [770, 28, 824, 275], "size": "small", "type": "description", "comment": ""},
+	{"text": "至西方戰㯓", "bbox": [709, 28, 763, 275], "size": "small", "type": "description", "comment": ""},
+	{"text": "嘉榖實也从囟从米孔子", "bbox": [770, 440, 824, 855], "size": "small", "type": "description", "comment": ""},
+	{"text": "曰㯓之爲言續也相玉切", "bbox": [709, 440, 763, 855], "size": "small", "type": "description", "comment": ""},
+	{"text": "文三", "bbox": [589, 340, 687, 460], "size": "large", "type": "heading", "comment": ""},
+	{"text": "重三", "bbox": [589, 587, 687, 708], "size": "large", "type": "heading", "comment": ""},
+	{"text": "籀文", "bbox": [633, 28, 687, 113], "size": "small", "type": "heading", "comment": ""},
+	{"text": "禾麥吐穗上平也象形凡㒸之屬", "bbox": [457, 163, 558, 998], "size": "large", "type": "description", "comment": ""},
+	{"text": "皆从㒸", "bbox": [325, 163, 425, 385], "size": "large", "type": "description", "comment": ""},
+	{"text": "徐鍇曰生而齊者莫若禾麥二", "bbox": [384, 404, 433, 927], "size": "small", "type": "description", "comment": ""},
+	{"text": "地也兩傍在低處也徂兮切", "bbox": [312, 404, 366, 885], "size": "small", "type": "description", "comment": ""},
+	{"text": "等也从㒸妻", "bbox": [239, 180, 291, 392], "size": "small", "type": "description", "comment": ""},
+	{"text": "聲徂兮切", "bbox": [177, 180, 229, 351], "size": "small", "type": "description", "comment": ""},
+	{"text": "文二", "bbox": [200, 617, 290, 736], "size": "large", "type": "heading", "comment": ""},
+	{"text": "木芒也象形凡束之屬皆从束讀", "bbox": [57, 177, 156, 999], "size": "large", "type": "description", "comment": ""},
+	{"text": "囟為囟", "bbox": [847, 163, 894, 275], "size": "small", "type": "description", "comment": ""}
+]
+```
