@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "小古文", "bbox": [951, 35, 981, 122], "size": "1.5", "type": "text", "comment": "Top right margin text"},
+	{"text": "言文一一", "bbox": [962, 257, 989, 399], "size": "1.5", "type": "text", "comment": "Right margin text"},
+	{"text": "李云", "bbox": [948, 903, 977, 971], "size": "1.5", "type": "text", "comment": "Bottom right margin text"},
+	{"text": "卣木蘀甬甬然也", "bbox": [885, 176, 941, 461], "size": "2.5", "type": "text", "comment": "Main text, rightmost column"},
+	{"text": "从弓用聲余隴切", "bbox": [826, 176, 877, 461], "size": "2.5", "type": "text", "comment": "Main text, rightmost column"},
+	{"text": "卣木弓盛也从", "bbox": [882, 609, 938, 849], "size": "2.5", "type": "text", "comment": "Main text, rightmost column"},
+	{"text": "二弓胡先切", "bbox": [825, 609, 876, 811], "size": "2.5", "type": "text", "comment": "Main text, rightmost column"},
+	{"text": "文五 重一", "bbox": [707, 279, 797, 639], "size": "2.5", "type": "text", "comment": "Main text, second column from right"},
+	{"text": "東木垂蘀實从木弓弓亦聲凡東之", "bbox": [568, 194, 676, 979], "size": "2.5", "type": "text", "comment": "Main text, third column from right"},
+	{"text": "屬皆从東", "bbox": [444, 178, 530, 430], "size": "2.5", "type": "text", "comment": "Main text, fourth column from right"},
+	{"text": "胡感", "bbox": [486, 437, 543, 520], "size": "1.5", "type": "text", "comment": "Subtext, fourth column from right"},
+	{"text": "切", "bbox": [436, 437, 482, 473], "size": "1.5", "type": "text", "comment": "Subtext, fourth column from right"},
+	{"text": "東也从東韋聲徐鍇曰言束之", "bbox": [357, 171, 414, 670], "size": "2.5", "type": "text", "comment": "Main text, fifth column from right"},
+	{"text": "象木蘀實之相累也于非切", "bbox": [299, 171, 353, 633], "size": "2.5", "type": "text", "comment": "Main text, fifth column from right"},
+	{"text": "文二", "bbox": [309, 774, 396, 893], "size": "2.5", "type": "text", "comment": "Main text, fifth column from right"},
+	{"text": "卣木實垂卣卣然象形凡卣之屬", "bbox": [175, 171, 271, 975], "size": "2.5", "type": "text", "comment": "Main text, sixth column from right"},
+	{"text": "皆从卣讀若調", "bbox": [43, 171, 139, 635], "size": "2.5", "type": "text", "comment": "Main text, leftmost column"},
+	{"text": "徒遼", "bbox": [96, 548, 147, 629], "size": "1.5", "type": "text", "comment": "Subtext, leftmost column"},
+	{"text": "切", "bbox": [42, 548, 89, 585], "size": "1.5", "type": "text", "comment": "Subtext, leftmost column"}
+]
+```
