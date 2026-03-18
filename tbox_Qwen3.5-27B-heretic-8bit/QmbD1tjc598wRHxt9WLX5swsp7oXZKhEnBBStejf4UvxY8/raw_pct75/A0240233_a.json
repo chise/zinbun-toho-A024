@@ -1,0 +1,9 @@
+```json
+[
+	{"text": "小十七", "bbox": [793, 260, 821, 302], "size": "14", "type": "page_number", "comment": "Book title and volume"},
+	{"text": "詁文下", "bbox": [795, 397, 826, 462], "size": "19", "type": "heading", "comment": "Section title"},
+	{"text": "十七", "bbox": [769, 518, 815, 588], "size": "23", "type": "page_number", "comment": "Page number"},
+	{"text": "俊", "bbox": [960, 824, 982, 846], "size": "10", "type": "heading", "comment": "First character of the text column"},
+	{"text": "下", "bbox": [645, 823, 665, 841], "size": "10", "type": "heading", "comment": "Second character of the text column"}
+]
+```
