@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "小君十七", "bbox": [940, 23, 965, 74], "size": "小", "type": "text", "comment": "Top right corner"},
+	{"text": "小阱也從人在", "bbox": [877, 32, 930, 300], "size": "小", "type": "text", "comment": "Top right column"},
+	{"text": "曰上戸獜切", "bbox": [815, 28, 866, 260], "size": "小", "type": "text", "comment": "Top right column"},
+	{"text": "文六", "bbox": [834, 484, 922, 584], "size": "大", "type": "heading", "comment": "Heading"},
+	{"text": "重二", "bbox": [834, 693, 922, 792], "size": "大", "type": "heading", "comment": "Heading"},
+	{"text": "惡也象地穿交陷其中也凡凶之", "bbox": [701, 168, 790, 933], "size": "大", "type": "text", "comment": "Main text column"},
+	{"text": "屬皆从凶", "bbox": [573, 164, 658, 411], "size": "大", "type": "text", "comment": "Main text column"},
+	{"text": "許容", "bbox": [612, 450, 674, 537], "size": "小", "type": "text", "comment": "Main text column"},
+	{"text": "切", "bbox": [560, 448, 605, 487], "size": "小", "type": "text", "comment": "Main text column"},
+	{"text": "擾恐也從人在凶下春秋", "bbox": [481, 166, 539, 582], "size": "小", "type": "text", "comment": "Main text column"},
+	{"text": "傳曰曹人兇懼許拱切", "bbox": [421, 156, 478, 537], "size": "小", "type": "text", "comment": "Main text column"},
+	{"text": "文二", "bbox": [440, 650, 525, 775], "size": "大", "type": "heading", "comment": "Heading"},
+	{"text": "說文解字第七上", "bbox": [176, 25, 264, 468], "size": "大", "type": "heading", "comment": "Main title"},
+	{"text": "四月十九日鳩工修葺戈莊丙舍携此往校燈下完此卷", "bbox": [74, 354, 117, 939], "size": "小", "type": "text", "comment": "Bottom left column"},
+	{"text": "說文七上", "bbox": [952, 253, 987, 362], "size": "小", "type": "text", "comment": "Top right margin"},
+	{"text": "王必", "bbox": [944, 898, 969, 943], "size": "小", "type": "text", "comment": "Bottom right margin"},
+	{"text": "十", "bbox": [958, 690, 987, 714], "size": "小", "type": "text", "comment": "Right margin"},
+	{"text": "凶", "bbox": [704, 38, 793, 141], "size": "大", "type": "image", "comment": "Image of character"},
+	{"text": "凶", "bbox": [440, 25, 526, 150], "size": "大", "type": "image", "comment": "Image of character"}
+]
+```
