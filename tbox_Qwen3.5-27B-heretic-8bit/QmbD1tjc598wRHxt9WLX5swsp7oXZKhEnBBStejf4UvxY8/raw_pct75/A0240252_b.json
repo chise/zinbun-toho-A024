@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "文二", "bbox": [863, 341, 968, 469], "size": "30", "type": "heading", "comment": ""},
+	{"text": "新附", "bbox": [915, 483, 976, 565], "size": "10", "type": "text", "comment": ""},
+	{"text": "秝", "bbox": [725, 25, 832, 156], "size": "35", "type": "heading", "comment": ""},
+	{"text": "稀疏適也从二禾凡秝之屬皆从", "bbox": [726, 164, 838, 986], "size": "27", "type": "text", "comment": ""},
+	{"text": "秝讀若歴", "bbox": [591, 182, 698, 419], "size": "27", "type": "text", "comment": ""},
+	{"text": "郎擊", "bbox": [652, 434, 700, 526], "size": "10", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [592, 435, 640, 470], "size": "10", "type": "text", "comment": ""},
+	{"text": "𥝨", "bbox": [454, 23, 569, 154], "size": "35", "type": "heading", "comment": ""},
+	{"text": "幷也从又持秝兼持二", "bbox": [519, 172, 572, 553], "size": "14", "type": "text", "comment": ""},
+	{"text": "禾秉持一禾古甜切", "bbox": [454, 171, 508, 473], "size": "14", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [470, 689, 563, 794], "size": "30", "type": "heading", "comment": ""},
+	{"text": "黍", "bbox": [322, 19, 433, 155], "size": "35", "type": "heading", "comment": ""},
+	{"text": "禾屬而黏者也以大暑而種故謂", "bbox": [329, 167, 432, 986], "size": "27", "type": "text", "comment": ""},
+	{"text": "之黍从禾雨省聲孔子曰黍可爲酒", "bbox": [195, 166, 298, 988], "size": "27", "type": "text", "comment": ""},
+	{"text": "禾入水也凡黍之屬皆从黍", "bbox": [64, 163, 168, 845], "size": "27", "type": "text", "comment": ""},
+	{"text": "舒吕", "bbox": [118, 852, 173, 941], "size": "10", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [49, 853, 102, 889], "size": "10", "type": "text", "comment": ""},
+	{"text": "唐文", "bbox": [17, 907, 48, 970], "size": "10", "type": "text", "comment": ""},
+	{"text": "大十三", "bbox": [12, 27, 38, 74], "size": "10", "type": "text", "comment": ""}
+]
+```
