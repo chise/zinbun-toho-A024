@@ -1,0 +1,10 @@
+```json
+[
+	{"bbox_2d": [849, 275, 941, 631], "text_content": "文三 重一", "size": "136", "type": "heading", "comment": ""},
+	{"bbox_2d": [578, 23, 688, 403], "text_content": "說文解字弟六", "size": "106", "type": "heading", "comment": ""},
+	{"bbox_2d": [634, 412, 681, 448], "text_content": "下", "size": "29", "type": "description", "comment": ""},
+	{"bbox_2d": [4, 258, 32, 383], "text_content": "色二", "size": "22", "type": "page_number", "comment": ""},
+	{"bbox_2d": [7, 689, 33, 737], "text_content": "二", "size": "24", "type": "page_number", "comment": ""},
+	{"bbox_2d": [7, 898, 39, 964], "text_content": "焦克", "size": "20", "type": "comment", "comment": ""}
+]
+```
