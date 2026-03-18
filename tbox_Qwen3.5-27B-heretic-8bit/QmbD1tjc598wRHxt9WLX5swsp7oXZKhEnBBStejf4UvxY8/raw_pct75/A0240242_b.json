@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "古文", "bbox": [780, 18, 832, 105], "size": "31.43", "type": "heading", "comment": "This is a heading indicating the type of script."},
+	{"text": "萬物之精上爲列星从晶生聲一曰象", "bbox": [912, 158, 967, 836], "size": "31.43", "type": "text", "comment": "This is a definition or explanation of a character."},
+	{"text": "形从口古口復注中故與日同桑經切", "bbox": [846, 158, 903, 836], "size": "31.43", "type": "text", "comment": "This is a description of the character's form and pronunciation."},
+	{"text": "星", "bbox": [727, 23, 776, 64], "size": "31.43", "type": "text", "comment": "This is the character being defined."},
+	{"text": "疊或", "bbox": [781, 369, 831, 445], "size": "31.43", "type": "text", "comment": "This is an alternative form of the character."},
+	{"text": "省", "bbox": [729, 244, 776, 291], "size": "31.43", "type": "text", "comment": "This indicates a simplified form of the character."},
+	{"text": "商星也从晶㸚聲臣鉉等", "bbox": [781, 497, 831, 946], "size": "31.43", "type": "text", "comment": "This is a further explanation or note about the character."},
+	{"text": "曰㸚非聲未詳所今切", "bbox": [714, 500, 767, 878], "size": "31.43", "type": "text", "comment": "This is another note about the character's pronunciation."},
+	{"text": "參或", "bbox": [650, 167, 701, 248], "size": "31.43", "type": "text", "comment": "This is an alternative form of the character."},
+	{"text": "省", "bbox": [589, 167, 640, 214], "size": "31.43", "type": "text", "comment": "This indicates a simplified form of the character."},
+	{"text": "房星爲民田時者", "bbox": [648, 397, 702, 694], "size": "31.43", "type": "text", "comment": "This is a definition or explanation of a character."},
+	{"text": "从晶辰聲植鄰切", "bbox": [585, 397, 639, 694], "size": "31.43", "type": "text", "comment": "This is a description of the character's form and pronunciation."},
+	{"text": "晨或", "bbox": [648, 839, 701, 924], "size": "31.43", "type": "text", "comment": "This is an alternative form of the character."},
+	{"text": "省", "bbox": [588, 839, 639, 886], "size": "31.43", "type": "text", "comment": "This indicates a simplified form of the character."},
+	{"text": "楊雄說以爲古理官決罪三日得其宜乃行之从", "bbox": [514, 165, 569, 979], "size": "31.43", "type": "text", "comment": "This is a quote or explanation from a historical figure."},
+	{"text": "晶从宜𠤎新以爲疊从三日太盛改爲三田徒叶", "bbox": [449, 165, 504, 979], "size": "31.43", "type": "text", "comment": "This is a description of the character's form and pronunciation."},
+	{"text": "切", "bbox": [382, 18, 433, 51], "size": "31.43", "type": "text", "comment": "This indicates the pronunciation of the character."},
+	{"text": "文五", "bbox": [325, 371, 417, 480], "size": "31.43", "type": "text", "comment": "This is a section or chapter number."},
+	{"text": "重四", "bbox": [335, 615, 417, 733], "size": "31.43", "type": "text", "comment": "This is a section or chapter number."},
+	{"text": "闕也太陰之精象形凡月之屬皆", "bbox": [186, 165, 287, 986], "size": "31.43", "type": "text", "comment": "This is a definition or explanation of a character."},
+	{"text": "从月", "bbox": [63, 169, 155, 289], "size": "31.43", "type": "text", "comment": "This indicates the character's component."},
+	{"text": "魚厥", "bbox": [105, 298, 167, 364], "size": "31.43", "type": "text", "comment": "This is the pronunciation of the character."},
+	{"text": "切", "bbox": [51, 298, 101, 340], "size": "31.43", "type": "text", "comment": "This indicates the pronunciation of the character."},
+	{"text": "大", "bbox": [6, 19, 28, 39], "size": "31.43", "type": "text", "comment": "This is a heading or title."},
+	{"text": "廿", "bbox": [9, 77, 28, 100], "size": "31.43", "type": "text", "comment": "This is a section or chapter number."},
+	{"text": "袁", "bbox": [6, 904, 34, 928], "size": "31.43", "type": "text", "comment": "This is a heading or title."},
+	{"text": "和", "bbox": [8, 949, 34, 973], "size": "31.43", "type": "text", "comment": "This is a heading or title."}
+]
+```
