@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "呂", "bbox": [880, 19, 962, 146], "size": "136", "type": "heading", "comment": "篆文"},
+	{"text": "髀骨也象形昔太嶽爲禹心呂之", "bbox": [874, 146, 975, 974], "size": "42", "type": "description", "comment": ""},
+	{"text": "臣故封呂矦凡呂之屬皆从呂", "bbox": [743, 159, 841, 939], "size": "42", "type": "description", "comment": ""},
+	{"text": "力", "bbox": [801, 949, 840, 989], "size": "18", "type": "comment", "comment": ""},
+	{"text": "舉", "bbox": [742, 944, 795, 997], "size": "27", "type": "comment", "comment": ""},
+	{"text": "切", "bbox": [657, 159, 710, 198], "size": "27", "type": "comment", "comment": ""},
+	{"text": "𩚊", "bbox": [456, 9, 567, 154], "size": "117", "type": "heading", "comment": "篆文"},
+	{"text": "篆文呂从", "bbox": [522, 157, 577, 336], "size": "25", "type": "comment", "comment": ""},
+	{"text": "肉从旅", "bbox": [457, 157, 511, 296], "size": "25", "type": "comment", "comment": ""},
+	{"text": "身也从身从", "bbox": [525, 484, 581, 703], "size": "25", "type": "comment", "comment": ""},
+	{"text": "𠂢", "bbox": [457, 359, 570, 479], "size": "80", "type": "heading", "comment": "篆文"},
+	{"text": "呂居戎切", "bbox": [461, 492, 517, 662], "size": "25", "type": "comment", "comment": ""},
+	{"text": "𠮞", "bbox": [462, 708, 573, 847], "size": "80", "type": "heading", "comment": "篆文"},
+	{"text": "𩩉或", "bbox": [528, 855, 581, 942], "size": "25", "type": "comment", "comment": ""},
+	{"text": "从弓", "bbox": [465, 855, 519, 945], "size": "25", "type": "comment", "comment": ""},
+	{"text": "文二", "bbox": [336, 288, 425, 412], "size": "47", "type": "comment", "comment": ""},
+	{"text": "重二", "bbox": [336, 601, 425, 740], "size": "47", "type": "comment", "comment": ""},
+	{"text": "內", "bbox": [188, 7, 287, 135], "size": "102", "type": "heading", "comment": "篆文"},
+	{"text": "土室也从宀八聲凡穴之屬皆从", "bbox": [197, 149, 297, 989], "size": "42", "type": "description", "comment": ""},
+	{"text": "穴", "bbox": [60, 157, 154, 227], "size": "51", "type": "heading", "comment": "篆文"},
+	{"text": "胡泱", "bbox": [114, 239, 165, 323], "size": "21", "type": "comment", "comment": ""},
+	{"text": "切", "bbox": [50, 240, 101, 281], "size": "27", "type": "comment", "comment": ""},
+	{"text": "大二十一", "bbox": [3, 11, 26, 70], "size": "6", "type": "comment", "comment": ""},
+	{"text": "張信", "bbox": [15, 935, 42, 995], "size": "12", "type": "comment", "comment": ""}
+]
+```
