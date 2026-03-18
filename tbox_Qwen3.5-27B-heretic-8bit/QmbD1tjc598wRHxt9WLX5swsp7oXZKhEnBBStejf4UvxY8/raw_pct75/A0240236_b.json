@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "說文解字第七上漢太尉祭酒許慎記", "bbox": [856, 19, 960, 941], "size": "43.5", "type": "title", "comment": "vertical text"},
+	{"text": "銀青光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百户臣徐鉉等奉", "bbox": [742, 55, 805, 988], "size": "28.0", "type": "description", "comment": "vertical text"},
+	{"text": "敕校定", "bbox": [612, 50, 671, 160], "size": "32.0", "type": "description", "comment": "vertical text"},
+	{"text": "五十六部文七百一十四重百一十五", "bbox": [456, 79, 556, 933], "size": "44.0", "type": "description", "comment": "vertical text"},
+	{"text": "凡八千六百四十七字", "bbox": [323, 199, 419, 717], "size": "44.0", "type": "description", "comment": "vertical text"},
+	{"text": "文四十二", "bbox": [192, 191, 286, 418], "size": "44.0", "type": "description", "comment": "vertical text"},
+	{"text": "新附", "bbox": [235, 449, 292, 530], "size": "30.0", "type": "description", "comment": "vertical text"},
+	{"text": "日實也太陽之精不虧从口一象形", "bbox": [56, 37, 154, 970], "size": "44.0", "type": "description", "comment": "vertical text"},
+	{"text": "大十九", "bbox": [8, 21, 33, 92], "size": "13.0", "type": "description", "comment": "vertical text"},
+	{"text": "陳玉", "bbox": [8, 879, 33, 953], "size": "13.0", "type": "description", "comment": "vertical text"},
+	{"text": "東方文化學院京都研究所", "bbox": [813, 717, 843, 979], "size": "16.0", "type": "description", "comment": "vertical text"}
+]
+```
