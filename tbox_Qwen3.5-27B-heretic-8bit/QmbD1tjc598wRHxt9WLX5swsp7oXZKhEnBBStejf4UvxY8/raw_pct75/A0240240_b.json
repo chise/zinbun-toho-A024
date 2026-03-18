@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "日始出光軔軔也从旦㫃聲凡軔", "bbox": [852, 167, 951, 967], "size": "39", "type": "text", "comment": ""},
+	{"text": "之屬皆从軔", "bbox": [714, 164, 812, 485], "size": "51", "type": "text", "comment": ""},
+	{"text": "古案", "bbox": [776, 491, 817, 583], "size": "19", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [709, 498, 759, 538], "size": "25", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [587, 685, 677, 805], "size": "70", "type": "text", "comment": ""},
+	{"text": "關", "bbox": [638, 164, 677, 195], "size": "15", "type": "text", "comment": ""},
+	{"text": "旦也从軔舟", "bbox": [638, 350, 686, 521], "size": "19", "type": "text", "comment": ""},
+	{"text": "聲陟遥切", "bbox": [574, 348, 623, 523], "size": "19", "type": "text", "comment": ""},
+	{"text": "旌旗之游㫃蹇之皃从㫃曲而下", "bbox": [450, 164, 550, 972], "size": "51", "type": "text", "comment": ""},
+	{"text": "垂㫃相出入也讀若偃古人名㫃", "bbox": [312, 162, 416, 972], "size": "51", "type": "text", "comment": ""},
+	{"text": "字子游凡㫃之屬皆从㫃", "bbox": [185, 158, 285, 790], "size": "51", "type": "text", "comment": ""},
+	{"text": "於幰", "bbox": [242, 797, 294, 896], "size": "19", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [183, 805, 229, 845], "size": "25", "type": "text", "comment": ""},
+	{"text": "古文从字象形", "bbox": [112, 169, 158, 418], "size": "19", "type": "text", "comment": ""},
+	{"text": "及象旌旗之游", "bbox": [47, 169, 95, 418], "size": "19", "type": "text", "comment": ""},
+	{"text": "龜蛇四游以象營室游游", "bbox": [112, 558, 160, 967], "size": "19", "type": "text", "comment": ""},
+	{"text": "而長从㫃兆聲周禮曰縣", "bbox": [47, 558, 95, 972], "size": "19", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [1, 899, 29, 970], "size": "10", "type": "text", "comment": ""},
+	{"text": "文", "bbox": [0, 264, 21, 294], "size": "14", "type": "text", "comment": ""},
+	{"text": "文", "bbox": [0, 322, 21, 353], "size": "14", "type": "text", "comment": ""},
+	{"text": "文", "bbox": [0, 377, 21, 409], "size": "14", "type": "text", "comment": ""},
+	{"text": "文", "bbox": [0, 702, 21, 732], "size": "14", "type": "text", "comment": ""},
+	{"text": "十八", "bbox": [7, 31, 32, 85], "size": "8", "type": "text", "comment": ""}
+]
+```
