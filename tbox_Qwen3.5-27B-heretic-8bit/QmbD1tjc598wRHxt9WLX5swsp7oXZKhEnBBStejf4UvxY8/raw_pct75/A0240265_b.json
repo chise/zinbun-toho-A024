@@ -1,0 +1,13 @@
+```json
+[
+	{"bbox_2d": [853, 15, 972, 978], "text": "疒 倚也人有疾病象倚箸之形凡疒", "size": 58.0, "type": "heading", "comment": "header"},
+	{"bbox_2d": [728, 178, 842, 510], "text": "之屬皆疒 女  切", "size": 45.0, "type": "description", "comment": "description"},
+	{"bbox_2d": [573, 18, 711, 979], "text": "疾 病也从疒矢  聲秦悉切  疾 古文  疾 籀文  痛", "size": 43.0, "type": "description", "comment": "description"},
+	{"bbox_2d": [451, 18, 575, 980], "text": "病也从疒甬  聲他貢切  疾加也从疒  丙聲皮命切  病也从疒鬼  聲詩曰譬彼", "size": 43.0, "type": "description", "comment": "description"},
+	{"bbox_2d": [324, 18, 446, 980], "text": "瘣木一曰腫旁  出也胡罪切  病也从疒可聲五行傳  曰時即有口痾烏何切  病  也", "size": 43.0, "type": "description", "comment": "description"},
+	{"bbox_2d": [193, 18, 316, 980], "text": "从疒甫聲詩曰我  僕痛矣普胡切  病也从疒堇  聲巨斤切  病也从  疒祭聲", "size": 43.0, "type": "description", "comment": "description"},
+	{"bbox_2d": [61, 18, 183, 910], "text": "側介  切  病也从疒真聲一  曰腹脹都季切  病也从疒莫  聲慕各切", "size": 43.0, "type": "description", "comment": "description"},
+	{"bbox_2d": [5, 33, 41, 95], "text": "大卅", "size": 21.0, "type": "description", "comment": "page number"},
+	{"bbox_2d": [7, 917, 38, 946], "text": "沈三", "size": 18.0, "type": "description", "comment": "page number"}
+]
+```
