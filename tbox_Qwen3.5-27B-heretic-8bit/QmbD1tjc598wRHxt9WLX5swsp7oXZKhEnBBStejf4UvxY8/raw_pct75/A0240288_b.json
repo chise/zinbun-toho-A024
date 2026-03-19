@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "文三", "bbox": [856, 352, 944, 477], "size": "187.64", "type": "heading", "comment": "section header"},
+	{"text": "比", "bbox": [713, 31, 812, 157], "size": "129.78", "type": "character", "comment": "ancient script character"},
+	{"text": "密也二人爲从反从爲比凡比之", "bbox": [725, 165, 812, 959], "size": "62.5", "type": "description", "comment": "definition text"},
+	{"text": "屬皆从比", "bbox": [592, 167, 676, 435], "size": "84.89", "type": "description", "comment": "continuation of definition"},
+	{"text": "毗", "bbox": [636, 436, 677, 461], "size": "28.66", "type": "subscript", "comment": "phonetic note"},
+	{"text": "二", "bbox": [642, 477, 685, 511], "size": "29.28", "type": "subscript", "comment": "phonetic note"},
+	{"text": "切", "bbox": [581, 436, 622, 467], "size": "30.35", "type": "subscript", "comment": "phonetic note"},
+	{"text": "比", "bbox": [445, 31, 557, 158], "size": "129.78", "type": "character", "comment": "ancient script character"},
+	{"text": "古文", "bbox": [500, 174, 561, 262], "size": "44.17", "type": "subscript", "comment": "ancient script note"},
+	{"text": "比", "bbox": [448, 184, 489, 215], "size": "30.62", "type": "subscript", "comment": "phonetic note"},
+	{"text": "必", "bbox": [454, 265, 553, 389], "size": "125.34", "type": "character", "comment": "ancient script character"},
+	{"text": "慎也从比必聲周書", "bbox": [504, 408, 565, 746], "size": "46.05", "type": "description", "comment": "definition text"},
+	{"text": "曰無毖于", "bbox": [450, 412, 504, 557], "size": "35.5", "type": "description", "comment": "quote text"},
+	{"text": "䘏兵媚切", "bbox": [447, 575, 503, 742], "size": "34.29", "type": "description", "comment": "phonetic note"},
+	{"text": "文二", "bbox": [330, 277, 415, 403], "size": "125.88", "type": "heading", "comment": "section header"},
+	{"text": "重一", "bbox": [335, 579, 419, 705], "size": "125.61", "type": "heading", "comment": "section header"},
+	{"text": "北", "bbox": [188, 32, 287, 157], "size": "129.78", "type": "character", "comment": "ancient script character"},
+	{"text": "乖也从二人相背凡北之屬皆从", "bbox": [194, 165, 290, 980], "size": "61.94", "type": "description", "comment": "definition text"},
+	{"text": "北", "bbox": [65, 173, 151, 228], "size": "54.9", "type": "character", "comment": "character"},
+	{"text": "博墨", "bbox": [115, 245, 167, 342], "size": "48.46", "type": "subscript", "comment": "source note"},
+	{"text": "切", "bbox": [54, 253, 105, 296], "size": "42.65", "type": "subscript", "comment": "phonetic note"},
+	{"text": "大八", "bbox": [8, 24, 31, 61], "size": "16.18", "type": "subscript", "comment": "page number"},
+	{"text": "說文", "bbox": [0, 269, 26, 368], "size": "15.43", "type": "subscript", "comment": "book title"},
+	{"text": "上", "bbox": [0, 381, 25, 408], "size": "26.66", "type": "subscript", "comment": "volume indicator"},
+	{"text": "二", "bbox": [0, 694, 30, 736], "size": "41.72", "type": "subscript", "comment": "volume indicator"},
+	{"text": "程樹", "bbox": [15, 927, 37, 981], "size": "19.3", "type": "subscript", "comment": "editor name"}
+]
+```
