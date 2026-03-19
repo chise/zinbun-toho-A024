@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "寅女季始申也凡包之屬皆从包", "bbox": [855, 153, 942, 679], "size": "65.6", "type": "text", "comment": ""},
+	{"text": "布交", "bbox": [782, 166, 825, 249], "size": "26.4", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [721, 173, 767, 204], "size": "26.2", "type": "text", "comment": ""},
+	{"text": "兒生裹也从肉", "bbox": [647, 164, 703, 408], "size": "34.5", "type": "text", "comment": ""},
+	{"text": "从包匹交切", "bbox": [595, 163, 646, 368], "size": "34.1", "type": "text", "comment": ""},
+	{"text": "瓞也从包从夸聲包取", "bbox": [651, 548, 703, 938], "size": "34.8", "type": "text", "comment": ""},
+	{"text": "其可包藏物也薄交切", "bbox": [594, 548, 648, 944], "size": "34.3", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [482, 221, 566, 345], "size": "61.3", "type": "text", "comment": ""},
+	{"text": "自急敕也从艸省从包省从口口", "bbox": [350, 163, 437, 932], "size": "51.2", "type": "text", "comment": ""},
+	{"text": "猶慎言也从艸艸與義善美同意", "bbox": [225, 166, 311, 995], "size": "52.3", "type": "text", "comment": ""},
+	{"text": "凡苟之屬皆从苟", "bbox": [96, 166, 184, 585], "size": "62.4", "type": "text", "comment": ""},
+	{"text": "已力", "bbox": [146, 604, 192, 681], "size": "26.1", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [92, 605, 139, 638], "size": "25.9", "type": "text", "comment": ""},
+	{"text": "大十七", "bbox": [52, 26, 74, 84], "size": "12.6", "type": "text", "comment": ""},
+	{"text": "史悠", "bbox": [52, 932, 74, 975], "size": "12.6", "type": "text", "comment": ""},
+	{"text": "包", "bbox": [594, 29, 703, 152], "size": "120.4", "type": "text", "comment": ""},
+	{"text": "包", "bbox": [651, 420, 703, 542], "size": "120.4", "type": "text", "comment": ""},
+	{"text": "苟", "bbox": [351, 23, 441, 158], "size": "135.8", "type": "text", "comment": ""},
+	{"text": "兑文九止", "bbox": [37, 266, 66, 393], "size": "14.1", "type": "text", "comment": ""}
+]
+```
