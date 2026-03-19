@@ -1,0 +1,31 @@
+```json
+[
+	{"bbox_2d": [956, 27, 989, 106], "text_content": "小㔾先", "size": "9.0", "type": "line", "comment": ""},
+	{"bbox_2d": [893, 31, 950, 357], "text_content": "高也从㔾召", "size": "30.0", "type": "line", "comment": ""},
+	{"bbox_2d": [825, 160, 883, 316], "text_content": "聲寔照切", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [891, 481, 953, 971], "text_content": "科厄木節也从㔾厂聲賈侍中", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [826, 481, 884, 975], "text_content": "說以爲厄裹也一曰厄蓋也臣", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [757, 24, 813, 284], "text_content": "鉉等曰厂非聲", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [692, 23, 750, 235], "text_content": "未詳五果切", "size": "31.0", "type": "line", "comment": ""},
+	{"bbox_2d": [756, 431, 816, 889], "text_content": "脛頭㔾也从㔾黍聲臣鉉等", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [693, 432, 754, 839], "text_content": "曰今俗作膝非是息七切", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [623, 164, 683, 357], "text_content": "郄曲也从㔾", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [555, 164, 615, 360], "text_content": "弄聲居轉切", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [623, 501, 682, 702], "text_content": "節欲也从㔾", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [555, 501, 615, 702], "text_content": "谷聲去約切", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [623, 857, 682, 975], "text_content": "舍車解", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [555, 857, 615, 975], "text_content": "馬也从", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [490, 29, 548, 566], "text_content": "㔾止午讀若汝南人寫書之寫臣", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [424, 28, 482, 525], "text_content": "鉉等曰午馬也故从午司夜切", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [489, 704, 547, 915], "text_content": "二㔾也巽从", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [423, 704, 482, 905], "text_content": "此闕士戀切", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [359, 159, 412, 285], "text_content": "㔾也闕", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [291, 159, 349, 284], "text_content": "則候切", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [313, 525, 401, 696], "text_content": "文十三", "size": "55.0", "type": "line", "comment": ""},
+	{"bbox_2d": [170, 195, 266, 975], "text_content": "執政所持信也从爪从㔾凡印之", "size": "55.0", "type": "line", "comment": ""},
+	{"bbox_2d": [32, 179, 122, 407], "text_content": "屬皆从印", "size": "55.0", "type": "line", "comment": ""},
+	{"bbox_2d": [86, 435, 145, 509], "text_content": "於刃", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [29, 435, 84, 467], "text_content": "切", "size": "29.0", "type": "line", "comment": ""},
+	{"bbox_2d": [957, 867, 989, 922], "text_content": "王明", "size": "12.0", "type": "line", "comment": ""}
+]
+```
