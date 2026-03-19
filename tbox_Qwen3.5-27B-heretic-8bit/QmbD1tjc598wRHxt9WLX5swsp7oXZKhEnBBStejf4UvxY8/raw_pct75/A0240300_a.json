@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小言子", "bbox": [958, 24, 988, 89], "size": "小", "type": "heading", "comment": "top right"},
+	{"text": "說文", "bbox": [966, 270, 993, 315], "size": "小", "type": "heading", "comment": "right"},
+	{"text": "昌石", "bbox": [883, 645, 939, 725], "size": "小", "type": "heading", "comment": "right"},
+	{"text": "切", "bbox": [831, 645, 879, 690], "size": "中", "type": "text", "comment": "right"},
+	{"text": "凡尺之屬皆从尺", "bbox": [823, 197, 941, 713], "size": "大", "type": "text", "comment": "right"},
+	{"text": "中婦人手長八寸謂之咫", "bbox": [751, 177, 814, 606], "size": "中", "type": "text", "comment": "right"},
+	{"text": "周尺也从尺只聲諸氏切", "bbox": [692, 177, 749, 606], "size": "中", "type": "text", "comment": "right"},
+	{"text": "文二", "bbox": [701, 741, 801, 864], "size": "大", "type": "heading", "comment": "right"},
+	{"text": "微也从到毛在尸後古人或飾系", "bbox": [557, 171, 668, 986], "size": "大", "type": "text", "comment": "middle"},
+	{"text": "尾西南夷亦然凡尾之屬皆从尾", "bbox": [424, 197, 523, 983], "size": "大", "type": "text", "comment": "middle"},
+	{"text": "無斐切今", "bbox": [350, 177, 405, 340], "size": "小", "type": "text", "comment": "middle"},
+	{"text": "隸變作尾", "bbox": [283, 177, 340, 340], "size": "小", "type": "text", "comment": "middle"},
+	{"text": "連也从尾蜀", "bbox": [214, 177, 269, 386], "size": "中", "type": "text", "comment": "middle"},
+	{"text": "聲之欲切", "bbox": [153, 177, 209, 340], "size": "中", "type": "text", "comment": "middle"},
+	{"text": "無尾也从尾", "bbox": [205, 540, 269, 730], "size": "中", "type": "text", "comment": "middle"},
+	{"text": "出聲九勿切", "bbox": [146, 540, 201, 730], "size": "中", "type": "text", "comment": "middle"},
+	{"text": "人小", "bbox": [197, 909, 253, 989], "size": "小", "type": "text", "comment": "middle"},
+	{"text": "便也", "bbox": [146, 909, 201, 989], "size": "小", "type": "text", "comment": "middle"},
+	{"text": "从尾从水", "bbox": [82, 29, 138, 204], "size": "小", "type": "text", "comment": "left"},
+	{"text": "奴弔切", "bbox": [23, 29, 78, 145], "size": "小", "type": "text", "comment": "left"},
+	{"text": "文四", "bbox": [25, 460, 122, 584], "size": "大", "type": "heading", "comment": "left"}
+]
+```
