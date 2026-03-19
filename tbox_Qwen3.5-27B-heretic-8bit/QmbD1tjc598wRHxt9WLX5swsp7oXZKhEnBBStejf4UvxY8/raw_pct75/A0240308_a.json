@@ -1,0 +1,25 @@
+```json
+[
+	{"bbox_2d": [920, 36, 939, 126], "text": "小言允", "size": "19", "type": "heading", "comment": "Right margin heading"},
+	{"bbox_2d": [934, 258, 954, 320], "text": "言文六", "size": "22", "type": "heading", "comment": "Right margin heading"},
+	{"bbox_2d": [918, 695, 965, 719], "text": "九", "size": "24", "type": "heading", "comment": "Page number"},
+	{"bbox_2d": [917, 892, 938, 954], "text": "宏昌", "size": "22", "type": "heading", "comment": "Publisher name"},
+	{"bbox_2d": [858, 33, 913, 583], "text": "坎苦 欲得也从欠㔾聲 感切 讀若貪他含切", "size": "43", "type": "body", "comment": "First column"},
+	{"bbox_2d": [845, 581, 913, 880], "text": "𠳮也从欠合 聲呼合切", "size": "43", "type": "body", "comment": "First column"},
+	{"bbox_2d": [726, 168, 785, 537], "text": "歉食不滿从欠 兼聲苦簟切", "size": "43", "type": "body", "comment": "Second column"},
+	{"bbox_2d": [727, 557, 782, 836], "text": "咽中息不利也从 欠骨聲烏八切", "size": "43", "type": "body", "comment": "Second column"},
+	{"bbox_2d": [605, 27, 656, 239], "text": "憂也从欠因 聲乙冀切", "size": "43", "type": "body", "comment": "Third column"},
+	{"bbox_2d": [604, 386, 657, 594], "text": "茾气也从欠 亥聲苦蓋切", "size": "43", "type": "body", "comment": "Third column"},
+	{"bbox_2d": [598, 743, 657, 973], "text": "且唾聲一曰 小笑从欠霰 聲", "size": "43", "type": "body", "comment": "Third column"},
+	{"bbox_2d": [478, 27, 529, 543], "text": "聲許 縮鼻也从欠翕聲丹 壁切 陽有歙縣許及切", "size": "43", "type": "body", "comment": "Fourth column"},
+	{"bbox_2d": [469, 719, 526, 974], "text": "蹴鼻也从欠咎 聲讀若爾雅曰", "size": "43", "type": "body", "comment": "Fourth column"},
+	{"bbox_2d": [348, 23, 399, 204], "text": "麏貆短脰 於糾切", "size": "43", "type": "body", "comment": "Fifth column"},
+	{"bbox_2d": [342, 360, 397, 871], "text": "愁皃从欠幼聲臣鉉等案口部 字或作歅此重出於虯切", "size": "43", "type": "body", "comment": "Fifth column"},
+	{"bbox_2d": [216, 169, 269, 537], "text": "咄蚇無慙一曰無腸意从 欠出聲讀若中丑律切", "size": "43", "type": "body", "comment": "Sixth column"},
+	{"bbox_2d": [214, 720, 269, 973], "text": "詮詞也从欠从 曰曰亦聲詩曰", "size": "43", "type": "body", "comment": "Sixth column"},
+	{"bbox_2d": [92, 27, 144, 186], "text": "吹求厭寍 余律切", "size": "43", "type": "body", "comment": "Seventh column"},
+	{"bbox_2d": [86, 336, 142, 593], "text": "不前不精也从 欠二聲七四切", "size": "43", "type": "body", "comment": "Seventh column"},
+	{"bbox_2d": [83, 753, 139, 824], "text": "古文", "size": "43", "type": "body", "comment": "Seventh column"},
+	{"bbox_2d": [37, 753, 69, 786], "text": "次", "size": "33", "type": "body", "comment": "Seventh column"}
+]
+```
