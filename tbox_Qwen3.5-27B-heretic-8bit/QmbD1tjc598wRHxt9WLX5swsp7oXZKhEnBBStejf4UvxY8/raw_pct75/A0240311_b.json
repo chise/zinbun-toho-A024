@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "權也从頁㢟籒文", "bbox": [904, 30, 958, 821], "size": "11.00", "type": "heading", "comment": "Definition: 'Authority' also takes 'head' as radical; Seal script variant."},
+	{"text": "聲渠追切", "bbox": [836, 30, 895, 216], "size": "11.00", "type": "body", "comment": "Pronunciation: 'qú zhui qie' (phonetic transcription)."},
+	{"text": "頰面㫃也从頁夾聲古叶切", "bbox": [840, 258, 961, 603], "size": "11.00", "type": "heading", "comment": "Definition: 'Cheek' refers to the face area, takes 'head' as radical; 'jia' sound, ancient rhyme 'ye'."},
+	{"text": "頰頰", "bbox": [843, 607, 902, 783], "size": "11.00", "type": "body", "comment": "Repetition of the character 'cheek'."},
+	{"text": "頤頤", "bbox": [843, 838, 958, 984], "size": "11.00", "type": "body", "comment": "Repetition of the character 'chin'."},
+	{"text": "頰也从頁見聲古恨切", "bbox": [708, 30, 827, 233], "size": "11.00", "type": "heading", "comment": "Definition: 'Cheek' also takes 'head' as radical; 'jian' sound, ancient pronunciation 'hen'."},
+	{"text": "頤頤也从頁合聲胡感切", "bbox": [710, 258, 830, 589], "size": "11.00", "type": "heading", "comment": "Definition: 'Chin' also takes 'head' as radical; 'he' sound, pronunciation 'hu gan'."},
+	{"text": "頤頤也从頁留聲胡男切", "bbox": [710, 607, 830, 906], "size": "11.00", "type": "heading", "comment": "Definition: 'Chin' also takes 'head' as radical; 'liu' sound, pronunciation 'hu nan'."},
+	{"text": "頭莖也从頁巫聲居郢切", "bbox": [575, 30, 694, 354], "size": "11.00", "type": "heading", "comment": "Definition: 'Top of stem' takes 'head' as radical; 'wu' sound, pronunciation 'ju ying'."},
+	{"text": "頞項也从頁令聲良郢切", "bbox": [579, 376, 694, 692], "size": "11.00", "type": "heading", "comment": "Definition: 'Nose bridge' also takes 'head' as radical; 'ling' sound, pronunciation 'liang ying'."},
+	{"text": "項頭後也从頁工", "bbox": [579, 716, 694, 979], "size": "11.00", "type": "heading", "comment": "Definition: 'Back of head' takes 'head' as radical; 'gong' sound."},
+	{"text": "項頰也从頁聲胡項頰也从頁講切", "bbox": [445, 30, 564, 304], "size": "11.00", "type": "heading", "comment": "Definition: 'Cheek' also takes 'head' as radical; pronunciation 'hu xiang'."},
+	{"text": "亢聲章衽切", "bbox": [448, 308, 501, 513], "size": "11.00", "type": "body", "comment": "Pronunciation: 'kang sheng zhang ren qie' (phonetic transcription)."},
+	{"text": "額出額也从頁佳聲直追切", "bbox": [448, 483, 561, 815], "size": "11.00", "type": "heading", "comment": "Definition: 'Forehead' takes 'head' as radical; 'jia' sound, pronunciation 'zhi zhui'."},
+	{"text": "頏", "bbox": [448, 848, 564, 984], "size": "11.00", "type": "body", "comment": "Character 'kang' (forehead)."},
+	{"text": "頤也从頁不聲薄回切", "bbox": [315, 30, 434, 361], "size": "11.00", "type": "heading", "comment": "Definition: 'Chin' also takes 'head' as radical; 'bu' sound, pronunciation 'bo hui'."},
+	{"text": "頰齦皃从頁僉聲魚檢切", "bbox": [315, 376, 434, 650], "size": "11.00", "type": "heading", "comment": "Definition: 'Gum appearance' takes 'head' as radical; 'qian' sound, pronunciation 'yu jian'."},
+	{"text": "頁面目不正皃从頁尹聲余準切", "bbox": [315, 657, 434, 984], "size": "11.00", "type": "heading", "comment": "Definition: 'Face not upright' takes 'head' as radical; 'yun' sound, pronunciation 'yu zhun'."},
+	{"text": "頞頭額額大也从頁君聲於倫切", "bbox": [184, 30, 303, 424], "size": "11.00", "type": "heading", "comment": "Definition: 'Nose bridge' refers to a large forehead, takes 'head' as radical; 'jun' sound, pronunciation 'yu lun'."},
+	{"text": "頥面色顛顛皃从頁員聲讀若隕于閔切", "bbox": [184, 431, 303, 906], "size": "11.00", "type": "heading", "comment": "Definition: 'Face color' refers to a disheveled appearance, takes 'head' as radical; 'yuan' sound, read as 'yun', pronunciation 'yu min'."},
+	{"text": "頭頰長也从頁兼聲五咸切", "bbox": [53, 150, 172, 419], "size": "11.00", "type": "heading", "comment": "Definition: 'Long cheek' takes 'head' as radical; 'jian' sound, pronunciation 'wu xian'."},
+	{"text": "頰頭大也从頁石聲常隻切", "bbox": [53, 551, 172, 846], "size": "11.00", "type": "heading", "comment": "Definition: 'Large head' takes 'head' as radical; 'shi' sound, pronunciation 'chang zhi'."},
+	{"text": "頏大頭也从", "bbox": [53, 853, 172, 984], "size": "11.00", "type": "heading", "comment": "Definition: 'Large head' takes 'head' as radical."},
+	{"text": "大", "bbox": [17, 41, 36, 61], "size": "5.00", "type": "body", "comment": "Character 'da' (large)."},
+	{"text": "世", "bbox": [17, 63, 36, 83], "size": "5.00", "type": "body", "comment": "Character 'shi' (generation/era)."},
+	{"text": "唐", "bbox": [17, 901, 36, 922], "size": "5.00", "type": "body", "comment": "Character 'tang' (Tang dynasty)."},
+	{"text": "文", "bbox": [17, 946, 36, 967], "size": "5.00", "type": "body", "comment": "Character 'wen' (text/culture)."}
+]
+```
