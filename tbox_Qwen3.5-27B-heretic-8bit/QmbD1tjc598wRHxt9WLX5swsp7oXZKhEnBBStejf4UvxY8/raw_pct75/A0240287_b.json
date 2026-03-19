@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "隱八所乗載", "bbox": [908, 34, 967, 255], "size": "小", "type": "heading", "comment": ""},
+	{"text": "也側鄰切", "bbox": [840, 34, 896, 199], "size": "小", "type": "description", "comment": ""},
+	{"text": "敎行也从匕从人", "bbox": [913, 605, 967, 885], "size": "小", "type": "description", "comment": ""},
+	{"text": "古文", "bbox": [906, 390, 967, 469], "size": "小", "type": "heading", "comment": ""},
+	{"text": "眞", "bbox": [843, 390, 901, 433], "size": "小", "type": "description", "comment": ""},
+	{"text": "匕亦聲呼跨切", "bbox": [845, 605, 904, 849], "size": "小", "type": "description", "comment": ""},
+	{"text": "文四", "bbox": [726, 261, 817, 390], "size": "大", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [726, 571, 817, 700], "size": "大", "type": "heading", "comment": ""},
+	{"text": "相與比叙也从反人匕亦所以用", "bbox": [590, 166, 695, 981], "size": "中", "type": "heading", "comment": ""},
+	{"text": "比取飯一名柶凡匕之屬皆从匕", "bbox": [454, 166, 558, 981], "size": "中", "type": "heading", "comment": ""},
+	{"text": "卑覆", "bbox": [380, 189, 434, 275], "size": "小", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [316, 189, 370, 220], "size": "小", "type": "description", "comment": ""},
+	{"text": "匕也从匕是", "bbox": [242, 166, 299, 380], "size": "小", "type": "description", "comment": ""},
+	{"text": "聲是支切", "bbox": [178, 166, 235, 331], "size": "小", "type": "description", "comment": ""},
+	{"text": "相次也从匕从十", "bbox": [242, 530, 299, 816], "size": "小", "type": "description", "comment": ""},
+	{"text": "鴇从此博抱切", "bbox": [178, 530, 235, 785], "size": "小", "type": "description", "comment": ""},
+	{"text": "頃也从匕支聲匕頭頃也", "bbox": [114, 34, 168, 480], "size": "小", "type": "description", "comment": ""},
+	{"text": "頭不正也从匕从頁", "bbox": [114, 623, 168, 977], "size": "小", "type": "description", "comment": ""},
+	{"text": "詩曰攲彼織女去智切", "bbox": [48, 34, 102, 437], "size": "小", "type": "description", "comment": ""},
+	{"text": "臣鉉等曰匕者有所", "bbox": [48, 623, 102, 977], "size": "小", "type": "description", "comment": ""},
+	{"text": "大十五", "bbox": [7, 28, 31, 87], "size": "小", "type": "description", "comment": ""},
+	{"text": "程樹", "bbox": [7, 935, 31, 990], "size": "小", "type": "description", "comment": ""}
+]
+```
