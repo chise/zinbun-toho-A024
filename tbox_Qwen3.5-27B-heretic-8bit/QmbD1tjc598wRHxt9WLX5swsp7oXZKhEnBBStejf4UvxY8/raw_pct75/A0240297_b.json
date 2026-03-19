@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "昌兩", "bbox": [910, 19, 961, 72], "size": "1.6em", "type": "Small text", "comment": "Two characters at the top right corner"},
+	{"text": "切", "bbox": [852, 19, 891, 56], "size": "1.6em", "type": "Small text", "comment": "Character below '昌兩'"},
+	{"text": "文七", "bbox": [857, 230, 961, 296], "size": "3.2em", "type": "Large text", "comment": "Large text indicating the section number"},
+	{"text": "新附", "bbox": [901, 397, 963, 477], "size": "1.6em", "type": "Small text", "comment": "Two characters below '文七'"},
+	{"text": "牦", "bbox": [723, 26, 827, 153], "size": "3.2em", "type": "Large text", "comment": "Large character in the first column"},
+	{"text": "獸細毛也从三毛凡毞之屬皆从", "bbox": [723, 162, 827, 978], "size": "3.2em", "type": "Large text", "comment": "Description text under the large character '牦'"},
+	{"text": "毞", "bbox": [594, 183, 685, 245], "size": "2.5em", "type": "Medium text", "comment": "Medium-sized character in the second column"},
+	{"text": "此芮", "bbox": [634, 259, 685, 322], "size": "1.6em", "type": "Small text", "comment": "Two characters below '毞'"},
+	{"text": "切", "bbox": [584, 259, 624, 300], "size": "1.6em", "type": "Small text", "comment": "Character next to '此芮'"},
+	{"text": "毞", "bbox": [457, 22, 554, 153], "size": "3.2em", "type": "Large text", "comment": "Large character in the third column"},
+	{"text": "毛紛紛也从毞", "bbox": [504, 167, 569, 424], "size": "1.6em", "type": "Small text", "comment": "Description text under the large character '毞'"},
+	{"text": "非聲甫微切", "bbox": [444, 167, 509, 341], "size": "1.6em", "type": "Small text", "comment": "Phonetic description under '毛紛紛也从毞'"},
+	{"text": "文二", "bbox": [460, 636, 545, 709], "size": "3.2em", "type": "Large text", "comment": "Large text indicating the section number"},
+	{"text": "尸", "bbox": [322, 26, 415, 153], "size": "3.2em", "type": "Large text", "comment": "Large character in the fourth column"},
+	{"text": "陳也象臥之形凡尸之屬皆从尸", "bbox": [322, 162, 415, 978], "size": "3.2em", "type": "Large text", "comment": "Description text under the large character '尸'"},
+	{"text": "式脂", "bbox": [242, 167, 297, 253], "size": "1.6em", "type": "Small text", "comment": "Two characters in the fifth column"},
+	{"text": "切", "bbox": [183, 183, 232, 224], "size": "1.6em", "type": "Small text", "comment": "Character below '式脂'"},
+	{"text": "廁", "bbox": [59, 22, 159, 153], "size": "3.2em", "type": "Large text", "comment": "Large character in the sixth column"},
+	{"text": "侍也从尸臤", "bbox": [109, 167, 169, 371], "size": "1.6em", "type": "Small text", "comment": "Description text under the large character '廁'"},
+	{"text": "聲堂練切", "bbox": [44, 167, 104, 341], "size": "1.6em", "type": "Small text", "comment": "Phonetic description under '侍也从尸臤'"},
+	{"text": "居", "bbox": [54, 388, 154, 519], "size": "3.2em", "type": "Large text", "comment": "Large character in the seventh column"},
+	{"text": "蹲也从尸古者居从古臣", "bbox": [109, 535, 169, 973], "size": "1.6em", "type": "Small text", "comment": "Description text under the large character '居'"},
+	{"text": "鉉等曰居从古者言法古", "bbox": [44, 535, 104, 973], "size": "1.6em", "type": "Small text", "comment": "Explanation text under '蹲也从尸古者居从古臣'"},
+	{"text": "大二十一", "bbox": [7, 19, 27, 86], "size": "1.6em", "type": "Small text", "comment": "Two characters at the top left corner"},
+	{"text": "周太", "bbox": [7, 914, 27, 955], "size": "1.6em", "type": "Small text", "comment": "Two characters at the bottom left corner"}
+]
+```
