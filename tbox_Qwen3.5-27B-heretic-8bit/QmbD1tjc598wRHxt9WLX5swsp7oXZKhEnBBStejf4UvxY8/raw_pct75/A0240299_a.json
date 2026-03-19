@@ -1,0 +1,12 @@
+```json
+[
+	{"bbox_2d": [701, 30, 806, 430], "text_content": "說文解字弟八上", "font_size": "40", "text_type": "heading", "comment": ""},
+	{"bbox_2d": [597, 115, 656, 962], "text_content": "癸巳三月十一日立夏是日校八上起直至十三日校完此弓因有疑難處遍檢小", "font_size": "30", "text_type": "description", "comment": ""},
+	{"bbox_2d": [460, 105, 521, 795], "text_content": "學諸書以証之所以若是其遲也隱湖毛扆識岢年七十有四", "font_size": "30", "text_type": "description", "comment": ""},
+	{"bbox_2d": [955, 27, 979, 101], "text_content": "百卅", "font_size": "20", "text_type": "description", "comment": ""},
+	{"bbox_2d": [953, 29, 976, 66], "text_content": "小百", "font_size": "15", "text_type": "description", "comment": ""},
+	{"bbox_2d": [962, 256, 999, 377], "text_content": "說文八上", "font_size": "30", "text_type": "description", "comment": ""},
+	{"bbox_2d": [969, 689, 997, 734], "text_content": "十二", "font_size": "25", "text_type": "description", "comment": ""},
+	{"bbox_2d": [960, 913, 991, 964], "text_content": "楊永", "font_size": "20", "text_type": "description", "comment": ""}
+]
+```
