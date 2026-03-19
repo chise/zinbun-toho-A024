@@ -1,0 +1,24 @@
+```json
+[
+	{"bbox_2d": [3, 30, 34, 89], "text_content": "大十四", "font_size": "22", "font_type": "小字"},
+	{"bbox_2d": [603, 316, 683, 490], "text_content": "文五十一", "font_size": "56", "font_type": "小字"},
+	{"bbox_2d": [595, 644, 676, 749], "text_content": "重一", "font_size": "56", "font_type": "小字"},
+	{"bbox_2d": [464, 28, 548, 156], "text_content": "寐", "font_size": "78", "font_type": "小篆"},
+	{"bbox_2d": [455, 172, 554, 979], "text_content": "寐而有覺也从宀从冖夢聲周禮", "font_size": "52", "font_type": "小字"},
+	{"bbox_2d": [327, 181, 410, 964], "text_content": "以日月星辰占六寢之吉凶一曰", "font_size": "52", "font_type": "小字"},
+	{"bbox_2d": [190, 181, 279, 977], "text_content": "正寢二曰畢寢三曰思寢四曰悟", "font_size": "52", "font_type": "小字"},
+	{"bbox_2d": [57, 172, 151, 979], "text_content": "寢五曰喜寢六曰懼寢凡寢之屬", "font_size": "52", "font_type": "小字"},
+	{"bbox_2d": [9, 909, 37, 975], "text_content": "沈三", "font_size": "22", "font_type": "小字"},
+	{"bbox_2d": [727, 28, 814, 154], "text_content": "窀", "font_size": "78", "font_type": "小篆"},
+	{"bbox_2d": [779, 168, 832, 375], "text_content": "窀穸也从穴", "font_size": "32", "font_type": "小字"},
+	{"bbox_2d": [716, 168, 769, 375], "text_content": "夕聲詞亦切", "font_size": "32", "font_type": "小字"},
+	{"bbox_2d": [850, 332, 934, 457], "text_content": "穸", "font_size": "78", "font_type": "小篆"},
+	{"bbox_2d": [910, 473, 964, 964], "text_content": "葬之厚夕从穴屯聲春秋傳曰", "font_size": "32", "font_type": "小字"},
+	{"bbox_2d": [849, 473, 902, 944], "text_content": "窀穸从先君於地下陟輪切", "font_size": "32", "font_type": "小字"},
+	{"bbox_2d": [850, 34, 965, 317], "text_content": "从穴乏聲周禮曰", "font_size": "32", "font_type": "小字"},
+	{"bbox_2d": [849, 34, 902, 317], "text_content": "及窆執斧方驗切", "font_size": "32", "font_type": "小字"},
+	{"bbox_2d": [718, 381, 807, 506], "text_content": "窆", "font_size": "78", "font_type": "小篆"},
+	{"bbox_2d": [777, 521, 830, 729], "text_content": "入𡙇刺穴謂之窆", "font_size": "32", "font_type": "小字"},
+	{"bbox_2d": [715, 521, 768, 780], "text_content": "从穴甲聲烏狎切", "font_size": "32", "font_type": "小字"}
+]
+```
