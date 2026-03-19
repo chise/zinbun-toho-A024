@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "其審他谷", "bbox": [808, 176, 901, 407], "size": "63", "type": "heading", "comment": "1"},
+	{"text": "切", "bbox": [795, 333, 838, 371], "size": "38", "type": "text", "comment": "2"},
+	{"text": "𧦝禿皃从禿𩒫", "bbox": [720, 170, 778, 385], "size": "39", "type": "text", "comment": "3"},
+	{"text": "聲杜回切", "bbox": [665, 171, 720, 334], "size": "40", "type": "text", "comment": "4"},
+	{"text": "文二", "bbox": [683, 655, 768, 774], "size": "77", "type": "text", "comment": "5"},
+	{"text": "見視也从儿从目凡見之屬皆从見", "bbox": [549, 36, 646, 954], "size": "70", "type": "heading", "comment": "6"},
+	{"text": "古旬", "bbox": [476, 172, 518, 267], "size": "40", "type": "text", "comment": "7"},
+	{"text": "切", "bbox": [417, 176, 467, 213], "size": "38", "type": "text", "comment": "8"},
+	{"text": "視瞻也从見", "bbox": [346, 30, 400, 335], "size": "66", "type": "heading", "comment": "9"},
+	{"text": "示神至切", "bbox": [287, 173, 338, 334], "size": "40", "type": "text", "comment": "10"},
+	{"text": "古文", "bbox": [342, 378, 400, 543], "size": "40", "type": "text", "comment": "11"},
+	{"text": "視", "bbox": [284, 477, 336, 516], "size": "40", "type": "text", "comment": "12"},
+	{"text": "亦古", "bbox": [344, 684, 399, 778], "size": "40", "type": "text", "comment": "13"},
+	{"text": "文視", "bbox": [286, 686, 339, 769], "size": "40", "type": "text", "comment": "14"},
+	{"text": "求", "bbox": [346, 928, 399, 968], "size": "40", "type": "text", "comment": "15"},
+	{"text": "也", "bbox": [288, 930, 339, 968], "size": "40", "type": "text", "comment": "16"},
+	{"text": "𧦝从見麗聲讀", "bbox": [223, 31, 272, 252], "size": "39", "type": "heading", "comment": "17"},
+	{"text": "若池郎計切", "bbox": [163, 30, 214, 252], "size": "39", "type": "text", "comment": "18"},
+	{"text": "𥈥好視也从見", "bbox": [223, 269, 272, 479], "size": "39", "type": "heading", "comment": "19"},
+	{"text": "委聲於爲切", "bbox": [163, 269, 214, 479], "size": "39", "type": "text", "comment": "20"},
+	{"text": "𥈚𥈚㫄視也从見", "bbox": [223, 497, 272, 949], "size": "39", "type": "heading", "comment": "21"},
+	{"text": "兒聲五計切", "bbox": [163, 497, 214, 949], "size": "39", "type": "text", "comment": "22"},
+	{"text": "𥈛好視也从見", "bbox": [94, 30, 144, 368], "size": "39", "type": "heading", "comment": "23"},
+	{"text": "𩒰聲洛戈切", "bbox": [35, 31, 85, 368], "size": "39", "type": "text", "comment": "24"},
+	{"text": "𥈜笑視也从見", "bbox": [94, 387, 144, 730], "size": "39", "type": "heading", "comment": "25"},
+	{"text": "呆聲力玉切", "bbox": [35, 387, 85, 730], "size": "39", "type": "text", "comment": "26"},
+	{"text": "𥈝大視", "bbox": [94, 746, 144, 930], "size": "39", "type": "heading", "comment": "27"},
+	{"text": "也从", "bbox": [35, 746, 85, 930], "size": "39", "type": "text", "comment": "28"}
+]
+```
