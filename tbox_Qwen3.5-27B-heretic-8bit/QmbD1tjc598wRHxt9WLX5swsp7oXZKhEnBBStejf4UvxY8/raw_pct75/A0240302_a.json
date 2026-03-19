@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "小三百十三", "bbox": [916, 35, 941, 145], "size": "12", "type": "text", "comment": "Page number at the top right"},
+	{"text": "仁人也古文奇字人也象形孔子", "bbox": [796, 24, 896, 968], "size": "36", "type": "text", "comment": "Heading and definition for '人'"},
+	{"text": "曰在人下故詰屈凡儿之屬皆从", "bbox": [674, 168, 765, 978], "size": "36", "type": "text", "comment": "Explanation for the '儿' radical"},
+	{"text": "儿", "bbox": [548, 170, 640, 225], "size": "36", "type": "text", "comment": "The '儿' character itself"},
+	{"text": "如鄰", "bbox": [590, 241, 644, 325], "size": "20", "type": "text", "comment": "Phonetic guide for '儿'"},
+	{"text": "切", "bbox": [544, 241, 591, 281], "size": "20", "type": "text", "comment": "Phonetic guide for '儿'"},
+	{"text": "兀", "bbox": [418, 35, 519, 149], "size": "36", "type": "text", "comment": "The '兀' character itself"},
+	{"text": "高而上平也从一在人上讀", "bbox": [467, 157, 521, 633], "size": "20", "type": "text", "comment": "Definition for '兀'"},
+	{"text": "若夐茂陵有兀桑里五忽切", "bbox": [410, 156, 463, 629], "size": "20", "type": "text", "comment": "Definition for '兀'"},
+	{"text": "兒", "bbox": [419, 654, 503, 785], "size": "36", "type": "text", "comment": "The '兒' character itself"},
+	{"text": "孺子也从", "bbox": [461, 802, 516, 970], "size": "20", "type": "text", "comment": "Definition for '兒'"},
+	{"text": "儿象小兒", "bbox": [403, 803, 457, 971], "size": "20", "type": "text", "comment": "Definition for '兒'"},
+	{"text": "兒", "bbox": [311, 211, 399, 325], "size": "36", "type": "text", "comment": "The '兒' character itself"},
+	{"text": "信也从儿吕", "bbox": [344, 336, 397, 537], "size": "20", "type": "text", "comment": "Definition for '兒'"},
+	{"text": "聲余準切", "bbox": [288, 337, 341, 491], "size": "20", "type": "text", "comment": "Phonetic guide for '兒'"},
+	{"text": "兒", "bbox": [290, 544, 375, 676], "size": "36", "type": "text", "comment": "The '兒' character itself"},
+	{"text": "説也从儿谷聲臣", "bbox": [334, 685, 387, 976], "size": "20", "type": "text", "comment": "Definition for '兒'"},
+	{"text": "鉉等曰谷古文兖", "bbox": [276, 685, 330, 977], "size": "20", "type": "text", "comment": "Definition for '兒'"},
+	{"text": "兒", "bbox": [161, 548, 263, 676], "size": "36", "type": "text", "comment": "The '兒' character itself"},
+	{"text": "長也高也从儿", "bbox": [206, 686, 259, 933], "size": "20", "type": "text", "comment": "Definition for '兒'"},
+	{"text": "育省聲昌終切", "bbox": [149, 686, 203, 924], "size": "20", "type": "text", "comment": "Phonetic guide for '兒'"},
+	{"text": "頭㔾未合", "bbox": [345, 27, 399, 195], "size": "20", "type": "text", "comment": "Definition for '兒'"},
+	{"text": "汝移切", "bbox": [289, 27, 342, 155], "size": "20", "type": "text", "comment": "Phonetic guide for '兒'"},
+	{"text": "字非聲當从口从八象气之分", "bbox": [222, 27, 276, 535], "size": "20", "type": "text", "comment": "Definition for '兒'"},
+	{"text": "散易曰兌爲巫爲口大外切", "bbox": [166, 27, 219, 490], "size": "20", "type": "text", "comment": "Definition for '兒'"},
+	{"text": "文六", "bbox": [46, 323, 140, 452], "size": "36", "type": "text", "comment": "Section heading at the bottom left"},
+	{"text": "宏昌", "bbox": [907, 894, 931, 928], "size": "12", "type": "text", "comment": "Publisher's mark at the bottom right"}
+]
+```
