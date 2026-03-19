@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "鬒吉聲古通總髮也从鬒冞聲案古婦人首飾琢", "bbox": [903, 16, 965, 983], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "用結古詣切王爲兩環此二字皆後人所加户關", "bbox": [837, 16, 901, 983], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "切", "bbox": [772, 19, 824, 58], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "文四", "bbox": [730, 313, 822, 434], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "新附", "bbox": [769, 468, 831, 553], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "后繼體君也象人之形施令以告四", "bbox": [585, 14, 693, 983], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "方故厂之从一口發號者君后也", "bbox": [454, 146, 555, 972], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "凡后之屬皆从后胡口", "bbox": [322, 146, 425, 696], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "切", "bbox": [318, 618, 363, 659], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "后厚怒聲从口后", "bbox": [239, 152, 303, 416], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "后亦聲呼后切", "bbox": [182, 152, 246, 416], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "文二", "bbox": [199, 658, 290, 778], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "司臣司事於外者从反后凡司之屬", "bbox": [54, 19, 162, 983], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "大八", "bbox": [7, 14, 33, 56], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "文七二", "bbox": [0, 338, 26, 390], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "九", "bbox": [0, 702, 26, 735], "size": "34.0", "type": "image", "comment": ""},
+	{"text": "唐文", "bbox": [7, 897, 38, 960], "size": "34.0", "type": "image", "comment": ""}
+]
+```
