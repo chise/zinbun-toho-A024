@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "小一百九十九", "bbox": [942, 40, 966, 107], "size": "31.5", "type": "small", "comment": ""},
+	{"text": "言文八", "bbox": [946, 272, 985, 392], "size": "47.5", "type": "normal", "comment": ""},
+	{"text": "李明", "bbox": [932, 914, 954, 951], "size": "16.5", "type": "small", "comment": ""},
+	{"text": "身", "bbox": [816, 33, 926, 174], "size": "141", "type": "seal", "comment": ""},
+	{"text": "躳也象人之身从人厂聲凡身", "bbox": [820, 185, 923, 958], "size": "107.5", "type": "normal", "comment": ""},
+	{"text": "之屬皆从身", "bbox": [696, 181, 791, 490], "size": "107.5", "type": "normal", "comment": ""},
+	{"text": "失人", "bbox": [736, 501, 802, 586], "size": "42.5", "type": "small", "comment": ""},
+	{"text": "切", "bbox": [685, 501, 732, 548], "size": "42.5", "type": "small", "comment": ""},
+	{"text": "軀", "bbox": [560, 37, 672, 176], "size": "139", "type": "seal", "comment": ""},
+	{"text": "體也从身區", "bbox": [625, 195, 675, 404], "size": "57.5", "type": "normal", "comment": ""},
+	{"text": "聲豈俱切", "bbox": [560, 195, 615, 368], "size": "57.5", "type": "normal", "comment": ""},
+	{"text": "文二", "bbox": [563, 595, 655, 714], "size": "107.5", "type": "normal", "comment": ""},
+	{"text": "身", "bbox": [428, 37, 538, 177], "size": "140", "type": "seal", "comment": ""},
+	{"text": "歸也从反身凡㞢之屬皆从㞢", "bbox": [425, 185, 530, 960], "size": "107.5", "type": "normal", "comment": ""},
+	{"text": "徐鍇曰古人所謂反身", "bbox": [363, 213, 418, 542], "size": "57.5", "type": "normal", "comment": ""},
+	{"text": "修道故曰㱕也於機切", "bbox": [300, 187, 355, 542], "size": "57.5", "type": "normal", "comment": ""},
+	{"text": "殷", "bbox": [177, 34, 287, 174], "size": "140", "type": "seal", "comment": ""},
+	{"text": "作樂之盛稱殷从㞢从殳", "bbox": [230, 182, 285, 597], "size": "57.5", "type": "normal", "comment": ""},
+	{"text": "易曰殷薦之上帝於身切", "bbox": [175, 182, 230, 597], "size": "57.5", "type": "normal", "comment": ""},
+	{"text": "文二", "bbox": [178, 717, 267, 838], "size": "107.5", "type": "normal", "comment": ""},
+	{"text": "衣", "bbox": [44, 34, 154, 174], "size": "140", "type": "seal", "comment": ""},
+	{"text": "依也上曰衣下曰裳象覆二人之", "bbox": [45, 185, 150, 957], "size": "107.5", "type": "normal", "comment": ""}
+]
+```
