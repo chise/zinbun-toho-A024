@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "即㐬也凡㐯之屬皆从㐯", "bbox": [791, 149, 882, 765], "size": "large", "type": "small_seal_script"},
+	{"text": "書九", "bbox": [842, 777, 897, 866], "size": "small", "type": "comment"},
+	{"text": "切", "bbox": [786, 783, 829, 819], "size": "small", "type": "comment"},
+	{"text": "下㐯也从㐯", "bbox": [719, 160, 769, 359], "size": "small", "type": "small_seal_script"},
+	{"text": "㫄聲康禮切", "bbox": [660, 152, 705, 367], "size": "small", "type": "small_seal_script"},
+	{"text": "㫄", "bbox": [664, 39, 712, 138], "size": "large", "type": "small_seal_script"},
+	{"text": "截也从㐯从斷", "bbox": [719, 512, 769, 749], "size": "small", "type": "small_seal_script"},
+	{"text": "大丸㫄沇二切", "bbox": [660, 512, 705, 744], "size": "small", "type": "small_seal_script"},
+	{"text": "斷", "bbox": [664, 381, 712, 488], "size": "large", "type": "small_seal_script"},
+	{"text": "或从", "bbox": [723, 884, 769, 947], "size": "small", "type": "small_seal_script"},
+	{"text": "刀專", "bbox": [660, 893, 705, 957], "size": "small", "type": "small_seal_script"},
+	{"text": "專", "bbox": [664, 759, 712, 878], "size": "large", "type": "small_seal_script"},
+	{"text": "到㐯也賈侍中說此斷㐯到縣㬎", "bbox": [425, 194, 507, 931], "size": "large", "type": "small_seal_script"},
+	{"text": "到", "bbox": [426, 38, 505, 154], "size": "large", "type": "small_seal_script"},
+	{"text": "字凡㬎之屬皆从㬎", "bbox": [302, 167, 382, 642], "size": "large", "type": "small_seal_script"},
+	{"text": "古堯", "bbox": [346, 657, 397, 741], "size": "small", "type": "comment"},
+	{"text": "切", "bbox": [294, 657, 336, 691], "size": "small", "type": "comment"},
+	{"text": "繫也从系持㬎臣鉉等曰此本是縣挂之縣借", "bbox": [224, 167, 272, 948], "size": "small", "type": "small_seal_script"},
+	{"text": "為州縣之縣今俗加心別作懸義無所取胡涓", "bbox": [164, 167, 212, 948], "size": "small", "type": "small_seal_script"},
+	{"text": "懸", "bbox": [167, 34, 268, 154], "size": "large", "type": "small_seal_script"},
+	{"text": "切", "bbox": [101, 39, 143, 73], "size": "small", "type": "comment"},
+	{"text": "文二", "bbox": [46, 350, 136, 468], "size": "large", "type": "small_seal_script"},
+	{"text": "聲", "bbox": [584, 35, 636, 80], "size": "small", "type": "comment"},
+	{"text": "文三", "bbox": [546, 300, 630, 419], "size": "large", "type": "small_seal_script"},
+	{"text": "重一", "bbox": [546, 543, 630, 662], "size": "large", "type": "small_seal_script"},
+	{"text": "言文九", "bbox": [906, 256, 937, 368], "size": "small", "type": "comment"},
+	{"text": "李云", "bbox": [906, 888, 930, 952], "size": "small", "type": "comment"},
+	{"text": "小三百○九", "bbox": [902, 30, 922, 110], "size": "small", "type": "comment"},
+	{"text": "古", "bbox": [917, 702, 937, 728], "size": "small", "type": "comment"}
+]
+```
