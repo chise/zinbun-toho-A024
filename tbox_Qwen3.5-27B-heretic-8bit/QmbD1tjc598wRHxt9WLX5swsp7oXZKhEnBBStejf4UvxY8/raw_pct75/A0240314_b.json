@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "皆从面", "bbox": [851, 163, 942, 279], "size": "31", "type": "heading", "comment": ""},
+	{"text": "彌箭", "bbox": [906, 370, 958, 414], "size": "15", "type": "comment", "comment": ""},
+	{"text": "切", "bbox": [845, 372, 885, 404], "size": "15", "type": "comment", "comment": ""},
+	{"text": "面見也从面見見亦聲", "bbox": [768, 204, 824, 555], "size": "18", "type": "description", "comment": ""},
+	{"text": "詩曰有靦面目他典切", "bbox": [703, 188, 758, 570], "size": "18", "type": "description", "comment": ""},
+	{"text": "或从", "bbox": [766, 683, 824, 757], "size": "18", "type": "description", "comment": ""},
+	{"text": "旦", "bbox": [708, 686, 758, 725], "size": "18", "type": "description", "comment": ""},
+	{"text": "頰", "bbox": [768, 937, 828, 977], "size": "18", "type": "description", "comment": ""},
+	{"text": "也", "bbox": [708, 940, 758, 977], "size": "18", "type": "description", "comment": ""},
+	{"text": "从面甫聲", "bbox": [636, 32, 693, 209], "size": "18", "type": "description", "comment": ""},
+	{"text": "面焦枯小也从", "bbox": [636, 349, 693, 605], "size": "18", "type": "description", "comment": ""},
+	{"text": "符遇切", "bbox": [573, 35, 625, 155], "size": "18", "type": "comment", "comment": ""},
+	{"text": "面焦即消切", "bbox": [573, 357, 628, 555], "size": "18", "type": "comment", "comment": ""},
+	{"text": "文四", "bbox": [592, 678, 677, 798], "size": "31", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [592, 819, 677, 958], "size": "31", "type": "heading", "comment": ""},
+	{"text": "姿也从面厭", "bbox": [497, 187, 558, 396], "size": "18", "type": "description", "comment": ""},
+	{"text": "聲於叶切", "bbox": [439, 194, 497, 397], "size": "18", "type": "comment", "comment": ""},
+	{"text": "文一", "bbox": [461, 527, 548, 653], "size": "31", "type": "heading", "comment": ""},
+	{"text": "新附", "bbox": [497, 633, 548, 693], "size": "15", "type": "comment", "comment": ""},
+	{"text": "不見也象壅蔽之形凡丐之屬皆", "bbox": [313, 166, 415, 972], "size": "18", "type": "description", "comment": ""},
+	{"text": "从丐", "bbox": [184, 157, 281, 278], "size": "31", "type": "heading", "comment": ""},
+	{"text": "彌充", "bbox": [234, 299, 294, 380], "size": "15", "type": "comment", "comment": ""},
+	{"text": "切", "bbox": [182, 298, 230, 341], "size": "15", "type": "comment", "comment": ""},
+	{"text": "文一", "bbox": [193, 519, 280, 645], "size": "31", "type": "heading", "comment": ""},
+	{"text": "百同古文百也从象髮謂之髯髯", "bbox": [58, 154, 150, 972], "size": "18", "type": "description", "comment": ""},
+	{"text": "大十一", "bbox": [4, 31, 26, 86], "size": "10", "type": "page", "comment": ""},
+	{"text": "袁和", "bbox": [7, 907, 36, 973], "size": "10", "type": "page", "comment": ""}
+]
+```
