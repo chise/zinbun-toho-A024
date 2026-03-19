@@ -1,0 +1,30 @@
+```json
+[
+	{"bbox_2d": [853, 14, 955, 146], "text": "彦", "size": "102", "type": "heading", "comment": ""},
+	{"bbox_2d": [906, 149, 962, 402], "text": "美士有文人所言也", "size": "27", "type": "text", "comment": ""},
+	{"bbox_2d": [844, 157, 903, 458], "text": "从彣厂聲魚變切", "size": "33", "type": "text", "comment": ""},
+	{"bbox_2d": [866, 642, 945, 759], "text": "文二", "size": "60", "type": "heading", "comment": ""},
+	{"bbox_2d": [710, 20, 822, 143], "text": "文", "size": "122", "type": "heading", "comment": ""},
+	{"bbox_2d": [725, 154, 819, 981], "text": "錯畫也象交文凡文之屬皆从文", "size": "60", "type": "text", "comment": ""},
+	{"bbox_2d": [637, 161, 693, 285], "text": "無分", "size": "55", "type": "text", "comment": ""},
+	{"bbox_2d": [583, 161, 630, 209], "text": "切", "size": "48", "type": "text", "comment": ""},
+	{"bbox_2d": [447, 23, 552, 153], "text": "斐", "size": "130", "type": "heading", "comment": ""},
+	{"bbox_2d": [508, 172, 567, 641], "text": "分別文也从文非聲易曰君", "size": "35", "type": "text", "comment": ""},
+	{"bbox_2d": [447, 172, 508, 594], "text": "子豹變其文斐也敷尾切", "size": "35", "type": "text", "comment": ""},
+	{"bbox_2d": [443, 648, 560, 769], "text": "斖", "size": "121", "type": "heading", "comment": ""},
+	{"bbox_2d": [507, 776, 565, 977], "text": "駁文也从文", "size": "38", "type": "text", "comment": ""},
+	{"bbox_2d": [447, 776, 507, 977], "text": "斖聲布還切", "size": "38", "type": "text", "comment": ""},
+	{"bbox_2d": [315, 23, 424, 152], "text": "微", "size": "129", "type": "heading", "comment": ""},
+	{"bbox_2d": [374, 163, 432, 369], "text": "微畫也从文", "size": "38", "type": "text", "comment": ""},
+	{"bbox_2d": [313, 163, 370, 375], "text": "聲里之切", "size": "38", "type": "text", "comment": ""},
+	{"bbox_2d": [338, 625, 415, 742], "text": "文四", "size": "60", "type": "heading", "comment": ""},
+	{"bbox_2d": [182, 23, 291, 152], "text": "髟", "size": "129", "type": "heading", "comment": ""},
+	{"bbox_2d": [195, 165, 289, 981], "text": "長髮焱焱也从長从彡凡髟之屬", "size": "60", "type": "text", "comment": ""},
+	{"bbox_2d": [109, 483, 161, 555], "text": "又", "size": "72", "type": "text", "comment": ""},
+	{"bbox_2d": [56, 161, 150, 373], "text": "皆从髟", "size": "60", "type": "text", "comment": ""},
+	{"bbox_2d": [110, 388, 160, 550], "text": "必凋切", "size": "38", "type": "text", "comment": ""},
+	{"bbox_2d": [45, 388, 95, 515], "text": "所銜切", "size": "38", "type": "text", "comment": ""},
+	{"bbox_2d": [6, 23, 30, 84], "text": "六廿三", "size": "20", "type": "text", "comment": ""},
+	{"bbox_2d": [6, 916, 32, 972], "text": "丁山", "size": "20", "type": "text", "comment": ""}
+]
+```
