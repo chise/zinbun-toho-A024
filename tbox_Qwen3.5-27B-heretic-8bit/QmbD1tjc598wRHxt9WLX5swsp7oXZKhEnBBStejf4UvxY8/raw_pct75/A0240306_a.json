@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "小言大", "bbox": [951, 41, 979, 112], "size": "small", "type": "text", "comment": ""},
+	{"text": "弋笑", "bbox": [885, 174, 937, 254], "size": "large", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [832, 176, 882, 213], "size": "medium", "type": "text", "comment": ""},
+	{"text": "很視也从覑肩聲齊景公", "bbox": [753, 162, 812, 568], "size": "medium", "type": "text", "comment": ""},
+	{"text": "見雨而止息从", "bbox": [751, 724, 807, 958], "size": "medium", "type": "text", "comment": ""},
+	{"text": "之勇臣有成覷者苦閑切", "bbox": [693, 161, 743, 573], "size": "medium", "type": "text", "comment": ""},
+	{"text": "覷从雨讀若欹", "bbox": [692, 724, 744, 962], "size": "medium", "type": "text", "comment": ""},
+	{"text": "虛器", "bbox": [624, 36, 679, 120], "size": "medium", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [569, 41, 619, 78], "size": "medium", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [573, 363, 657, 488], "size": "large", "type": "heading", "comment": ""},
+	{"text": "張口气悟也象气从人上出之形", "bbox": [443, 182, 535, 972], "size": "large", "type": "text", "comment": ""},
+	{"text": "凡欠之屬皆从欠", "bbox": [311, 173, 402, 619], "size": "large", "type": "heading", "comment": ""},
+	{"text": "去劔", "bbox": [347, 624, 403, 688], "size": "medium", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [298, 608, 349, 643], "size": "medium", "type": "text", "comment": ""},
+	{"text": "欠皃从欠金", "bbox": [225, 158, 280, 365], "size": "medium", "type": "text", "comment": ""},
+	{"text": "聲去音切", "bbox": [171, 158, 221, 328], "size": "medium", "type": "text", "comment": ""},
+	{"text": "欠皃从欠𢇁", "bbox": [223, 517, 278, 719], "size": "medium", "type": "text", "comment": ""},
+	{"text": "聲洛官切", "bbox": [168, 517, 218, 683], "size": "medium", "type": "text", "comment": ""},
+	{"text": "喜也从", "bbox": [226, 859, 280, 976], "size": "medium", "type": "text", "comment": ""},
+	{"text": "欠吉聲", "bbox": [171, 859, 221, 977], "size": "medium", "type": "text", "comment": ""},
+	{"text": "許吉", "bbox": [103, 39, 152, 120], "size": "medium", "type": "text", "comment": ""},
+	{"text": "出气也从欠从口臣鉉等案口", "bbox": [98, 255, 152, 759], "size": "medium", "type": "text", "comment": ""},
+	{"text": "吹也", "bbox": [98, 911, 151, 974], "size": "medium", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [48, 38, 97, 75], "size": "medium", "type": "text", "comment": ""},
+	{"text": "部已有吹嘘此重出昌垂切", "bbox": [41, 257, 91, 723], "size": "medium", "type": "text", "comment": ""},
+	{"text": "一曰", "bbox": [40, 911, 91, 975], "size": "medium", "type": "text", "comment": ""}
+]
+```
