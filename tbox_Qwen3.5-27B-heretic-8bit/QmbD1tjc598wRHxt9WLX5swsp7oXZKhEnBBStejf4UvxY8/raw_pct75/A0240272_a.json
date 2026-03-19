@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小三百○一", "bbox": [941, 21, 962, 76], "size": "10.48", "type": "plain", "comment": ""},
+	{"text": "文三十四重十二", "bbox": [822, 258, 918, 774], "size": "72.0", "type": "plain", "comment": ""},
+	{"text": "魚網也从网或", "bbox": [745, 166, 803, 421], "size": "40.0", "type": "plain", "comment": ""},
+	{"text": "或亦聲于逼切", "bbox": [685, 166, 741, 421], "size": "40.0", "type": "plain", "comment": ""},
+	{"text": "罟罳屏也从网", "bbox": [745, 563, 803, 818], "size": "40.0", "type": "plain", "comment": ""},
+	{"text": "思聲息兹切", "bbox": [685, 563, 741, 774], "size": "40.0", "type": "plain", "comment": ""},
+	{"text": "心憂也从网未詳古", "bbox": [611, 30, 668, 383], "size": "40.0", "type": "plain", "comment": ""},
+	{"text": "多通用離吕支切", "bbox": [550, 30, 607, 338], "size": "40.0", "type": "plain", "comment": ""},
+	{"text": "文三", "bbox": [563, 545, 649, 670], "size": "65.0", "type": "plain", "comment": ""},
+	{"text": "新附", "bbox": [606, 699, 659, 776], "size": "38.0", "type": "plain", "comment": ""},
+	{"text": "覆也从冂上下覆之凡𠩺之屬皆", "bbox": [425, 165, 521, 971], "size": "50.0", "type": "plain", "comment": ""},
+	{"text": "从𠩺", "bbox": [307, 265, 400, 378], "size": "50.0", "type": "plain", "comment": ""},
+	{"text": "呼訝", "bbox": [350, 306, 400, 385], "size": "38.0", "type": "plain", "comment": ""},
+	{"text": "切", "bbox": [296, 307, 345, 338], "size": "38.0", "type": "plain", "comment": ""},
+	{"text": "讀若晉", "bbox": [307, 395, 388, 589], "size": "50.0", "type": "plain", "comment": ""},
+	{"text": "反覆也从𠩺", "bbox": [222, 166, 276, 376], "size": "40.0", "type": "plain", "comment": ""},
+	{"text": "乏聲方勇切", "bbox": [161, 166, 217, 376], "size": "40.0", "type": "plain", "comment": ""},
+	{"text": "實也考事𠩺笮邀遮其辭", "bbox": [222, 542, 276, 977], "size": "40.0", "type": "plain", "comment": ""},
+	{"text": "得實曰𣄉从𠩺𣄉聲下革", "bbox": [161, 542, 217, 977], "size": "40.0", "type": "plain", "comment": ""},
+	{"text": "切", "bbox": [101, 24, 148, 52], "size": "38.0", "type": "plain", "comment": ""},
+	{"text": "𣄉或", "bbox": [101, 204, 148, 282], "size": "38.0", "type": "plain", "comment": ""},
+	{"text": "从雨", "bbox": [39, 204, 93, 282], "size": "38.0", "type": "plain", "comment": ""},
+	{"text": "𠩺也一曰蓋也从", "bbox": [92, 432, 145, 713], "size": "38.0", "type": "plain", "comment": ""},
+	{"text": "𠩺復聲𣄉救切", "bbox": [32, 432, 85, 670], "size": "38.0", "type": "plain", "comment": ""},
+	{"text": "任三", "bbox": [937, 908, 962, 964], "size": "10.48", "type": "plain", "comment": ""}
+]
+```
