@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "文二", "bbox": [847, 262, 942, 387], "size": "39.94", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [847, 558, 942, 684], "size": "39.94", "type": "heading", "comment": ""},
+	{"text": "豕也竭其尾故謂之豕象毛足而", "bbox": [703, 23, 810, 967], "size": "39.94", "type": "description", "comment": ""},
+	{"text": "後有尾讀與豨同按今世字誤以", "bbox": [567, 150, 675, 967], "size": "39.94", "type": "description", "comment": ""},
+	{"text": "豕爲彘以彘爲豕何以明之爲啄", "bbox": [430, 150, 537, 967], "size": "39.94", "type": "description", "comment": ""},
+	{"text": "琢从豕豕从彘皆取其聲以是明", "bbox": [293, 150, 401, 967], "size": "39.94", "type": "description", "comment": ""},
+	{"text": "之", "bbox": [175, 150, 283, 226], "size": "39.94", "type": "description", "comment": ""},
+	{"text": "臣鉉等曰此語未", "bbox": [233, 255, 283, 551], "size": "18.57", "type": "description", "comment": ""},
+	{"text": "詳或後人所加", "bbox": [175, 255, 226, 503], "size": "18.57", "type": "description", "comment": ""},
+	{"text": "凡豕之屬皆从豕", "bbox": [175, 558, 283, 967], "size": "39.94", "type": "description", "comment": ""},
+	{"text": "式視", "bbox": [101, 174, 152, 259], "size": "19.28", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [43, 174, 94, 216], "size": "19.28", "type": "description", "comment": ""},
+	{"text": "小曰彘", "bbox": [962, 23, 989, 58], "size": "14.14", "type": "description", "comment": ""},
+	{"text": "終", "bbox": [962, 890, 989, 919], "size": "14.14", "type": "description", "comment": ""},
+	{"text": "春", "bbox": [962, 929, 989, 959], "size": "14.14", "type": "description", "comment": ""},
+	{"text": "春", "bbox": [976, 679, 1000, 709], "size": "19.28", "type": "description", "comment": ""},
+	{"text": "終", "bbox": [976, 885, 1000, 914], "size": "19.28", "type": "description", "comment": ""}
+]
+```
