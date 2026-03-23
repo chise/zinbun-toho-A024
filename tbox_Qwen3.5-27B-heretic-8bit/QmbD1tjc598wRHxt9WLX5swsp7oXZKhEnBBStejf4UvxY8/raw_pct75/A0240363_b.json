@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "説文解字弟十", "bbox": [867, 18, 970, 368], "size": "38.38", "type": "heading", "comment": ""},
+	{"text": "下", "bbox": [915, 374, 957, 404], "size": "14.17", "type": "heading", "comment": ""},
+	{"text": "漢太尉祭酒許慎記", "bbox": [865, 502, 967, 972], "size": "51.81", "type": "heading", "comment": ""},
+	{"text": "銀青光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百户徐鉉等奉", "bbox": [742, 55, 814, 984], "size": "29.41", "type": "heading", "comment": ""},
+	{"text": "敕校定", "bbox": [606, 47, 676, 151], "size": "36.39", "type": "heading", "comment": ""},
+	{"text": "亐", "bbox": [455, 27, 564, 155], "size": "110.12", "type": "text", "comment": ""},
+	{"text": "在牆曰牖在屋曰亐象形凡亐", "bbox": [458, 189, 562, 972], "size": "61.0", "type": "text", "comment": ""},
+	{"text": "之屬皆从亐", "bbox": [326, 195, 429, 513], "size": "62.4", "type": "text", "comment": ""},
+	{"text": "楚江", "bbox": [380, 552, 436, 629], "size": "34.45", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [319, 555, 372, 585], "size": "37.5", "type": "text", "comment": ""},
+	{"text": "𥦖", "bbox": [183, 25, 294, 152], "size": "110.12", "type": "text", "comment": ""},
+	{"text": "或从", "bbox": [239, 157, 296, 238], "size": "38.67", "type": "text", "comment": ""},
+	{"text": "穴", "bbox": [184, 161, 237, 192], "size": "43.12", "type": "text", "comment": ""},
+	{"text": "四", "bbox": [189, 277, 290, 348], "size": "68.56", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [178, 374, 293, 424], "size": "44.67", "type": "text", "comment": ""},
+	{"text": "恩", "bbox": [194, 428, 294, 561], "size": "129.5", "type": "text", "comment": ""},
+	{"text": "多遽恩恩也从心", "bbox": [242, 572, 298, 873], "size": "35.42", "type": "text", "comment": ""},
+	{"text": "亐亐亦聲倉紅切", "bbox": [181, 572, 235, 878], "size": "32.25", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [58, 348, 156, 469], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [55, 598, 152, 727], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "大十", "bbox": [5, 15, 28, 68], "size": "15.81", "type": "text", "comment": ""},
+	{"text": "東方文化學院京都研究所", "bbox": [818, 705, 859, 969], "size": "22.5", "type": "text", "comment": ""}
+]
+```
