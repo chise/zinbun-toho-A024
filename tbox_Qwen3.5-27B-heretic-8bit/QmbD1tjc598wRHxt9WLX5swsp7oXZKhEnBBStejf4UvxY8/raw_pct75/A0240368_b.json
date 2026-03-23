@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "罪人也从𠬞从人", "bbox": [902, 28, 965, 234], "size": "45.44999694824219", "type": "text", "comment": ""},
+	{"text": "从言竹聲居六切", "bbox": [841, 28, 903, 234], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "亼", "bbox": [903, 242, 965, 355], "size": "34.999996185302734", "type": "image", "comment": ""},
+	{"text": "或省", "bbox": [912, 460, 965, 543], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "亼", "bbox": [841, 242, 903, 355], "size": "34.999996185302734", "type": "image", "comment": ""},
+	{"text": "言", "bbox": [851, 460, 903, 503], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "文七", "bbox": [859, 639, 941, 736], "size": "60.0", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [859, 827, 941, 930], "size": "60.0", "type": "heading", "comment": ""},
+	{"text": "奢張也从大者聲凡奢之屬皆从奢", "bbox": [719, 23, 829, 986], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "式車", "bbox": [645, 192, 697, 280], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [585, 192, 637, 236], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "𠬞", "bbox": [444, 23, 563, 164], "size": "60.0", "type": "image", "comment": ""},
+	{"text": "籀文臣鉉等曰今俗作陟加", "bbox": [504, 167, 566, 637], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "切以爲𠩱厚之𠩱非是", "bbox": [444, 176, 506, 579], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "𠬞", "bbox": [444, 640, 506, 768], "size": "60.0", "type": "image", "comment": ""},
+	{"text": "奢單聲丁可", "bbox": [444, 772, 506, 986], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "𠬞", "bbox": [506, 640, 566, 768], "size": "60.0", "type": "image", "comment": ""},
+	{"text": "富𨑊𨑊皃从", "bbox": [506, 772, 566, 986], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [369, 36, 427, 75], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [323, 325, 417, 447], "size": "60.0", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [323, 571, 417, 692], "size": "60.0", "type": "heading", "comment": ""},
+	{"text": "亼", "bbox": [184, 32, 294, 157], "size": "60.0", "type": "image", "comment": ""},
+	{"text": "人頸也从大省象頸脈形凡亼之", "bbox": [184, 173, 294, 980], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "屬皆从亼", "bbox": [55, 185, 159, 432], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "古郎", "bbox": [115, 443, 167, 521], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [47, 443, 100, 486], "size": "34.999996185302734", "type": "text", "comment": ""},
+	{"text": "大十五", "bbox": [6, 29, 32, 98], "size": "16.5", "type": "heading", "comment": ""},
+	{"text": "蔣安", "bbox": [6, 895, 35, 965], "size": "16.5", "type": "heading", "comment": ""}
+]
+```
