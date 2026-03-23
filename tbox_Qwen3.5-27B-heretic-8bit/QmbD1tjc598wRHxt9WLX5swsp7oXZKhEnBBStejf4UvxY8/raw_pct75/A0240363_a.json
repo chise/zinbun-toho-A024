@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "原乡", "bbox": [227, 429, 312, 604], "size": "56", "type": "text", "comment": ""},
+	{"text": "中", "bbox": [372, 399, 402, 465], "size": "36", "type": "text", "comment": ""},
+	{"text": "山", "bbox": [372, 477, 403, 540], "size": "33", "type": "text", "comment": ""},
+	{"text": "原乡", "bbox": [546, 423, 632, 604], "size": "57", "type": "text", "comment": ""},
+	{"text": "中", "bbox": [698, 394, 731, 460], "size": "37", "type": "text", "comment": ""},
+	{"text": "山", "bbox": [698, 472, 731, 535], "size": "34", "type": "text", "comment": ""},
+	{"text": "原乡", "bbox": [824, 415, 911, 597], "size": "57", "type": "text", "comment": ""},
+	{"text": "中", "bbox": [982, 389, 1015, 455], "size": "37", "type": "text", "comment": ""},
+	{"text": "山", "bbox": [982, 467, 1014, 531], "size": "34", "type": "text", "comment": ""}
+]
+```
