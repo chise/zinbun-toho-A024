@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "微陽之氣也凡水之屬皆从水式軌切", "bbox": [825, 147, 937, 922], "size": "large", "type": "heading", "comment": ""},
+	{"text": "小篆", "bbox": [945, 18, 971, 105], "size": "small", "type": "comment", "comment": ""},
+	{"text": "說文一丁", "bbox": [955, 235, 986, 392], "size": "small", "type": "comment", "comment": ""},
+	{"text": "西極之水也从水八聲爾雅曰西至汃國謂四極府巾切", "bbox": [697, 171, 810, 637], "size": "medium", "type": "description", "comment": ""},
+	{"text": "水出焞煌塞外昆侖", "bbox": [698, 800, 813, 974], "size": "medium", "type": "description", "comment": ""},
+	{"text": "山發原注海从水可聲乎哥切", "bbox": [561, 34, 677, 293], "size": "medium", "type": "description", "comment": ""},
+	{"text": "澤在昆侖下从水幼聲讀與㡄同於糾切", "bbox": [561, 435, 677, 784], "size": "medium", "type": "description", "comment": ""},
+	{"text": "水出", "bbox": [573, 918, 684, 971], "size": "medium", "type": "description", "comment": ""},
+	{"text": "發鳩山入於河从水東聲德紅切", "bbox": [430, 34, 544, 323], "size": "medium", "type": "description", "comment": ""},
+	{"text": "水出廣漢剛邑道徼外南入漢从水客聲縳牟切", "bbox": [433, 490, 545, 869], "size": "medium", "type": "description", "comment": ""},
+	{"text": "水出廣漢梓潼北界南入墊江从水童聲徒紅切", "bbox": [305, 175, 418, 569], "size": "medium", "type": "description", "comment": ""},
+	{"text": "水出蜀湔氐徼外嶓山入", "bbox": [306, 757, 421, 966], "size": "medium", "type": "description", "comment": ""},
+	{"text": "海从水工聲古雙切", "bbox": [175, 34, 288, 202], "size": "medium", "type": "description", "comment": ""},
+	{"text": "江別流也出崏山東别爲沱从水它聲臣鉉等曰沱沼之沱通用此字今", "bbox": [180, 373, 293, 975], "size": "medium", "type": "description", "comment": ""},
+	{"text": "別作池非是徒何切", "bbox": [46, 34, 159, 202], "size": "medium", "type": "description", "comment": ""},
+	{"text": "江水東至會稽山陰爲浙江从水折聲旨熱切", "bbox": [50, 372, 162, 746], "size": "medium", "type": "description", "comment": ""},
+	{"text": "水出蜀汶", "bbox": [52, 889, 165, 975], "size": "medium", "type": "description", "comment": ""}
+]
+```
