@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "小言七寸", "bbox": [954, 20, 978, 108], "size": "12", "type": "heading", "comment": ""},
+	{"text": "具往", "bbox": [888, 22, 940, 58], "size": "18", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [826, 22, 878, 58], "size": "18", "type": "heading", "comment": ""},
+	{"text": "文五", "bbox": [842, 546, 934, 671], "size": "36", "type": "heading", "comment": ""},
+	{"text": "籀文大改古文亦象人形凡大之", "bbox": [699, 174, 802, 978], "size": "42", "type": "text", "comment": ""},
+	{"text": "屬皆从大", "bbox": [567, 173, 665, 447], "size": "36", "type": "text", "comment": ""},
+	{"text": "他達", "bbox": [621, 449, 677, 511], "size": "18", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [562, 449, 616, 485], "size": "18", "type": "text", "comment": ""},
+	{"text": "大也从大亦聲詩曰", "bbox": [494, 173, 540, 493], "size": "18", "type": "text", "comment": ""},
+	{"text": "奕奕梁山羊盆切", "bbox": [427, 173, 475, 448], "size": "18", "type": "text", "comment": ""},
+	{"text": "駔大也从大从壯", "bbox": [480, 650, 540, 943], "size": "18", "type": "text", "comment": ""},
+	{"text": "壯亦聲徂朗切", "bbox": [427, 651, 475, 916], "size": "18", "type": "text", "comment": ""},
+	{"text": "大白澤也从大从白古", "bbox": [357, 173, 403, 535], "size": "18", "type": "text", "comment": ""},
+	{"text": "文以爲澤字古老切", "bbox": [290, 173, 338, 493], "size": "18", "type": "text", "comment": ""},
+	{"text": "大腹也从大𢇁省", "bbox": [357, 689, 406, 983], "size": "18", "type": "text", "comment": ""},
+	{"text": "聲𢇁籀文系字胡", "bbox": [290, 689, 338, 984], "size": "18", "type": "text", "comment": ""},
+	{"text": "雞", "bbox": [224, 22, 275, 58], "size": "18", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [160, 22, 210, 58], "size": "18", "type": "heading", "comment": ""},
+	{"text": "稍前大也从大而聲", "bbox": [224, 211, 273, 551], "size": "18", "type": "text", "comment": ""},
+	{"text": "讀若畏偄而沈切", "bbox": [160, 211, 208, 514], "size": "18", "type": "text", "comment": ""},
+	{"text": "大皃从大𠂤聲或", "bbox": [224, 688, 273, 982], "size": "18", "type": "text", "comment": ""},
+	{"text": "曰拳勇字一曰讀", "bbox": [160, 689, 208, 982], "size": "18", "type": "text", "comment": ""},
+	{"text": "若僞", "bbox": [90, 22, 140, 139], "size": "18", "type": "heading", "comment": ""},
+	{"text": "乙", "bbox": [112, 140, 136, 161], "size": "9", "type": "text", "comment": ""},
+	{"text": "獻切", "bbox": [27, 22, 76, 139], "size": "18", "type": "heading", "comment": ""},
+	{"text": "壯大也从三大三目二目爲𠂤三目爲𣊭", "bbox": [90, 294, 140, 981], "size": "18", "type": "text", "comment": ""},
+	{"text": "益大也一曰迫也讀若易處羲氏詩曰不", "bbox": [27, 294, 76, 982], "size": "18", "type": "text", "comment": ""},
+	{"text": "洪章", "bbox": [954, 899, 980, 974], "size": "18", "type": "text", "comment": ""},
+	{"text": "說文十", "bbox": [960, 258, 997, 397], "size": "18", "type": "text", "comment": ""}
+]
+```
