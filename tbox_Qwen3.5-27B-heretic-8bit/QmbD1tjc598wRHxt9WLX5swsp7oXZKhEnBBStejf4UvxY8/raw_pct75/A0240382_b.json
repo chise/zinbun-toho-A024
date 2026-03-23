@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "說文解字第十一", "bbox": [862, 24, 965, 394], "size": "42.5", "type": "heading", "comment": ""},
+	{"text": "上", "bbox": [921, 434, 964, 456], "size": "13", "type": "subheading", "comment": ""},
+	{"text": "漢太尉祭酒許慎記", "bbox": [874, 511, 971, 958], "size": "40", "type": "heading", "comment": ""},
+	{"text": "銀靑光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [749, 65, 817, 968], "size": "28", "type": "heading", "comment": ""},
+	{"text": "敕校定", "bbox": [612, 63, 670, 159], "size": "30", "type": "heading", "comment": ""},
+	{"text": "二十一部 六百八十五文 重六十二", "bbox": [467, 102, 560, 909], "size": "45", "type": "heading", "comment": ""},
+	{"text": "凡九千七百六十九字", "bbox": [331, 212, 427, 715], "size": "42", "type": "heading", "comment": ""},
+	{"text": "文三十一", "bbox": [204, 210, 294, 427], "size": "45", "type": "heading", "comment": ""},
+	{"text": "新附", "bbox": [251, 439, 298, 512], "size": "20", "type": "heading", "comment": ""},
+	{"text": "水", "bbox": [63, 31, 158, 154], "size": "45", "type": "heading", "comment": ""},
+	{"text": "準也北方之行象衆水竝流中有", "bbox": [63, 159, 159, 974], "size": "42", "type": "heading", "comment": ""},
+	{"text": "大十一", "bbox": [10, 34, 34, 96], "size": "10", "type": "page_number", "comment": ""},
+	{"text": "說文解字第十一", "bbox": [3, 263, 32, 397], "size": "10", "type": "page_number", "comment": ""},
+	{"text": "袁和", "bbox": [17, 900, 46, 969], "size": "10", "type": "signature", "comment": ""}
+]
+```
