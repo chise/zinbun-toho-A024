@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "小三百十六", "bbox": [969, 16, 999, 104], "size": "小", "type": "text", "comment": ""},
+	{"text": "文一百一十二", "bbox": [845, 204, 953, 573], "size": "大", "type": "heading", "comment": ""},
+	{"text": "重十五", "bbox": [851, 647, 947, 848], "size": "大", "type": "heading", "comment": ""},
+	{"text": "宏昌", "bbox": [964, 909, 996, 980], "size": "小", "type": "text", "comment": ""},
+	{"text": "旱气也从火", "bbox": [778, 165, 825, 315], "size": "中", "type": "text", "comment": ""},
+	{"text": "灼也", "bbox": [778, 896, 825, 971], "size": "中", "type": "text", "comment": ""},
+	{"text": "蟲聲直弓切", "bbox": [711, 165, 763, 315], "size": "中", "type": "text", "comment": ""},
+	{"text": "熾盛也从火", "bbox": [768, 517, 825, 746], "size": "中", "type": "text", "comment": ""},
+	{"text": "扇聲式戰切", "bbox": [704, 517, 763, 746], "size": "中", "type": "text", "comment": ""},
+	{"text": "从火", "bbox": [698, 896, 756, 971], "size": "中", "type": "text", "comment": ""},
+	{"text": "灼爍光也从火", "bbox": [636, 305, 691, 561], "size": "中", "type": "text", "comment": ""},
+	{"text": "燦爛明灑皃从", "bbox": [623, 715, 687, 971], "size": "中", "type": "text", "comment": ""},
+	{"text": "各聲盧", "bbox": [636, 26, 691, 157], "size": "中", "type": "text", "comment": ""},
+	{"text": "樂聲書藥切", "bbox": [566, 305, 623, 561], "size": "中", "type": "text", "comment": ""},
+	{"text": "火粲聲倉案切", "bbox": [557, 715, 615, 971], "size": "中", "type": "text", "comment": ""},
+	{"text": "各切", "bbox": [566, 26, 623, 106], "size": "中", "type": "text", "comment": ""},
+	{"text": "火灮也从火", "bbox": [495, 157, 549, 368], "size": "中", "type": "text", "comment": ""},
+	{"text": "文六", "bbox": [444, 546, 544, 679], "size": "中", "type": "heading", "comment": ""},
+	{"text": "新附", "bbox": [478, 712, 542, 774], "size": "小", "type": "text", "comment": ""},
+	{"text": "奐聲呼貫切", "bbox": [429, 157, 486, 368], "size": "中", "type": "text", "comment": ""},
+	{"text": "灮上也从重火凡炎之屬皆从", "bbox": [299, 157, 405, 971], "size": "大", "type": "text", "comment": ""},
+	{"text": "于廉", "bbox": [220, 250, 274, 325], "size": "中", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [161, 250, 213, 280], "size": "中", "type": "text", "comment": ""},
+	{"text": "火行微𤴋𤴋也从", "bbox": [86, 157, 145, 460], "size": "中", "type": "text", "comment": ""},
+	{"text": "火灮也从炎舌聲臣", "bbox": [86, 618, 145, 971], "size": "中", "type": "text", "comment": ""},
+	{"text": "炎皃聲以冉切", "bbox": [26, 157, 82, 407], "size": "中", "type": "text", "comment": ""},
+	{"text": "銓等曰舌非聲當从", "bbox": [20, 618, 77, 971], "size": "中", "type": "text", "comment": ""}
+]
+```
