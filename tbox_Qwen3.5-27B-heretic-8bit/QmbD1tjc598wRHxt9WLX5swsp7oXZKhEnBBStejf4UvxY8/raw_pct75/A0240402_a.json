@@ -1,0 +1,11 @@
+```json
+[
+	{"bbox_2d": [927, 39, 953, 114], "text_content": "小六十三", "text_size": "1.6cm", "text_type": "text", "text_comment": "小六十三"},
+	{"bbox_2d": [935, 257, 965, 390], "text_content": "說文十一", "text_size": "1.6cm", "text_type": "text", "text_comment": "說文十一"},
+	{"bbox_2d": [942, 712, 967, 734], "text_content": "十", "text_size": "1.0cm", "text_type": "text", "text_comment": "十"},
+	{"bbox_2d": [931, 895, 958, 958], "text_content": "陸安", "text_size": "1.0cm", "text_type": "text", "text_comment": "陸安"},
+	{"bbox_2d": [558, 29, 644, 520], "text_content": "𣲘水得丘泥十一斗", "text_size": "3.5cm", "text_type": "text", "text_comment": "𣲘水得丘泥十一斗"},
+	{"bbox_2d": [307, 207, 402, 465], "text_content": "文二十三", "text_size": "3.5cm", "text_type": "text", "text_comment": "文二十三"},
+	{"bbox_2d": [303, 467, 342, 546], "text_content": "新附", "text_size": "1.5cm", "text_type": "text", "text_comment": "新附"}
+]
+```
