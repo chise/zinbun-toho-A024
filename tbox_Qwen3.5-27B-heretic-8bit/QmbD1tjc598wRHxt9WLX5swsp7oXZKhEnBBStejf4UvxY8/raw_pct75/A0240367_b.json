@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "病也从允从", "bbox": [909, 27, 971, 192], "size": "32", "type": "text", "comment": ""},
+	{"text": "羸郎果切", "bbox": [850, 27, 909, 212], "size": "32", "type": "text", "comment": ""},
+	{"text": "文十二", "bbox": [860, 397, 951, 572], "size": "55", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [865, 715, 948, 808], "size": "55", "type": "heading", "comment": ""},
+	{"text": "昆吾圜器也象形从大象其蓋也", "bbox": [729, 172, 830, 980], "size": "48", "type": "text", "comment": ""},
+	{"text": "凡壺之屬皆从壺", "bbox": [590, 172, 691, 650], "size": "48", "type": "text", "comment": ""},
+	{"text": "户姑", "bbox": [639, 625, 691, 694], "size": "22", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [590, 625, 639, 659], "size": "32", "type": "text", "comment": ""},
+	{"text": "壹壺也从凶从壺不得泄凶", "bbox": [511, 165, 571, 637], "size": "32", "type": "text", "comment": ""},
+	{"text": "也易曰天地壹壺於云切", "bbox": [452, 175, 511, 609], "size": "32", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [457, 755, 550, 864], "size": "55", "type": "heading", "comment": ""},
+	{"text": "專壺也从壺吉聲凡壺之屬皆从", "bbox": [323, 172, 425, 987], "size": "48", "type": "text", "comment": ""},
+	{"text": "於悉", "bbox": [242, 257, 303, 325], "size": "22", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [184, 257, 242, 291], "size": "32", "type": "text", "comment": ""},
+	{"text": "專久而美也从壺", "bbox": [109, 172, 170, 483], "size": "32", "type": "text", "comment": ""},
+	{"text": "从恣省聲乙冀切", "bbox": [49, 175, 109, 490], "size": "32", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [59, 734, 150, 843], "size": "55", "type": "heading", "comment": ""},
+	{"text": "大十一", "bbox": [7, 27, 35, 82], "size": "12", "type": "text", "comment": ""},
+	{"text": "说文十下", "bbox": [0, 264, 26, 400], "size": "12", "type": "text", "comment": ""},
+	{"text": "立", "bbox": [0, 715, 26, 744], "size": "12", "type": "text", "comment": ""},
+	{"text": "蒋安", "bbox": [7, 908, 35, 977], "size": "12", "type": "text", "comment": ""}
+]
+```
