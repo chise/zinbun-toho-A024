@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "語曰子路侃侃", "bbox": [914, 29, 971, 286], "size": "33", "type": "text", "comment": ""},
+	{"text": "水中可居曰州周遶其旁从重", "bbox": [914, 462, 971, 961], "size": "33", "type": "text", "comment": ""},
+	{"text": "如也空旱切", "bbox": [855, 29, 911, 228], "size": "33", "type": "text", "comment": ""},
+	{"text": "川昔堯遭洪水民居水中高土", "bbox": [855, 454, 911, 961], "size": "33", "type": "text", "comment": ""},
+	{"text": "故曰九州詩曰在河之州一曰州疇也各疇其", "bbox": [789, 29, 846, 809], "size": "33", "type": "text", "comment": ""},
+	{"text": "土而生之臣鉉等曰今別作洲非是職流切", "bbox": [723, 29, 779, 751], "size": "33", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [655, 29, 702, 106], "size": "33", "type": "text", "comment": ""},
+	{"text": "州", "bbox": [591, 29, 644, 67], "size": "33", "type": "text", "comment": ""},
+	{"text": "文十", "bbox": [600, 348, 698, 470], "size": "71", "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [600, 584, 698, 706], "size": "71", "type": "text", "comment": ""},
+	{"text": "水原也象水流出成川形凡泉之", "bbox": [465, 141, 568, 972], "size": "66", "type": "text", "comment": ""},
+	{"text": "屬皆从泉", "bbox": [340, 167, 431, 413], "size": "66", "type": "text", "comment": ""},
+	{"text": "疾緣", "bbox": [388, 434, 436, 515], "size": "27", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [327, 434, 373, 471], "size": "33", "type": "text", "comment": ""},
+	{"text": "泉水也从泉㵋聲", "bbox": [247, 174, 303, 476], "size": "33", "type": "text", "comment": ""},
+	{"text": "讀若飯符萬切", "bbox": [188, 174, 245, 431], "size": "33", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [192, 592, 290, 713], "size": "71", "type": "text", "comment": ""},
+	{"text": "三泉也闕凡泉線之屬皆从泉線", "bbox": [66, 174, 165, 868], "size": "66", "type": "text", "comment": ""},
+	{"text": "詳遵", "bbox": [104, 889, 161, 971], "size": "33", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [43, 889, 94, 926], "size": "33", "type": "text", "comment": ""},
+	{"text": "大十", "bbox": [14, 26, 42, 75], "size": "14", "type": "text", "comment": ""},
+	{"text": "說文上上", "bbox": [1, 249, 34, 382], "size": "21", "type": "text", "comment": ""},
+	{"text": "三", "bbox": [0, 687, 19, 708], "size": "14", "type": "text", "comment": ""},
+	{"text": "唐文", "bbox": [7, 890, 34, 959], "size": "14", "type": "text", "comment": ""}
+]
+```
