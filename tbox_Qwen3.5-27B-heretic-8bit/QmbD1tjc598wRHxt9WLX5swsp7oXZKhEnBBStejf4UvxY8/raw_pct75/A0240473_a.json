@@ -1,0 +1,10 @@
+```json
+[
+	{"text": "華林書院", "bbox": [227, 14, 386, 40], "size": "159", "type": "title", "comment": "rotated text"},
+	{"text": "年", "bbox": [317, 41, 338, 51], "size": "21", "type": "text", "comment": "rotated text"},
+	{"text": "月", "bbox": [290, 42, 309, 51], "size": "19", "type": "text", "comment": "rotated text"},
+	{"text": "日", "bbox": [264, 41, 282, 51], "size": "18", "type": "text", "comment": "rotated text"},
+	{"text": "借", "bbox": [236, 41, 255, 51], "size": "19", "type": "text", "comment": "rotated text"},
+	{"text": "書", "bbox": [209, 41, 229, 51], "size": "20", "type": "text", "comment": "rotated text"}
+]
+```
