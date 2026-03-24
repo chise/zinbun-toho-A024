@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "小曰仐三", "bbox": [945, 35, 969, 131], "size": "15.75", "type": "text", "comment": ""},
+	{"text": "言文十一", "bbox": [963, 252, 990, 336], "size": "18.75", "type": "text", "comment": ""},
+	{"text": "二", "bbox": [966, 682, 992, 724], "size": "18.75", "type": "text", "comment": ""},
+	{"text": "李云", "bbox": [953, 910, 976, 978], "size": "15.75", "type": "text", "comment": ""},
+	{"text": "𡘙𡘙从龍开", "bbox": [879, 29, 935, 231], "size": "32.25", "type": "text", "comment": ""},
+	{"text": "聲古賢切", "bbox": [823, 29, 869, 206], "size": "26.25", "type": "text", "comment": ""},
+	{"text": "𡘙", "bbox": [825, 255, 938, 388], "size": "118.5", "type": "text", "comment": ""},
+	{"text": "飛龍也从二龍", "bbox": [889, 405, 941, 646], "size": "26.25", "type": "text", "comment": ""},
+	{"text": "讀若沓徒合切", "bbox": [828, 405, 879, 655], "size": "26.25", "type": "text", "comment": ""},
+	{"text": "文五", "bbox": [837, 724, 926, 853], "size": "60", "type": "text", "comment": ""},
+	{"text": "飛", "bbox": [690, 30, 801, 150], "size": "93.75", "type": "text", "comment": ""},
+	{"text": "鳥翥也象形凡飛之屬皆从飛", "bbox": [708, 161, 796, 905], "size": "37.5", "type": "text", "comment": ""},
+	{"text": "甫微", "bbox": [696, 924, 808, 976], "size": "26.25", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [622, 170, 668, 208], "size": "22.5", "type": "text", "comment": ""},
+	{"text": "𦏁", "bbox": [429, 25, 543, 161], "size": "93.75", "type": "text", "comment": ""},
+	{"text": "翄也从飛異", "bbox": [484, 168, 544, 373], "size": "26.25", "type": "text", "comment": ""},
+	{"text": "聲与職切", "bbox": [428, 161, 479, 341], "size": "26.25", "type": "text", "comment": ""},
+	{"text": "𦏁", "bbox": [429, 390, 543, 512], "size": "93.75", "type": "text", "comment": ""},
+	{"text": "篆文𦏁", "bbox": [487, 520, 541, 662], "size": "26.25", "type": "text", "comment": ""},
+	{"text": "从羽", "bbox": [429, 520, 479, 605], "size": "26.25", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [315, 272, 398, 395], "size": "60", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [315, 517, 393, 623], "size": "60", "type": "text", "comment": ""},
+	{"text": "非", "bbox": [173, 27, 272, 151], "size": "93.75", "type": "text", "comment": ""},
+	{"text": "違也从飛下翄取其相背凡非之", "bbox": [183, 166, 272, 961], "size": "37.5", "type": "text", "comment": ""},
+	{"text": "屬皆从非", "bbox": [52, 161, 137, 410], "size": "37.5", "type": "text", "comment": ""},
+	{"text": "甫微", "bbox": [86, 420, 152, 512], "size": "26.25", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [41, 428, 86, 468], "size": "22.5", "type": "text", "comment": ""}
+]
+```
