@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "也一曰蜉蝣朝生莫死", "bbox": [919, 22, 982, 413], "size": "32.47", "type": "text", "comment": ""},
+	{"text": "者从虫𣪘聲离灼切", "bbox": [855, 22, 918, 413], "size": "32.47", "type": "text", "comment": ""},
+	{"text": "𧑅𧑅 秦𣈆謂之蝣楚謂之", "bbox": [893, 425, 982, 867], "size": "32.47", "type": "text", "comment": ""},
+	{"text": "𧑅 𧑅 𧑅 𧑅 𧑅", "bbox": [709, 22, 842, 990], "size": "32.47", "type": "text", "comment": ""},
+	{"text": "𧑅 𧑅 𧑅 𧑅 𧑅", "bbox": [855, 425, 918, 867], "size": "32.47", "type": "text", "comment": ""},
+	{"text": "𧑅 𧑅 𧑅 𧑅 𧑅", "bbox": [587, 22, 719, 990], "size": "32.47", "type": "text", "comment": ""},
+	{"text": "𧑅 𧑅 𧑅 𧑅 𧑅", "bbox": [455, 22, 587, 990], "size": "32.47", "type": "text", "comment": ""},
+	{"text": "𧑅 𧑅 𧑅 𧑅 𧑅", "bbox": [324, 22, 455, 990], "size": "32.47", "type": "text", "comment": ""},
+	{"text": "𧑅 𧑅 𧑅 𧑅 𧑅", "bbox": [192, 22, 324, 990], "size": "32.47", "type": "text", "comment": ""},
+	{"text": "𧑅 𧑅 𧑅 𧑅 𧑅", "bbox": [60, 22, 192, 990], "size": "32.47", "type": "text", "comment": ""},
+	{"text": "𧑅 𧑅 𧑅 𧑅 𧑅", "bbox": [15, 22, 60, 990], "size": "32.47", "type": "text", "comment": ""}
+]
+```
