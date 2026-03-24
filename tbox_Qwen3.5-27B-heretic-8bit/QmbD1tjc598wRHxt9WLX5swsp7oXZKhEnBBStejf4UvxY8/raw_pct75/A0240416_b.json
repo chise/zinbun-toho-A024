@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "也象形凡不之屬皆从不", "bbox": [859, 160, 952, 800], "size": "34.387", "type": "main", "comment": ""},
+	{"text": "方久", "bbox": [909, 812, 962, 894], "size": "19.666", "type": "main", "comment": ""},
+	{"text": "切", "bbox": [856, 811, 903, 846], "size": "19.446", "type": "main", "comment": ""},
+	{"text": "不也从口从不不亦聲徐錯曰不", "bbox": [776, 163, 832, 734], "size": "22.411", "type": "main", "comment": ""},
+	{"text": "可之意見於言故从口方久切", "bbox": [712, 163, 769, 734], "size": "23.164", "type": "main", "comment": ""},
+	{"text": "文二", "bbox": [592, 289, 689, 393], "size": "51.822", "type": "main", "comment": ""},
+	{"text": "鳥飛从高下至地也从一一猶地", "bbox": [458, 157, 553, 975], "size": "36.368", "type": "main", "comment": ""},
+	{"text": "也象形不上去而至下來也凡至", "bbox": [326, 157, 421, 977], "size": "36.368", "type": "main", "comment": ""},
+	{"text": "之屬皆从至", "bbox": [192, 157, 288, 464], "size": "36.368", "type": "main", "comment": ""},
+	{"text": "脂利", "bbox": [242, 474, 295, 554], "size": "22.411", "type": "main", "comment": ""},
+	{"text": "切", "bbox": [188, 474, 235, 509], "size": "19.446", "type": "main", "comment": ""},
+	{"text": "古文", "bbox": [111, 154, 161, 234], "size": "22.411", "type": "main", "comment": ""},
+	{"text": "至", "bbox": [57, 154, 104, 189], "size": "19.446", "type": "main", "comment": ""},
+	{"text": "至也从至刀", "bbox": [111, 391, 161, 590], "size": "22.411", "type": "main", "comment": ""},
+	{"text": "聲都悼切", "bbox": [47, 391, 97, 554], "size": "22.411", "type": "main", "comment": ""},
+	{"text": "至也从至秦", "bbox": [111, 737, 161, 937], "size": "22.411", "type": "main", "comment": ""},
+	{"text": "聲側詵切", "bbox": [47, 734, 97, 897], "size": "22.411", "type": "main", "comment": ""},
+	{"text": "六十三", "bbox": [7, 23, 32, 91], "size": "10.586", "type": "main", "comment": ""},
+	{"text": "二", "bbox": [0, 703, 25, 724], "size": "11.825", "type": "main", "comment": ""},
+	{"text": "陳玉", "bbox": [15, 906, 40, 966], "size": "10.586", "type": "main", "comment": ""}
+]
+```
