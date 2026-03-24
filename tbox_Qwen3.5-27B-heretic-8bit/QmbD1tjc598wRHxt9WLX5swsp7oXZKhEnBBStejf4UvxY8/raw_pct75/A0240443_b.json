@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "勿切臣鉉等曰韋", "bbox": [912, 33, 961, 339], "size": "小", "type": "body", "comment": ""},
+	{"text": "所以束枉戾也", "bbox": [857, 33, 907, 280], "size": "小", "type": "body", "comment": ""},
+	{"text": "左戾也从反厂讀", "bbox": [912, 470, 961, 764], "size": "小", "type": "body", "comment": ""},
+	{"text": "與弗同分勿切", "bbox": [857, 470, 907, 725], "size": "小", "type": "body", "comment": ""},
+	{"text": "文四", "bbox": [733, 266, 823, 384], "size": "中", "type": "body", "comment": ""},
+	{"text": "重一", "bbox": [742, 578, 816, 694], "size": "中", "type": "body", "comment": ""},
+	{"text": "捴也明也象拙引之形凡厂之屬", "bbox": [604, 166, 692, 983], "size": "大", "type": "body", "comment": ""},
+	{"text": "皆从厂虎字从此", "bbox": [470, 166, 560, 620], "size": "大", "type": "body", "comment": ""},
+	{"text": "徐鍇曰象厂而", "bbox": [523, 608, 579, 769], "size": "小", "type": "body", "comment": ""},
+	{"text": "不舉首余制切", "bbox": [465, 608, 520, 769], "size": "小", "type": "body", "comment": ""},
+	{"text": "槫也象折木裒銳著形从", "bbox": [393, 157, 449, 578], "size": "小", "type": "body", "comment": ""},
+	{"text": "厂象物挂之也與職切", "bbox": [334, 166, 391, 540], "size": "小", "type": "body", "comment": ""},
+	{"text": "文二", "bbox": [348, 697, 442, 814], "size": "中", "type": "body", "comment": ""},
+	{"text": "流也从反厂讀若移凡八之屬皆", "bbox": [210, 157, 309, 975], "size": "大", "type": "body", "comment": ""},
+	{"text": "从八", "bbox": [88, 157, 182, 289], "size": "中", "type": "body", "comment": ""},
+	{"text": "弋支", "bbox": [136, 300, 187, 380], "size": "小", "type": "body", "comment": ""},
+	{"text": "切", "bbox": [76, 300, 128, 337], "size": "小", "type": "body", "comment": ""},
+	{"text": "大九", "bbox": [36, 29, 58, 70], "size": "小", "type": "body", "comment": ""},
+	{"text": "说文十二示", "bbox": [23, 247, 52, 402], "size": "小", "type": "body", "comment": ""},
+	{"text": "世", "bbox": [16, 701, 53, 740], "size": "小", "type": "body", "comment": ""},
+	{"text": "唐文", "bbox": [36, 904, 58, 967], "size": "小", "type": "body", "comment": ""}
+]
+```
