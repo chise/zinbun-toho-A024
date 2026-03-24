@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "由東楚名缶曰甾象形凡甾之屬皆", "bbox": [871, 1, 979, 989], "size": "32.6", "type": "text", "comment": "Simplified: 由东楚名缶曰甾象形凡甾之属皆"},
+	{"text": "从甾", "bbox": [728, 148, 843, 269], "size": "31.4", "type": "text", "comment": ""},
+	{"text": "側詞", "bbox": [802, 271, 843, 338], "size": "17.9", "type": "text", "comment": "Simplified: 侧词"},
+	{"text": "切", "bbox": [738, 282, 767, 313], "size": "15.7", "type": "text", "comment": ""},
+	{"text": "古", "bbox": [678, 140, 704, 173], "size": "18.4", "type": "text", "comment": ""},
+	{"text": "酾也古田器也从", "bbox": [658, 300, 716, 626], "size": "18.8", "type": "text", "comment": "Simplified: 酾也古田器也从"},
+	{"text": "甾走聲楚洽切", "bbox": [598, 326, 647, 590], "size": "18.6", "type": "text", "comment": ""},
+	{"text": "餅屬蒲器也", "bbox": [657, 778, 716, 986], "size": "18.6", "type": "text", "comment": "Simplified: 饼属蒲器也"},
+	{"text": "所以盛種从", "bbox": [598, 777, 646, 986], "size": "18.5", "type": "text", "comment": "Simplified: 所以盛种从"},
+	{"text": "文", "bbox": [600, 142, 629, 172], "size": "18.1", "type": "text", "comment": ""},
+	{"text": "甾弁聲", "bbox": [529, 0, 576, 130], "size": "19.1", "type": "text", "comment": ""},
+	{"text": "帗也从甾弁聲杜林以爲竹筥", "bbox": [529, 280, 576, 749], "size": "19.0", "type": "text", "comment": "Simplified: 帗也从甾弁声杜林以为竹筥"},
+	{"text": "布忖切", "bbox": [468, 0, 514, 131], "size": "18.9", "type": "text", "comment": ""},
+	{"text": "揚雄以爲蒲器讀若輇薄經切", "bbox": [467, 273, 516, 748], "size": "18.8", "type": "text", "comment": "Simplified: 扬雄以为蒲器读若輇薄经切"},
+	{"text": "𤅿", "bbox": [518, 796, 576, 956], "size": "31.7", "type": "text", "comment": ""},
+	{"text": "也", "bbox": [468, 960, 497, 991], "size": "19.0", "type": "text", "comment": ""},
+	{"text": "从甾虒聲讀若", "bbox": [387, 0, 435, 280], "size": "19.2", "type": "text", "comment": ""},
+	{"text": "篆文", "bbox": [387, 420, 436, 549], "size": "19.1", "type": "text", "comment": ""},
+	{"text": "籀文", "bbox": [386, 595, 435, 725], "size": "19.0", "type": "text", "comment": ""},
+	{"text": "盧同洛乎切", "bbox": [325, 0, 374, 214], "size": "19.2", "type": "text", "comment": "Simplified: 卢同洛乎切"},
+	{"text": "盧", "bbox": [328, 411, 361, 456], "size": "19.1", "type": "text", "comment": "Simplified: 卢"},
+	{"text": "盧", "bbox": [328, 647, 361, 692], "size": "19.1", "type": "text", "comment": "Simplified: 卢"},
+	{"text": "文五", "bbox": [202, 245, 286, 365], "size": "32.6", "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [209, 503, 292, 623], "size": "32.5", "type": "text", "comment": ""},
+	{"text": "土器已燒之總名象形凡瓦之屬", "bbox": [64, 152, 157, 991], "size": "32.5", "type": "text", "comment": "Simplified: 土器已烧之总名象形凡瓦之属"},
+	{"text": "大寸", "bbox": [11, 17, 36, 81], "size": "10.5", "type": "text", "comment": ""},
+	{"text": "唐文", "bbox": [16, 916, 37, 984], "size": "10.5", "type": "text", "comment": ""}
+]
+```
