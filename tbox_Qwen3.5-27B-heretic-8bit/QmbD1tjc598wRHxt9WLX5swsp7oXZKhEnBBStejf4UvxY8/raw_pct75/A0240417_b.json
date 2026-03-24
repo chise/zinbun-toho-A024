@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "戶圭", "bbox": [901, 27, 948, 105], "size": "32", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [845, 28, 886, 58], "size": "27", "type": "heading", "comment": ""},
+	{"text": "文二", "bbox": [856, 376, 944, 486], "size": "109", "type": "heading", "comment": ""},
+	{"text": "重三", "bbox": [856, 618, 944, 746], "size": "128", "type": "heading", "comment": ""},
+	{"text": "西方鹹地也从西省象鹽形安定", "bbox": [724, 176, 818, 978], "size": "80", "type": "description", "comment": ""},
+	{"text": "有鹵縣東方謂之席西方謂之鹵", "bbox": [592, 176, 684, 978], "size": "80", "type": "description", "comment": ""},
+	{"text": "凡鹵之屬皆从鹵", "bbox": [460, 176, 553, 617], "size": "80", "type": "description", "comment": ""},
+	{"text": "郎古", "bbox": [512, 637, 559, 721], "size": "42", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [451, 637, 497, 666], "size": "29", "type": "description", "comment": ""},
+	{"text": "鹹也从鹵桀省聲河内謂", "bbox": [378, 176, 432, 586], "size": "55", "type": "description", "comment": ""},
+	{"text": "之𩛱沛人言若虗昨何切", "bbox": [316, 176, 370, 586], "size": "55", "type": "description", "comment": ""},
+	{"text": "銜也北方味也从", "bbox": [370, 724, 432, 996], "size": "55", "type": "description", "comment": ""},
+	{"text": "鹵咸聲胡毳切", "bbox": [316, 724, 370, 959], "size": "55", "type": "description", "comment": ""},
+	{"text": "文三", "bbox": [198, 370, 288, 495], "size": "125", "type": "heading", "comment": ""},
+	{"text": "鹵也從鹵監聲古者宿沙初作煑", "bbox": [61, 176, 155, 994], "size": "80", "type": "description", "comment": ""},
+	{"text": "大十二", "bbox": [12, 30, 38, 90], "size": "14", "type": "heading", "comment": ""},
+	{"text": "丁山", "bbox": [12, 918, 38, 978], "size": "14", "type": "heading", "comment": ""}
+]
+```
