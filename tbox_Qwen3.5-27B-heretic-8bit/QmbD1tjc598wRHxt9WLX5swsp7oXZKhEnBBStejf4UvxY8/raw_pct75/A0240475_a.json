@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "凡蟲之屬皆从蟲", "bbox": [847, 176, 943, 599], "size": "39.66", "type": "text", "comment": ""},
+	{"text": "直弓", "bbox": [896, 606, 948, 692], "size": "12.63", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [836, 606, 888, 652], "size": "16.69", "type": "text", "comment": ""},
+	{"text": "蟲食艸根者从蟲象其形吏抵冒取民財則生徐", "bbox": [763, 174, 822, 977], "size": "18.45", "type": "text", "comment": ""},
+	{"text": "鍇曰唯此一字象蟲形不从矛書者多誤莫浮切", "bbox": [695, 175, 760, 977], "size": "19.25", "type": "text", "comment": ""},
+	{"text": "蟲或从攵臣鉉等按虫部已", "bbox": [629, 153, 687, 639], "size": "17.36", "type": "text", "comment": ""},
+	{"text": "有莫交切作蟹螫蟲此重出", "bbox": [563, 152, 622, 639], "size": "19.63", "type": "text", "comment": ""},
+	{"text": "古文蟲从", "bbox": [628, 776, 683, 935], "size": "20.06", "type": "text", "comment": ""},
+	{"text": "虫从牟", "bbox": [563, 776, 617, 895], "size": "19.88", "type": "text", "comment": ""},
+	{"text": "蚍蜉大螘也从", "bbox": [495, 173, 552, 419], "size": "17.73", "type": "text", "comment": ""},
+	{"text": "蟲觕聲房脂切", "bbox": [432, 173, 487, 419], "size": "18.06", "type": "text", "comment": ""},
+	{"text": "觕蟲或从", "bbox": [495, 554, 547, 672], "size": "16.36", "type": "text", "comment": ""},
+	{"text": "虫比聲", "bbox": [432, 555, 483, 672], "size": "17.54", "type": "text", "comment": ""},
+	{"text": "蟲也从蟲", "bbox": [495, 815, 547, 974], "size": "17.36", "type": "text", "comment": ""},
+	{"text": "両聲武巾", "bbox": [432, 815, 483, 974], "size": "18.32", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [368, 31, 419, 64], "size": "15.39", "type": "text", "comment": ""},
+	{"text": "臭蟲負蠜也从", "bbox": [368, 234, 420, 449], "size": "16.44", "type": "text", "comment": ""},
+	{"text": "蟲非聲房未切", "bbox": [302, 234, 354, 449], "size": "18.61", "type": "text", "comment": ""},
+	{"text": "蠶或", "bbox": [368, 592, 419, 669], "size": "14.59", "type": "text", "comment": ""},
+	{"text": "从虫", "bbox": [302, 592, 354, 669], "size": "17.14", "type": "text", "comment": ""},
+	{"text": "腹中蟲也", "bbox": [368, 814, 419, 974], "size": "18.4", "type": "text", "comment": ""},
+	{"text": "春秋傳曰", "bbox": [302, 814, 354, 974], "size": "19.55", "type": "text", "comment": ""},
+	{"text": "皿蟲爲蠱晦淫之所生也臭筴死之鬼", "bbox": [232, 31, 286, 669], "size": "18.66", "type": "text", "comment": ""},
+	{"text": "亦爲蠱从蟲从皿皿物之用也公戶切", "bbox": [165, 31, 223, 669], "size": "19.69", "type": "text", "comment": ""},
+	{"text": "文六", "bbox": [58, 291, 141, 400], "size": "40.19", "type": "text", "comment": ""},
+	{"text": "重四", "bbox": [58, 535, 128, 651], "size": "40.19", "type": "text", "comment": ""},
+	{"text": "小二百○久", "bbox": [967, 47, 987, 129], "size": "11.6", "type": "text", "comment": ""},
+	{"text": "言文二二", "bbox": [979, 268, 999, 369], "size": "10.44", "type": "text", "comment": ""},
+	{"text": "宏昌", "bbox": [962, 904, 985, 971], "size": "13.34", "type": "text", "comment": ""}
+]
+```
