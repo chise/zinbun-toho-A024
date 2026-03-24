@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "說文解字第十三上", "bbox": [871, 13, 966, 446], "size": "50", "type": "header", "comment": "header"},
+	{"text": "漢太尉祭酒許慎記", "bbox": [873, 495, 966, 941], "size": "45", "type": "author", "comment": "author"},
+	{"text": "銀青光祿大夫右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [747, 59, 814, 992], "size": "35", "type": "content", "comment": "content"},
+	{"text": "敕校定", "bbox": [617, 60, 682, 167], "size": "30", "type": "content", "comment": "content"},
+	{"text": "二十三部文六百九十九重一百二十三", "bbox": [472, 80, 566, 950], "size": "40", "type": "content", "comment": "content"},
+	{"text": "凡八千三百九十八字", "bbox": [339, 200, 432, 718], "size": "40", "type": "content", "comment": "content"},
+	{"text": "文三十七", "bbox": [214, 203, 295, 410], "size": "40", "type": "content", "comment": "content"},
+	{"text": "新附", "bbox": [250, 442, 303, 526], "size": "25", "type": "content", "comment": "content"},
+	{"text": "糸", "bbox": [77, 12, 158, 153], "size": "50", "type": "character", "comment": "character"},
+	{"text": "細絲也象束絲之形凡糸之屬皆", "bbox": [73, 171, 163, 983], "size": "45", "type": "content", "comment": "content"},
+	{"text": "大十五", "bbox": [21, 26, 42, 96], "size": "15", "type": "page_number", "comment": "page_number"},
+	{"text": "說文解字", "bbox": [7, 256, 35, 398], "size": "10", "type": "book_title", "comment": "book_title"},
+	{"text": "唐文", "bbox": [21, 906, 45, 968], "size": "15", "type": "dynasty", "comment": "dynasty"}
+]
+```
