@@ -1,0 +1,32 @@
+```json
+[
+	{"bbox_2d": [897, 17, 953, 184], "text_content": "急戾也从弦省", "text_size": "28", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [891, 188, 952, 819], "text_content": "㱿不成遂急戾也从弦省", "text_size": "32", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [845, 845, 937, 963], "text_content": "文四", "text_size": "45", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [831, 18, 888, 233], "text_content": "少聲於霄切", "text_size": "28", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [830, 285, 889, 819], "text_content": "㱿㱿曷聲讀若瘞葬於罽切", "text_size": "32", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [705, 11, 807, 985], "text_content": "𢇜繫也从糸㐱聲凡糸之屬皆从糸", "text_size": "45", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [624, 159, 676, 237], "text_content": "胡計", "text_size": "28", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [560, 172, 609, 202], "text_content": "切", "text_size": "28", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [484, 167, 537, 297], "text_content": "系或从", "text_size": "28", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [483, 460, 536, 977], "text_content": "籀文系𢇜子之子曰孫从", "text_size": "32", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [427, 174, 476, 262], "text_content": "䇀處", "text_size": "28", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [424, 461, 476, 985], "text_content": "从爪絲𢇜子从糸系續也", "text_size": "32", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [350, 11, 413, 91], "text_content": "思魂", "text_size": "28", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [349, 241, 406, 985], "text_content": "聮微也从系𢇜隨從也从糸罟聲臣鉉", "text_size": "32", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [291, 12, 343, 50], "text_content": "切", "text_size": "28", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [289, 243, 342, 985], "text_content": "从帛武延切𢇜等曰今俗从𢇜余招切", "text_size": "32", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [172, 248, 260, 367], "text_content": "文四", "text_size": "45", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [169, 566, 251, 685], "text_content": "重二", "text_size": "45", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [30, 16, 120, 451], "text_content": "說文解字第十二", "text_size": "45", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [76, 453, 113, 494], "text_content": "下", "text_size": "28", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [963, 21, 986, 69], "text_content": "小", "text_size": "10", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [960, 71, 986, 89], "text_content": "亠", "text_size": "10", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [960, 92, 986, 108], "text_content": "里", "text_size": "10", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [960, 111, 986, 129], "text_content": "女", "text_size": "10", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [962, 907, 986, 934], "text_content": "宏", "text_size": "10", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [962, 947, 986, 970], "text_content": "昌", "text_size": "10", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [971, 250, 999, 389], "text_content": "說文十二", "text_size": "28", "text_type": "text", "text_comment": ""},
+	{"bbox_2d": [971, 605, 999, 745], "text_content": "糸部", "text_size": "28", "text_type": "text", "text_comment": ""}
+]
+```
