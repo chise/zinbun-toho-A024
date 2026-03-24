@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小頁○七", "bbox": [954, 25, 982, 86], "size": "小", "type": "page", "comment": ""},
+	{"text": "古", "bbox": [895, 156, 942, 187], "size": "大", "type": "heading", "comment": ""},
+	{"text": "文", "bbox": [895, 187, 942, 220], "size": "大", "type": "heading", "comment": ""},
+	{"text": "琴", "bbox": [895, 220, 942, 251], "size": "大", "type": "heading", "comment": ""},
+	{"text": "從", "bbox": [828, 156, 877, 187], "size": "大", "type": "heading", "comment": ""},
+	{"text": "金", "bbox": [828, 187, 877, 220], "size": "大", "type": "heading", "comment": ""},
+	{"text": "庖犧所作弦樂也", "bbox": [895, 415, 942, 714], "size": "中", "type": "description", "comment": ""},
+	{"text": "從琴必聲所櫛切", "bbox": [828, 428, 877, 714], "size": "中", "type": "description", "comment": ""},
+	{"text": "古文", "bbox": [895, 860, 942, 937], "size": "大", "type": "heading", "comment": ""},
+	{"text": "瑟", "bbox": [828, 860, 877, 905], "size": "大", "type": "heading", "comment": ""},
+	{"text": "文二", "bbox": [712, 202, 796, 298], "size": "大", "type": "heading", "comment": ""},
+	{"text": "重二", "bbox": [712, 560, 796, 680], "size": "大", "type": "heading", "comment": ""},
+	{"text": "琵琶樂器從琴", "bbox": [624, 156, 673, 407], "size": "中", "type": "description", "comment": ""},
+	{"text": "比聲房脂切", "bbox": [557, 156, 606, 325], "size": "中", "type": "description", "comment": ""},
+	{"text": "琵琶也從琴巴聲義", "bbox": [624, 550, 673, 911], "size": "中", "type": "description", "comment": ""},
+	{"text": "當用枇杷蒲巴切", "bbox": [557, 550, 606, 851], "size": "中", "type": "description", "comment": ""},
+	{"text": "文二", "bbox": [445, 190, 521, 306], "size": "大", "type": "heading", "comment": ""},
+	{"text": "新附", "bbox": [477, 320, 528, 402], "size": "小", "type": "heading", "comment": ""},
+	{"text": "匿也象迟曲隱蔽形凡匚之屬皆", "bbox": [305, 144, 392, 984], "size": "大", "type": "description", "comment": ""},
+	{"text": "從匚讀若隱", "bbox": [166, 247, 257, 463], "size": "大", "type": "description", "comment": ""},
+	{"text": "於謹", "bbox": [215, 509, 269, 603], "size": "小", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [162, 509, 205, 554], "size": "小", "type": "description", "comment": ""},
+	{"text": "正見也从匚从十从目徐鍇曰匚", "bbox": [85, 169, 139, 727], "size": "中", "type": "description", "comment": ""},
+	{"text": "隱也今十目所見是直也除力切", "bbox": [20, 169, 75, 727], "size": "中", "type": "description", "comment": ""},
+	{"text": "古文", "bbox": [85, 879, 139, 961], "size": "大", "type": "heading", "comment": ""},
+	{"text": "直", "bbox": [20, 879, 69, 919], "size": "大", "type": "heading", "comment": ""},
+	{"text": "陸", "bbox": [954, 889, 982, 925], "size": "小", "type": "page", "comment": ""},
+	{"text": "安", "bbox": [954, 934, 982, 979], "size": "小", "type": "page", "comment": ""}
+]
+```
