@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "海鹽凡鹽之屬皆从鹽 余廉切", "bbox": [816, 163, 914, 750], "size": "35", "type": "text", "comment": "This is the main definition text for the character '鹽'. It appears to be the primary entry on the page."},
+	{"text": "鹽 河東鹽池袤五十一里廣七里周百十六里从鹽省古聲公戶切", "bbox": [679, 27, 794, 664], "size": "22", "type": "text", "comment": "This is the definition and explanation for the character '鹽', including its etymology and pronunciation."},
+	{"text": "鹽省 鹵 鹵也从 僉", "bbox": [680, 719, 790, 962], "size": "20", "type": "text", "comment": "This is the explanation for the phonetic component '鹵' in '鹽'. It's a separate entry related to the main one."},
+	{"text": "聲魚欠切", "bbox": [550, 30, 662, 116], "size": "20", "type": "text", "comment": "This is the phonetic information for the previous character '鹽'. It's a separate line of text."},
+	{"text": "文三", "bbox": [560, 283, 650, 403], "size": "30", "type": "text", "comment": "This is a summary count of characters in the previous section."},
+	{"text": "戶 護也半門曰戶象形凡戶之屬皆", "bbox": [433, 37, 525, 963], "size": "35", "type": "text", "comment": "This is the main definition text for the character '戶'. It appears to be the primary entry on the page."},
+	{"text": "从戶 矦古切", "bbox": [300, 170, 408, 329], "size": "30", "type": "text", "comment": "This is the phonetic information for the previous character '戶'. It's a separate line of text."},
+	{"text": "戶 古文戶", "bbox": [177, 34, 276, 380], "size": "25", "type": "text", "comment": "This is an entry for the character '戶' in its ancient script form."},
+	{"text": "戶扇也从戶非聲甫微切", "bbox": [174, 425, 280, 619], "size": "20", "type": "text", "comment": "This is the definition and explanation for the character '扇'. It's a separate entry related to the main one."},
+	{"text": "扉也从戶从 翚 翚省式戰切", "bbox": [174, 669, 284, 963], "size": "20", "type": "text", "comment": "This is the definition and explanation for the character '扉'. It's a separate entry related to the main one."},
+	{"text": "房 室在旁也从戶方聲符方切", "bbox": [45, 34, 154, 382], "size": "25", "type": "text", "comment": "This is the main definition text for the character '房'. It appears to be the primary entry on the page."},
+	{"text": "輜車旁推戶也从戶大聲讀與鈇同徒蓋切", "bbox": [45, 417, 154, 960], "size": "20", "type": "text", "comment": "This is the definition and explanation for the character '輜'. It's a separate entry related to the main one."},
+	{"text": "小言十八", "bbox": [927, 34, 952, 108], "size": "15", "type": "text", "comment": "This is a section heading or a note at the top of the page."},
+	{"text": "說文十二上", "bbox": [932, 263, 965, 388], "size": "15", "type": "text", "comment": "This is the book title and volume information, located on the right side of the page."},
+	{"text": "三", "bbox": [942, 702, 965, 728], "size": "15", "type": "text", "comment": "This is a page number or a section number, located on the right side of the page."},
+	{"text": "王必", "bbox": [929, 897, 954, 948], "size": "15", "type": "text", "comment": "This is likely the name of the calligrapher or the person who wrote this page."}
+]
+```
