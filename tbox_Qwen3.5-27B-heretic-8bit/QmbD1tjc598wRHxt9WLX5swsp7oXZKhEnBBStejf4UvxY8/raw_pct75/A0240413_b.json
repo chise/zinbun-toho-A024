@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "鸞玄鳥也籥口布翏枝尾象形凡燕", "bbox": [861, 27, 976, 969], "size": "35.42", "type": "text", "comment": ""},
+	{"text": "之屬皆从燕", "bbox": [730, 165, 833, 470], "size": "35.42", "type": "text", "comment": ""},
+	{"text": "於甸", "bbox": [783, 511, 837, 590], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [726, 511, 773, 546], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "文一", "bbox": [741, 714, 830, 820], "size": "53.99", "type": "text", "comment": ""},
+	{"text": "龍鱗蟲之長能幽能明能細能巨能", "bbox": [590, 27, 704, 969], "size": "35.42", "type": "text", "comment": ""},
+	{"text": "短能長春分而登天秋分而潛淵", "bbox": [464, 162, 567, 969], "size": "35.42", "type": "text", "comment": ""},
+	{"text": "从肉飛之形童省聲", "bbox": [330, 162, 431, 661], "size": "35.42", "type": "text", "comment": ""},
+	{"text": "臣鉉等曰象", "bbox": [381, 669, 438, 882], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "轉飛動之皃", "bbox": [319, 669, 374, 894], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "凡龍之屬皆从龍", "bbox": [193, 162, 297, 592], "size": "35.42", "type": "text", "comment": ""},
+	{"text": "力鐘", "bbox": [245, 611, 301, 688], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [187, 611, 234, 645], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "龍也从龍霝", "bbox": [111, 169, 165, 364], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "聲郎丁切", "bbox": [47, 169, 103, 321], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "龍皃从龍合", "bbox": [111, 524, 165, 718], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "聲口含切", "bbox": [47, 524, 103, 688], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "龍耆", "bbox": [111, 887, 165, 972], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "聲上", "bbox": [47, 887, 103, 972], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "大十", "bbox": [5, 34, 35, 71], "size": "11.89", "type": "text", "comment": ""},
+	{"text": "表", "bbox": [12, 912, 39, 942], "size": "11.89", "type": "text", "comment": ""},
+	{"text": "和", "bbox": [19, 953, 40, 975], "size": "11.89", "type": "text", "comment": ""}
+]
+```
