@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "說文解字第十二下 漢太尉祭酒許慎記", "bbox": [876, 21, 971, 958], "size": "39", "type": "normal", "comment": ""},
+	{"text": "銀靑光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百戸徐鉉等奉", "bbox": [753, 73, 820, 983], "size": "29", "type": "normal", "comment": ""},
+	{"text": "敕校定", "bbox": [626, 75, 683, 175], "size": "29", "type": "normal", "comment": ""},
+	{"text": "女", "bbox": [471, 13, 568, 153], "size": "27", "type": "seal", "comment": ""},
+	{"text": "婦人也象形王育說凡女之屬皆", "bbox": [467, 156, 571, 992], "size": "40", "type": "normal", "comment": ""},
+	{"text": "从女", "bbox": [329, 146, 432, 254], "size": "42", "type": "normal", "comment": ""},
+	{"text": "尼吕", "bbox": [387, 260, 437, 351], "size": "18", "type": "normal", "comment": ""},
+	{"text": "切", "bbox": [329, 274, 385, 319], "size": "27", "type": "normal", "comment": ""},
+	{"text": "姓", "bbox": [185, 17, 307, 150], "size": "26", "type": "seal", "comment": ""},
+	{"text": "人所生也古之神聖母感天而生子故稱天子从", "bbox": [245, 151, 308, 987], "size": "32", "type": "normal", "comment": ""},
+	{"text": "女从生生亦聲春秋傳曰天子因生以賜姓息正", "bbox": [187, 151, 243, 986], "size": "32", "type": "normal", "comment": ""},
+	{"text": "切", "bbox": [112, 17, 164, 49], "size": "23", "type": "normal", "comment": ""},
+	{"text": "姜", "bbox": [60, 55, 163, 202], "size": "27", "type": "seal", "comment": ""},
+	{"text": "神農居姜水以爲姓", "bbox": [114, 214, 170, 544], "size": "32", "type": "normal", "comment": ""},
+	{"text": "从女羊聲居良切", "bbox": [56, 214, 112, 511], "size": "32", "type": "normal", "comment": ""},
+	{"text": "姬", "bbox": [51, 540, 170, 671], "size": "27", "type": "seal", "comment": ""},
+	{"text": "黃帝居姬水以爲", "bbox": [114, 674, 170, 987], "size": "32", "type": "normal", "comment": ""},
+	{"text": "姓从女臣聲居之", "bbox": [51, 674, 107, 987], "size": "32", "type": "normal", "comment": ""},
+	{"text": "大十八", "bbox": [11, 17, 39, 87], "size": "14", "type": "normal", "comment": ""},
+	{"text": "說文十二下", "bbox": [1, 255, 26, 393], "size": "13", "type": "normal", "comment": ""},
+	{"text": "陳玉", "bbox": [12, 903, 40, 973], "size": "13", "type": "normal", "comment": ""}
+]
+```
