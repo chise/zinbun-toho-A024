@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "言文十三下", "bbox": [938, 268, 956, 407], "size": "small", "type": "heading"},
+	{"text": "小喜", "bbox": [928, 39, 947, 72], "size": "small", "type": "comment"},
+	{"text": "小喜", "bbox": [928, 896, 947, 964], "size": "small", "type": "comment"},
+	{"text": "蠖蠓細蟲也从虍聲", "bbox": [868, 29, 920, 252], "size": "normal", "type": "description"},
+	{"text": "虍聲莫結切", "bbox": [807, 29, 859, 297], "size": "normal", "type": "description"},
+	{"text": "虵蟌草上蟲也从", "bbox": [864, 438, 916, 717], "size": "normal", "type": "description"},
+	{"text": "虫毛聲陟格切", "bbox": [807, 437, 859, 685], "size": "normal", "type": "description"},
+	{"text": "虵蟌也", "bbox": [865, 856, 916, 970], "size": "normal", "type": "description"},
+	{"text": "从虫孟", "bbox": [806, 857, 857, 971], "size": "normal", "type": "description"},
+	{"text": "聲莫蜼蟁也从虫", "bbox": [744, 29, 796, 448], "size": "normal", "type": "description"},
+	{"text": "蟷蜋也从虫", "bbox": [738, 606, 790, 826], "size": "normal", "type": "description"},
+	{"text": "杏切", "bbox": [682, 29, 733, 123], "size": "normal", "type": "description"},
+	{"text": "悉聲息七切", "bbox": [679, 250, 730, 453], "size": "normal", "type": "description"},
+	{"text": "堂聲徒郎切", "bbox": [679, 606, 730, 817], "size": "normal", "type": "description"},
+	{"text": "文七", "bbox": [563, 269, 645, 377], "size": "large", "type": "heading"},
+	{"text": "新附", "bbox": [609, 416, 660, 503], "size": "normal", "type": "comment"},
+	{"text": "說文解字第十三", "bbox": [297, 29, 393, 397], "size": "large", "type": "heading"},
+	{"text": "上", "bbox": [336, 429, 387, 452], "size": "normal", "type": "comment"}
+]
+```
