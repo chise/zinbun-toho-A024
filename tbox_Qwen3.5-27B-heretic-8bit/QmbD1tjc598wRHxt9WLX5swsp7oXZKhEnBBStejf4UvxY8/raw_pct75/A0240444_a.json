@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "小一〇五", "bbox": [946, 12, 975, 117], "size": "4.5", "type": "text", "comment": "1"},
+	{"text": "女陰也象", "bbox": [883, 149, 941, 325], "size": "12.8", "type": "text", "comment": "2"},
+	{"text": "形羊者切", "bbox": [821, 149, 878, 325], "size": "12.8", "type": "text", "comment": "3"},
+	{"text": "秦刻石", "bbox": [883, 465, 944, 594], "size": "12.8", "type": "text", "comment": "4"},
+	{"text": "也字", "bbox": [822, 465, 878, 547], "size": "12.8", "type": "text", "comment": "5"},
+	{"text": "文二重一", "bbox": [836, 648, 932, 917], "size": "30.3", "type": "text", "comment": "6"},
+	{"text": "巴蜀山名岸脅之旁箸欲落墮者", "bbox": [698, 149, 806, 976], "size": "25.6", "type": "text", "comment": "7"},
+	{"text": "曰氏氏崩聞數百里象形入聲凡", "bbox": [562, 149, 670, 976], "size": "25.6", "type": "text", "comment": "8"},
+	{"text": "氏之屬皆从氏揚雄賦響若氏隤", "bbox": [428, 149, 535, 991], "size": "25.6", "type": "text", "comment": "9"},
+	{"text": "承旨", "bbox": [348, 159, 405, 245], "size": "12.8", "type": "text", "comment": "10"},
+	{"text": "切", "bbox": [286, 159, 343, 198], "size": "12.8", "type": "text", "comment": "11"},
+	{"text": "木本从氏大於末", "bbox": [214, 149, 271, 458], "size": "12.8", "type": "text", "comment": "12"},
+	{"text": "讀若厥居月切", "bbox": [151, 149, 208, 412], "size": "12.8", "type": "text", "comment": "13"},
+	{"text": "文二", "bbox": [166, 648, 261, 766], "size": "30.3", "type": "text", "comment": "14"},
+	{"text": "至也从氏下箸一一地也凡氏之", "bbox": [30, 149, 138, 991], "size": "25.6", "type": "text", "comment": "15"}
+]
+```
