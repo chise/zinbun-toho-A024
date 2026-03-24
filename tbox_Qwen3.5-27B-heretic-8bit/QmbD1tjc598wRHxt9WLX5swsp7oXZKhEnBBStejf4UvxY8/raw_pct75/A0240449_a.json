@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "小篆", "bbox": [966, 27, 993, 65], "size": "3", "type": "text", "comment": ""},
+	{"text": "从匚甲聲", "bbox": [897, 17, 951, 129], "size": "2", "type": "text", "comment": ""},
+	{"text": "胡甲切", "bbox": [844, 19, 897, 129], "size": "2", "type": "text", "comment": ""},
+	{"text": "器也从匚淮", "bbox": [896, 356, 959, 468], "size": "2", "type": "text", "comment": ""},
+	{"text": "聲胡罪切", "bbox": [838, 341, 892, 469], "size": "2", "type": "text", "comment": ""},
+	{"text": "棺也从匚从木", "bbox": [895, 674, 957, 786], "size": "2", "type": "text", "comment": ""},
+	{"text": "久聲巨救切", "bbox": [836, 674, 890, 786], "size": "2", "type": "text", "comment": ""},
+	{"text": "籒文", "bbox": [771, 148, 822, 215], "size": "2", "type": "text", "comment": ""},
+	{"text": "枢", "bbox": [707, 148, 755, 187], "size": "2", "type": "text", "comment": ""},
+	{"text": "宗廟盛主器也周禮曰祭祀", "bbox": [758, 384, 820, 850], "size": "2", "type": "text", "comment": ""},
+	{"text": "共匱主从匚單聲都寒切", "bbox": [700, 357, 756, 769], "size": "2", "type": "text", "comment": ""},
+	{"text": "文十九", "bbox": [578, 249, 679, 437], "size": "2", "type": "text", "comment": ""},
+	{"text": "重五", "bbox": [579, 572, 671, 695], "size": "2", "type": "text", "comment": ""},
+	{"text": "象器曲受物之形或說曲蠶薄", "bbox": [438, 173, 537, 983], "size": "2", "type": "text", "comment": ""},
+	{"text": "也凡曲之屬皆从曲", "bbox": [302, 176, 406, 681], "size": "2", "type": "text", "comment": ""},
+	{"text": "上玉", "bbox": [355, 729, 407, 807], "size": "2", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [296, 731, 347, 769], "size": "2", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [227, 162, 279, 242], "size": "2", "type": "text", "comment": ""},
+	{"text": "曲", "bbox": [170, 152, 219, 190], "size": "2", "type": "text", "comment": ""},
+	{"text": "髀曲也从曲", "bbox": [222, 384, 280, 602], "size": "2", "type": "text", "comment": ""},
+	{"text": "玉聲上玉切", "bbox": [164, 383, 219, 599], "size": "2", "type": "text", "comment": ""},
+	{"text": "古器也从曲", "bbox": [222, 757, 279, 977], "size": "2", "type": "text", "comment": ""},
+	{"text": "舀聲土刀切", "bbox": [163, 759, 217, 977], "size": "2", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [43, 257, 131, 384], "size": "2", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [40, 519, 128, 632], "size": "2", "type": "text", "comment": ""},
+	{"text": "陳元", "bbox": [965, 904, 993, 947], "size": "2", "type": "text", "comment": ""}
+]
+```
