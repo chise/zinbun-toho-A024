@@ -1,0 +1,12 @@
+```json
+[
+	{"text": "文一", "bbox": [37, 253, 136, 370], "size": "50", "type": "heading", "comment": ""},
+	{"text": "文四", "bbox": [718, 684, 795, 807], "size": "50", "type": "heading", "comment": ""},
+	{"text": "同力也从三力", "bbox": [582, 190, 669, 543], "size": "50", "type": "text", "comment": ""},
+	{"text": "山其風若為凡為屬皆从為", "bbox": [441, 176, 539, 834], "size": "50", "type": "text", "comment": ""},
+	{"text": "文一", "bbox": [954, 259, 1000, 391], "size": "50", "type": "heading", "comment": ""},
+	{"text": "文四", "bbox": [948, 684, 995, 751], "size": "50", "type": "heading", "comment": ""},
+	{"text": "文第四十三下", "bbox": [304, 23, 407, 502], "size": "50", "type": "heading", "comment": ""},
+	{"text": "會文下三", "bbox": [954, 259, 1000, 391], "size": "50", "type": "heading", "comment": ""}
+]
+```
