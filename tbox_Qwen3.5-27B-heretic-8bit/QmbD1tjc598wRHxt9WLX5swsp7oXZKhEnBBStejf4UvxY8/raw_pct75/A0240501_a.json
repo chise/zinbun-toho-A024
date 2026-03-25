@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "矛之屬皆从矛", "bbox": [829, 175, 917, 507], "size": "40", "type": "heading", "comment": "heading for the section"},
+	{"text": "莫浮切", "bbox": [829, 527, 937, 617], "size": "20", "type": "description", "comment": "phonetic description"},
+	{"text": "古文矛", "bbox": [752, 205, 790, 278], "size": "15", "type": "description", "comment": "ancient character description"},
+	{"text": "从戈", "bbox": [690, 175, 729, 247], "size": "15", "type": "description", "comment": "description of the character"},
+	{"text": "矛屬从矛良", "bbox": [752, 414, 810, 622], "size": "15", "type": "description", "comment": "description of the character"},
+	{"text": "聲魯當切", "bbox": [690, 414, 747, 587], "size": "15", "type": "description", "comment": "phonetic description"},
+	{"text": "矛屬从矛害", "bbox": [752, 775, 810, 971], "size": "15", "type": "description", "comment": "description of the character"},
+	{"text": "聲苦蓋切", "bbox": [690, 775, 747, 924], "size": "15", "type": "description", "comment": "phonetic description"},
+	{"text": "矛屬从矛昔聲", "bbox": [620, 157, 677, 411], "size": "15", "type": "description", "comment": "description of the character"},
+	{"text": "讀若笮士革切", "bbox": [557, 157, 615, 404], "size": "15", "type": "description", "comment": "phonetic description"},
+	{"text": "矛柄也从矛今聲", "bbox": [620, 562, 677, 854], "size": "15", "type": "description", "comment": "description of the character"},
+	{"text": "居陵切又巨巾切", "bbox": [557, 562, 615, 854], "size": "15", "type": "description", "comment": "phonetic description"},
+	{"text": "刺也从矛丑", "bbox": [485, 31, 542, 180], "size": "15", "type": "description", "comment": "description of the character"},
+	{"text": "聲女久切", "bbox": [422, 31, 480, 180], "size": "15", "type": "description", "comment": "phonetic description"},
+	{"text": "文六", "bbox": [445, 362, 527, 477], "size": "35", "type": "description", "comment": "description of the character"},
+	{"text": "重一", "bbox": [445, 617, 527, 732], "size": "35", "type": "description", "comment": "description of the character"},
+	{"text": "車", "bbox": [299, 28, 410, 154], "size": "55", "type": "heading", "comment": "heading for the section"},
+	{"text": "輿輪之總名夏后時奚仲所造象", "bbox": [310, 163, 400, 974], "size": "40", "type": "description", "comment": "description of the character"},
+	{"text": "形凡車之屬皆从車", "bbox": [177, 165, 264, 654], "size": "40", "type": "description", "comment": "description of the character"},
+	{"text": "尺遮切", "bbox": [167, 664, 277, 744], "size": "20", "type": "description", "comment": "phonetic description"},
+	{"text": "籀文", "bbox": [90, 170, 147, 262], "size": "20", "type": "description", "comment": "description of the character"},
+	{"text": "車", "bbox": [40, 165, 87, 205], "size": "20", "type": "description", "comment": "description of the character"},
+	{"text": "曲輈藩車从車", "bbox": [97, 392, 154, 632], "size": "20", "type": "description", "comment": "description of the character"},
+	{"text": "干聲虚言切", "bbox": [40, 392, 97, 632], "size": "20", "type": "description", "comment": "phonetic description"},
+	{"text": "輧車前衣車", "bbox": [100, 780, 157, 977], "size": "20", "type": "description", "comment": "description of the character"},
+	{"text": "後也从車甾", "bbox": [40, 780, 97, 977], "size": "20", "type": "description", "comment": "description of the character"},
+	{"text": "小三百○三", "bbox": [945, 31, 972, 124], "size": "15", "type": "description", "comment": "page number"},
+	{"text": "説文十四上", "bbox": [950, 260, 985, 399], "size": "15", "type": "description", "comment": "book title"},
+	{"text": "卞俊", "bbox": [945, 907, 972, 964], "size": "15", "type": "description", "comment": "author name"}
+]
+```
