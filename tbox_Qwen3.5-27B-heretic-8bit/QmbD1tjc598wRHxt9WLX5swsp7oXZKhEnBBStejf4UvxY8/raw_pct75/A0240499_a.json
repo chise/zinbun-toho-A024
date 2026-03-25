@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小三百一十五", "bbox": [945, 22, 969, 118], "size": "小", "type": "text", "comment": ""},
+	{"bbox": [950, 256, 982, 388], "text": "說文十四上", "size": "中", "type": "text", "comment": ""},
+	{"bbox": [945, 916, 972, 970], "text": "嚴華", "size": "小", "type": "text", "comment": ""},
+	{"text": "依几也从几从任周書凭玉几讀若馮臣鉉", "bbox": [879, 162, 933, 905], "size": "中", "type": "text", "comment": ""},
+	{"text": "等曰人之依馮几所勝載故从任皮氷切", "bbox": [813, 162, 871, 871], "size": "中", "type": "text", "comment": ""},
+	{"text": "處也从尸得几而止孝經曰仲", "bbox": [745, 157, 801, 675], "size": "中", "type": "text", "comment": ""},
+	{"text": "尼尻尻謂閑居如此九魚切", "bbox": [686, 162, 739, 633], "size": "中", "type": "text", "comment": ""},
+	{"text": "止也得几", "bbox": [749, 813, 800, 970], "size": "中", "type": "text", "comment": ""},
+	{"text": "而止从几", "bbox": [688, 813, 739, 970], "size": "中", "type": "text", "comment": ""},
+	{"text": "処或从", "bbox": [617, 323, 670, 420], "size": "中", "type": "text", "comment": ""},
+	{"text": "从久昌", "bbox": [615, 30, 664, 150], "size": "中", "type": "text", "comment": ""},
+	{"text": "與切", "bbox": [555, 32, 604, 118], "size": "中", "type": "text", "comment": ""},
+	{"text": "在聲", "bbox": [555, 313, 603, 388], "size": "中", "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [575, 495, 657, 618], "size": "大", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [570, 757, 650, 880], "size": "大", "type": "text", "comment": ""},
+	{"text": "薦也从几足有二横一其下地也", "bbox": [436, 155, 527, 968], "size": "大", "type": "text", "comment": ""},
+	{"text": "凡且之屬皆从且", "bbox": [309, 167, 395, 578], "size": "大", "type": "text", "comment": ""},
+	{"text": "子余切又", "bbox": [359, 590, 410, 760], "size": "中", "type": "text", "comment": ""},
+	{"text": "干也切", "bbox": [298, 593, 348, 718], "size": "中", "type": "text", "comment": ""},
+	{"text": "禮俎也从半肉", "bbox": [226, 155, 280, 395], "size": "中", "type": "text", "comment": ""},
+	{"text": "在且上側呂切", "bbox": [167, 155, 217, 405], "size": "中", "type": "text", "comment": ""},
+	{"text": "且往也从且", "bbox": [229, 533, 277, 718], "size": "中", "type": "text", "comment": ""},
+	{"text": "豦聲昨誤切", "bbox": [169, 530, 220, 740], "size": "中", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [185, 798, 268, 908], "size": "大", "type": "text", "comment": ""},
+	{"text": "斫木也象形凡斤之屬皆从斤", "bbox": [49, 205, 139, 978], "size": "大", "type": "text", "comment": ""}
+]
+```
