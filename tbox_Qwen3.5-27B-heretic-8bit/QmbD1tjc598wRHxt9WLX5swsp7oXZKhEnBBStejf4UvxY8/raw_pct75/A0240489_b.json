@@ -1,0 +1,10 @@
+```json
+[
+	{"text": "說文解字弟十三下", "bbox": [577, 23, 679, 503], "size": "41.31", "type": "title", "comment": ""},
+	{"text": "文一", "bbox": [843, 258, 946, 364], "size": "64.29", "type": "heading", "comment": ""},
+	{"text": "重五", "bbox": [851, 569, 941, 699], "size": "53.93", "type": "heading", "comment": ""},
+	{"text": "小十九", "bbox": [4, 36, 30, 127], "size": "13.13", "type": "small", "comment": ""},
+	{"text": "上七", "bbox": [2, 690, 32, 751], "size": "21.33", "type": "small", "comment": ""},
+	{"text": "蔣安", "bbox": [19, 891, 46, 969], "size": "17.61", "type": "small", "comment": ""}
+]
+```
