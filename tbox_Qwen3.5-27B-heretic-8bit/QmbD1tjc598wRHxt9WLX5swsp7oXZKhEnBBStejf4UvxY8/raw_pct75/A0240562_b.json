@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "四葉十謂昋曰睊後改韻", "bbox": [814, 306, 866, 457], "size": "48", "type": "description", "comment": ""},
+	{"text": "四行", "bbox": [787, 306, 814, 342], "size": "33", "type": "description", "comment": ""},
+	{"text": "八葉史篇謂所作也謂下後增史籀二字", "bbox": [738, 306, 787, 457], "size": "48", "type": "description", "comment": ""},
+	{"text": "二行", "bbox": [714, 306, 738, 342], "size": "33", "type": "description", "comment": ""},
+	{"text": "八葉大翰若翬雉〇今借爲新舊字", "bbox": [655, 306, 705, 457], "size": "48", "type": "description", "comment": ""},
+	{"text": "九行", "bbox": [632, 306, 655, 342], "size": "33", "type": "description", "comment": ""},
+	{"text": "十葉篆文𨸜後改𥈁", "bbox": [570, 306, 620, 457], "size": "48", "type": "description", "comment": ""},
+	{"text": "五行", "bbox": [546, 306, 570, 342], "size": "33", "type": "description", "comment": ""},
+	{"text": "十葉鳴雉鳴後改翰", "bbox": [487, 306, 537, 457], "size": "48", "type": "description", "comment": ""},
+	{"text": "九行", "bbox": [464, 306, 487, 342], "size": "33", "type": "description", "comment": ""},
+	{"text": "十葉篆文𠱾後改文", "bbox": [400, 306, 450, 457], "size": "48", "type": "description", "comment": ""},
+	{"text": "十行", "bbox": [377, 306, 400, 342], "size": "33", "type": "description", "comment": ""},
+	{"text": "十一葉秦有士鴈改爲𨸜", "bbox": [317, 306, 367, 457], "size": "48", "type": "description", "comment": ""},
+	{"text": "三行", "bbox": [294, 306, 317, 342], "size": "33", "type": "description", "comment": ""},
+	{"text": "十二葉後增許流後改𨸜", "bbox": [234, 306, 284, 457], "size": "48", "type": "description", "comment": ""},
+	{"text": "九行", "bbox": [210, 306, 234, 342], "size": "33", "type": "description", "comment": ""},
+	{"text": "十三葉徒結切雉後改𥈁", "bbox": [151, 306, 201, 457], "size": "48", "type": "description", "comment": ""},
+	{"text": "二行", "bbox": [127, 306, 151, 342], "size": "33", "type": "description", "comment": ""},
+	{"text": "陳廣", "bbox": [505, 513, 537, 536], "size": "23", "type": "description", "comment": ""},
+	{"text": "說文攷記", "bbox": [94, 459, 127, 509], "size": "48", "type": "description", "comment": ""},
+	{"text": "大八", "bbox": [88, 331, 100, 347], "size": "17", "type": "description", "comment": ""},
+	{"text": "陳廣", "bbox": [214, 513, 246, 536], "size": "23", "type": "description", "comment": ""}
+]
+```
