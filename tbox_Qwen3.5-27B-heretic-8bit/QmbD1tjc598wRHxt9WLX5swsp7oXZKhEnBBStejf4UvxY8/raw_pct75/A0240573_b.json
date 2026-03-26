@@ -1,0 +1,33 @@
+```json
+[
+	{"bbox_2d": [899, 75, 976, 519], "text_content": "七葉一名梟陽陽後改羊", "bbox": [899, 75, 976, 519], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [877, 75, 914, 159], "text_content": "九行", "bbox": [877, 75, 914, 159], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [823, 75, 861, 208], "text_content": "七葉十", "bbox": [823, 75, 861, 208], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [792, 203, 860, 650], "text_content": "東方之孟東上後增位字", "bbox": [792, 203, 860, 650], "size": "35.1333351135254", "type": "text", "comment": ""},
+	{"bbox_2d": [772, 75, 809, 159], "text_content": "四行", "bbox": [772, 75, 809, 159], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [722, 75, 759, 159], "text_content": "八葉", "bbox": [722, 75, 759, 159], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [686, 157, 759, 778], "text_content": "始於十見於千十後改一千後改十", "bbox": [686, 157, 759, 778], "size": "35.1333351135254", "type": "text", "comment": ""},
+	{"bbox_2d": [669, 75, 706, 159], "text_content": "三行", "bbox": [669, 75, 706, 159], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [616, 75, 653, 159], "text_content": "八葉", "bbox": [616, 75, 653, 159], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [585, 157, 658, 507], "text_content": "篆文𦸂後改𠔋", "bbox": [585, 157, 658, 507], "size": "35.1333351135254", "type": "text", "comment": ""},
+	{"bbox_2d": [565, 75, 602, 159], "text_content": "七行", "bbox": [565, 75, 602, 159], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [514, 75, 551, 208], "text_content": "十二葉", "bbox": [514, 75, 551, 208], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [477, 203, 550, 467], "text_content": "放也放後改效", "bbox": [477, 203, 550, 467], "size": "35.1333351135254", "type": "text", "comment": ""},
+	{"bbox_2d": [459, 75, 496, 159], "text_content": "四行", "bbox": [459, 75, 496, 159], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [407, 75, 444, 208], "text_content": "十二葉", "bbox": [407, 75, 444, 208], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [371, 203, 444, 635], "text_content": "从二子一曰㬱曰後改日", "bbox": [371, 203, 444, 635], "size": "35.1333351135254", "type": "text", "comment": ""},
+	{"bbox_2d": [356, 75, 393, 208], "text_content": "十三行", "bbox": [356, 75, 393, 208], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [305, 75, 342, 208], "text_content": "十六葉", "bbox": [305, 75, 342, 208], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [267, 203, 340, 557], "text_content": "酉爲秋門酉後改𣎳", "bbox": [267, 203, 340, 557], "size": "35.1333351135254", "type": "text", "comment": ""},
+	{"bbox_2d": [249, 75, 286, 159], "text_content": "四行", "bbox": [249, 75, 286, 159], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [196, 75, 233, 208], "text_content": "十七葉", "bbox": [196, 75, 233, 208], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [165, 203, 238, 557], "text_content": "酒味苦也苦後改長", "bbox": [165, 203, 238, 557], "size": "35.1333351135254", "type": "text", "comment": ""},
+	{"bbox_2d": [149, 75, 186, 159], "text_content": "二行", "bbox": [149, 75, 186, 159], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [96, 75, 133, 208], "text_content": "十八葉", "bbox": [96, 75, 133, 208], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [63, 203, 137, 557], "text_content": "篆文𦚨後改𦚨", "bbox": [63, 203, 137, 557], "size": "35.1333351135254", "type": "text", "comment": ""},
+	{"bbox_2d": [45, 75, 82, 159], "text_content": "七行", "bbox": [45, 75, 82, 159], "size": "29.2777786254883", "type": "text", "comment": ""},
+	{"bbox_2d": [8, 19, 32, 45], "text_content": "六", "bbox": [8, 19, 32, 45], "size": "15.4000005722046", "type": "text", "comment": ""},
+	{"bbox_2d": [8, 48, 32, 66], "text_content": "九", "bbox": [8, 48, 32, 66], "size": "15.4000005722046", "type": "text", "comment": ""},
+	{"bbox_2d": [11, 939, 41, 986], "text_content": "陳廣", "bbox": [11, 939, 41, 986], "size": "15.4000005722046", "type": "text", "comment": ""}
+]
+```
