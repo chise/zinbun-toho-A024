@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "以擯之也", "bbox": [907, 165, 964, 336], "size": "47", "type": "main", "comment": ""},
+	{"text": "弋真切", "bbox": [842, 165, 897, 299], "size": "47", "type": "main", "comment": ""},
+	{"text": "𩜈", "bbox": [710, 24, 824, 158], "size": "135", "type": "main", "comment": ""},
+	{"text": "古文", "bbox": [769, 163, 827, 247], "size": "47", "type": "main", "comment": ""},
+	{"text": "寅", "bbox": [715, 163, 771, 207], "size": "47", "type": "main", "comment": ""},
+	{"text": "文一", "bbox": [725, 473, 811, 594], "size": "107", "type": "main", "comment": ""},
+	{"text": "重一", "bbox": [743, 777, 829, 897], "size": "107", "type": "main", "comment": ""},
+	{"text": "卯", "bbox": [582, 24, 695, 158], "size": "135", "type": "main", "comment": ""},
+	{"text": "冒也二月萬物冒地而出象開", "bbox": [600, 163, 699, 967], "size": "47", "type": "main", "comment": ""},
+	{"text": "門之形故二月爲天門凡卯之屬", "bbox": [464, 163, 563, 977], "size": "47", "type": "main", "comment": ""},
+	{"text": "皆从卯", "bbox": [328, 156, 423, 351], "size": "47", "type": "main", "comment": ""},
+	{"text": "莫飽", "bbox": [376, 361, 432, 434], "size": "47", "type": "main", "comment": ""},
+	{"text": "切", "bbox": [323, 361, 378, 406], "size": "47", "type": "main", "comment": ""},
+	{"text": "文一", "bbox": [202, 525, 288, 647], "size": "107", "type": "main", "comment": ""},
+	{"text": "重一", "bbox": [209, 777, 295, 897], "size": "107", "type": "main", "comment": ""},
+	{"text": "𦫳", "bbox": [187, 24, 300, 158], "size": "135", "type": "main", "comment": ""},
+	{"text": "古文", "bbox": [244, 163, 302, 247], "size": "47", "type": "main", "comment": ""},
+	{"text": "卯", "bbox": [191, 163, 246, 207], "size": "47", "type": "main", "comment": ""},
+	{"text": "辰", "bbox": [53, 24, 166, 158], "size": "135", "type": "main", "comment": ""},
+	{"text": "震也三月陽气動雷電振民農時", "bbox": [61, 163, 161, 977], "size": "47", "type": "main", "comment": ""},
+	{"text": "大七", "bbox": [7, 29, 34, 63], "size": "17", "type": "main", "comment": ""},
+	{"text": "陳廣", "bbox": [17, 907, 45, 973], "size": "17", "type": "main", "comment": ""}
+]
+```
