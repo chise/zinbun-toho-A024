@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "十三葉", "bbox": [874, 57, 961, 198], "size": "141", "type": "text", "comment": ""},
+	{"text": "首行 从艸繇聲繇後改繇○厥艸惟繇繇繇後改繇", "bbox": [874, 204, 961, 952], "size": "748", "type": "text", "comment": ""},
+	{"text": "十三葉", "bbox": [763, 57, 851, 198], "size": "141", "type": "text", "comment": ""},
+	{"text": "七行 百穀艸木麗於地地後改土", "bbox": [763, 204, 851, 675], "size": "471", "type": "text", "comment": ""},
+	{"text": "十四葉", "bbox": [651, 57, 739, 198], "size": "141", "type": "text", "comment": ""},
+	{"text": "五行 讀若陸陸後改空白", "bbox": [651, 204, 739, 540], "size": "336", "type": "text", "comment": ""},
+	{"text": "十五葉", "bbox": [540, 57, 628, 198], "size": "141", "type": "text", "comment": ""},
+	{"text": "三行 瘗也瘗後改瘗", "bbox": [540, 204, 628, 460], "size": "256", "type": "text", "comment": ""},
+	{"text": "弟二上", "bbox": [450, 6, 536, 155], "size": "149", "type": "text", "comment": ""},
+	{"text": "首葉", "bbox": [450, 161, 536, 221], "size": "60", "type": "text", "comment": ""},
+	{"text": "四行 重八十八後改重八十七", "bbox": [450, 227, 536, 671], "size": "444", "type": "text", "comment": ""},
+	{"text": "首葉", "bbox": [339, 57, 427, 155], "size": "98", "type": "text", "comment": ""},
+	{"text": "七行 而分之而下後增八字於旁", "bbox": [339, 161, 427, 644], "size": "483", "type": "text", "comment": ""},
+	{"text": "二葉", "bbox": [228, 57, 316, 155], "size": "98", "type": "text", "comment": ""},
+	{"text": "首行 篆文艸後改艸", "bbox": [228, 161, 316, 540], "size": "379", "type": "text", "comment": ""},
+	{"text": "四葉", "bbox": [117, 57, 205, 155], "size": "98", "type": "text", "comment": ""},
+	{"text": "四行 今惟牿牛馬惟下後增淫舍二字", "bbox": [117, 161, 205, 727], "size": "566", "type": "text", "comment": ""},
+	{"text": "五葉", "bbox": [26, 57, 114, 155], "size": "98", "type": "text", "comment": ""},
+	{"text": "四行 莫交切莫交後改里之", "bbox": [26, 161, 114, 540], "size": "379", "type": "text", "comment": ""},
+	{"text": "小二二五十七", "bbox": [969, 11, 987, 57], "size": "46", "type": "text", "comment": ""},
+	{"text": "言又木言", "bbox": [969, 267, 997, 388], "size": "121", "type": "text", "comment": ""},
+	{"text": "卞俊", "bbox": [969, 915, 997, 976], "size": "61", "type": "text", "comment": ""}
+]
+```
