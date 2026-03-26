@@ -1,0 +1,17 @@
+```json
+[
+	{"bbox_2d": [966, 32, 985, 82], "text_content": "小可六七", "text_size": "小", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [968, 259, 999, 395], "text_content": "说文解字", "text_size": "小", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [966, 578, 997, 610], "text_content": "五", "text_size": "小", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [961, 924, 982, 970], "text_content": "布三", "text_size": "小", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [875, 86, 961, 596], "text_content": "十三葉\n十四行夏羊牡曰羱牡後改牝", "text_size": "大", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [770, 86, 860, 637], "text_content": "十四葉\n七行西戎牧羊人也牧後改從", "text_size": "大", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [667, 86, 758, 601], "text_content": "十六葉\n八行从雿聲从下後增鳥字", "text_size": "大", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [564, 86, 655, 887], "text_content": "十六葉\n十三行篆文后後改○天龠也龠後改鶵", "text_size": "大", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [461, 86, 551, 720], "text_content": "十七葉\n四行鋪鼓也鋪後改餔下\n文餔字同", "text_size": "大", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [358, 86, 447, 551], "text_content": "二十葉\n首行篆文后後改", "text_size": "大", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [255, 26, 345, 725], "text_content": "第四下首葉\n七行从云云逆子也云後俱改亐", "text_size": "大", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [151, 86, 241, 461], "text_content": "首葉十\n四行小也小後改少", "text_size": "大", "text_type": "font", "text_comment": ""},
+	{"bbox_2d": [48, 86, 138, 640], "text_content": "四葉\n五行夬深堅意也夬上後增𠬢字", "text_size": "大", "text_type": "font", "text_comment": ""}
+]
+```
