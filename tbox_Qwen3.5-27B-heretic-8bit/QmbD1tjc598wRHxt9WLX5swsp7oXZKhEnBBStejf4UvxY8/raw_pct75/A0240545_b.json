@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "高辛太岳佐夏吕叔作藩俾矦于許世", "bbox": [859, 26, 957, 945], "size": "79.86", "type": "text", "comment": ""},
+	{"text": "祚遺靈自彼徂召宅此汝瀕竊印景行", "bbox": [732, 26, 829, 978], "size": "79.86", "type": "text", "comment": ""},
+	{"text": "敢涉聖門其弘如何節彼南山欲罷不", "bbox": [598, 26, 695, 974], "size": "79.86", "type": "text", "comment": ""},
+	{"text": "能既竭愚才惜道之味聞疑載疑演贊", "bbox": [467, 26, 565, 975], "size": "79.86", "type": "text", "comment": ""},
+	{"text": "其志次列微辭知此者稀儻昭所尤庶", "bbox": [333, 26, 431, 973], "size": "79.86", "type": "text", "comment": ""},
+	{"text": "有達者理而董之", "bbox": [200, 26, 298, 464], "size": "79.86", "type": "text", "comment": ""},
+	{"text": "召陵萬歲里公乗", "bbox": [200, 535, 298, 973], "size": "79.86", "type": "text", "comment": ""},
+	{"text": "艸莾臣沖稽首再拜上書皇帝陛下臣", "bbox": [70, 26, 167, 973], "size": "79.86", "type": "text", "comment": ""},
+	{"text": "大", "bbox": [13, 26, 39, 45], "size": "15.55", "type": "text", "comment": ""},
+	{"text": "洗古", "bbox": [17, 922, 43, 977], "size": "15.55", "type": "text", "comment": ""},
+	{"text": "三", "bbox": [17, 730, 43, 750], "size": "15.55", "type": "text", "comment": ""}
+]
+```
