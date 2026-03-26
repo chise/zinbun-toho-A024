@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "入地也五行土生於戊盛於戌从", "bbox": [842, 153, 953, 975], "size": "40.75", "type": "text", "comment": ""},
+	{"text": "戊含一凡戌之屬皆从戌", "bbox": [707, 146, 815, 788], "size": "39.5", "type": "text", "comment": ""},
+	{"text": "辛聿", "bbox": [765, 794, 812, 843], "size": "15.0", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [702, 804, 753, 846], "size": "23.5", "type": "text", "comment": ""},
+	{"text": "文一", "bbox": [575, 259, 676, 336], "size": "56.5", "type": "text", "comment": ""},
+	{"text": "古文上字一人男一人女也从乙", "bbox": [293, 146, 403, 971], "size": "39.5", "type": "text", "comment": ""},
+	{"text": "荄也十月微陽起接盛陰从二二", "bbox": [436, 153, 541, 970], "size": "37.0", "type": "text", "comment": ""},
+	{"text": "象裏子咳咳之形春秋傳曰亥有", "bbox": [161, 150, 267, 986], "size": "37.5", "type": "text", "comment": ""},
+	{"text": "二首六身凡亥之屬皆从亥", "bbox": [17, 156, 126, 855], "size": "38.0", "type": "text", "comment": ""},
+	{"text": "胡改", "bbox": [75, 861, 126, 910], "size": "18.5", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [14, 871, 64, 913], "size": "23.0", "type": "text", "comment": ""},
+	{"text": "小二百九十五", "bbox": [968, 20, 996, 127], "size": "9.0", "type": "text", "comment": ""},
+	{"text": "魏三", "bbox": [967, 922, 996, 971], "size": "10.0", "type": "text", "comment": ""}
+]
+```
