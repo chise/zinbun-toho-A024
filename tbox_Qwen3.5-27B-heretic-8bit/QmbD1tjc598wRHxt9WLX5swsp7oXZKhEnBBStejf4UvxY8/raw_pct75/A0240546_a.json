@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "伏見陛下以神明盛德承遵聖業上考度", "bbox": [832, 11, 931, 976], "size": "37.88", "type": "character", "comment": ""},
+	{"text": "於天下流化於民先天而天不違後天", "bbox": [700, 15, 798, 975], "size": "38.01", "type": "character", "comment": ""},
+	{"text": "而奉天時萬國咸寧神人以和猶復深", "bbox": [567, 16, 665, 976], "size": "38.01", "type": "character", "comment": ""},
+	{"text": "惟五經之妙皆爲漢制博采幽遠窮理", "bbox": [432, 17, 529, 971], "size": "38.01", "type": "character", "comment": ""},
+	{"text": "盡性以至於命先帝詔侍中騎都尉賈", "bbox": [299, 14, 396, 983], "size": "38.01", "type": "character", "comment": ""},
+	{"text": "逵修理舊文殊藝異術王敎一耑苟有", "bbox": [167, 13, 264, 980], "size": "38.01", "type": "character", "comment": ""},
+	{"text": "可以加於國者靡不悉集易曰窮神知", "bbox": [34, 16, 131, 976], "size": "38.01", "type": "character", "comment": ""},
+	{"text": "小二百十五", "bbox": [954, 11, 980, 99], "size": "10.65", "type": "character", "comment": ""},
+	{"text": "陳元", "bbox": [952, 930, 980, 985], "size": "12.75", "type": "character", "comment": ""}
+]
+```
