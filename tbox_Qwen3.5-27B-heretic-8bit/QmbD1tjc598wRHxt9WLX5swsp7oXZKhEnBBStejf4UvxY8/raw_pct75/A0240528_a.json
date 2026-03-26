@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "史籀大篆或頗省改所謂小篆者也是", "bbox": [836, 17, 929, 961], "size": "42", "type": "main", "comment": ""},
+	{"text": "時秦燒滅經書滌除舊典大發𨽻卒興", "bbox": [701, 14, 795, 976], "size": "42", "type": "main", "comment": ""},
+	{"text": "役戍官獄職務繁初有𨽻書以趣約易", "bbox": [565, 19, 661, 976], "size": "42", "type": "main", "comment": ""},
+	{"text": "而古文由此絕矣", "bbox": [430, 18, 524, 465], "size": "42", "type": "main", "comment": ""},
+	{"text": "徐鍇曰王僧虔云秦獄吏程", "bbox": [476, 493, 536, 984], "size": "24", "type": "comment", "comment": ""},
+	{"text": "邈善大篆得臯繫雲陽獄增", "bbox": [416, 492, 474, 985], "size": "24", "type": "comment", "comment": ""},
+	{"text": "減大篆去其繁複始皇善之出爲御史名其書曰𨽻書班", "bbox": [346, 16, 407, 986], "size": "24", "type": "comment", "comment": ""},
+	{"text": "固云謂施之於徒𨽻也即今之𨽻書而無點畫俯仰之勢", "bbox": [286, 16, 345, 987], "size": "24", "type": "comment", "comment": ""},
+	{"text": "自爾秦書有八體一曰大篆二曰小篆", "bbox": [164, 16, 259, 987], "size": "42", "type": "main", "comment": ""},
+	{"text": "三曰刻符四曰蟲書", "bbox": [34, 16, 127, 538], "size": "42", "type": "main", "comment": ""},
+	{"text": "徐鍇曰案漢書注蟲書即", "bbox": [80, 543, 141, 987], "size": "24", "type": "comment", "comment": ""},
+	{"text": "鳥書以書幡信首象鳥形", "bbox": [19, 543, 79, 987], "size": "24", "type": "comment", "comment": ""},
+	{"text": "小三百七十二", "bbox": [952, 20, 977, 107], "size": "12", "type": "heading", "comment": ""},
+	{"text": "陳元", "bbox": [951, 917, 976, 961], "size": "12", "type": "heading", "comment": ""}
+]
+```
