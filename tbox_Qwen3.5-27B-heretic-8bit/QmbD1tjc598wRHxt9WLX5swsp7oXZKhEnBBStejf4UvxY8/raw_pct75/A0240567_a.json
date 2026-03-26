@@ -1,0 +1,24 @@
+```json
+[
+	{"text": "四葉文九十三三後改二", "bbox": [860, 80, 943, 504], "size": "26", "type": "normal", "comment": ""},
+	{"text": "十行", "bbox": [854, 95, 885, 156], "size": "22", "type": "normal", "comment": ""},
+	{"text": "七葉篆文頍後改頍", "bbox": [759, 80, 838, 504], "size": "26", "type": "normal", "comment": ""},
+	{"text": "八行", "bbox": [753, 95, 783, 156], "size": "22", "type": "normal", "comment": ""},
+	{"text": "八葉从刀易聲易後改剔", "bbox": [658, 80, 738, 504], "size": "26", "type": "normal", "comment": ""},
+	{"text": "九行", "bbox": [653, 95, 682, 156], "size": "22", "type": "normal", "comment": ""},
+	{"text": "八葉重文髟後改髟", "bbox": [558, 80, 637, 504], "size": "26", "type": "normal", "comment": ""},
+	{"text": "九行", "bbox": [551, 95, 581, 156], "size": "22", "type": "normal", "comment": ""},
+	{"text": "八葉十篆文髟後改髟", "bbox": [457, 80, 536, 547], "size": "26", "type": "normal", "comment": ""},
+	{"text": "一行", "bbox": [450, 95, 481, 156], "size": "22", "type": "normal", "comment": ""},
+	{"text": "八葉十弔則不髟髟後改髟餘髟字同", "bbox": [356, 80, 436, 712], "size": "26", "type": "normal", "comment": ""},
+	{"text": "二行", "bbox": [350, 95, 380, 156], "size": "22", "type": "normal", "comment": ""},
+	{"text": "十二葉从冂籀省聲籀後改籀", "bbox": [256, 80, 335, 601], "size": "26", "type": "normal", "comment": ""},
+	{"text": "二行", "bbox": [249, 95, 279, 156], "size": "22", "type": "normal", "comment": ""},
+	{"text": "十二葉祭祀曰厭饗祝後改祀", "bbox": [156, 80, 234, 597], "size": "26", "type": "normal", "comment": ""},
+	{"text": "七行", "bbox": [148, 95, 179, 156], "size": "22", "type": "normal", "comment": ""},
+	{"text": "弟九下篆文庀後改庀", "bbox": [55, 13, 135, 583], "size": "26", "type": "normal", "comment": ""},
+	{"text": "五葉", "bbox": [94, 171, 135, 247], "size": "18", "type": "normal", "comment": ""},
+	{"text": "八行", "bbox": [45, 171, 85, 247], "size": "18", "type": "normal", "comment": ""},
+	{"text": "言文校記", "bbox": [955, 270, 983, 382], "size": "20", "type": "normal", "comment": ""}
+]
+```
