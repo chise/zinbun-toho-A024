@@ -1,0 +1,14 @@
+```json
+[
+	{"text": "言孳乳而浸多也著於竹帛謂之書書", "bbox": [868, 19, 963, 986], "size": "43.7", "type": "main", "comment": ""},
+	{"text": "者如也以迄五帝三王之世改易殊體", "bbox": [735, 15, 834, 981], "size": "43.7", "type": "main", "comment": ""},
+	{"text": "封于泰山者七十有二代靡有同焉周", "bbox": [604, 13, 699, 981], "size": "43.7", "type": "main", "comment": ""},
+	{"text": "禮八歲入小學保氏敎國子先以六書", "bbox": [467, 13, 567, 986], "size": "43.7", "type": "main", "comment": ""},
+	{"text": "一曰指事指事者視而可識察而可見", "bbox": [333, 29, 431, 981], "size": "43.7", "type": "main", "comment": ""},
+	{"text": "上下是也二曰象形象形者畫成其物", "bbox": [202, 21, 301, 984], "size": "43.7", "type": "main", "comment": ""},
+	{"text": "隨體詰詘日月是也三曰形聲形聲者", "bbox": [69, 13, 164, 983], "size": "43.7", "type": "main", "comment": ""},
+	{"text": "說文解字", "bbox": [2, 249, 41, 377], "size": "20.0", "type": "footer", "comment": ""},
+	{"text": "二", "bbox": [2, 714, 36, 744], "size": "16.6", "type": "page number", "comment": ""},
+	{"text": "張信", "bbox": [21, 925, 48, 980], "size": "11.6", "type": "signature", "comment": ""}
+]
+```
