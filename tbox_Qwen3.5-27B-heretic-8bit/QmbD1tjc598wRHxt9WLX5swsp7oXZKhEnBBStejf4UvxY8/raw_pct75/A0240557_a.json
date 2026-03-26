@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "【說文解字】", "bbox": [970, 278, 999, 417], "size": "31", "type": "title", "comment": ""},
+	{"text": "一百七十七", "bbox": [960, 24, 985, 120], "size": "19", "type": "page", "comment": ""},
+	{"text": "嚴華", "bbox": [956, 914, 985, 977], "size": "25", "type": "publisher", "comment": ""},
+	{"text": "銀青光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉", "bbox": [854, 165, 920, 983], "size": "46", "type": "author", "comment": ""},
+	{"text": "中書門下", "bbox": [716, 25, 802, 280], "size": "73", "type": "heading", "comment": ""},
+	{"text": "牒徐鉉等", "bbox": [709, 453, 805, 720], "size": "83", "type": "heading", "comment": ""},
+	{"text": "新校定說文解字", "bbox": [578, 209, 670, 654], "size": "86", "type": "heading", "comment": ""},
+	{"text": "牒奉", "bbox": [450, 27, 545, 173], "size": "83", "type": "heading", "comment": ""},
+	{"text": "敕許慎說文起於東漢歷代傳寫譌謬", "bbox": [306, 26, 410, 980], "size": "87", "type": "body", "comment": ""},
+	{"text": "實多六書之蹤無所取法若不重加刊", "bbox": [183, 26, 274, 981], "size": "86", "type": "body", "comment": ""},
+	{"text": "正漸恐失其原流爰命儒學之臣共詳", "bbox": [48, 30, 141, 980], "size": "87", "type": "body", "comment": ""}
+]
+```
