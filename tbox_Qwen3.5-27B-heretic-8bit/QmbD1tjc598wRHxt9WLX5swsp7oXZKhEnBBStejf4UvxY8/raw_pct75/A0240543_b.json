@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "齒", "bbox": [853, 44, 946, 164], "size": "130", "type": "seal", "comment": ""},
+	{"text": "部五百", "bbox": [905, 168, 958, 261], "size": "30", "type": "regular", "comment": ""},
+	{"text": "三十八", "bbox": [837, 168, 898, 261], "size": "30", "type": "regular", "comment": ""},
+	{"text": "戉", "bbox": [851, 272, 957, 399], "size": "130", "type": "seal", "comment": ""},
+	{"text": "部五百", "bbox": [903, 416, 958, 508], "size": "30", "type": "regular", "comment": ""},
+	{"text": "三十九", "bbox": [849, 416, 898, 508], "size": "30", "type": "regular", "comment": ""},
+	{"text": "刃", "bbox": [849, 517, 952, 639], "size": "130", "type": "seal", "comment": ""},
+	{"text": "部五百", "bbox": [903, 641, 958, 740], "size": "30", "type": "regular", "comment": ""},
+	{"text": "四十", "bbox": [849, 641, 895, 713], "size": "30", "type": "regular", "comment": ""},
+	{"text": "說文解字第十五", "bbox": [592, 30, 691, 507], "size": "50", "type": "regular", "comment": ""},
+	{"text": "上", "bbox": [624, 524, 690, 556], "size": "30", "type": "regular", "comment": ""},
+	{"text": "大", "bbox": [24, 30, 48, 52], "size": "20", "type": "regular", "comment": ""},
+	{"text": "三", "bbox": [24, 58, 48, 75], "size": "20", "type": "regular", "comment": ""},
+	{"text": "說文一五二", "bbox": [18, 261, 48, 414], "size": "20", "type": "regular", "comment": ""},
+	{"text": "一七", "bbox": [24, 709, 48, 754], "size": "20", "type": "regular", "comment": ""},
+	{"text": "仲奇", "bbox": [28, 913, 54, 966], "size": "20", "type": "regular", "comment": ""}
+]
+```
