@@ -1,0 +1,27 @@
+```json
+[
+	{"bbox_2d": [966, 26, 985, 83], "text": "小羣九", "size": "14.0", "type": "text", "comment": "Note: The text is partially obscured and may contain errors."},
+	{"bbox_2d": [963, 272, 985, 298], "text": "言", "size": "12.0", "type": "text", "comment": ""},
+	{"bbox_2d": [962, 299, 986, 324], "text": "文", "size": "12.0", "type": "text", "comment": ""},
+	{"bbox_2d": [962, 325, 985, 350], "text": "木", "size": "12.0", "type": "text", "comment": ""},
+	{"bbox_2d": [962, 352, 985, 378], "text": "訛", "size": "12.0", "type": "text", "comment": ""},
+	{"bbox_2d": [950, 935, 972, 981], "text": "景高", "size": "10.0", "type": "text", "comment": ""},
+	{"bbox_2d": [880, 134, 938, 222], "text": "改聲", "size": "35.0", "type": "heading", "comment": ""},
+	{"bbox_2d": [759, 27, 843, 859], "text": "弟八上 首行 材千人也材後改才才下又增過字", "size": "35.0", "type": "text", "comment": ""},
+	{"bbox_2d": [811, 188, 849, 246], "text": "二葉", "size": "19.0", "type": "text", "comment": ""},
+	{"bbox_2d": [651, 85, 746, 641], "text": "二葉 十 刃救僇功刃救後改方鳩", "size": "30.0", "type": "text", "comment": ""},
+	{"bbox_2d": [652, 86, 692, 165], "text": "四行", "size": "19.0", "type": "text", "comment": ""},
+	{"bbox_2d": [555, 85, 647, 500], "text": "三葉 篆文 後改", "size": "30.0", "type": "text", "comment": ""},
+	{"bbox_2d": [556, 87, 593, 164], "text": "五行", "size": "19.0", "type": "text", "comment": ""},
+	{"bbox_2d": [456, 87, 541, 510], "text": "四葉 佺也佺上後增倱字", "size": "30.0", "type": "text", "comment": ""},
+	{"bbox_2d": [457, 87, 494, 164], "text": "十行", "size": "19.0", "type": "text", "comment": ""},
+	{"bbox_2d": [358, 87, 448, 424], "text": "八葉 交傷傷後改傷", "size": "30.0", "type": "text", "comment": ""},
+	{"bbox_2d": [359, 87, 397, 164], "text": "十行", "size": "19.0", "type": "text", "comment": ""},
+	{"bbox_2d": [259, 86, 346, 462], "text": "八葉 十 刺也刺後改刺", "size": "30.0", "type": "text", "comment": ""},
+	{"bbox_2d": [259, 87, 297, 164], "text": "三行", "size": "19.0", "type": "text", "comment": ""},
+	{"bbox_2d": [160, 86, 247, 504], "text": "九葉 以爲俘馘馘後改戩", "size": "30.0", "type": "text", "comment": ""},
+	{"bbox_2d": [160, 86, 198, 164], "text": "三行", "size": "19.0", "type": "text", "comment": ""},
+	{"bbox_2d": [59, 80, 145, 536], "text": "十三葉 邑落云聚云後改曰", "size": "30.0", "type": "text", "comment": ""},
+	{"bbox_2d": [59, 85, 97, 160], "text": "五行", "size": "19.0", "type": "text", "comment": ""}
+]
+```
