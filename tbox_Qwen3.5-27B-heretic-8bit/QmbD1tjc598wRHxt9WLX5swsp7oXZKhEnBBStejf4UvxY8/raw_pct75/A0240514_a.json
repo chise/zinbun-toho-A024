@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小二百○九", "bbox": [961, 34, 985, 105], "size": "小", "type": "text", "comment": "margin"},
+	{"text": "古文", "bbox": [888, 152, 945, 222], "size": "小", "type": "text", "comment": "small characters"},
+	{"text": "謹身有所承也从已丞讀", "bbox": [888, 392, 949, 828], "size": "小", "type": "text", "comment": "small characters"},
+	{"text": "若詩云赤舄已已居隱切", "bbox": [823, 392, 884, 828], "size": "小", "type": "text", "comment": "small characters"},
+	{"text": "已", "bbox": [836, 162, 862, 193], "size": "小", "type": "text", "comment": "small characters"},
+	{"text": "長踞也从已其聲", "bbox": [758, 28, 817, 267], "size": "小", "type": "text", "comment": "small characters"},
+	{"text": "讀若杞曁已切", "bbox": [694, 28, 754, 267], "size": "小", "type": "text", "comment": "small characters"},
+	{"text": "文三", "bbox": [705, 493, 801, 613], "size": "大", "type": "text", "comment": "large characters"},
+	{"text": "重一", "bbox": [710, 731, 796, 850], "size": "大", "type": "text", "comment": "large characters"},
+	{"text": "蟲也或曰食象蛇象形凡巴之屬", "bbox": [567, 154, 665, 981], "size": "大", "type": "text", "comment": "large characters"},
+	{"text": "皆从巴", "bbox": [447, 152, 531, 330], "size": "大", "type": "text", "comment": "large characters"},
+	{"text": "徐鍇曰一所吞", "bbox": [488, 371, 547, 625], "size": "小", "type": "text", "comment": "small characters"},
+	{"text": "也指事伯加切", "bbox": [423, 371, 480, 627], "size": "小", "type": "text", "comment": "small characters"},
+	{"text": "攪擊也从巴", "bbox": [363, 171, 420, 365], "size": "小", "type": "text", "comment": "small characters"},
+	{"text": "帚闕博下切", "bbox": [298, 171, 356, 365], "size": "小", "type": "text", "comment": "small characters"},
+	{"text": "文二", "bbox": [307, 568, 393, 691], "size": "大", "type": "text", "comment": "large characters"},
+	{"text": "位西方象秋時萬物庚庚有實也", "bbox": [176, 171, 268, 981], "size": "大", "type": "text", "comment": "large characters"},
+	{"text": "庚承已象人齋凡庚之屬皆从庚", "bbox": [42, 154, 139, 978], "size": "大", "type": "text", "comment": "large characters"},
+	{"text": "說文解字", "bbox": [968, 268, 995, 402], "size": "小", "type": "text", "comment": "margin"},
+	{"text": "九", "bbox": [962, 715, 995, 748], "size": "大", "type": "text", "comment": "margin"},
+	{"text": "祁三", "bbox": [956, 912, 980, 962], "size": "小", "type": "text", "comment": "margin"}
+]
+```
