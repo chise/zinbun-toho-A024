@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "文二重一", "bbox": [849, 269, 947, 650], "size": "190", "type": "heading", "comment": ""},
+	{"text": "獸足蹂地也象形九聲尒疋曰狐", "bbox": [718, 190, 819, 983], "size": "72", "type": "description", "comment": ""},
+	{"text": "貍貛貉醜其足蹏其迹凡之", "bbox": [588, 194, 689, 979], "size": "72", "type": "description", "comment": ""},
+	{"text": "屬皆从人九", "bbox": [457, 199, 558, 508], "size": "72", "type": "description", "comment": ""},
+	{"text": "篆文从", "bbox": [367, 174, 430, 286], "size": "32", "type": "description", "comment": ""},
+	{"text": "足柔聲", "bbox": [311, 174, 373, 286], "size": "32", "type": "description", "comment": ""},
+	{"text": "走獸總名从象形今聲", "bbox": [367, 437, 430, 887], "size": "32", "type": "description", "comment": ""},
+	{"text": "禽离兕頭相似巨今切", "bbox": [311, 437, 373, 844], "size": "32", "type": "description", "comment": ""},
+	{"text": "山神獸也从禽頭从中歐陽喬説离猛獸", "bbox": [244, 174, 306, 951], "size": "32", "type": "description", "comment": ""},
+	{"text": "也臣鉉等曰从中義無所取疑象形吕支切", "bbox": [180, 174, 242, 902], "size": "32", "type": "description", "comment": ""},
+	{"text": "蟲也从象", "bbox": [111, 174, 173, 371], "size": "32", "type": "description", "comment": ""},
+	{"text": "形無販切", "bbox": [54, 174, 116, 324], "size": "32", "type": "description", "comment": ""},
+	{"text": "蟲也从象", "bbox": [111, 501, 173, 729], "size": "32", "type": "description", "comment": ""},
+	{"text": "形王矩切", "bbox": [54, 501, 116, 678], "size": "32", "type": "description", "comment": ""},
+	{"text": "古文", "bbox": [111, 874, 173, 951], "size": "32", "type": "description", "comment": ""},
+	{"text": "禹", "bbox": [54, 874, 116, 924], "size": "32", "type": "description", "comment": ""},
+	{"text": "大十三", "bbox": [10, 21, 36, 86], "size": "10", "type": "page", "comment": ""},
+	{"text": "萬松", "bbox": [15, 915, 36, 977], "size": "10", "type": "page", "comment": ""}
+]
+```
