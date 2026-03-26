@@ -1,0 +1,11 @@
+```json
+[
+	{"text": "伏奉", "bbox": [844, 11, 952, 146], "size": "45.84", "type": "Heading", "comment": "This is the heading text."},
+	{"text": "聖旨校定許慎說文解字一部伏以振", "bbox": [723, 7, 832, 991], "size": "33.6", "type": "Description", "comment": "This is the description text."},
+	{"text": "發人文興崇古道考遺編於魯壁緝蠹", "bbox": [587, 7, 695, 991], "size": "33.6", "type": "Description", "comment": "This is the description text."},
+	{"text": "簡於羽陵載穆", "bbox": [455, 7, 558, 407], "size": "33.6", "type": "Description", "comment": "This is the description text."},
+	{"text": "皇風允符", "bbox": [323, 11, 422, 273], "size": "33.6", "type": "Description", "comment": "This is the description text."},
+	{"text": "昌運伏惟", "bbox": [190, 15, 286, 270], "size": "33.6", "type": "Description", "comment": "This is the description text."},
+	{"text": "應運統天睿文英武大聖至明廣孝皇", "bbox": [58, 15, 158, 991], "size": "33.6", "type": "Description", "comment": "This is the description text."}
+]
+```
