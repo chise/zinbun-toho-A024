@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "說文校記", "bbox": [959, 265, 994, 425], "size": "35", "type": "text", "comment": ""},
+	{"text": "景高", "bbox": [949, 912, 976, 976], "size": "20", "type": "text", "comment": ""},
+	{"text": "小二廿五", "bbox": [963, 29, 982, 79], "size": "15", "type": "text", "comment": ""},
+	{"text": "十二葉篆文勿後改勿○鴛也鴛後改鴛", "bbox": [857, 91, 934, 858], "size": "35", "type": "text", "comment": ""},
+	{"text": "十四葉", "bbox": [803, 91, 848, 214], "size": "35", "type": "text", "comment": ""},
+	{"text": "十四行擊連也擊後改擊", "bbox": [756, 91, 832, 515], "size": "35", "type": "text", "comment": ""},
+	{"text": "十六葉", "bbox": [699, 91, 745, 214], "size": "35", "type": "text", "comment": ""},
+	{"text": "九行後增篆文𡕔字又增毀也从攴裏聲古賣切", "bbox": [652, 91, 728, 976], "size": "35", "type": "text", "comment": ""},
+	{"text": "九正字又增在前敘字下五隂文○文七十七後改", "bbox": [553, 130, 629, 976], "size": "35", "type": "text", "comment": ""},
+	{"text": "七十八", "bbox": [457, 130, 526, 248], "size": "35", "type": "text", "comment": ""},
+	{"text": "十七葉篆文𠂤後改𠂤", "bbox": [345, 91, 420, 546], "size": "35", "type": "text", "comment": ""},
+	{"text": "十七葉从卜𠂤𠂤後改兆", "bbox": [251, 91, 330, 498], "size": "35", "type": "text", "comment": ""},
+	{"text": "四上首葉文七百四十八八後改七○重百一十二", "bbox": [150, 23, 232, 967], "size": "35", "type": "text", "comment": ""},
+	{"text": "後改六", "bbox": [55, 126, 120, 248], "size": "35", "type": "text", "comment": ""},
+	{"text": "四", "bbox": [963, 694, 981, 712], "size": "15", "type": "text", "comment": ""}
+]
+```
