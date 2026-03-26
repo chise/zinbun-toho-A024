@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "亥壬以子生之叙也與巫同意壬", "bbox": [857, 154, 958, 957], "size": "50", "type": "text", "comment": ""},
+	{"text": "承辛象人脛脛任體也凡壬之屬", "bbox": [720, 154, 825, 978], "size": "50", "type": "text", "comment": ""},
+	{"text": "皆从壬", "bbox": [594, 145, 686, 319], "size": "50", "type": "text", "comment": ""},
+	{"text": "如林", "bbox": [634, 319, 686, 410], "size": "20", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [582, 327, 625, 364], "size": "20", "type": "text", "comment": ""},
+	{"text": "文一", "bbox": [599, 681, 686, 784], "size": "50", "type": "text", "comment": ""},
+	{"text": "冬時水土平可揆度也象水從四", "bbox": [459, 154, 564, 957], "size": "50", "type": "text", "comment": ""},
+	{"text": "方流入地中之形癸承壬象人足", "bbox": [327, 145, 428, 971], "size": "50", "type": "text", "comment": ""},
+	{"text": "凡癸之屬皆从癸", "bbox": [191, 154, 293, 595], "size": "50", "type": "text", "comment": ""},
+	{"text": "居誄", "bbox": [246, 615, 300, 710], "size": "20", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [191, 621, 242, 658], "size": "20", "type": "text", "comment": ""},
+	{"text": "籀文从", "bbox": [118, 168, 170, 295], "size": "20", "type": "text", "comment": ""},
+	{"text": "虒从矢", "bbox": [53, 168, 105, 295], "size": "20", "type": "text", "comment": ""},
+	{"text": "文一", "bbox": [63, 465, 159, 569], "size": "50", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [72, 710, 161, 834], "size": "50", "type": "text", "comment": ""},
+	{"text": "大十", "bbox": [14, 32, 37, 75], "size": "15", "type": "text", "comment": ""},
+	{"text": "仲奇", "bbox": [19, 924, 43, 971], "size": "15", "type": "text", "comment": ""}
+]
+```
