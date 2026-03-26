@@ -1,0 +1,16 @@
+```json
+[
+	{"bbox_2d": [884, 22, 944, 625], "text_content": "弟一上首葉四行重八十一後改重八十", "size": "50.0", "type": "text", "comment": "1"},
+	{"bbox_2d": [768, 78, 846, 715], "text_content": "二葉首行平示辰龍童音章平下後增言字", "size": "49.0", "type": "text", "comment": "2"},
+	{"bbox_2d": [660, 83, 738, 547], "text_content": "五葉五行文六十下後增三字", "size": "49.0", "type": "text", "comment": "3"},
+	{"bbox_2d": [553, 80, 635, 672], "text_content": "六葉六行其聲舒揚專以遠聞專後改專", "size": "49.0", "type": "text", "comment": "4"},
+	{"bbox_2d": [447, 81, 535, 542], "text_content": "六葉七行銳廉而不枝枝後改枝", "size": "49.0", "type": "text", "comment": "5"},
+	{"bbox_2d": [343, 76, 429, 862], "text_content": "七葉四行醫無閭珣玕璂問下後增之字璂後改琪○一曰", "size": "49.0", "type": "text", "comment": "6"},
+	{"bbox_2d": [261, 122, 325, 421], "text_content": "器曰下後增玉字", "size": "49.0", "type": "text", "comment": "7"},
+	{"bbox_2d": [145, 76, 233, 543], "text_content": "十葉五行石之次玉者次後改似", "size": "49.0", "type": "text", "comment": "8"},
+	{"bbox_2d": [40, 21, 132, 841], "text_content": "弟一下四葉首行萹筑也筑後改筑四葉二行筑字同", "size": "49.0", "type": "text", "comment": "9"},
+	{"bbox_2d": [968, 25, 987, 70], "text_content": "小字", "size": "15.0", "type": "text", "comment": "10"},
+	{"bbox_2d": [968, 275, 995, 407], "text_content": "言文", "size": "25.0", "type": "text", "comment": "11"},
+	{"bbox_2d": [960, 919, 985, 974], "text_content": "卜武", "size": "25.0", "type": "text", "comment": "12"}
+]
+```
