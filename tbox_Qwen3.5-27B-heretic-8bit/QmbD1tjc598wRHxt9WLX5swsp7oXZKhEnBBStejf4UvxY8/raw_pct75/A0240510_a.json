@@ -1,0 +1,32 @@
+```json
+[
+	{"bbox_2d": [973, 23, 990, 123], "text_content": "小平八十三", "size": "11", "type": "text", "comment": ""},
+	{"bbox_2d": [959, 704, 994, 754], "text_content": "五", "size": "23", "type": "text", "comment": ""},
+	{"bbox_2d": [956, 887, 987, 975], "text_content": "嚴華", "size": "18", "type": "text", "comment": ""},
+	{"bbox_2d": [973, 256, 999, 307], "text_content": "說文", "size": "36", "type": "text", "comment": ""},
+	{"bbox_2d": [855, 34, 931, 134], "text_content": "四", "size": "100", "type": "image", "comment": ""},
+	{"bbox_2d": [841, 168, 936, 975], "text_content": "陰數也象四分之形凡四之屬皆", "size": "73", "type": "text", "comment": ""},
+	{"bbox_2d": [758, 296, 809, 363], "text_content": "息利", "size": "37", "type": "text", "comment": ""},
+	{"bbox_2d": [702, 164, 805, 277], "text_content": "从四", "size": "72", "type": "text", "comment": ""},
+	{"bbox_2d": [702, 296, 753, 330], "text_content": "切", "size": "42", "type": "text", "comment": ""},
+	{"bbox_2d": [581, 38, 671, 141], "text_content": "四", "size": "103", "type": "image", "comment": ""},
+	{"bbox_2d": [627, 365, 681, 447], "text_content": "籀文", "size": "50", "type": "text", "comment": ""},
+	{"bbox_2d": [574, 153, 684, 214], "text_content": "古文", "size": "41", "type": "text", "comment": ""},
+	{"bbox_2d": [566, 242, 674, 333], "text_content": "三", "size": "91", "type": "text", "comment": ""},
+	{"bbox_2d": [566, 365, 607, 400], "text_content": "四", "size": "45", "type": "text", "comment": ""},
+	{"bbox_2d": [572, 520, 660, 633], "text_content": "文一", "size": "83", "type": "text", "comment": ""},
+	{"bbox_2d": [572, 749, 656, 863], "text_content": "重二", "size": "84", "type": "text", "comment": ""},
+	{"bbox_2d": [439, 22, 532, 141], "text_content": "𠔿", "size": "119", "type": "image", "comment": ""},
+	{"bbox_2d": [434, 151, 530, 975], "text_content": "辨積物也象形凡𠔿之屬皆从𠔿", "size": "74", "type": "text", "comment": ""},
+	{"bbox_2d": [368, 150, 411, 217], "text_content": "直吕", "size": "43", "type": "text", "comment": ""},
+	{"bbox_2d": [302, 169, 345, 202], "text_content": "切", "size": "43", "type": "text", "comment": ""},
+	{"bbox_2d": [219, 150, 281, 521], "text_content": "幇也所以載盛米从亡", "size": "52", "type": "text", "comment": ""},
+	{"bbox_2d": [167, 23, 262, 142], "text_content": "𦎫", "size": "119", "type": "image", "comment": ""},
+	{"bbox_2d": [167, 150, 219, 503], "text_content": "从畾畾缶也陟呂切", "size": "48", "type": "text", "comment": ""},
+	{"bbox_2d": [179, 696, 257, 810], "text_content": "文二", "size": "84", "type": "text", "comment": ""},
+	{"bbox_2d": [44, 19, 141, 142], "text_content": "𣦼", "size": "123", "type": "image", "comment": ""},
+	{"bbox_2d": [31, 151, 130, 907], "text_content": "綴聯也象形凡𣦼之屬皆从𣦼", "size": "74", "type": "text", "comment": ""},
+	{"bbox_2d": [86, 898, 137, 975], "text_content": "陟劣", "size": "42", "type": "text", "comment": ""},
+	{"bbox_2d": [28, 896, 79, 930], "text_content": "切", "size": "43", "type": "text", "comment": ""}
+]
+```
