@@ -1,0 +1,28 @@
+```json
+[
+	{"bbox_2d": [914, 154, 968, 418], "text_content": "𩔳突也从𩔳決", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [853, 163, 907, 372], "text_content": "省聲於決切", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [914, 558, 968, 856], "text_content": "陋也从𩔳茷聲茷", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [853, 568, 907, 856], "text_content": "籒文隘字烏懈切", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [778, 25, 830, 152], "text_content": "籒文闢", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [718, 25, 768, 152], "text_content": "从𩔳益", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [778, 303, 830, 602], "text_content": "塞上亭守𤊾火者从", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [778, 784, 830, 866], "text_content": "篆文", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [718, 313, 768, 602], "text_content": "𩔳从火遂聲徐醉切", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [718, 784, 768, 824], "text_content": "省", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [607, 267, 689, 389], "text_content": "文四", "font_size": "35", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [607, 520, 689, 642], "text_content": "重二", "font_size": "35", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [469, 169, 556, 980], "text_content": "𡊫垯土爲牆壁象形凡𡊫之屬皆", "font_size": "35", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [333, 185, 417, 287], "text_content": "从𡊫", "font_size": "35", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [333, 297, 378, 326], "text_content": "切", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [384, 297, 439, 366], "text_content": "力軌", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [253, 194, 309, 554], "text_content": "增也从𡊫从糸𡊫十", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [192, 194, 247, 491], "text_content": "黍之重也力軌切", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [253, 692, 309, 862], "text_content": "𡊫塹也从𡊫", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [192, 692, 247, 881], "text_content": "从土力軌切", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [71, 241, 153, 363], "text_content": "文三", "font_size": "35", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [15, 30, 40, 93], "text_content": "大十四", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [15, 918, 45, 980], "text_content": "史攸", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"},
+	{"bbox_2d": [0, 692, 35, 731], "text_content": "五", "font_size": "18", "font_type": "serif", "comments": "separate heading from description"}
+]
+```
