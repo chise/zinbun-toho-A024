@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "小二百○六", "bbox": [939, 33, 966, 117], "size": "12.93", "type": "text", "comment": "small text in the top right corner"},
+	{"text": "也物皆生从乙匕象芒達厂聲也", "bbox": [827, 164, 917, 964], "size": "44.59", "type": "text", "comment": "main text"},
+	{"text": "辰房星天時也从二二古文上字", "bbox": [690, 170, 787, 966], "size": "44.59", "type": "text", "comment": "main text"},
+	{"text": "凡辰之屬皆从辰", "bbox": [561, 173, 658, 587], "size": "44.59", "type": "text", "comment": "main text"},
+	{"text": "徐鍇曰匕音化乙艸", "bbox": [607, 642, 671, 968], "size": "25.96", "type": "text", "comment": "sub text"},
+	{"text": "木萌初出曲卷也臣", "bbox": [551, 640, 607, 968], "size": "25.96", "type": "text", "comment": "sub text"},
+	{"text": "鉉等曰三月陽气盛艸木生上徹於土", "bbox": [480, 174, 540, 817], "size": "25.96", "type": "text", "comment": "sub text"},
+	{"text": "故从上厂非聲疑亦象物之出植鄰切", "bbox": [422, 170, 480, 817], "size": "25.96", "type": "text", "comment": "sub text"},
+	{"text": "古文", "bbox": [358, 159, 412, 239], "size": "25.96", "type": "text", "comment": "sub text"},
+	{"text": "辰", "bbox": [301, 159, 350, 190], "size": "25.96", "type": "text", "comment": "sub text"},
+	{"text": "恥也从寸在辰下失耕時於封畕上", "bbox": [356, 391, 412, 968], "size": "25.96", "type": "text", "comment": "sub text"},
+	{"text": "戮之也辰者農之時也故房星爲辰", "bbox": [293, 387, 350, 968], "size": "25.96", "type": "text", "comment": "sub text"},
+	{"text": "田候也", "bbox": [232, 37, 282, 161], "size": "25.96", "type": "text", "comment": "sub text"},
+	{"text": "而蜀切", "bbox": [171, 37, 221, 161], "size": "25.96", "type": "text", "comment": "sub text"},
+	{"text": "文二", "bbox": [183, 363, 268, 475], "size": "44.59", "type": "text", "comment": "main text"},
+	{"text": "重一", "bbox": [185, 609, 263, 718], "size": "44.59", "type": "text", "comment": "main text"},
+	{"text": "已也四月陽气已出陰气已藏萬", "bbox": [46, 176, 158, 970], "size": "44.59", "type": "text", "comment": "main text"},
+	{"text": "陳元", "bbox": [937, 898, 964, 964], "size": "12.93", "type": "text", "comment": "small text in the bottom right corner"},
+	{"text": "言文十四一", "bbox": [945, 269, 972, 395], "size": "12.93", "type": "text", "comment": "small text in the middle right corner"}
+]
+```
