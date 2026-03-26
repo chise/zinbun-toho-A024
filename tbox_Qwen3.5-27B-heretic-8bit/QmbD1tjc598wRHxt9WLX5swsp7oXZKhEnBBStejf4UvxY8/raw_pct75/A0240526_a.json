@@ -1,0 +1,14 @@
+```json
+[
+	{"text": "其事庶業其繁飾僞萌生黄帝之史倉", "bbox": [834, 17, 935, 977], "size": "40.189", "type": "body_text", "comment": "OCR text"},
+	{"text": "頡見鳥獸蹏远之迹知分理之可相別", "bbox": [701, 17, 802, 977], "size": "38.483", "type": "body_text", "comment": "OCR text"},
+	{"text": "異也初造書契百工以乂萬品以察蓋", "bbox": [568, 16, 669, 976], "size": "37.367", "type": "body_text", "comment": "OCR text"},
+	{"text": "取諸夬夬揚于王庭言文者宣敎明化", "bbox": [435, 17, 536, 975], "size": "37.367", "type": "body_text", "comment": "OCR text"},
+	{"text": "於王者朝廷君子所以施禄及下居德", "bbox": [302, 17, 403, 977], "size": "38.333", "type": "body_text", "comment": "OCR text"},
+	{"text": "則忌也倉頡之初作書蓋依類象形故", "bbox": [169, 18, 270, 977], "size": "38.405", "type": "body_text", "comment": "OCR text"},
+	{"text": "謂之文其後形聲相益即謂之字字者", "bbox": [36, 17, 137, 977], "size": "38.399", "type": "body_text", "comment": "OCR text"},
+	{"text": "少百廿一", "bbox": [964, 21, 986, 104], "size": "8.066", "type": "page_number", "comment": "OCR text"},
+	{"text": "說文十五", "bbox": [964, 250, 995, 342], "size": "23.237", "type": "page_header", "comment": "OCR text"},
+	{"text": "邳三", "bbox": [949, 858, 980, 925], "size": "14.648", "type": "page_footer", "comment": "OCR text"}
+]
+```
