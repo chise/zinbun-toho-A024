@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "嚴華", "bbox": [939, 875, 967, 962], "size": "15", "type": "image", "comment": ""},
+	{"text": "小二百二十二", "bbox": [935, 31, 963, 153], "size": "15", "type": "image", "comment": ""},
+	{"text": "从乙乙治之也", "bbox": [870, 28, 929, 299], "size": "35", "type": "image", "comment": ""},
+	{"text": "从鬲郎段切", "bbox": [809, 28, 867, 236], "size": "35", "type": "image", "comment": ""},
+	{"text": "異也从乙又聲徐鍇曰乙欲出而", "bbox": [878, 421, 932, 958], "size": "35", "type": "image", "comment": ""},
+	{"text": "見閡見閡則顯其尤異也羽求切", "bbox": [812, 421, 870, 958], "size": "35", "type": "image", "comment": ""},
+	{"text": "文四", "bbox": [690, 257, 786, 383], "size": "60", "type": "image", "comment": ""},
+	{"text": "重一", "bbox": [696, 559, 780, 686], "size": "60", "type": "image", "comment": ""},
+	{"text": "丙位南方萬物成炳然陰气初起陽", "bbox": [559, 38, 659, 968], "size": "60", "type": "image", "comment": ""},
+	{"text": "气將虧从一入门一者陽也丙承", "bbox": [430, 166, 528, 975], "size": "60", "type": "image", "comment": ""},
+	{"text": "乙象人肩凡丙之屬皆从丙", "bbox": [303, 172, 396, 838], "size": "60", "type": "image", "comment": ""},
+	{"text": "徐鍇曰", "bbox": [353, 860, 408, 974], "size": "35", "type": "image", "comment": ""},
+	{"text": "陽功成", "bbox": [297, 860, 351, 974], "size": "35", "type": "image", "comment": ""},
+	{"text": "入於门门門也天地", "bbox": [230, 174, 285, 518], "size": "35", "type": "image", "comment": ""},
+	{"text": "陰陽之門也兵永切", "bbox": [167, 174, 222, 518], "size": "35", "type": "image", "comment": ""},
+	{"text": "文一", "bbox": [180, 656, 270, 777], "size": "60", "type": "image", "comment": ""},
+	{"text": "丁夏時萬物皆丁實象形丁承丙象", "bbox": [38, 32, 148, 981], "size": "60", "type": "image", "comment": ""}
+]
+```
