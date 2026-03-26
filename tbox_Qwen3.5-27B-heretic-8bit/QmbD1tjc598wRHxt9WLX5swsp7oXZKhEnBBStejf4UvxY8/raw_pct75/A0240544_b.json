@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "說文解字第十五", "bbox": [855, 17, 970, 430], "size": "38.98", "type": "title", "comment": "下"},
+	{"text": "漢太尉祭酒許愼記", "bbox": [871, 493, 979, 966], "size": "38.98", "type": "title", "comment": ""},
+	{"text": "銀靑光禄大夫右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [741, 68, 826, 994], "size": "20.94", "type": "text", "comment": ""},
+	{"text": "敕校定", "bbox": [602, 62, 669, 166], "size": "20.94", "type": "text", "comment": ""},
+	{"text": "敘曰此十四篇五百四十部九千三百", "bbox": [458, 24, 565, 984], "size": "38.98", "type": "text", "comment": ""},
+	{"text": "五十三文重一千一百六十三解說凡", "bbox": [327, 24, 436, 984], "size": "38.98", "type": "text", "comment": ""},
+	{"text": "十三萬三千四百四十一字其建首也", "bbox": [190, 24, 298, 984], "size": "38.98", "type": "text", "comment": ""},
+	{"text": "立一爲耑方以類聚物以羣分同條牽", "bbox": [55, 24, 165, 994], "size": "38.98", "type": "text", "comment": ""},
+	{"text": "大", "bbox": [0, 24, 26, 40], "size": "13.53", "type": "text", "comment": ""},
+	{"text": "說文十五下", "bbox": [0, 272, 30, 421], "size": "10.00", "type": "text", "comment": ""},
+	{"text": "沈占", "bbox": [10, 933, 41, 991], "size": "10.00", "type": "text", "comment": ""}
+]
+```
