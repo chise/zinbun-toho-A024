@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "小", "bbox": [951, 24, 975, 44], "size": "14", "type": "page_number", "comment": ""},
+	{"text": "百", "bbox": [954, 43, 975, 61], "size": "13", "type": "page_number", "comment": ""},
+	{"text": "祁", "bbox": [945, 921, 968, 942], "size": "13", "type": "page_number", "comment": ""},
+	{"text": "三", "bbox": [951, 942, 972, 961], "size": "13", "type": "page_number", "comment": ""},
+	{"text": "羣臣家藏者備加詳考有許慎注義序", "bbox": [832, 24, 927, 976], "size": "50", "type": "main", "comment": ""},
+	{"text": "例中所載而諸部不見者審知漏落悉", "bbox": [699, 24, 792, 970], "size": "50", "type": "main", "comment": ""},
+	{"text": "從補錄復有經典相承傳寫及時俗要", "bbox": [560, 24, 661, 966], "size": "50", "type": "main", "comment": ""},
+	{"text": "用而說文不載者承", "bbox": [435, 24, 533, 527], "size": "50", "type": "main", "comment": ""},
+	{"text": "詔皆附益之以廣篆籀之路亦皆形聲", "bbox": [301, 24, 401, 970], "size": "50", "type": "main", "comment": ""},
+	{"text": "相從不違六書之義者其間說文具有", "bbox": [168, 24, 268, 961], "size": "50", "type": "main", "comment": ""},
+	{"text": "正體而時俗譌變者則具於注中其有", "bbox": [36, 24, 136, 970], "size": "50", "type": "main", "comment": ""}
+]
+```
