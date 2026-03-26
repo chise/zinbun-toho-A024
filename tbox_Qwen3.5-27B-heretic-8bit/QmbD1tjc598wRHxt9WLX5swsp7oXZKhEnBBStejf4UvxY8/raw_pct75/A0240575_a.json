@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "小七十", "bbox": [803, 266, 823, 290], "size": "small", "type": "page number", "comment": ""},
+	{"text": "三", "bbox": [803, 290, 823, 307], "size": "small", "type": "page number", "comment": ""},
+	{"text": "訛又木言", "bbox": [801, 411, 830, 479], "size": "medium", "type": "title", "comment": ""},
+	{"bbox_2d": [118, 319, 176, 551], "text": "融始一限晁公先", "size": "medium", "type": "body text", "comment": ""},
+	{"bbox_2d": [200, 323, 256, 553], "text": "給翰嬰一限榮齋", "size": "medium", "type": "body text", "comment": ""},
+	{"bbox_2d": [280, 326, 334, 553], "text": "十一限習則治自", "size": "medium", "type": "body text", "comment": ""},
+	{"bbox_2d": [354, 326, 408, 553], "text": "祖序行半難又始", "size": "medium", "type": "body text", "comment": ""},
+	{"bbox_2d": [517, 271, 562, 553], "text": "第十五上五言張", "size": "medium", "type": "body text", "comment": ""},
+	{"bbox_2d": [577, 323, 624, 553], "text": "行二變安而", "size": "medium", "type": "body text", "comment": ""},
+	{"bbox_2d": [663, 323, 708, 553], "text": "兼初十五言", "size": "medium", "type": "body text", "comment": ""},
+	{"bbox_2d": [789, 264, 833, 655], "text": "小七十言又木言二限刺詩經", "size": "medium", "type": "body text", "comment": ""},
+	{"bbox_2d": [293, 604, 315, 625], "text": "景", "size": "small", "type": "signature", "comment": ""},
+	{"bbox_2d": [616, 604, 637, 625], "text": "景", "size": "small", "type": "signature", "comment": ""},
+	{"bbox_2d": [616, 625, 637, 647], "text": "同", "size": "small", "type": "signature", "comment": ""},
+	{"bbox_2d": [293, 625, 315, 647], "text": "同", "size": "small", "type": "signature", "comment": ""}
+]
+```
