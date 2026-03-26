@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "部一百九十五", "bbox": [853, 164, 966, 253], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部一百九十六", "bbox": [853, 405, 966, 496], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部一百九十七", "bbox": [853, 646, 966, 736], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部一百九十八", "bbox": [853, 894, 966, 983], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部一百九十九", "bbox": [721, 164, 834, 253], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百百", "bbox": [721, 405, 834, 496], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百百一", "bbox": [721, 646, 834, 736], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百百二", "bbox": [721, 894, 834, 983], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百三", "bbox": [589, 164, 701, 253], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百四", "bbox": [589, 405, 701, 496], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百五", "bbox": [589, 646, 701, 736], "size": "小", "type": "small text", "comment": ""},
+	{"text": "説文解字弟六", "bbox": [457, 19, 559, 403], "size": "大", "type": "header", "comment": ""},
+	{"text": "部二百六", "bbox": [316, 164, 428, 253], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百七", "bbox": [316, 405, 428, 496], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百八", "bbox": [316, 646, 428, 736], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百九", "bbox": [316, 894, 428, 983], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百十", "bbox": [184, 164, 296, 253], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百十一", "bbox": [184, 405, 296, 496], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百十二", "bbox": [184, 646, 296, 736], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百十三", "bbox": [184, 894, 296, 983], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百十四", "bbox": [52, 164, 164, 253], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百十五", "bbox": [52, 405, 164, 496], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百十六", "bbox": [52, 646, 164, 736], "size": "小", "type": "small text", "comment": ""},
+	{"text": "部二百十七", "bbox": [52, 894, 164, 983], "size": "小", "type": "small text", "comment": ""},
+	{"text": "大四十四", "bbox": [2, 23, 35, 106], "size": "小", "type": "vertical text", "comment": ""},
+	{"text": "説文十五上", "bbox": [2, 253, 35, 403], "size": "小", "type": "vertical text", "comment": ""},
+	{"text": "十二", "bbox": [2, 646, 35, 736], "size": "小", "type": "vertical text", "comment": ""},
+	{"text": "張信", "bbox": [2, 910, 35, 983], "size": "小", "type": "vertical text", "comment": ""}
+]
+```
