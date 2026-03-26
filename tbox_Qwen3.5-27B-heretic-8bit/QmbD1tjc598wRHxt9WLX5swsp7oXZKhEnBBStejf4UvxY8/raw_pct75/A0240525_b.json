@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "説文解字第十五上", "bbox": [846, 13, 957, 448], "size": "48.525", "type": "heading", "comment": ""},
+	{"text": "漢太尉祭酒許慎記", "bbox": [857, 482, 960, 941], "size": "53.43", "type": "heading", "comment": ""},
+	{"text": "銀青光祿大夫右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [730, 50, 811, 996], "size": "34.098", "type": "heading", "comment": ""},
+	{"text": "敕校定", "bbox": [605, 50, 674, 165], "size": "34.098", "type": "heading", "comment": ""},
+	{"text": "古者庖犧氏之王天下也仰則觀象於", "bbox": [451, 13, 555, 981], "size": "53.43", "type": "paragraph", "comment": ""},
+	{"text": "天俯則觀法於地視鳥獸之文與地之", "bbox": [315, 13, 420, 981], "size": "53.43", "type": "paragraph", "comment": ""},
+	{"text": "宜近取諸身遠取諸物於是始作易八", "bbox": [181, 13, 285, 981], "size": "53.43", "type": "paragraph", "comment": ""},
+	{"text": "卦以垂憲象及神農氏結繩爲治而統", "bbox": [55, 13, 160, 995], "size": "53.43", "type": "paragraph", "comment": ""},
+	{"text": "張信", "bbox": [5, 926, 35, 981], "size": "18.005", "type": "paragraph", "comment": ""}
+]
+```
