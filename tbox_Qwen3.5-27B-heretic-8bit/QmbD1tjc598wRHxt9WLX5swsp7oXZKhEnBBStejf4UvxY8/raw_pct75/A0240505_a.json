@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "說文古", "bbox": [948, 260, 986, 379], "size": "small", "type": "header", "comment": "The last character is partially cut off."},
+	{"text": "十五", "bbox": [956, 689, 986, 745], "size": "small", "type": "number", "comment": "The first character is partially cut off."},
+	{"text": "魏三", "bbox": [937, 914, 967, 977], "size": "small", "type": "text", "comment": "The first character is partially cut off."},
+	{"text": "小", "bbox": [942, 37, 957, 53], "size": "small", "type": "text", "comment": ""},
+	{"text": "八十一", "bbox": [943, 57, 957, 94], "size": "small", "type": "number", "comment": ""},
+	{"text": "本通用徹後人", "bbox": [867, 30, 930, 285], "size": "medium", "type": "text", "comment": ""},
+	{"text": "所加直列切", "bbox": [809, 31, 860, 238], "size": "medium", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [824, 432, 914, 557], "size": "large", "type": "header", "comment": ""},
+	{"text": "新附", "bbox": [869, 567, 928, 638], "size": "medium", "type": "text", "comment": ""},
+	{"text": "㠯小㠯也象形凡㠯之屬皆从㠯", "bbox": [686, 38, 786, 944], "size": "large", "type": "text", "comment": ""},
+	{"text": "臣鉉等曰今俗", "bbox": [601, 185, 662, 430], "size": "medium", "type": "text", "comment": ""},
+	{"text": "作堆都回切", "bbox": [543, 191, 599, 397], "size": "medium", "type": "text", "comment": ""},
+	{"text": "㠯", "bbox": [434, 28, 500, 156], "size": "large", "type": "text", "comment": ""},
+	{"text": "危高也从㠯屮聲", "bbox": [474, 160, 532, 467], "size": "medium", "type": "text", "comment": ""},
+	{"text": "讀若梟魚列切", "bbox": [416, 167, 462, 419], "size": "medium", "type": "text", "comment": ""},
+	{"text": "㠯", "bbox": [422, 476, 520, 603], "size": "large", "type": "text", "comment": ""},
+	{"text": "吏事君也从㇗从㠯", "bbox": [474, 622, 526, 929], "size": "medium", "type": "text", "comment": ""},
+	{"text": "㠯猶衆也此與師同", "bbox": [416, 623, 462, 976], "size": "medium", "type": "text", "comment": ""},
+	{"text": "意古", "bbox": [347, 23, 392, 111], "size": "medium", "type": "text", "comment": ""},
+	{"text": "丸切", "bbox": [285, 25, 331, 112], "size": "medium", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [297, 319, 386, 445], "size": "large", "type": "header", "comment": ""},
+	{"text": "說文解字第十四", "bbox": [28, 23, 124, 440], "size": "large", "type": "header", "comment": ""},
+	{"text": "上", "bbox": [68, 444, 118, 467], "size": "medium", "type": "text", "comment": ""}
+]
+```
