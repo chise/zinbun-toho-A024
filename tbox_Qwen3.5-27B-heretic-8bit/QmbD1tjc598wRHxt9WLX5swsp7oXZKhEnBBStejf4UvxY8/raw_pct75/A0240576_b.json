@@ -1,0 +1,9 @@
+```json
+[
+	{"text": "伯益", "bbox": [2, 1, 14, 50], "size": "24", "type": "text", "comment": ""},
+	{"text": "公別", "bbox": [1, 1, 15, 50], "size": "24", "type": "text", "comment": ""},
+	{"text": "傳", "bbox": [1, 1, 15, 50], "size": "24", "type": "text", "comment": ""},
+	{"text": "家", "bbox": [1, 1, 15, 50], "size": "24", "type": "text", "comment": ""},
+	{"text": "譜", "bbox": [1, 1, 15, 50], "size": "24", "type": "text", "comment": ""}
+]
+```
