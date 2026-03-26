@@ -1,0 +1,16 @@
+```json
+[
+	{"bbox_2d": [968, 15, 989, 84], "text_content": "少百三十一", "text_size": "小", "text_type": "註", "text_comment": "1"},
+	{"bbox_2d": [976, 244, 1000, 394], "text_content": "言文一王", "text_size": "小", "text_type": "註", "text_comment": "2"},
+	{"bbox_2d": [968, 931, 993, 973], "text_content": "陳元", "text_size": "小", "text_type": "註", "text_comment": "3"},
+	{"bbox_2d": [845, 12, 945, 974], "text_content": "屬共理相貫雜而不越據形聯系引而", "text_size": "大", "text_type": "正文", "text_comment": "4"},
+	{"bbox_2d": [711, 13, 811, 986], "text_content": "申之以究萬原畢終於亥知化窮冥于", "text_size": "大", "text_type": "正文", "text_comment": "5"},
+	{"bbox_2d": [569, 11, 670, 989], "text_content": "時大漢聖德熙明承天稽唐敷崇殷中", "text_size": "大", "text_type": "正文", "text_comment": "6"},
+	{"bbox_2d": [434, 18, 535, 976], "text_content": "遐邇被澤渥衍沛滂廣業甄微學士知", "text_size": "大", "text_type": "正文", "text_comment": "7"},
+	{"bbox_2d": [300, 14, 399, 982], "text_content": "方探嘖索隱厥誼可傳粵在永元困頓", "text_size": "大", "text_type": "正文", "text_comment": "8"},
+	{"bbox_2d": [219, 155, 273, 518], "text_content": "徐鍇曰漢和帝永元", "text_size": "小", "text_type": "註", "text_comment": "9"},
+	{"bbox_2d": [156, 154, 209, 518], "text_content": "十二季歲在庚子也", "text_size": "小", "text_type": "註", "text_comment": "10"},
+	{"bbox_2d": [165, 15, 260, 988], "text_content": "之季孟陬之月朔日甲", "text_size": "大", "text_type": "正文", "text_comment": "11"},
+	{"bbox_2d": [27, 16, 128, 981], "text_content": "申曾曾小子祖自炎神繙雲相黃共承", "text_size": "大", "text_type": "正文", "text_comment": "12"}
+]
+```
