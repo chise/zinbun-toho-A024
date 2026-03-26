@@ -1,0 +1,30 @@
+```json
+[
+	{"bbox_2d": [905, 91, 953, 167], "text_content": "二葉十", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [868, 91, 940, 719], "text_content": "一行詩曰侈兮哆兮後改哆兮侈兮", "confidence": 0.95, "comment": "正文部分"},
+	{"bbox_2d": [805, 91, 856, 167], "text_content": "三葉", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [768, 91, 845, 548], "text_content": "七行舉鼎也鼎下後增具字", "confidence": 0.95, "comment": "正文部分"},
+	{"bbox_2d": [705, 91, 756, 167], "text_content": "八葉", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [668, 91, 735, 414], "text_content": "二行剌也剌後改刺", "confidence": 0.95, "comment": "正文部分"},
+	{"bbox_2d": [696, 425, 746, 710], "text_content": "十一葉十一行同", "confidence": 0.95, "comment": "正文部分"},
+	{"bbox_2d": [605, 91, 656, 167], "text_content": "九葉", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [568, 91, 635, 419], "text_content": "首行後增文一二字", "confidence": 0.95, "comment": "正文部分"},
+	{"bbox_2d": [505, 91, 556, 209], "text_content": "十四葉", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [468, 91, 535, 543], "text_content": "四行从車皮聲皮後改皮", "confidence": 0.95, "comment": "正文部分"},
+	{"bbox_2d": [405, 91, 456, 209], "text_content": "十四葉", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [368, 91, 435, 505], "text_content": "十一行讀若骨骨後改茸", "confidence": 0.95, "comment": "正文部分"},
+	{"bbox_2d": [270, 29, 327, 173], "text_content": "第十四", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [270, 180, 327, 224], "text_content": "下", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [297, 235, 335, 328], "text_content": "二葉十", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [250, 235, 288, 286], "text_content": "二行", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [258, 333, 327, 590], "text_content": "唐也唐後改塘", "confidence": 0.95, "comment": "正文部分"},
+	{"bbox_2d": [197, 91, 246, 167], "text_content": "三葉", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [158, 91, 230, 571], "text_content": "五行酒泉天依阪也依後改侽", "confidence": 0.95, "comment": "正文部分"},
+	{"bbox_2d": [97, 91, 146, 167], "text_content": "七葉", "confidence": 0.9, "comment": "標題部分"},
+	{"bbox_2d": [58, 91, 130, 666], "text_content": "三行其迹岇岇後改坄通部岇字同", "confidence": 0.95, "comment": "正文部分"},
+	{"bbox_2d": [948, 279, 997, 401], "text_content": "說文校記", "confidence": 0.95, "comment": "書名"},
+	{"bbox_2d": [967, 649, 999, 721], "text_content": "十五", "confidence": 0.9, "comment": "頁碼"},
+	{"bbox_2d": [949, 929, 978, 970], "text_content": "邵三", "confidence": 0.9, "comment": "人名"},
+	{"bbox_2d": [965, 34, 987, 87], "text_content": "小字八十五", "confidence": 0.9, "comment": "其他"}
+]
+```
