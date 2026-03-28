@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "毛公長書衣題字", "bbox": [807, 32, 939, 974], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "家刻說文校改第四次樣本", "bbox": [669, 34, 777, 820], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "東方文化學院京都研究所", "bbox": [747, 696, 802, 967], "size": "20.00", "type": "main text", "comment": "vertical text"},
+	{"text": "癸巳年修板第五次凡上方有青圈者要修無者不動", "bbox": [569, 112, 653, 967], "size": "35.00", "type": "main text", "comment": "vertical text"},
+	{"text": "若大字內要增者邊頭增一小字", "bbox": [479, 112, 548, 609], "size": "35.00", "type": "main text", "comment": "vertical text"},
+	{"text": "第一冊", "bbox": [361, 40, 464, 219], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "標目", "bbox": [263, 128, 353, 258], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "一上下", "bbox": [267, 351, 340, 468], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "二上下", "bbox": [260, 569, 346, 702], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "三上下", "bbox": [263, 781, 350, 918], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "第二冊", "bbox": [151, 40, 249, 219], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "四上下", "bbox": [50, 135, 137, 286], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "五上下", "bbox": [50, 354, 142, 496], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "六上下", "bbox": [48, 566, 130, 713], "size": "40.00", "type": "main text", "comment": "vertical text"},
+	{"text": "大字七", "bbox": [3, 34, 39, 145], "size": "20.00", "type": "main text", "comment": "vertical text"},
+	{"text": "題跋", "bbox": [0, 383, 37, 449], "size": "20.00", "type": "main text", "comment": "vertical text"},
+	{"text": "陳生", "bbox": [8, 903, 45, 970], "size": "20.00", "type": "main text", "comment": "vertical text"}
+]
+```
