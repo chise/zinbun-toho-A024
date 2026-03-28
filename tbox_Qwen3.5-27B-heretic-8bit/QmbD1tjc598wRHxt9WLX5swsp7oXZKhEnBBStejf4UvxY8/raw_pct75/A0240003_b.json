@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "世說", "bbox": [506, 60, 927, 513], "size": "180", "type": "heading", "comment": "書名"},
+	{"text": "真本", "bbox": [82, 49, 437, 966], "size": "180", "type": "description", "comment": "本"}
+]
+```
