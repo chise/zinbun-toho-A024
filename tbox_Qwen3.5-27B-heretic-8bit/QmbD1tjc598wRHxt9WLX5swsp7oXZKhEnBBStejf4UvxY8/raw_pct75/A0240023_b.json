@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "地反物爲禊也从", "bbox": [914, 20, 982, 237], "size": "45", "type": "text", "comment": "top-right column, first line"},
+	{"text": "示芈聲於喬切", "bbox": [854, 22, 921, 214], "size": "45", "type": "text", "comment": "top-right column, second line"},
+	{"text": "明視以筭之从二示逸周書", "bbox": [923, 487, 989, 983], "size": "45", "type": "text", "comment": "top-right column, third line"},
+	{"text": "曰士分民之祘均分以祘之", "bbox": [861, 487, 929, 983], "size": "45", "type": "text", "comment": "top-right column, fourth line"},
+	{"text": "也讀若筭", "bbox": [783, 22, 847, 220], "size": "45", "type": "text", "comment": "top-right column, fifth line"},
+	{"text": "吉凶之忌也从", "bbox": [790, 353, 854, 620], "size": "45", "type": "text", "comment": "top-right column, sixth line"},
+	{"text": "除服祭也从", "bbox": [790, 616, 854, 983], "size": "45", "type": "text", "comment": "top-right column, seventh line"},
+	{"text": "蘇貫切", "bbox": [718, 17, 783, 168], "size": "45", "type": "text", "comment": "top-right column, eighth line"},
+	{"text": "示林聲居蔭切", "bbox": [723, 353, 790, 620], "size": "45", "type": "text", "comment": "top-right column, ninth line"},
+	{"text": "示覃聲徒感", "bbox": [728, 757, 793, 983], "size": "45", "type": "text", "comment": "top-right column, tenth line"},
+	{"text": "切", "bbox": [648, 20, 704, 58], "size": "45", "type": "text", "comment": "top-right column, eleventh line"},
+	{"text": "文六十", "bbox": [600, 292, 700, 487], "size": "115", "type": "heading", "comment": "top-right column, twelfth line"},
+	{"text": "重十三", "bbox": [607, 672, 704, 872], "size": "115", "type": "heading", "comment": "top-right column, thirteenth line"},
+	{"text": "親廟也从示爾聲一本", "bbox": [514, 160, 581, 554], "size": "45", "type": "text", "comment": "top-right column, fourteenth line"},
+	{"text": "遷廟也从示", "bbox": [521, 707, 584, 923], "size": "45", "type": "text", "comment": "top-right column, fifteenth line"},
+	{"text": "云古文禋也泥米切", "bbox": [452, 160, 519, 516], "size": "45", "type": "text", "comment": "top-right column, sixteenth line"},
+	{"text": "兆聲他彫切", "bbox": [454, 707, 519, 923], "size": "45", "type": "text", "comment": "top-right column, seventeenth line"},
+	{"text": "胡神也从示", "bbox": [378, 160, 442, 382], "size": "45", "type": "text", "comment": "top-right column, eighteenth line"},
+	{"text": "福也从示乍聲臣鉉等曰", "bbox": [385, 536, 449, 983], "size": "45", "type": "text", "comment": "top-right column, nineteenth line"},
+	{"text": "天聲火千切", "bbox": [313, 160, 378, 382], "size": "45", "type": "text", "comment": "top-right column, twentieth line"},
+	{"text": "凡祭必受胙胙即福也此", "bbox": [320, 536, 385, 983], "size": "45", "type": "text", "comment": "top-right column, twenty-first line"},
+	{"text": "字後人所", "bbox": [240, 20, 305, 214], "size": "45", "type": "text", "comment": "top-right column, twenty-second line"},
+	{"text": "加俎故切", "bbox": [174, 20, 239, 214], "size": "45", "type": "text", "comment": "top-right column, twenty-third line"},
+	{"text": "文四", "bbox": [193, 393, 290, 520], "size": "115", "type": "heading", "comment": "top-right column, twenty-fourth line"},
+	{"text": "新附", "bbox": [240, 531, 305, 613], "size": "45", "type": "text", "comment": "top-right column, twenty-fifth line"},
+	{"text": "二", "bbox": [41, 22, 160, 126], "size": "115", "type": "heading", "comment": "top-right column, twenty-sixth line"},
+	{"text": "天地人之道也从三數凡三之屬", "bbox": [55, 158, 160, 992], "size": "115", "type": "text", "comment": "top-right column, twenty-seventh line"},
+	{"text": "六+十", "bbox": [2, 17, 30, 81], "size": "20", "type": "text", "comment": "top-right column, twenty-eighth line"},
+	{"text": "周太", "bbox": [14, 920, 41, 985], "size": "20", "type": "text", "comment": "top-right column, twenty-ninth line"}
+]
+```
