@@ -1,0 +1,31 @@
+```json
+[
+	{"bbox_2d": [968, 16, 995, 73], "text_content": "小二百十", "confidence_level": 0.9, "text_type": "page_number", "comment": ""},
+	{"bbox_2d": [899, 148, 962, 879], "text_content": "難也象艸木之初生屯然而難从中貫一一", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [838, 148, 899, 891], "text_content": "地也尾曲易曰屯剛柔始交而難生陟倫切", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [764, 154, 828, 757], "text_content": "艸盛上出也从中母聲臣鉉等案左", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [703, 154, 764, 757], "text_content": "傳原田每每今別作莓非是武罪切", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [767, 907, 828, 975], "text_content": "厚也", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [703, 907, 764, 985], "text_content": "害人", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [631, 21, 693, 479], "text_content": "之艸往往而生从", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [568, 21, 631, 278], "text_content": "中从毒徒沃切", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [499, 21, 561, 278], "text_content": "亦聲撫", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [433, 21, 496, 100], "text_content": "文切", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [502, 516, 561, 843], "text_content": "菌艸地蕈叢生田中", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [433, 516, 496, 807], "text_content": "从中六聲力竹切", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [499, 284, 561, 378], "text_content": "岑或", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [433, 284, 496, 378], "text_content": "从艸", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [631, 466, 693, 587], "text_content": "古文毒", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [568, 466, 631, 587], "text_content": "从刀啚", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [631, 673, 693, 980], "text_content": "艸初生其香分", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [568, 673, 631, 980], "text_content": "布从中从分分", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [360, 21, 419, 137], "text_content": "籀文", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [292, 21, 356, 137], "text_content": "从三", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [360, 391, 419, 660], "text_content": "火煙上出也从从中从黑", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [292, 391, 356, 621], "text_content": "中黑熏象也許云切", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [174, 257, 267, 369], "text_content": "文七", "confidence_level": 0.9, "text_type": "section_header", "comment": ""},
+	{"bbox_2d": [174, 573, 267, 701], "text_content": "重三", "confidence_level": 0.9, "text_type": "section_header", "comment": ""},
+	{"bbox_2d": [39, 165, 135, 986], "text_content": "百艸也从二艸凡艸之屬皆从艸", "confidence_level": 0.9, "text_type": "main_text", "comment": ""},
+	{"bbox_2d": [968, 926, 995, 980], "text_content": "孫佩", "confidence_level": 0.9, "text_type": "main_text", "comment": ""}
+]
+```
