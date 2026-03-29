@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "說文解字弟一", "bbox": [58, 27, 148, 392], "size": "53.83", "type": "heading", "comment": "上"},
+	{"text": "十七", "bbox": [2, 34, 31, 75], "size": "11.82", "type": "heading", "comment": ""},
+	{"text": "壯", "bbox": [831, 27, 947, 153], "size": "112.31", "type": "heading", "comment": ""},
+	{"text": "大也从士", "bbox": [900, 163, 954, 364], "size": "42.06", "type": "description", "comment": ""},
+	{"text": "聲側亮切", "bbox": [832, 166, 890, 347], "size": "42.06", "type": "description", "comment": ""},
+	{"text": "壄", "bbox": [872, 371, 951, 507], "size": "125.45", "type": "heading", "comment": ""},
+	{"text": "舞也从士尊聲詩曰", "bbox": [903, 514, 963, 739], "size": "53.83", "type": "description", "comment": ""},
+	{"text": "壄壄舞我慈損切", "bbox": [843, 511, 900, 806], "size": "48.27", "type": "description", "comment": ""},
+	{"text": "土", "bbox": [835, 379, 884, 458], "size": "71.35", "type": "description", "comment": ""},
+	{"text": "文四", "bbox": [722, 273, 811, 396], "size": "76.53", "type": "description", "comment": ""},
+	{"text": "重一", "bbox": [723, 583, 815, 709], "size": "108.77", "type": "description", "comment": ""},
+	{"text": "丨", "bbox": [616, 26, 628, 151], "size": "121.65", "type": "heading", "comment": ""},
+	{"text": "上下通也引而上行讀若㔾引而", "bbox": [586, 161, 679, 967], "size": "84.69", "type": "description", "comment": ""},
+	{"text": "下行讀若退凡丨之屬皆从丨", "bbox": [455, 164, 548, 909], "size": "82.65", "type": "description", "comment": ""},
+	{"text": "古本", "bbox": [512, 904, 569, 980], "size": "48.27", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [453, 907, 505, 954], "size": "43.75", "type": "description", "comment": ""},
+	{"text": "中", "bbox": [327, 31, 408, 155], "size": "116.47", "type": "heading", "comment": ""},
+	{"text": "和也从口丨上", "bbox": [370, 166, 428, 411], "size": "53.83", "type": "description", "comment": ""},
+	{"text": "下通陟弓切", "bbox": [311, 168, 367, 373], "size": "48.27", "type": "description", "comment": ""},
+	{"text": "古文", "bbox": [376, 548, 434, 634], "size": "53.83", "type": "description", "comment": ""},
+	{"text": "中", "bbox": [321, 551, 362, 600], "size": "53.83", "type": "description", "comment": ""},
+	{"text": "籀文", "bbox": [378, 759, 436, 845], "size": "53.83", "type": "description", "comment": ""},
+	{"text": "中", "bbox": [324, 761, 366, 810], "size": "53.83", "type": "description", "comment": ""},
+	{"text": "文三", "bbox": [194, 453, 282, 580], "size": "76.53", "type": "description", "comment": ""},
+	{"text": "重二", "bbox": [197, 702, 284, 828], "size": "108.77", "type": "description", "comment": ""},
+	{"text": "旌旗杠皃从丨从", "bbox": [238, 29, 295, 319], "size": "53.83", "type": "description", "comment": ""},
+	{"text": "从从亦聲丑善切", "bbox": [177, 31, 234, 327], "size": "48.27", "type": "description", "comment": ""},
+	{"text": "說文", "bbox": [0, 260, 28, 379], "size": "53.83", "type": "heading", "comment": ""},
+	{"text": "萬松", "bbox": [12, 925, 44, 980], "size": "22.31", "type": "heading", "comment": ""}
+]
+```
