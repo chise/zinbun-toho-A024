@@ -1,0 +1,14 @@
+```json
+[
+	{"bbox_2d": [842, 31, 961, 669], "text_content": "艸也南陽以爲麤履 从艸包聲布交切 冰臺也从艸 乂聲五蓋切", "font_size": "32", "font_type": "小篆", "image_comment": "OCR text: 艸也南陽以爲麤履 从艸包聲布交切 冰臺也从艸 乂聲五蓋切", "image_comment_reason": "The provided image and its text match the OCR result, with no discernible discrepancies."},
+	{"bbox_2d": [708, 31, 828, 980], "text_content": "艸也从艸章 聲諸良切 楚葵也从艸 斤聲巨巾切 豕首 也从", "font_size": "32", "font_type": "小篆", "image_comment": "OCR text: 艸也从艸章 聲諸良切 楚葵也从艸 斤聲巨巾切 豕首 也从", "image_comment_reason": "The provided image and its text match the OCR result, with no discernible discrepancies."},
+	{"bbox_2d": [574, 31, 694, 895], "text_content": "艸甑聲 側鄰切 寄生也从艸鳥聲詩 曰蔦與女蘿都了切 蔦或 从木", "font_size": "32", "font_type": "小篆", "image_comment": "OCR text: 艸甑聲 側鄰切 寄生也从艸鳥聲詩 曰蔦與女蘿都了切 蔦或 从木", "image_comment_reason": "The provided image and its text match the OCR result, with no discernible discrepancies."},
+	{"bbox_2d": [440, 31, 560, 980], "text_content": "艸也似目宿从艸云聲淮南子 說芸艸可以死復生王分切 艸也从 艸數聲", "font_size": "32", "font_type": "小篆", "image_comment": "OCR text: 艸也似目宿从艸云聲淮南子 說芸艸可以死復生王分切 艸也从 艸數聲", "image_comment_reason": "The provided image and its text match the OCR result, with no discernible discrepancies."},
+	{"bbox_2d": [306, 31, 426, 980], "text_content": "麤最 切 艸也从艸律 聲吕戍切 莉也从艸束 聲楚革切", "font_size": "32", "font_type": "小篆", "image_comment": "OCR text: 麤最 切 艸也从艸律 聲吕戍切 莉也从艸束 聲楚革切", "image_comment_reason": "The provided image and its text match the OCR result, with no discernible discrepancies."},
+	{"bbox_2d": [173, 31, 293, 980], "text_content": "苦婁果蓏也从 艸昏聲古活切 須從也从艸 封聲府容切 蒺藜也从 艸齊聲詩", "font_size": "32", "font_type": "小篆", "image_comment": "OCR text: 苦婁果蓏也从 艸昏聲古活切 須從也从艸 封聲府容切 蒺藜也从 艸齊聲詩", "image_comment_reason": "The provided image and its text match the OCR result, with no discernible discrepancies."},
+	{"bbox_2d": [39, 31, 159, 980], "text_content": "曰牆有薺疾咨 切又徂禮切 萊也从艸刺 聲七賜切 鼎董也从 艸童聲杜", "font_size": "32", "font_type": "小篆", "image_comment": "OCR text: 曰牆有薺疾咨 切又徂禮切 萊也从艸刺 聲七賜切 鼎董也从 艸童聲杜", "image_comment_reason": "The provided image and its text match the OCR result, with no discernible discrepancies."},
+	{"bbox_2d": [21, 28, 40, 107], "text_content": "大 三 二", "font_size": "12", "font_type": "小篆", "image_comment": "OCR text: 大 三 二", "image_comment_reason": "The provided image and its text match the OCR result, with no discernible discrepancies."},
+	{"bbox_2d": [1, 283, 21, 385], "text_content": "說文一下", "font_size": "14", "font_type": "小篆", "image_comment": "OCR text: 說文一下", "image_comment_reason": "The provided image and its text match the OCR result, with no discernible discrepancies."},
+	{"bbox_2d": [20, 907, 40, 960], "text_content": "史 攸", "font_size": "12", "font_type": "小篆", "image_comment": "OCR text: 史 攸", "image_comment_reason": "The provided image and its text match the OCR result, with no discernible discrepancies."}
+]
+```
