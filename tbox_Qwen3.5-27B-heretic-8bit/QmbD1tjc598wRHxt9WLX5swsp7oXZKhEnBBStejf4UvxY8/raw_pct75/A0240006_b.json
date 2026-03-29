@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "段先生扵跋此後一月即成汲古閣說文訂刊行", "bbox": [863, 21, 933, 961], "size": "3.5cm", "type": "main_text", "comment": "右側第一列"},
+	{"text": "今用此本覆勘訂中所稱初印本及刻改如詵部", "bbox": [727, 20, 798, 974], "size": "3.5cm", "type": "main_text", "comment": "右側第二列"},
+	{"text": "譱下一條𤼵部湯谷一條水部洿下一條一 部房密切一", "bbox": [590, 23, 667, 971], "size": "3.5cm", "type": "main_text", "comment": "右側第三列"},
+	{"text": "條甲部古文一條皆不合又如雚部舊字下羊部羢", "bbox": [459, 23, 539, 973], "size": "3.5cm", "type": "main_text", "comment": "右側第四列"},
+	{"text": "字下肉部肌字下初印本皆未誤訂亦不明言之兼可", "bbox": [327, 21, 404, 974], "size": "3.5cm", "type": "main_text", "comment": "右側第五列"},
+	{"text": "訂而未經載入者又往往而有然則後之讀此本者無", "bbox": [194, 22, 271, 974], "size": "3.5cm", "type": "main_text", "comment": "右側第六列"},
+	{"text": "竟以為淂魚之荃可也嘉慶庚申五月借閱扵漪", "bbox": [67, 22, 144, 975], "size": "3.5cm", "type": "main_text", "comment": "右側第七列"},
+	{"text": "陳順", "bbox": [0, 915, 39, 984], "size": "1.2cm", "type": "signature", "comment": "左下角署名"},
+	{"text": "題跋", "bbox": [0, 376, 35, 467], "size": "1.2cm", "type": "section_title", "comment": "左側中段標題"}
+]
+```
