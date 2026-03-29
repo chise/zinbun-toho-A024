@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小二百", "bbox": [949, 24, 976, 72], "size": "small", "type": "number", "comment": "小二百"},
+	{"text": "木莫卜切", "bbox": [847, 182, 944, 262], "size": "medium", "type": "description", "comment": "木莫卜切"},
+	{"text": "東得紅切", "bbox": [825, 415, 948, 500], "size": "medium", "type": "description", "comment": "東得紅切"},
+	{"text": "林力尋切", "bbox": [825, 648, 950, 732], "size": "medium", "type": "description", "comment": "林力尋切"},
+	{"text": "才昨哉切", "bbox": [831, 893, 944, 975], "size": "medium", "type": "description", "comment": "才昨哉切"},
+	{"text": "及而灼切", "bbox": [699, 182, 811, 260], "size": "medium", "type": "description", "comment": "及而灼切"},
+	{"text": "之止而切", "bbox": [695, 417, 815, 499], "size": "medium", "type": "description", "comment": "之止而切"},
+	{"text": "市子荅切", "bbox": [695, 648, 811, 731], "size": "medium", "type": "description", "comment": "市子荅切"},
+	{"text": "出尺律切", "bbox": [695, 892, 815, 976], "size": "medium", "type": "description", "comment": "出尺律切"},
+	{"text": "木普活切", "bbox": [559, 182, 681, 262], "size": "medium", "type": "description", "comment": "木普活切"},
+	{"text": "生所庚切", "bbox": [562, 417, 681, 500], "size": "medium", "type": "description", "comment": "生所庚切"},
+	{"text": "毛陟格切", "bbox": [561, 651, 682, 733], "size": "medium", "type": "description", "comment": "毛陟格切"},
+	{"text": "垂是爲切", "bbox": [561, 892, 682, 976], "size": "medium", "type": "description", "comment": "垂是爲切"},
+	{"text": "華況于切", "bbox": [422, 182, 546, 261], "size": "medium", "type": "description", "comment": "華況于切"},
+	{"text": "華戸瓜切", "bbox": [420, 417, 547, 500], "size": "medium", "type": "description", "comment": "華戸瓜切"},
+	{"text": "禾古兮切", "bbox": [422, 650, 547, 732], "size": "medium", "type": "description", "comment": "禾古兮切"},
+	{"text": "稽古兮切", "bbox": [422, 893, 547, 976], "size": "medium", "type": "description", "comment": "稽古兮切"},
+	{"text": "巢鉏交切", "bbox": [284, 182, 416, 260], "size": "medium", "type": "description", "comment": "巢鉏交切"},
+	{"text": "黍親吉切", "bbox": [284, 417, 416, 500], "size": "medium", "type": "description", "comment": "黍親吉切"},
+	{"text": "東書玉切", "bbox": [287, 650, 417, 732], "size": "medium", "type": "description", "comment": "東書玉切"},
+	{"text": "橐胡本切", "bbox": [287, 892, 417, 976], "size": "medium", "type": "description", "comment": "橐胡本切"},
+	{"text": "口羽非切", "bbox": [150, 182, 280, 260], "size": "medium", "type": "description", "comment": "口羽非切"},
+	{"text": "員王權切", "bbox": [150, 417, 280, 500], "size": "medium", "type": "description", "comment": "員王權切"},
+	{"text": "貝博蓋切", "bbox": [150, 650, 280, 732], "size": "medium", "type": "description", "comment": "貝博蓋切"},
+	{"text": "邑於汲切", "bbox": [150, 892, 280, 976], "size": "medium", "type": "description", "comment": "邑於汲切"},
+	{"text": "黽胡綘切", "bbox": [35, 182, 150, 260], "size": "medium", "type": "description", "comment": "黽胡綘切"},
+	{"text": "王", "bbox": [959, 697, 990, 725], "size": "medium", "type": "description", "comment": "王"},
+	{"text": "祁三", "bbox": [959, 914, 988, 961], "size": "small", "type": "number", "comment": "祁三"}
+]
+```
