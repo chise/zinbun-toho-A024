@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "犍", "bbox": [854, 17, 983, 152], "size": "63.75", "type": "heading", "comment": "篆書"},
+	{"text": "犍牛也从牛建聲", "bbox": [925, 167, 986, 490], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "亦郡名居言切", "bbox": [863, 169, 919, 438], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "犈", "bbox": [859, 504, 983, 637], "size": "63.75", "type": "heading", "comment": "篆書"},
+	{"text": "無角牛也从牛童聲", "bbox": [925, 652, 986, 992], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "古通用僮徒紅切", "bbox": [863, 652, 919, 921], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "文二", "bbox": [747, 261, 833, 373], "size": "63.75", "type": "heading", "comment": ""},
+	{"text": "新附", "bbox": [795, 397, 848, 474], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "犆", "bbox": [593, 16, 703, 152], "size": "63.75", "type": "heading", "comment": "篆書"},
+	{"text": "西南夷長髦牛也从牛犆聲凡犆", "bbox": [609, 167, 697, 997], "size": "52.5", "type": "description", "comment": ""},
+	{"text": "之屬皆从犆", "bbox": [469, 235, 556, 510], "size": "52.5", "type": "description", "comment": ""},
+	{"text": "莫交", "bbox": [515, 525, 568, 605], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [455, 525, 507, 565], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "犦", "bbox": [320, 16, 430, 152], "size": "63.75", "type": "heading", "comment": "篆書"},
+	{"text": "犦牛尾也从犆", "bbox": [379, 167, 435, 438], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "省从毛里之切", "bbox": [317, 169, 373, 438], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "犆", "bbox": [326, 428, 424, 575], "size": "63.75", "type": "heading", "comment": "篆書"},
+	{"text": "彊曲毛可以箸起衣", "bbox": [379, 580, 435, 895], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "从犆省來聲洛哀切", "bbox": [317, 580, 373, 921], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "文三", "bbox": [192, 428, 287, 558], "size": "63.75", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [192, 678, 287, 790], "size": "63.75", "type": "heading", "comment": ""},
+	{"text": "㸃", "bbox": [180, 16, 289, 152], "size": "63.75", "type": "heading", "comment": "篆書"},
+	{"text": "古文", "bbox": [239, 167, 292, 247], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "㸃省", "bbox": [179, 169, 234, 247], "size": "22.5", "type": "description", "comment": ""},
+	{"text": "告", "bbox": [53, 16, 152, 152], "size": "63.75", "type": "heading", "comment": "篆書"},
+	{"text": "牛觸人角箸橫木所以告人也从", "bbox": [53, 167, 152, 990], "size": "52.5", "type": "description", "comment": ""},
+	{"text": "大十四", "bbox": [0, 18, 31, 92], "size": "8.5", "type": "description", "comment": ""},
+	{"text": "沈三", "bbox": [0, 927, 36, 982], "size": "8.5", "type": "description", "comment": ""}
+]
+```
