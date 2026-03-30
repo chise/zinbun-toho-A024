@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "說文解字弟二", "bbox": [854, 16, 959, 388], "size": "大", "type": "title", "comment": "下"},
+	{"text": "漢太尉祭酒許慎記", "bbox": [857, 482, 953, 944], "size": "大", "type": "author", "comment": ""},
+	{"text": "銀青光禄大夫右散騎常侍上柱國東海縣開國子食邑", "bbox": [737, 60, 807, 653], "size": "中", "type": "author", "comment": ""},
+	{"text": "二百戶徐纂奉", "bbox": [738, 653, 808, 988], "size": "中", "type": "author", "comment": ""},
+	{"text": "敕校定", "bbox": [604, 50, 672, 154], "size": "中", "type": "other", "comment": ""},
+	{"text": "正", "bbox": [462, 34, 561, 137], "size": "大", "type": "character", "comment": ""},
+	{"text": "是也从止一以止凡正之屬皆从", "bbox": [460, 158, 555, 978], "size": "大", "type": "description", "comment": ""},
+	{"text": "正", "bbox": [332, 159, 421, 213], "size": "中", "type": "character", "comment": ""},
+	{"text": "徐鍇曰守一以", "bbox": [378, 234, 432, 478], "size": "小", "type": "description", "comment": ""},
+	{"text": "止也之盛切", "bbox": [320, 234, 366, 425], "size": "小", "type": "description", "comment": ""},
+	{"text": "正", "bbox": [206, 24, 297, 141], "size": "大", "type": "character", "comment": ""},
+	{"text": "古文正从二", "bbox": [246, 156, 300, 355], "size": "小", "type": "description", "comment": ""},
+	{"text": "二古上字", "bbox": [186, 156, 239, 317], "size": "小", "type": "description", "comment": ""},
+	{"text": "正", "bbox": [192, 373, 286, 490], "size": "大", "type": "character", "comment": ""},
+	{"text": "古文正从一足", "bbox": [244, 503, 299, 744], "size": "小", "type": "description", "comment": ""},
+	{"text": "足者亦止也", "bbox": [185, 503, 238, 704], "size": "小", "type": "description", "comment": ""},
+	{"text": "正", "bbox": [189, 763, 297, 878], "size": "大", "type": "character", "comment": ""},
+	{"text": "春秋", "bbox": [249, 896, 302, 975], "size": "小", "type": "description", "comment": ""},
+	{"text": "傳曰", "bbox": [186, 896, 237, 975], "size": "小", "type": "description", "comment": ""},
+	{"text": "反正爲乏", "bbox": [113, 23, 166, 197], "size": "小", "type": "description", "comment": ""},
+	{"text": "房法切", "bbox": [52, 22, 105, 151], "size": "小", "type": "description", "comment": ""},
+	{"text": "文二", "bbox": [62, 349, 152, 472], "size": "大", "type": "count", "comment": ""},
+	{"text": "重二", "bbox": [62, 659, 152, 782], "size": "大", "type": "count", "comment": ""},
+	{"text": "說文解字弟二下", "bbox": [11, 250, 31, 375], "size": "小", "type": "title", "comment": ""},
+	{"text": "沈三", "bbox": [12, 905, 42, 975], "size": "小", "type": "other", "comment": ""},
+	{"text": "大十", "bbox": [12, 22, 41, 71], "size": "小", "type": "other", "comment": ""}
+]
+```
