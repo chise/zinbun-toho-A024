@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "半體肉也一曰廣肉从", "bbox": [920, 27, 977, 540], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "半从肉半亦聲普半切", "bbox": [857, 27, 911, 540], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "半也从牛反", "bbox": [920, 549, 977, 893], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "聲薄牛切", "bbox": [857, 549, 911, 893], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "文三", "bbox": [735, 361, 827, 495], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "大牲也牛件也件事理也象角頭", "bbox": [599, 31, 694, 971], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "三封尾之形凡牛之屬皆从牛", "bbox": [462, 178, 564, 903], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "徐鍇", "bbox": [515, 907, 571, 989], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "曰件", "bbox": [452, 907, 508, 989], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "若言物一件二件也", "bbox": [378, 181, 439, 529], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "封高起也語求切", "bbox": [317, 181, 376, 477], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "特牛也从牛", "bbox": [252, 534, 307, 746], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "朴特", "bbox": [252, 898, 307, 979], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "畜父也从牛", "bbox": [252, 181, 307, 393], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "土聲莫厚切", "bbox": [188, 181, 243, 393], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "岡聲古郎切", "bbox": [188, 534, 243, 746], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "牛父", "bbox": [188, 898, 243, 979], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "也从牛寺", "bbox": [115, 31, 172, 221], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "畜母也从牛匕聲易", "bbox": [115, 373, 172, 713], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "牛子", "bbox": [115, 898, 172, 979], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "聲徒得切", "bbox": [52, 31, 109, 221], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "曰畜牝牛吉毗忍切", "bbox": [52, 373, 109, 713], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "也从", "bbox": [52, 898, 109, 979], "size": "40.0", "type": "heading", "comment": ""},
+	{"text": "大卄四", "bbox": [8, 27, 32, 92], "size": "15.0", "type": "heading", "comment": ""},
+	{"text": "萬松", "bbox": [17, 925, 38, 982], "size": "15.0", "type": "heading", "comment": ""}
+]
+```
