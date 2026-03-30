@@ -1,0 +1,28 @@
+```json
+[
+	{"bbox_2d": [933, 262, 971, 391], "text": "訛文二", "size": "18", "type": "heading", "comment": "text is vertical"},
+	{"bbox_2d": [929, 25, 957, 127], "text": "小", "size": "15", "type": "page number", "comment": "text is vertical"},
+	{"bbox_2d": [930, 917, 961, 979], "text": "嚴華", "size": "18", "type": "page number", "comment": "text is vertical"},
+	{"bbox_2d": [808, 190, 906, 546], "text": "之屬皆從小切", "size": "32", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [865, 519, 923, 601], "text": "私兆", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [736, 169, 793, 383], "text": "不多也从小", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [679, 184, 737, 383], "text": "聲書沼切", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [736, 533, 793, 779], "text": "少也从小\\聲", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [678, 533, 736, 790], "text": "讀若輟子結切", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [566, 298, 645, 421], "text": "文三", "size": "40", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [430, 162, 517, 970], "text": "別也象分別相背之形凡八之屬", "size": "38", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [306, 158, 392, 333], "text": "皆从八", "size": "38", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [348, 340, 406, 421], "text": "博拔", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [293, 340, 348, 378], "text": "切", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [223, 158, 280, 491], "text": "別也从八从刀刀以", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [165, 158, 223, 456], "text": "分別物也甫文切", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [221, 639, 279, 946], "text": "詞之必然也从入\\", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [164, 654, 221, 979], "text": "八八象气之分散兒", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [100, 219, 157, 507], "text": "詞之舒也从八从", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [100, 654, 157, 900], "text": "曾也庶幾也从", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [36, 219, 94, 533], "text": "曰四聲昨稜切", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [36, 654, 94, 900], "text": "八向聲時亮切", "size": "22", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [102, 31, 158, 65], "text": "氏", "size": "15", "type": "main text", "comment": "text is vertical"},
+	{"bbox_2d": [39, 31, 94, 65], "text": "切", "size": "15", "type": "main text", "comment": "text is vertical"}
+]
+```
