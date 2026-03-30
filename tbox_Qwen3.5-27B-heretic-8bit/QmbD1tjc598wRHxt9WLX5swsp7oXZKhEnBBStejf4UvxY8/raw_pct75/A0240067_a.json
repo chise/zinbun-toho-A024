@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "小百八", "bbox": [956, 19, 993, 79], "size": "34.38", "type": "text", "comment": ""},
+	{"text": "止也從止从匕匕相比次也凡此", "bbox": [834, 150, 947, 958], "size": "74.71", "type": "text", "comment": ""},
+	{"text": "之屬皆從此", "bbox": [705, 150, 810, 469], "size": "59.38", "type": "text", "comment": ""},
+	{"text": "雌氏", "bbox": [758, 471, 822, 560], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [705, 496, 748, 518], "size": "22.56", "type": "text", "comment": ""},
+	{"text": "言也關", "bbox": [626, 150, 680, 287], "size": "32.19", "type": "text", "comment": ""},
+	{"text": "將此切", "bbox": [561, 150, 616, 287], "size": "32.19", "type": "text", "comment": ""},
+	{"text": "識也從此來聲一", "bbox": [626, 434, 690, 711], "size": "32.19", "type": "text", "comment": ""},
+	{"text": "曰藏也遵誄切", "bbox": [561, 434, 626, 711], "size": "32.19", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [443, 234, 532, 364], "size": "66.25", "type": "text", "comment": ""},
+	{"text": "語辭也見楚辭从此从", "bbox": [354, 150, 410, 547], "size": "32.19", "type": "text", "comment": ""},
+	{"text": "一其義未詳蘇箇切", "bbox": [291, 150, 346, 517], "size": "32.19", "type": "text", "comment": ""},
+	{"text": "文一", "bbox": [177, 241, 265, 371], "size": "66.25", "type": "text", "comment": ""},
+	{"text": "新附", "bbox": [211, 367, 265, 458], "size": "34.38", "type": "text", "comment": ""},
+	{"text": "說文解字第二", "bbox": [31, 23, 129, 379], "size": "64.06", "type": "text", "comment": ""},
+	{"text": "上", "bbox": [83, 404, 131, 435], "size": "26.56", "type": "text", "comment": ""},
+	{"text": "李 明", "bbox": [968, 902, 996, 973], "size": "22.56", "type": "text", "comment": ""}
+]
+```
