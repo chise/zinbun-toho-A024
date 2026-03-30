@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "小百零七", "bbox": [964, 31, 989, 112], "size": "small", "type": "header", "comment": "Page number"},
+	{"text": "日", "bbox": [837, 21, 944, 144], "size": "large", "type": "character", "comment": "Large character"},
+	{"text": "直也从日正凡是之屬皆从是", "bbox": [837, 178, 944, 960], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "承音", "bbox": [765, 202, 816, 280], "size": "small", "type": "text", "comment": "Small text"},
+	{"text": "切", "bbox": [697, 202, 754, 243], "size": "small", "type": "text", "comment": "Small text"},
+	{"text": "是", "bbox": [555, 21, 662, 144], "size": "large", "type": "character", "comment": "Large character"},
+	{"text": "籀文是从", "bbox": [624, 178, 682, 327], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "古文正", "bbox": [555, 178, 614, 285], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "是也从是韋聲春秋傳", "bbox": [624, 486, 682, 878], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "曰犯五不韙于鬼切", "bbox": [555, 486, 614, 830], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "韙", "bbox": [555, 342, 682, 457], "size": "large", "type": "character", "comment": "Large character"},
+	{"text": "韙", "bbox": [425, 21, 555, 163], "size": "large", "type": "character", "comment": "Large character"},
+	{"text": "籀文韙", "bbox": [488, 178, 546, 290], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "从心", "bbox": [425, 178, 484, 243], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "是少也毚俱存也从是", "bbox": [488, 457, 546, 830], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "少賈侍中說酥典切", "bbox": [425, 457, 484, 795], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "毚", "bbox": [425, 314, 555, 440], "size": "large", "type": "character", "comment": "Large character"},
+	{"text": "文三", "bbox": [309, 265, 400, 390], "size": "medium", "type": "text", "comment": "Small text"},
+	{"text": "重二", "bbox": [309, 515, 400, 641], "size": "medium", "type": "text", "comment": "Small text"},
+	{"text": "辵", "bbox": [162, 21, 270, 144], "size": "large", "type": "character", "comment": "Large character"},
+	{"text": "乍行乍止也从彳从止凡辵之屬", "bbox": [162, 178, 270, 975], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "皆从辵讀若春秋公羊傳曰辵階而", "bbox": [39, 178, 146, 975], "size": "medium", "type": "text", "comment": "Main text column"},
+	{"text": "李", "bbox": [967, 901, 989, 924], "size": "small", "type": "text", "comment": "Small text"},
+	{"text": "明", "bbox": [967, 940, 989, 962], "size": "small", "type": "text", "comment": "Small text"}
+]
+```
