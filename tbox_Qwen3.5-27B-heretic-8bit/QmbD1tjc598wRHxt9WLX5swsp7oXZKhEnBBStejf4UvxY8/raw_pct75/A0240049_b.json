@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "籀文蓐", "bbox": [929, 174, 979, 294], "size": "big", "type": "heading", "comment": ""},
+	{"text": "从艸", "bbox": [863, 184, 910, 251], "size": "medium", "type": "description", "comment": ""},
+	{"text": "蓐", "bbox": [783, 13, 835, 57], "size": "big", "type": "heading", "comment": ""},
+	{"text": "蓐或从休詩", "bbox": [783, 207, 840, 391], "size": "medium", "type": "description", "comment": ""},
+	{"text": "省", "bbox": [727, 23, 765, 57], "size": "medium", "type": "description", "comment": ""},
+	{"text": "曰旣茠荼蓼", "bbox": [727, 209, 778, 391], "size": "medium", "type": "description", "comment": ""},
+	{"text": "苴衆艸也从四艸凡艸之屬皆从艸", "bbox": [604, 141, 700, 985], "size": "big", "type": "description", "comment": ""},
+	{"text": "讀與𠕋同", "bbox": [467, 147, 552, 393], "size": "big", "type": "description", "comment": ""},
+	{"text": "模朗", "bbox": [519, 412, 570, 491], "size": "small", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [459, 412, 505, 445], "size": "small", "type": "description", "comment": ""},
+	{"text": "日且冥也从日在艸", "bbox": [385, 163, 437, 509], "size": "medium", "type": "description", "comment": ""},
+	{"text": "中莫故切又慕各切", "bbox": [320, 163, 369, 507], "size": "medium", "type": "description", "comment": ""},
+	{"text": "南昌謂犬善逐菟", "bbox": [381, 670, 433, 985], "size": "medium", "type": "description", "comment": ""},
+	{"text": "艸中爲莽从犬从", "bbox": [320, 670, 369, 985], "size": "medium", "type": "description", "comment": ""},
+	{"text": "艸亦聲", "bbox": [238, 23, 287, 192], "size": "big", "type": "heading", "comment": ""},
+	{"text": "藏也从死在艸中一其中所以薦之", "bbox": [245, 351, 299, 981], "size": "medium", "type": "description", "comment": ""},
+	{"text": "謀朗切", "bbox": [176, 21, 225, 153], "size": "big", "type": "heading", "comment": ""},
+	{"text": "易曰古之葬者厚衣之以薪則浪切", "bbox": [182, 351, 233, 985], "size": "medium", "type": "description", "comment": ""},
+	{"text": "文四", "bbox": [62, 274, 144, 399], "size": "big", "type": "description", "comment": ""},
+	{"text": "大八", "bbox": [8, 17, 32, 71], "size": "small", "type": "description", "comment": ""},
+	{"text": "陳廣", "bbox": [7, 915, 34, 985], "size": "small", "type": "description", "comment": ""},
+	{"text": "拔去田艸也从蓐", "bbox": [929, 467, 979, 785], "size": "medium", "type": "description", "comment": ""},
+	{"text": "好省聲呼毛切", "bbox": [863, 467, 910, 724], "size": "medium", "type": "description", "comment": ""},
+	{"text": "籀", "bbox": [932, 943, 980, 987], "size": "medium", "type": "description", "comment": ""},
+	{"text": "文", "bbox": [862, 941, 913, 983], "size": "medium", "type": "description", "comment": ""},
+	{"text": "文二", "bbox": [745, 527, 833, 655], "size": "big", "type": "description", "comment": ""},
+	{"text": "重三", "bbox": [745, 785, 833, 915], "size": "big", "type": "description", "comment": ""}
+]
+```
