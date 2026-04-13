@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "文二", "bbox": [859, 224, 949, 336], "size": "33", "type": "heading", "comment": "vertical"},
+	{"text": "重一", "bbox": [859, 526, 945, 637], "size": "33", "type": "heading", "comment": "vertical"},
+	{"text": "進也象艸木益滋上出達也凡出", "bbox": [731, 164, 821, 967], "size": "33", "type": "body", "comment": "vertical"},
+	{"text": "之屬皆从出", "bbox": [593, 165, 689, 482], "size": "33", "type": "body", "comment": "vertical"},
+	{"text": "尺律", "bbox": [641, 491, 696, 562], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "切", "bbox": [591, 491, 641, 520], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "游也从出从", "bbox": [518, 172, 569, 363], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "放五牢切", "bbox": [457, 172, 508, 328], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "出物貨也从出", "bbox": [518, 513, 569, 703], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "从買莫邂切", "bbox": [457, 513, 508, 667], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "出榖", "bbox": [518, 898, 569, 970], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "也从", "bbox": [457, 898, 508, 970], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "出从糶糶亦", "bbox": [382, 30, 441, 249], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "聲他弔切", "bbox": [321, 30, 382, 206], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "榝鼬不安也从出臬聲易曰榝鼬", "bbox": [382, 393, 441, 954], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "徐鍇曰物不安則出不在也五結切", "bbox": [321, 401, 382, 976], "size": "21", "type": "comment", "comment": "vertical"},
+	{"text": "文五", "bbox": [208, 277, 295, 389], "size": "33", "type": "heading", "comment": "vertical"},
+	{"text": "艸木盛米米然象形八聲凡米之", "bbox": [73, 172, 163, 976], "size": "33", "type": "body", "comment": "vertical"},
+	{"text": "大十三", "bbox": [20, 30, 43, 91], "size": "9", "type": "comment", "comment": "vertical"},
+	{"text": "說文大下", "bbox": [7, 258, 43, 381], "size": "9", "type": "comment", "comment": "vertical"},
+	{"text": "二", "bbox": [10, 692, 30, 732], "size": "15", "type": "comment", "comment": "vertical"},
+	{"text": "仲奇", "bbox": [24, 924, 46, 976], "size": "9", "type": "comment", "comment": "vertical"}
+]
+```

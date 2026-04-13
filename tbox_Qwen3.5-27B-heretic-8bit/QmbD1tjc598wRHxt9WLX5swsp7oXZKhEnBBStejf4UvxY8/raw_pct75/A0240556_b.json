@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "宸謨塵瀆", "bbox": [861, 14, 956, 283], "size": "50", "type": "text", "comment": ""},
+	{"text": "冕旒冰炭交集其書十五卷以編秩繁", "bbox": [735, 17, 834, 983], "size": "50", "type": "text", "comment": ""},
+	{"text": "重每卷各分上下共三十卷謹詣", "bbox": [603, 14, 699, 849], "size": "50", "type": "text", "comment": ""},
+	{"text": "東上閤門進", "bbox": [471, 14, 566, 350], "size": "50", "type": "text", "comment": ""},
+	{"text": "上謹進", "bbox": [335, 14, 428, 202], "size": "50", "type": "text", "comment": ""},
+	{"text": "雍熙三年十一月", "bbox": [213, 98, 273, 385], "size": "30", "type": "text", "comment": ""},
+	{"text": "日翰林書學臣王惟恭臣葛湍等狀進", "bbox": [221, 389, 282, 988], "size": "30", "type": "text", "comment": ""},
+	{"text": "奉直郎守祕書省著作郎直史館臣向中正", "bbox": [82, 235, 146, 992], "size": "30", "type": "text", "comment": ""},
+	{"text": "萬松", "bbox": [23, 926, 45, 982], "size": "13", "type": "text", "comment": ""},
+	{"text": "13", "bbox": [6, 682, 28, 723], "size": "13", "type": "text", "comment": ""},
+	{"text": "說文三帙", "bbox": [2, 307, 25, 412], "size": "13", "type": "text", "comment": ""}
+]
+```

@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "玉石之白也从", "bbox": [924, 35, 982, 288], "size": "27.63", "type": "line", "comment": ""},
+	{"text": "皚", "bbox": [863, 298, 979, 438], "size": "106.69", "type": "line", "comment": ""},
+	{"text": "際見之白也从白", "bbox": [925, 479, 982, 764], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "皜皜", "bbox": [863, 770, 979, 910], "size": "106.71", "type": "line", "comment": ""},
+	{"text": "顯也", "bbox": [925, 925, 982, 994], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "从三", "bbox": [862, 924, 918, 994], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "上下小見起戰切", "bbox": [862, 479, 918, 764], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "白敷聲古了切", "bbox": [862, 22, 918, 288], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "白讀若皎", "bbox": [782, 22, 839, 205], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "烏皎切", "bbox": [719, 22, 775, 152], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "文十一", "bbox": [741, 328, 829, 493], "size": "65.99", "type": "line", "comment": ""},
+	{"text": "重二", "bbox": [741, 660, 829, 793], "size": "65.99", "type": "line", "comment": ""},
+	{"text": "𢦏", "bbox": [589, 12, 705, 152], "size": "106.69", "type": "line", "comment": ""},
+	{"text": "敗衣也从巾象衣敗之形凡𢦏之", "bbox": [590, 158, 706, 994], "size": "65.99", "type": "line", "comment": ""},
+	{"text": "屬皆从𢦏", "bbox": [465, 158, 560, 411], "size": "66.01", "type": "line", "comment": ""},
+	{"text": "毗祭", "bbox": [517, 426, 573, 507], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "切", "bbox": [454, 426, 510, 461], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "𢦣", "bbox": [311, 12, 427, 152], "size": "106.69", "type": "line", "comment": ""},
+	{"text": "帔也一曰敗衣从攴", "bbox": [374, 158, 430, 507], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "从尚尚亦聲毗祭切", "bbox": [311, 158, 367, 507], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "文二", "bbox": [327, 637, 414, 751], "size": "65.99", "type": "line", "comment": ""},
+	{"text": "𣂑", "bbox": [176, 12, 292, 152], "size": "106.69", "type": "line", "comment": ""},
+	{"text": "箴縷所紩衣从尚𦰩省凡𣂑之屬", "bbox": [176, 158, 292, 994], "size": "65.99", "type": "line", "comment": ""},
+	{"text": "皆从𣂑", "bbox": [42, 139, 139, 354], "size": "65.99", "type": "line", "comment": ""},
+	{"text": "臣鉉等曰𦰩衆多也言箴", "bbox": [105, 373, 161, 826], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "縷之工不一也陟九切", "bbox": [42, 373, 98, 764], "size": "27.71", "type": "line", "comment": ""},
+	{"text": "大十", "bbox": [0, 22, 22, 62], "size": "12.39", "type": "line", "comment": ""},
+	{"text": "陳廣", "bbox": [0, 939, 29, 994], "size": "12.39", "type": "line", "comment": ""}
+]
+```

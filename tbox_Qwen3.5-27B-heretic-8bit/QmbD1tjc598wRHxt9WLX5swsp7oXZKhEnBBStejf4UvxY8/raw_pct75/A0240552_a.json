@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "成一家之書說文之時未有翻切後人", "bbox": [778, 32, 903, 888], "size": "50", "type": "text", "comment": ""},
+	{"text": "附益互有異同孫愐唐韻行之已久今", "bbox": [674, 38, 778, 895], "size": "48", "type": "text", "comment": ""},
+	{"text": "竝以孫愐音切爲定庶夫學者有所適", "bbox": [532, 36, 645, 886], "size": "48", "type": "text", "comment": ""},
+	{"text": "從食時而成旣異淮南之敏縣金於市", "bbox": [423, 36, 525, 891], "size": "48", "type": "text", "comment": ""},
+	{"text": "曾非呂氏之精塵瀆", "bbox": [300, 33, 394, 532], "size": "47", "type": "text", "comment": ""},
+	{"text": "聖明若臨冰谷謹上", "bbox": [177, 33, 273, 519], "size": "46", "type": "text", "comment": ""},
+	{"text": "新修字義", "bbox": [59, 32, 154, 296], "size": "46", "type": "text", "comment": ""},
+	{"text": "少一百九十一", "bbox": [921, 33, 944, 121], "size": "13", "type": "text", "comment": ""},
+	{"text": "言文一三", "bbox": [922, 263, 957, 397], "size": "23", "type": "text", "comment": ""},
+	{"text": "祁三", "bbox": [908, 914, 927, 947], "size": "10", "type": "text", "comment": ""},
+	{"text": "祁", "bbox": [297, 916, 318, 940], "size": "8", "type": "text", "comment": ""}
+]
+```

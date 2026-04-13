@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "文四", "bbox": [872, 282, 973, 408], "size": "27.34783363342285", "type": "heading", "comment": ""},
+	{"text": "重二", "bbox": [872, 534, 973, 660], "size": "27.34783363342285", "type": "heading", "comment": ""},
+	{"text": "就也八月黍成可爲酎酒象古", "bbox": [734, 164, 839, 990], "size": "27.34783363342285", "type": "description", "comment": ""},
+	{"text": "文酉之形凡酉之屬皆从酉", "bbox": [599, 160, 703, 889], "size": "27.34783363342285", "type": "description", "comment": ""},
+	{"text": "與久", "bbox": [651, 894, 716, 944], "size": "16.56999969482422", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [594, 899, 646, 950], "size": "16.56999969482422", "type": "description", "comment": ""},
+	{"text": "古文酉从𠃍𠃍爲春門萬物已出", "bbox": [515, 157, 579, 755], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "酉爲秋門萬物已入一閉門象也", "bbox": [456, 157, 519, 755], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "就也所以就人性之善惡从水从酉酉亦聲一曰", "bbox": [378, 157, 442, 990], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "造也吉凶所造也古者儀狄作酒醪禹嘗之而美", "bbox": [317, 157, 380, 990], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "遂疏儀狄杜康", "bbox": [250, 16, 306, 287], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "籩生衣也从酉", "bbox": [250, 428, 306, 690], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "孰籩也从", "bbox": [250, 820, 306, 990], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "作秫酒子酉切", "bbox": [181, 16, 238, 287], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "冢聲莫紅切", "bbox": [181, 428, 238, 690], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "酉甚聲余", "bbox": [181, 820, 238, 990], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "歲", "bbox": [112, 16, 168, 63], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "醖也作酒曰釀从", "bbox": [112, 185, 168, 495], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "釀也从酉畕", "bbox": [112, 632, 168, 846], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [43, 16, 99, 63], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "酉襄聲女亮切", "bbox": [43, 185, 99, 456], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "聲於問切", "bbox": [43, 632, 99, 811], "size": "17.18670082092285", "type": "description", "comment": ""},
+	{"text": "大二十三", "bbox": [6, 16, 27, 123], "size": "5.159999847412109", "type": "description", "comment": ""},
+	{"text": "說文", "bbox": [0, 257, 30, 341], "size": "16.56999969482422", "type": "description", "comment": ""},
+	{"text": "下", "bbox": [0, 362, 19, 403], "size": "16.56999969482422", "type": "description", "comment": ""},
+	{"text": "共", "bbox": [0, 709, 27, 750], "size": "16.56999969482422", "type": "description", "comment": ""},
+	{"text": "張杏", "bbox": [13, 932, 35, 989], "size": "5.159999847412109", "type": "description", "comment": ""}
+]
+```

@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "或省", "bbox": [895, 163, 944, 241], "size": "37", "type": "heading", "comment": "simplified"},
+	{"text": "高墳也从勺", "bbox": [893, 396, 950, 605], "size": "37", "type": "description", "comment": "high tomb, composed of '勺'"},
+	{"text": "彳", "bbox": [832, 167, 872, 210], "size": "29", "type": "heading", "comment": "radical '彳'"},
+	{"text": "彖聲知隴切", "bbox": [829, 402, 886, 608], "size": "34", "type": "description", "comment": "pronunciation based on '彖', rhymes with '隴'"},
+	{"text": "文十五", "bbox": [707, 263, 795, 437], "size": "53", "type": "heading", "comment": "text fifteen"},
+	{"text": "重三", "bbox": [704, 569, 792, 703], "size": "64", "type": "heading", "comment": "triple three"},
+	{"text": "象人裹妊巳在中象子未成形也", "bbox": [560, 164, 663, 966], "size": "55", "type": "description", "comment": "depicts a person wrapped in pregnancy, with '巳' inside, representing an unborn child not yet formed"},
+	{"text": "元气起於子子人所生也男左行", "bbox": [426, 166, 521, 977], "size": "54", "type": "description", "comment": "primordial energy originates from '子', the child, the source of life; men move to the left"},
+	{"text": "三十女右行二十俱立於巳爲夫", "bbox": [288, 168, 388, 977], "size": "54", "type": "description", "comment": "thirty women move to the right, twenty stand at '巳' as husband"},
+	{"text": "婦裹妊於巳巳爲子十月而生男", "bbox": [152, 167, 251, 979], "size": "53", "type": "description", "comment": "woman wrapped in pregnancy at '巳', '巳' represents the child, born after ten months"},
+	{"text": "起巳至寅女起巳至申故男夲始", "bbox": [18, 167, 117, 977], "size": "53", "type": "description", "comment": "starting from '巳' to '寅' for women, from '巳' to '申' for men, thus men are the beginning"}
+]
+```

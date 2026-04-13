@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "古行", "bbox": [900, 177, 955, 261], "size": "36", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [836, 179, 891, 215], "size": "36", "type": "heading", "comment": ""},
+	{"text": "文一", "bbox": [846, 468, 945, 591], "size": "90", "type": "heading", "comment": ""},
+	{"text": "辛秋時萬物成而孰金剛味辛辛痛", "bbox": [713, 177, 820, 976], "size": "50", "type": "body", "comment": ""},
+	{"text": "即泣出从一从辛辛辠也辛承庚", "bbox": [586, 174, 690, 976], "size": "50", "type": "body", "comment": ""},
+	{"text": "象人股凡辛之屬皆从辛", "bbox": [455, 169, 558, 807], "size": "50", "type": "body", "comment": ""},
+	{"text": "息隣", "bbox": [504, 810, 555, 898], "size": "25", "type": "body", "comment": ""},
+	{"text": "切", "bbox": [442, 813, 495, 850], "size": "25", "type": "body", "comment": ""},
+	{"text": "辛", "bbox": [314, 28, 431, 164], "size": "70", "type": "body", "comment": ""},
+	{"text": "犯法也从辛从自言辠人蹙鼻苦辛之憂秦以", "bbox": [367, 169, 431, 944], "size": "36", "type": "body", "comment": ""},
+	{"text": "辠似皇字改爲罪臣鉉等曰自古者以爲鼻字", "bbox": [309, 169, 372, 967], "size": "36", "type": "body", "comment": ""},
+	{"text": "故从自", "bbox": [241, 30, 296, 164], "size": "36", "type": "body", "comment": ""},
+	{"text": "徂賄切", "bbox": [184, 30, 239, 164], "size": "36", "type": "body", "comment": ""},
+	{"text": "辠", "bbox": [193, 169, 307, 305], "size": "70", "type": "body", "comment": ""},
+	{"text": "辠也从辛古", "bbox": [246, 309, 296, 500], "size": "36", "type": "body", "comment": ""},
+	{"text": "聲古乎切", "bbox": [184, 311, 239, 500], "size": "36", "type": "body", "comment": ""},
+	{"text": "古文辠", "bbox": [246, 505, 296, 795], "size": "36", "type": "body", "comment": ""},
+	{"text": "辠", "bbox": [239, 802, 296, 898], "size": "36", "type": "body", "comment": ""},
+	{"text": "从死", "bbox": [184, 505, 239, 730], "size": "36", "type": "body", "comment": ""},
+	{"text": "也", "bbox": [184, 902, 239, 980], "size": "36", "type": "body", "comment": ""},
+	{"text": "从辛訾聲", "bbox": [113, 30, 168, 209], "size": "36", "type": "body", "comment": ""},
+	{"text": "不受也从辛从受受", "bbox": [113, 311, 168, 730], "size": "36", "type": "body", "comment": ""},
+	{"text": "籀文辤", "bbox": [113, 831, 168, 971], "size": "36", "type": "body", "comment": ""},
+	{"text": "私剡切", "bbox": [51, 30, 106, 164], "size": "36", "type": "body", "comment": ""},
+	{"text": "辛宜辤之似兹切", "bbox": [51, 350, 106, 647], "size": "36", "type": "body", "comment": ""},
+	{"text": "从台", "bbox": [51, 831, 106, 916], "size": "36", "type": "body", "comment": ""},
+	{"text": "大十二", "bbox": [19, 27, 43, 110], "size": "12", "type": "body", "comment": ""},
+	{"text": "焦克", "bbox": [16, 911, 38, 973], "size": "12", "type": "body", "comment": ""}
+]
+```

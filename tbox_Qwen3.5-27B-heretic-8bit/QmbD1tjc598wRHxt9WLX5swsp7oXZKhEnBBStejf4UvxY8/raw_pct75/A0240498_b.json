@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "屬皆从卪", "bbox": [870, 150, 963, 411], "size": "大", "type": "body", "comment": ""},
+	{"text": "徐鍇曰卪但象物平", "bbox": [917, 436, 975, 762], "size": "小", "type": "comment", "comment": ""},
+	{"text": "無音義也古賢切", "bbox": [857, 436, 917, 723], "size": "小", "type": "comment", "comment": ""},
+	{"text": "𠬪挹取也象形中有實與包同意凡勺", "bbox": [728, 150, 828, 870], "size": "大", "type": "body", "comment": ""},
+	{"text": "之屬皆从勺", "bbox": [595, 155, 697, 465], "size": "大", "type": "body", "comment": ""},
+	{"text": "之若", "bbox": [643, 484, 702, 565], "size": "小", "type": "comment", "comment": ""},
+	{"text": "切", "bbox": [584, 484, 637, 524], "size": "小", "type": "comment", "comment": ""},
+	{"text": "𠬞賜予也一勺爲与", "bbox": [515, 160, 570, 448], "size": "小", "type": "comment", "comment": ""},
+	{"text": "此与與同余吕切", "bbox": [455, 160, 513, 448], "size": "小", "type": "comment", "comment": ""},
+	{"text": "文二", "bbox": [472, 590, 563, 705], "size": "大", "type": "body", "comment": ""},
+	{"text": "凢踞几也象形周禮五几玉几雕几", "bbox": [327, 155, 428, 870], "size": "大", "type": "body", "comment": ""},
+	{"text": "彤几髟几素几凡几之屬皆从几", "bbox": [186, 155, 287, 870], "size": "大", "type": "body", "comment": ""},
+	{"text": "居覆", "bbox": [107, 162, 158, 248], "size": "小", "type": "comment", "comment": ""},
+	{"text": "切", "bbox": [42, 162, 97, 200], "size": "小", "type": "comment", "comment": ""},
+	{"text": "大十", "bbox": [5, 25, 30, 58], "size": "小", "type": "header", "comment": ""},
+	{"text": "沈錫", "bbox": [12, 928, 35, 983], "size": "小", "type": "header", "comment": ""}
+]
+```

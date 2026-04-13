@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "小萬", "bbox": [950, 28, 984, 74], "size": "24.97", "type": "text", "comment": "Partially cut off"},
+	{"text": "二十七", "bbox": [954, 76, 981, 140], "size": "11.88", "type": "text", "comment": ""},
+	{"text": "說文", "bbox": [960, 277, 997, 362], "size": "41.37", "type": "text", "comment": "Partially cut off"},
+	{"text": "三", "bbox": [962, 688, 999, 727], "size": "38.86", "type": "text", "comment": "Partially cut off"},
+	{"text": "景", "bbox": [951, 896, 983, 927], "size": "26.39", "type": "text", "comment": ""},
+	{"text": "高", "bbox": [951, 928, 983, 958], "size": "26.19", "type": "text", "comment": ""},
+	{"text": "塘周丈識是以歸之時在土洗馬巷黃氏之思適寓", "bbox": [849, 27, 915, 960], "size": "35.19", "type": "text", "comment": ""},
+	{"text": "齋元和顧廣圻", "bbox": [724, 27, 784, 340], "size": "40.0", "type": "text", "comment": ""},
+	{"text": "顧", "bbox": [753, 351, 774, 367], "size": "10.29", "type": "text", "comment": "Partially cut off"},
+	{"text": "廣圻", "bbox": [727, 352, 754, 398], "size": "14.11", "type": "text", "comment": ""},
+	{"text": "圻", "bbox": [758, 430, 778, 459], "size": "14.59", "type": "text", "comment": ""},
+	{"text": "里", "bbox": [729, 430, 751, 458], "size": "13.96", "type": "text", "comment": ""}
+]
+```

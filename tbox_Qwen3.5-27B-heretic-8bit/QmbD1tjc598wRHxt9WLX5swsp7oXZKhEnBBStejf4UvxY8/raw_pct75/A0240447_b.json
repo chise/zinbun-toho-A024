@@ -1,0 +1,30 @@
+```json
+[
+	{"bbox_2d": [843, 176, 935, 313], "text_content": "文二", "size": "26", "type": "large", "comment": "heading"},
+	{"bbox_2d": [851, 427, 936, 549], "text_content": "重一", "size": "26", "type": "large", "comment": "heading"},
+	{"bbox_2d": [710, 25, 812, 923], "text_content": "止也一曰止也從止从一徐鍇曰", "size": "20", "type": "large", "comment": "definition"},
+	{"bbox_2d": [710, 177, 812, 923], "text_content": "逃也从入从止凡止之屬皆从止", "size": "20", "type": "large", "comment": "definition"},
+	{"bbox_2d": [492, 707, 558, 796], "text_content": "外望其", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [556, 707, 642, 796], "text_content": "出止在", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [492, 845, 558, 928], "text_content": "元屈", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [556, 845, 642, 928], "text_content": "在其", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [492, 797, 558, 845], "text_content": "奇字无通於", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [492, 697, 558, 797], "text_content": "者王育說天屈", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [441, 27, 561, 676], "text_content": "止也一曰止也從止从一徐鍇曰", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [441, 157, 561, 676], "text_content": "出止得一則止暫止也鉏駕切", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [379, 27, 436, 676], "text_content": "還也从止朢", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [379, 27, 436, 575], "text_content": "省聲巫放切", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [379, 575, 436, 676], "text_content": "聲武扶切", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [255, 27, 305, 103], "text_content": "西北", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [191, 27, 243, 103], "text_content": "爲无", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [255, 248, 305, 488], "text_content": "气也遫安說止", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [191, 248, 243, 488], "text_content": "人爲勾古代切", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [627, 204, 684, 280], "text_content": "武方", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [576, 204, 627, 241], "text_content": "切", "size": "14", "type": "small", "comment": "definition"},
+	{"bbox_2d": [209, 575, 292, 676], "text_content": "文五", "size": "26", "type": "large", "comment": "heading"},
+	{"bbox_2d": [217, 812, 292, 928], "text_content": "重一", "size": "26", "type": "large", "comment": "heading"},
+	{"bbox_2d": [73, 146, 170, 923], "text_content": "裹徯有所俠藏也从止上有一覆", "size": "20", "type": "large", "comment": "definition"},
+	{"bbox_2d": [24, 897, 55, 938], "text_content": "袁和", "size": "6", "type": "small", "comment": "definition"},
+	{"bbox_2d": [24, 34, 46, 93], "text_content": "大寸", "size": "6", "type": "small", "comment": "definition"}
+]
+```

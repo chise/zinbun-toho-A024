@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "曰今俗别作墟非是", "bbox": [922, 27, 985, 369], "size": "56.49", "type": "text", "comment": ""},
+	{"text": "丘如切又朽居切", "bbox": [857, 25, 917, 339], "size": "52.57", "type": "text", "comment": ""},
+	{"text": "反頂受水巫从巫", "bbox": [929, 541, 986, 833], "size": "52.57", "type": "text", "comment": ""},
+	{"text": "泥省聲奴低切", "bbox": [862, 540, 920, 800], "size": "52.57", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [735, 281, 829, 406], "size": "86.56", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [735, 532, 829, 654], "size": "111.82", "type": "text", "comment": ""},
+	{"text": "衆立也从三人凡作之屬皆从作", "bbox": [597, 154, 696, 984], "size": "52.57", "type": "text", "comment": ""},
+	{"text": "讀若欽崟", "bbox": [462, 147, 553, 403], "size": "73.93", "type": "text", "comment": ""},
+	{"text": "魚音", "bbox": [518, 415, 563, 502], "size": "38.7", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [458, 420, 495, 454], "size": "38.7", "type": "text", "comment": ""},
+	{"text": "多也从作目", "bbox": [379, 168, 439, 410], "size": "43.68", "type": "text", "comment": ""},
+	{"text": "衆意之仲切", "bbox": [318, 165, 374, 410], "size": "43.68", "type": "text", "comment": ""},
+	{"text": "會也从作取聲邑", "bbox": [381, 533, 439, 831], "size": "43.68", "type": "text", "comment": ""},
+	{"text": "落云聚才句切", "bbox": [317, 533, 374, 793], "size": "43.68", "type": "text", "comment": ""},
+	{"text": "衆詞與也从作自聲虞", "bbox": [248, 24, 302, 443], "size": "43.68", "type": "text", "comment": ""},
+	{"text": "書曰臬咎繇其冀切", "bbox": [181, 21, 238, 381], "size": "43.68", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [241, 593, 283, 673], "size": "43.68", "type": "text", "comment": ""},
+	{"text": "臬", "bbox": [181, 604, 221, 639], "size": "43.68", "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [51, 277, 149, 406], "size": "86.56", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [51, 534, 146, 654], "size": "111.82", "type": "text", "comment": ""},
+	{"text": "大十三", "bbox": [3, 11, 30, 69], "size": "13.53", "type": "text", "comment": ""},
+	{"text": "嚴振", "bbox": [10, 935, 37, 993], "size": "15.3", "type": "text", "comment": ""},
+	{"text": "說文解字", "bbox": [0, 276, 28, 385], "size": "31.5", "type": "text", "comment": ""}
+]
+```

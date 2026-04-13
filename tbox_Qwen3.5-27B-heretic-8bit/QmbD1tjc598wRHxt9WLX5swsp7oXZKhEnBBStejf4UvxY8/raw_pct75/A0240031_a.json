@@ -1,0 +1,23 @@
+```json
+[
+	{"bbox_2d": [909, 173, 957, 203], "text": "切", "size": "2.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [774, 181, 832, 383], "text": "祥气也从气", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [707, 181, 763, 385], "text": "分聲符分切", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [776, 537, 834, 613], "text": "氛或", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [712, 544, 766, 607], "text": "从雨", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [588, 314, 680, 399], "text": "文二", "size": "3.6cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [587, 605, 685, 720], "text": "重一", "size": "3.6cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [453, 158, 549, 959], "text": "事也數始於一終於十从一从十", "size": "2.8cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [315, 172, 414, 984], "text": "孔子曰推十合一爲士凡士之屬", "size": "2.8cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [182, 159, 275, 344], "text": "皆从士", "size": "2.8cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [230, 363, 284, 448], "text": "鉏里", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [173, 365, 226, 406], "text": "切", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [99, 173, 158, 760], "text": "夫也从士胥聲詩曰女也不爽士貳", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [33, 174, 91, 495], "text": "其行士者夫也", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [41, 501, 93, 725], "text": "讀與細同", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [42, 731, 94, 772], "text": "蘇", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [42, 778, 94, 821], "text": "計切", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [108, 903, 162, 982], "text": "壻或", "size": "1.3cm", "type": "main_text", "comment": ""},
+	{"bbox_2d": [43, 906, 95, 978], "text": "从女", "size": "1.3cm", "type": "main_text", "comment": ""}
+]
+```

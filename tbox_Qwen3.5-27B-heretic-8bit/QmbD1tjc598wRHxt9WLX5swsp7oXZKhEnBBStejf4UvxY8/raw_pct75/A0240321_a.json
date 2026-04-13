@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "小司一", "bbox": [961, 36, 997, 80], "size": "32", "type": "vertical"},
+	{"text": "章也六卿天官冢宰地官司徒春官宗伯夏官", "bbox": [899, 179, 959, 934], "size": "61", "type": "vertical"},
+	{"text": "司馬秋官司冦冬官司空从卯皀聲去京切", "bbox": [832, 179, 892, 925], "size": "61", "type": "vertical"},
+	{"text": "文二", "bbox": [713, 259, 808, 373], "size": "120", "type": "vertical"},
+	{"text": "法也从𠬪从辛節制其辠也从口", "bbox": [579, 165, 677, 952], "size": "91", "type": "vertical"},
+	{"text": "用法者也凡辟之屬皆从辟", "bbox": [442, 165, 540, 849], "size": "91", "type": "vertical"},
+	{"text": "必益", "bbox": [492, 864, 547, 932], "size": "50", "type": "vertical"},
+	{"text": "切", "bbox": [442, 864, 492, 901], "size": "50", "type": "vertical"},
+	{"text": "治也从辟从井周書", "bbox": [369, 165, 418, 498], "size": "51", "type": "vertical"},
+	{"text": "曰我之不辟必益切", "bbox": [303, 165, 355, 512], "size": "51", "type": "vertical"},
+	{"text": "治也从辟又聲虞書", "bbox": [369, 644, 418, 977], "size": "51", "type": "vertical"},
+	{"text": "曰有能俾燮魚廢切", "bbox": [303, 644, 355, 977], "size": "51", "type": "vertical"},
+	{"text": "文三", "bbox": [184, 254, 268, 373], "size": "120", "type": "vertical"},
+	{"text": "裹也象人曲形有所包裹凡勺之", "bbox": [52, 165, 142, 977], "size": "91", "type": "vertical"},
+	{"text": "洪章", "bbox": [964, 917, 992, 974], "size": "32", "type": "vertical"}
+]
+```

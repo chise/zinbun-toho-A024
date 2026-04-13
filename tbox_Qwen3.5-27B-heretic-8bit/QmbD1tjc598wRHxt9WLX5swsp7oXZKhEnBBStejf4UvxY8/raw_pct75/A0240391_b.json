@@ -1,0 +1,19 @@
+```json
+[
+	{"bbox_2d": [914, 18, 974, 469], "text_content": "洊直𣴑也从水空聲", "image_id": "Picture 1", "bbox_2d": [857, 16, 914, 469], "text_content": "哭工切又苦江切"},
+	{"bbox_2d": [914, 482, 974, 975], "text_content": "汲激水聲也从水勺聲", "image_id": "Picture 1", "bbox_2d": [857, 482, 914, 975], "text_content": "井一有水一無水謂"},
+	{"bbox_2d": [786, 18, 842, 469], "text_content": "之瀾汋井一有水一無水謂之", "image_id": "Picture 1", "bbox_2d": [726, 18, 783, 469], "text_content": "市若切瀾汋从水罳聲居例切"},
+	{"bbox_2d": [786, 482, 842, 975], "text_content": "漶混𣴑聲", "image_id": "Picture 1", "bbox_2d": [726, 482, 783, 975], "text_content": "也从水"},
+	{"bbox_2d": [658, 18, 715, 469], "text_content": "軍聲一曰洿水清也从水㔾聲易", "image_id": "Picture 1", "bbox_2d": [599, 18, 656, 469], "text_content": "下皃戶昆切曰井洩寒泉食艮辭切"},
+	{"bbox_2d": [658, 482, 715, 975], "text_content": "清湛", "image_id": "Picture 1", "bbox_2d": [599, 482, 656, 975], "text_content": "也从"},
+	{"bbox_2d": [529, 18, 587, 469], "text_content": "水叔聲水盛也从水容聲", "image_id": "Picture 1", "bbox_2d": [471, 18, 527, 469], "text_content": "殊六切余隴切又音容"},
+	{"bbox_2d": [529, 482, 587, 975], "text_content": "清也从水徵", "image_id": "Picture 1", "bbox_2d": [471, 482, 527, 975], "text_content": "省聲臣鉉等"},
+	{"bbox_2d": [401, 18, 458, 469], "text_content": "曰今俗作澄臆也澄水之皃从", "image_id": "Picture 1", "bbox_2d": [342, 18, 399, 469], "text_content": "非是直𨹧切水青聲七情切"},
+	{"bbox_2d": [401, 482, 458, 975], "text_content": "水清底見", "image_id": "Picture 1", "bbox_2d": [342, 482, 399, 975], "text_content": "也从水是"},
+	{"bbox_2d": [273, 18, 330, 469], "text_content": "聲詩曰湜湜水流浼浼皃从", "image_id": "Picture 1", "bbox_2d": [214, 18, 271, 469], "text_content": "其止常職切水閔聲眉殞切"},
+	{"bbox_2d": [273, 482, 330, 975], "text_content": "下漉也从", "image_id": "Picture 1", "bbox_2d": [214, 482, 271, 975], "text_content": "水參聲所"},
+	{"bbox_2d": [144, 18, 201, 469], "text_content": "禁不流濁也从水", "image_id": "Picture 1", "bbox_2d": [85, 18, 142, 469], "text_content": "切圍聲羽非切"},
+	{"bbox_2d": [144, 482, 201, 975], "text_content": "亂也一曰水濁皃", "image_id": "Picture 1", "bbox_2d": [85, 482, 142, 975], "text_content": "从水園聲胡困切"},
+	{"bbox_2d": [9, 18, 34, 376], "text_content": "大廿一說文十三", "image_id": "Picture 1", "bbox_2d": [9, 482, 34, 975], "text_content": "丁山"}
+]
+```

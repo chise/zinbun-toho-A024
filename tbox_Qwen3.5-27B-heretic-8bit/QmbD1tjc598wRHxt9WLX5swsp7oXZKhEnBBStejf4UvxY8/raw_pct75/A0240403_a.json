@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "頁从渉凡𩔦之屬皆从𩔦", "bbox": [837, 175, 941, 806], "size": "47", "type": "main", "comment": "Main text, first column"},
+	{"text": "別作水濵非", "bbox": [753, 231, 811, 400], "size": "25", "type": "note", "comment": "Note text, first column"},
+	{"text": "是符真切", "bbox": [693, 231, 743, 345], "size": "25", "type": "note", "comment": "Note text, first column"},
+	{"text": "涉水𤴋蹙从頻", "bbox": [617, 161, 669, 422], "size": "25", "type": "note", "comment": "Note text, first column"},
+	{"text": "卑聲符真切", "bbox": [559, 161, 611, 380], "size": "25", "type": "note", "comment": "Note text, first column"},
+	{"text": "文二", "bbox": [576, 688, 666, 785], "size": "47", "type": "note", "comment": "Note text, first column"},
+	{"text": "水小流也周禮匠人爲溝洫相廣", "bbox": [426, 156, 526, 975], "size": "47", "type": "main", "comment": "Main text, second column"},
+	{"text": "五寸二相爲耦一耦之伐廣尺深", "bbox": [290, 158, 391, 975], "size": "47", "type": "main", "comment": "Main text, third column"},
+	{"text": "尺謂之＜倍＞謂之遂倍遂曰溝", "bbox": [155, 165, 254, 979], "size": "47", "type": "main", "comment": "Main text, fourth column"},
+	{"text": "倍溝曰洫倍洫曰＜从＞凡＜倍＞之屬皆", "bbox": [17, 156, 117, 979], "size": "47", "type": "main", "comment": "Main text, fifth column"},
+	{"text": "臣鉉等", "bbox": [899, 845, 951, 982], "size": "25", "type": "note", "comment": "Note text, first column"},
+	{"text": "曰今俗", "bbox": [832, 845, 883, 982], "size": "25", "type": "note", "comment": "Note text, first column"},
+	{"text": "小二百", "bbox": [956, 25, 980, 87], "size": "15", "type": "note", "comment": "Note text, first column"},
+	{"text": "𩔦", "bbox": [549, 13, 671, 156], "size": "47", "type": "small-seal", "comment": "Small seal character, first column"},
+	{"text": "（", "bbox": [455, 13, 523, 156], "size": "47", "type": "small-seal", "comment": "Small seal character, second column"}
+]
+```

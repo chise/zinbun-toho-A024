@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "言", "bbox": [910, 261, 937, 297], "size": "30.17", "type": "text", "comment": ""},
+	{"text": "八", "bbox": [905, 707, 932, 742], "size": "30.5", "type": "text", "comment": ""},
+	{"text": "明", "bbox": [806, 869, 834, 893], "size": "21.63", "type": "text", "comment": ""},
+	{"text": "玉", "bbox": [848, 885, 876, 908], "size": "21.63", "type": "text", "comment": ""},
+	{"text": "明", "bbox": [207, 410, 235, 434], "size": "21.63", "type": "text", "comment": ""},
+	{"text": "十", "bbox": [174, 357, 202, 381], "size": "21.63", "type": "text", "comment": ""},
+	{"text": "卷", "bbox": [174, 304, 202, 328], "size": "21.63", "type": "text", "comment": ""},
+	{"text": "解", "bbox": [174, 251, 202, 275], "size": "21.63", "type": "text", "comment": ""},
+	{"text": "詳", "bbox": [174, 198, 202, 222], "size": "21.63", "type": "text", "comment": ""},
+	{"text": "漢", "bbox": [174, 145, 202, 169], "size": "21.63", "type": "text", "comment": ""},
+	{"text": "文", "bbox": [174, 92, 202, 116], "size": "21.63", "type": "text", "comment": ""},
+	{"text": "選", "bbox": [174, 39, 202, 63], "size": "21.63", "type": "text", "comment": ""}
+]
+```

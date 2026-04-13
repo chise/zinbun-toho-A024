@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "舉欣", "bbox": [900, 236, 964, 322], "size": "24.68", "type": "heading", "comment": "The heading is in the top right corner, oriented vertically."},
+	{"text": "切", "bbox": [851, 242, 885, 275], "size": "16.72", "type": "content", "comment": "A single character below the heading, also vertical."},
+	{"text": "斫也从斤父聲方矩切", "bbox": [720, 163, 831, 364], "size": "17.75", "type": "content", "comment": "The main definition block for the first character, read vertically."},
+	{"text": "方銓斧也从斤刂聲詩曰又缺我浙七羊切", "bbox": [726, 402, 838, 829], "size": "17.5", "type": "content", "comment": "The definition for the second character, read vertically."},
+	{"text": "斫也从斤句聲其俱切", "bbox": [590, 163, 702, 364], "size": "17.75", "type": "content", "comment": "The definition for the third character, read vertically."},
+	{"text": "斫也从斤屬聲職玉切", "bbox": [596, 402, 708, 908], "size": "17.5", "type": "content", "comment": "The definition for the fourth character, read vertically."},
+	{"text": "斫也从斤臯臣鉉等曰臯器也斤以斲之竹角切", "bbox": [459, 163, 571, 546], "size": "17.5", "type": "content", "comment": "The definition for the fifth character, read vertically."},
+	{"text": "斲或从畫从𠂇", "bbox": [465, 584, 577, 786], "size": "17.5", "type": "content", "comment": "The definition for the sixth character, read vertically."},
+	{"text": "剫斷也从斤金宜引切", "bbox": [328, 24, 440, 225], "size": "17.75", "type": "content", "comment": "The definition for the seventh character, read vertically."},
+	{"text": "伐木聲也从斤戸聲詩曰伐木所所䟽舉切", "bbox": [333, 364, 445, 721], "size": "17.5", "type": "content", "comment": "The definition for the eighth character, read vertically."},
+	{"text": "析也从斤", "bbox": [338, 760, 450, 961], "size": "17.5", "type": "content", "comment": "The definition for the ninth character, read vertically."},
+	{"text": "其聲詩曰斧以斯之息移切", "bbox": [198, 24, 310, 225], "size": "17.75", "type": "content", "comment": "The definition for the tenth character, read vertically."},
+	{"text": "斬也从斤昔聲側略切", "bbox": [203, 364, 315, 565], "size": "17.5", "type": "content", "comment": "The definition for the eleventh character, read vertically."},
+	{"text": "截也从斤从繾繾古文絕", "bbox": [208, 603, 320, 961], "size": "17.5", "type": "content", "comment": "The definition for the twelfth character, read vertically."},
+	{"text": "徒玩", "bbox": [117, 28, 175, 108], "size": "20.44", "type": "content", "comment": "A small heading or label on the left side, read vertically."},
+	{"text": "古文斷从皁皁古文屯字周書曰昭昭猗無他技", "bbox": [65, 266, 178, 654], "size": "17.75", "type": "content", "comment": "The definition for the thirteenth character, read vertically."},
+	{"text": "亦古文", "bbox": [70, 692, 182, 923], "size": "17.5", "type": "content", "comment": "The definition for the fourteenth character, read vertically."},
+	{"text": "大二十四", "bbox": [20, 28, 42, 108], "size": "7.89", "type": "footer", "comment": "The page number located in the top left corner."},
+	{"text": "沈錫", "bbox": [26, 919, 52, 977], "size": "13.61", "type": "footer", "comment": "The printer's seal or name located in the bottom left corner."}
+]
+```

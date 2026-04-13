@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "之象一曰人頭宐爲甲甲象人頭", "bbox": [857, 166, 952, 976], "size": "45", "type": "text", "comment": ""},
+	{"text": "凡甲之屬皆从甲", "bbox": [726, 170, 818, 597], "size": "45", "type": "text", "comment": ""},
+	{"text": "古狎", "bbox": [768, 599, 828, 693], "size": "25", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [716, 603, 763, 656], "size": "25", "type": "text", "comment": ""},
+	{"text": "古文甲始於十見", "bbox": [640, 170, 703, 465], "size": "25", "type": "text", "comment": ""},
+	{"text": "於千成於木之象", "bbox": [578, 170, 640, 465], "size": "25", "type": "text", "comment": ""},
+	{"text": "文一", "bbox": [604, 563, 685, 670], "size": "45", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [604, 796, 685, 905], "size": "45", "type": "text", "comment": ""},
+	{"text": "象春艸木冤曲而出陰气尚彊其", "bbox": [464, 170, 557, 980], "size": "45", "type": "text", "comment": ""},
+	{"text": "出乙乙也與ㄧ同意乙承甲象人", "bbox": [323, 176, 422, 985], "size": "45", "type": "text", "comment": ""},
+	{"text": "頸凡乙之屬皆从乙", "bbox": [189, 184, 281, 670], "size": "45", "type": "text", "comment": ""},
+	{"text": "於筆", "bbox": [240, 675, 302, 770], "size": "25", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [180, 680, 232, 735], "size": "25", "type": "text", "comment": ""},
+	{"text": "上出也从乙乙物之達也人", "bbox": [108, 167, 170, 670], "size": "25", "type": "text", "comment": ""},
+	{"text": "籒文", "bbox": [112, 728, 166, 822], "size": "25", "type": "text", "comment": ""},
+	{"text": "治", "bbox": [118, 944, 168, 991], "size": "25", "type": "text", "comment": ""},
+	{"text": "也", "bbox": [57, 944, 108, 991], "size": "25", "type": "text", "comment": ""},
+	{"text": "乾聲渠焉切又古寒切", "bbox": [46, 162, 108, 646], "size": "25", "type": "text", "comment": ""},
+	{"text": "乾", "bbox": [52, 726, 103, 770], "size": "25", "type": "text", "comment": ""},
+	{"text": "萬松", "bbox": [15, 927, 42, 991], "size": "15", "type": "text", "comment": ""},
+	{"text": "大八", "bbox": [5, 34, 27, 79], "size": "15", "type": "text", "comment": ""}
+]
+```

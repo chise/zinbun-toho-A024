@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "強也從二弓凡弓之屬皆從弓其兩切", "bbox": [865, 23, 969, 981], "size": "104.0", "type": "heading", "comment": ""},
+	{"text": "𢏁輔也重也從弓丙聲徐鍇曰丙舌也非聲舌柔而弱剛以柔從剛輔弼之意房密切", "bbox": [591, 27, 709, 964], "size": "118.0", "type": "heading", "comment": ""},
+	{"text": "弼或如此", "bbox": [465, 24, 577, 101], "size": "52.0", "type": "description", "comment": ""},
+	{"text": "並古文弼", "bbox": [465, 106, 577, 442], "size": "52.0", "type": "description", "comment": ""},
+	{"text": "文二", "bbox": [465, 451, 562, 591], "size": "97.0", "type": "description", "comment": ""},
+	{"text": "重三", "bbox": [465, 601, 562, 886], "size": "97.0", "type": "description", "comment": ""},
+	{"text": "弓弦也從弓象絲軫之形凡弦之屬皆從弦", "bbox": [337, 23, 441, 970], "size": "104.0", "type": "heading", "comment": ""},
+	{"text": "臣鉉等曰今別作絃非是胡田切", "bbox": [192, 466, 308, 721], "size": "52.0", "type": "description", "comment": ""},
+	{"text": "兩其", "bbox": [192, 936, 308, 996], "size": "52.0", "type": "description", "comment": ""},
+	{"text": "𢏈弼戾也從弦省从盥讀若戾臣鉉等曰盥者繫辠人見血也弼戾之意郎計切", "bbox": [60, 23, 181, 812], "size": "121.0", "type": "heading", "comment": ""},
+	{"text": "大十五", "bbox": [26, 29, 51, 101], "size": "25.0", "type": "page", "comment": ""},
+	{"text": "弓文十二下", "bbox": [0, 258, 29, 411], "size": "29.0", "type": "page", "comment": ""},
+	{"text": "二下", "bbox": [0, 688, 29, 751], "size": "63.0", "type": "page", "comment": ""},
+	{"text": "陳王", "bbox": [26, 897, 51, 956], "size": "29.0", "type": "page", "comment": ""}
+]
+```

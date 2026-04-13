@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "兄", "bbox": [843, 27, 945, 152], "size": "202.68", "type": "heading", "comment": "Large, bold heading character."},
+	{"text": "長也从儿从口凡兄之屬皆从兄", "bbox": [843, 155, 945, 975], "size": "66.22", "type": "body", "comment": "Main definition text for '兄'."},
+	{"text": "許榮", "bbox": [773, 173, 817, 254], "size": "40.84", "type": "body", "comment": "Small annotation text."},
+	{"text": "切", "bbox": [709, 180, 753, 215], "size": "44.01", "type": "body", "comment": "Small annotation text."},
+	{"text": "競也从二兄二兄競意从丰聲", "bbox": [633, 162, 692, 665], "size": "46.03", "type": "body", "comment": "Definition text for '競'."},
+	{"text": "讀若衿一曰競敬也居陵切", "bbox": [569, 162, 628, 623], "size": "43.86", "type": "body", "comment": "Definition text for '競'."},
+	{"text": "文二", "bbox": [589, 777, 677, 877], "size": "100.0", "type": "body", "comment": "Section summary text."},
+	{"text": "先", "bbox": [452, 23, 550, 155], "size": "130.55", "type": "heading", "comment": "Large, bold heading character."},
+	{"text": "首竽也从人匕象簪形凡先之屬", "bbox": [452, 159, 550, 975], "size": "66.22", "type": "body", "comment": "Main definition text for '先'."},
+	{"text": "皆从先", "bbox": [326, 156, 417, 333], "size": "90.0", "type": "body", "comment": "Summary text for the section."},
+	{"text": "側琴", "bbox": [365, 361, 417, 453], "size": "46.03", "type": "body", "comment": "Small annotation text."},
+	{"text": "切", "bbox": [310, 364, 352, 399], "size": "37.68", "type": "body", "comment": "Small annotation text."},
+	{"text": "先", "bbox": [180, 299, 289, 444], "size": "145.0", "type": "heading", "comment": "Large, bold heading character."},
+	{"text": "俗先从", "bbox": [240, 173, 289, 294], "size": "40.84", "type": "body", "comment": "Small annotation text."},
+	{"text": "竹从簪", "bbox": [177, 181, 226, 301], "size": "40.84", "type": "body", "comment": "Small annotation text."},
+	{"text": "簪簪鋭意也从", "bbox": [240, 447, 289, 691], "size": "40.84", "type": "body", "comment": "Small annotation text."},
+	{"text": "二先子林切", "bbox": [177, 444, 226, 657], "size": "40.84", "type": "body", "comment": "Small annotation text."},
+	{"text": "文二", "bbox": [58, 264, 150, 439], "size": "175.0", "type": "body", "comment": "Section summary text."},
+	{"text": "重一", "bbox": [63, 508, 145, 680], "size": "172.0", "type": "body", "comment": "Section summary text."},
+	{"text": "六十二", "bbox": [5, 41, 32, 113], "size": "14.5", "type": "body", "comment": "Small page number text."},
+	{"text": "陳", "bbox": [8, 898, 37, 928], "size": "30.0", "type": "body", "comment": "Small annotation text."},
+	{"text": "玉", "bbox": [13, 944, 30, 963], "size": "19.0", "type": "body", "comment": "Small annotation text."}
+]
+```

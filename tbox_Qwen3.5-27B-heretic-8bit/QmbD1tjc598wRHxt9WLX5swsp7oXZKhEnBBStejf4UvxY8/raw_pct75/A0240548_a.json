@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "喜以詔書賜召陵公乘許沖布四十匹", "bbox": [799, 31, 894, 914], "size": "40", "type": "text", "comment": ""},
+	{"text": "即日受詔朱雀掖門", "bbox": [680, 34, 768, 536], "size": "55", "type": "text", "comment": ""},
+	{"text": "敕勿謝", "bbox": [669, 600, 770, 786], "size": "55", "type": "text", "comment": ""},
+	{"text": "銀青光禄大夫守右散騎常侍上柱國", "bbox": [544, 34, 643, 965], "size": "50", "type": "text", "comment": ""},
+	{"text": "東海縣開國子食邑五百戸臣徐鉉奉", "bbox": [422, 29, 513, 965], "size": "50", "type": "text", "comment": ""},
+	{"text": "直郎守祕書省著作郎直史館臣句申", "bbox": [301, 31, 384, 962], "size": "50", "type": "text", "comment": ""},
+	{"text": "正翰林書學臣葛湍臣王惟恭等奉", "bbox": [175, 34, 266, 917], "size": "50", "type": "text", "comment": ""},
+	{"text": "詔校定許慎說文十四篇并序目一篇", "bbox": [41, 31, 136, 962], "size": "50", "type": "text", "comment": ""},
+	{"text": "小二百三十三", "bbox": [916, 25, 940, 118], "size": "10", "type": "text", "comment": ""},
+	{"text": "說文十五", "bbox": [924, 257, 950, 391], "size": "15", "type": "text", "comment": ""},
+	{"text": "四", "bbox": [921, 723, 948, 755], "size": "15", "type": "text", "comment": ""},
+	{"text": "魏", "bbox": [859, 936, 886, 954], "size": "10", "type": "text", "comment": ""},
+	{"text": "三", "bbox": [214, 969, 233, 985], "size": "10", "type": "text", "comment": ""}
+]
+```

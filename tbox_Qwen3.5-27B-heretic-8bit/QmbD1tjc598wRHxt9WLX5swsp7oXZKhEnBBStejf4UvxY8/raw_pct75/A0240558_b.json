@@ -1,0 +1,16 @@
+```json
+[
+	{"text": "汲古閣說文解字校記", "bbox": [895, 21, 975, 416], "size": "40.49", "type": "heading", "comment": ""},
+	{"text": "汲古閣說文有未改已改兩本乾嘉諸老皆偁未改", "bbox": [790, 121, 875, 894], "size": "38.29", "type": "description", "comment": ""},
+	{"text": "本爲勝而未改本傳世絕少其大略見於段氏說文", "bbox": [694, 118, 770, 981], "size": "36.55", "type": "description", "comment": ""},
+	{"text": "訂中然亦間有譌漏焉洪琴西都轉從荆塘義學假", "bbox": [591, 128, 668, 980], "size": "38.02", "type": "description", "comment": ""},
+	{"text": "得毛斧季弟四次所校樣本卽段氏所據以訂說文", "bbox": [486, 129, 561, 980], "size": "37.82", "type": "description", "comment": ""},
+	{"text": "者光緒七年爰摹刻於淮南書局而屬行孚取已改", "bbox": [384, 124, 459, 979], "size": "37.73", "type": "description", "comment": ""},
+	{"text": "本互校異同棄而錄之以詒同志若點畫小譌如璧", "bbox": [279, 126, 353, 980], "size": "37.73", "type": "description", "comment": ""},
+	{"text": "改作璧虞改作虞虔改作虔之類皆略而不著至其", "bbox": [173, 129, 249, 981], "size": "37.95", "type": "description", "comment": ""},
+	{"text": "程式鯀簡皆都轉所裁定云安吉張行孚謹識", "bbox": [60, 130, 137, 899], "size": "38.02", "type": "description", "comment": ""},
+	{"text": "說文解字", "bbox": [0, 289, 34, 397], "size": "22.33", "type": "heading", "comment": ""},
+	{"text": "一", "bbox": [1, 684, 26, 705], "size": "16.38", "type": "description", "comment": ""},
+	{"text": "蔡淦", "bbox": [15, 921, 42, 976], "size": "13.46", "type": "description", "comment": ""}
+]
+```

@@ -1,0 +1,25 @@
+```json
+[
+	{"bbox_2d": [913, 68, 952, 165], "text_content": "首葉", "text_size": "中", "text_type": "heading"},
+	{"bbox_2d": [861, 75, 937, 982], "text_content": "四行文六百三十下後增七字○重百四十五五後", "text_size": "大", "text_type": "text"},
+	{"bbox_2d": [774, 121, 836, 204], "text_content": "改三", "text_size": "大", "text_type": "heading"},
+	{"bbox_2d": [704, 77, 745, 160], "text_content": "二葉", "text_size": "中", "text_type": "heading"},
+	{"bbox_2d": [659, 80, 730, 679], "text_content": "六行从干入一爲干入上後增倒字", "text_size": "大", "text_type": "text"},
+	{"bbox_2d": [599, 81, 644, 162], "text_content": "四葉", "text_size": "中", "text_type": "heading"},
+	{"bbox_2d": [557, 82, 630, 626], "text_content": "二行从卉而曳長之卉後改卅", "text_size": "大", "text_type": "text"},
+	{"bbox_2d": [498, 77, 540, 158], "text_content": "七葉", "text_size": "中", "text_type": "heading"},
+	{"bbox_2d": [457, 78, 529, 624], "text_content": "七行纍也纍後改累", "text_size": "大", "text_type": "text"},
+	{"bbox_2d": [483, 434, 537, 622], "text_content": "八行纍字同", "text_size": "小", "text_type": "text"},
+	{"bbox_2d": [399, 77, 440, 160], "text_content": "十葉", "text_size": "中", "text_type": "heading"},
+	{"bbox_2d": [352, 78, 424, 852], "text_content": "七行上不蒼于凶德上後改尚尚上又增爾字", "text_size": "大", "text_type": "text"},
+	{"bbox_2d": [295, 76, 337, 198], "text_content": "十二葉", "text_size": "中", "text_type": "heading"},
+	{"bbox_2d": [248, 77, 323, 671], "text_content": "四行亦未敢誚公亦上後增王字", "text_size": "大", "text_type": "text"},
+	{"bbox_2d": [195, 80, 238, 201], "text_content": "十二葉", "text_size": "中", "text_type": "heading"},
+	{"bbox_2d": [150, 81, 222, 504], "text_content": "七行誥詘也誥後改誥", "text_size": "大", "text_type": "text"},
+	{"bbox_2d": [93, 81, 134, 197], "text_content": "十四葉", "text_size": "中", "text_type": "heading"},
+	{"bbox_2d": [44, 81, 118, 811], "text_content": "三行宮商角徵羽聲聲下後增也字於旁", "text_size": "大", "text_type": "text"},
+	{"bbox_2d": [962, 691, 989, 718], "text_content": "三", "text_size": "小", "text_type": "page_number"},
+	{"bbox_2d": [952, 927, 978, 983], "text_content": "景高", "text_size": "小", "text_type": "publisher"},
+	{"bbox_2d": [963, 276, 986, 389], "text_content": "言文榷言", "text_size": "小", "text_type": "book_title"}
+]
+```

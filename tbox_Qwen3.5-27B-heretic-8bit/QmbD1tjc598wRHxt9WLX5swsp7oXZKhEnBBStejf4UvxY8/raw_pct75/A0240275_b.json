@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "巾象連帶之形凡市之屬皆从市", "bbox": [854, 173, 957, 982], "size": "32", "type": "text", "comment": "heading"},
+	{"text": "分勿", "bbox": [779, 183, 834, 259], "size": "24", "type": "text", "comment": "rhyme"},
+	{"text": "切", "bbox": [727, 183, 773, 216], "size": "24", "type": "text", "comment": "rhyme"},
+	{"text": "篆文市从韋从㱿臣鉉", "bbox": [649, 183, 706, 540], "size": "24", "type": "text", "comment": "description"},
+	{"text": "等曰今俗作紱非是", "bbox": [593, 183, 647, 509], "size": "24", "type": "text", "comment": "description"},
+	{"text": "士無市有袷制如", "bbox": [649, 681, 706, 973], "size": "24", "type": "text", "comment": "description"},
+	{"text": "榼缺四角爵弁服", "bbox": [590, 681, 647, 973], "size": "24", "type": "text", "comment": "description"},
+	{"text": "其色韎賤不得與裳同司農", "bbox": [521, 30, 578, 509], "size": "24", "type": "text", "comment": "description"},
+	{"text": "袷或", "bbox": [521, 644, 578, 724], "size": "24", "type": "text", "comment": "description"},
+	{"text": "曰裳纁色从市合聲古洽切", "bbox": [466, 30, 515, 509], "size": "24", "type": "text", "comment": "description"},
+	{"text": "从韋", "bbox": [466, 644, 515, 724], "size": "24", "type": "text", "comment": "description"},
+	{"text": "文二", "bbox": [341, 271, 427, 385], "size": "48", "type": "text", "comment": "heading"},
+	{"text": "重二", "bbox": [341, 579, 427, 694], "size": "48", "type": "text", "comment": "heading"},
+	{"text": "帛繒也从巾白聲凡帛之屬皆从帛", "bbox": [196, 30, 299, 976], "size": "48", "type": "text", "comment": "heading"},
+	{"text": "方陌", "bbox": [121, 165, 167, 247], "size": "24", "type": "text", "comment": "rhyme"},
+	{"text": "切", "bbox": [65, 165, 110, 200], "size": "24", "type": "text", "comment": "rhyme"},
+	{"text": "大十六", "bbox": [18, 24, 43, 72], "size": "18", "type": "text", "comment": "page number"},
+	{"text": "說文七下", "bbox": [0, 255, 39, 389], "size": "18", "type": "text", "comment": "book name"},
+	{"text": "陳廣", "bbox": [23, 920, 47, 976], "size": "18", "type": "text", "comment": "name"}
+]
+```

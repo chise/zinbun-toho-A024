@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "說文解字九", "bbox": [966, 258, 997, 379], "size": "19.32", "type": "text", "comment": "partially visible"},
+	{"text": "十二", "bbox": [966, 647, 997, 695], "size": "16.43", "type": "text", "comment": "partially visible"},
+	{"text": "繆春", "bbox": [950, 866, 977, 974], "size": "13.33", "type": "text", "comment": "partially visible"},
+	{"text": "小三百卅", "bbox": [963, 25, 987, 62], "size": "7.97", "type": "text", "comment": "partially visible"},
+	{"text": "豢以穀圈養豕也从", "bbox": [890, 175, 948, 467], "size": "35.06", "type": "text", "comment": ""},
+	{"text": "豕爯聲胡慣切", "bbox": [836, 175, 890, 422], "size": "30.93", "type": "text", "comment": ""},
+	{"text": "豱豕屬从豕且", "bbox": [888, 618, 944, 821], "size": "32.56", "type": "text", "comment": ""},
+	{"text": "聲疾余切", "bbox": [830, 617, 885, 687], "size": "31.56", "type": "text", "comment": ""},
+	{"text": "逸也从豕原聲周書曰豜有爪", "bbox": [757, 25, 818, 540], "size": "34.47", "type": "text", "comment": ""},
+	{"text": "而不敢以撅讀若桓胡官切", "bbox": [700, 25, 757, 515], "size": "34.86", "type": "text", "comment": ""},
+	{"text": "豨豕走豨豨从豕", "bbox": [752, 699, 813, 977], "size": "31.93", "type": "text", "comment": ""},
+	{"text": "希聲古有封豨", "bbox": [697, 706, 754, 982], "size": "31.89", "type": "text", "comment": ""},
+	{"text": "脩蛇之害", "bbox": [629, 22, 686, 198], "size": "37.36", "type": "text", "comment": ""},
+	{"text": "虛豈切", "bbox": [570, 22, 625, 143], "size": "35.06", "type": "text", "comment": ""},
+	{"text": "豕絆足行豕豕从", "bbox": [627, 349, 683, 644], "size": "34.06", "type": "text", "comment": ""},
+	{"text": "豕繫二足丑六切", "bbox": [565, 349, 620, 643], "size": "32.56", "type": "text", "comment": ""},
+	{"text": "豸相弋不", "bbox": [623, 805, 679, 978], "size": "31.93", "type": "text", "comment": ""},
+	{"text": "解也从豕", "bbox": [558, 805, 613, 978], "size": "32.56", "type": "text", "comment": ""},
+	{"text": "豕豕之鬬不解也讀若薁蕐草之薁司馬", "bbox": [494, 22, 550, 757], "size": "34.06", "type": "text", "comment": ""},
+	{"text": "相如說虖封豕之屬一曰虎兩足舉强魚切", "bbox": [433, 22, 491, 757], "size": "34.06", "type": "text", "comment": ""},
+	{"text": "豕怒", "bbox": [490, 893, 537, 978], "size": "30.47", "type": "text", "comment": ""},
+	{"text": "毛豎", "bbox": [428, 893, 476, 978], "size": "30.47", "type": "text", "comment": ""},
+	{"text": "一曰殘艾也从豕辛臣鉉", "bbox": [367, 22, 424, 456], "size": "34.47", "type": "text", "comment": ""},
+	{"text": "等曰从辛未詳魚旣切", "bbox": [305, 22, 360, 456], "size": "34.47", "type": "text", "comment": ""},
+	{"text": "二豕也幽从此闕", "bbox": [363, 598, 409, 891], "size": "32.56", "type": "text", "comment": ""},
+	{"text": "伯貧切又呼關切", "bbox": [298, 600, 350, 893], "size": "31.56", "type": "text", "comment": ""},
+	{"text": "文二十二", "bbox": [176, 258, 270, 467], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [176, 648, 269, 747], "size": "59.0", "type": "text", "comment": ""},
+	{"text": "豢脩豪獸一曰河内名豕也从丘下", "bbox": [40, 170, 150, 975], "size": "47.0", "type": "text", "comment": ""}
+]
+```

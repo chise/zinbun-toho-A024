@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "即下云鳥蟲是也", "bbox": [827, 29, 946, 155], "size": "2.3", "type": "text", "comment": ""},
+	{"text": "五曰摹印", "bbox": [846, 221, 943, 358], "size": "4.1", "type": "text", "comment": ""},
+	{"text": "蕭子良以刻符摹印合爲一體徐鍇以爲符者竹而中蟲是也", "bbox": [835, 485, 954, 624], "size": "2.3", "type": "text", "comment": ""},
+	{"text": "之字形半分理應別爲一體摹印屈曲填密則秦璽文也子良誤合之", "bbox": [709, 29, 827, 588], "size": "2.3", "type": "text", "comment": ""},
+	{"text": "六曰署書", "bbox": [729, 655, 823, 904], "size": "4.1", "type": "text", "comment": ""},
+	{"text": "蕭子良云署書漢高六年蕭何所定以題蒼龍白虎二闕羊欣云何覃思累月然後題之", "bbox": [588, 29, 706, 709], "size": "2.3", "type": "text", "comment": ""},
+	{"text": "七曰殳書", "bbox": [608, 721, 700, 904], "size": "4.1", "type": "text", "comment": ""},
+	{"text": "徐鍇曰書於殳也殳體八觚隨其勢而書之", "bbox": [464, 36, 580, 388], "size": "2.3", "type": "text", "comment": ""},
+	{"text": "八曰隸書漢興有艸書", "bbox": [482, 456, 575, 838], "size": "4.1", "type": "text", "comment": ""},
+	{"text": "徐鍇曰案書傳多云張竝作艸又云齊相杜探作據説文則張竝之前已有矣蕭子良云藁書者董仲舒欲言災異藁艸未上即爲藁書藁者艸之初也史記上官奪屈原藁艸今云漢興有艸知所言藁艸是創艸非艸書也", "bbox": [334, 31, 452, 947], "size": "2.3", "type": "text", "comment": ""},
+	{"text": "尉律", "bbox": [97, 115, 194, 212], "size": "4.1", "type": "text", "comment": ""},
+	{"text": "徐鍇曰尉律漢律篇名", "bbox": [97, 221, 207, 383], "size": "2.3", "type": "text", "comment": ""},
+	{"text": "學僮十七已上始試", "bbox": [103, 445, 196, 928], "size": "4.1", "type": "text", "comment": ""},
+	{"text": "大", "bbox": [56, 31, 78, 54], "size": "1.2", "type": "text", "comment": ""},
+	{"text": "説文十五上", "bbox": [52, 261, 80, 395], "size": "1.2", "type": "text", "comment": ""},
+	{"text": "曰", "bbox": [50, 704, 76, 724], "size": "1.2", "type": "text", "comment": ""},
+	{"text": "仲奇", "bbox": [63, 923, 79, 959], "size": "1.2", "type": "text", "comment": ""},
+	{"text": "書", "bbox": [355, 30, 431, 109], "size": "4.1", "type": "text", "comment": ""},
+	{"text": "剖", "bbox": [97, 921, 128, 947], "size": "1.2", "type": "text", "comment": ""},
+	{"text": "蕭", "bbox": [97, 953, 128, 980], "size": "1.2", "type": "text", "comment": ""},
+	{"text": "子", "bbox": [365, 953, 394, 980], "size": "1.2", "type": "text", "comment": ""},
+	{"text": "據", "bbox": [935, 921, 964, 947], "size": "1.2", "type": "text", "comment": ""},
+	{"text": "舒", "bbox": [935, 953, 964, 980], "size": "1.2", "type": "text", "comment": ""}
+]
+```

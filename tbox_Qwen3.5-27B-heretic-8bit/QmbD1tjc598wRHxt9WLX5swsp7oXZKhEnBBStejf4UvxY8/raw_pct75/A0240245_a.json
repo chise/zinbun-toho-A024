@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小二百七十四", "bbox": [966, 37, 990, 113], "size": "small", "type": "header", "comment": ""},
+	{"text": "从人酉", "bbox": [904, 38, 954, 156], "size": "medium", "type": "description", "comment": ""},
+	{"text": "宋也从夕莫", "bbox": [901, 311, 959, 473], "size": "medium", "type": "description", "comment": ""},
+	{"text": "宿从此", "bbox": [843, 30, 896, 152], "size": "medium", "type": "description", "comment": ""},
+	{"text": "聲莫白切", "bbox": [838, 311, 891, 473], "size": "medium", "type": "description", "comment": ""},
+	{"text": "多", "bbox": [714, 30, 804, 152], "size": "large", "type": "character", "comment": ""},
+	{"text": "重也从重夕夕者相繹也故爲多", "bbox": [714, 159, 804, 978], "size": "large", "type": "description", "comment": ""},
+	{"text": "重夕爲多重日爲疊凡多之屬皆", "bbox": [576, 163, 673, 974], "size": "large", "type": "description", "comment": ""},
+	{"text": "从多", "bbox": [449, 173, 544, 299], "size": "large", "type": "description", "comment": ""},
+	{"text": "得何", "bbox": [492, 326, 544, 404], "size": "medium", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [434, 326, 477, 368], "size": "medium", "type": "description", "comment": ""},
+	{"text": "古文", "bbox": [356, 167, 414, 252], "size": "medium", "type": "description", "comment": ""},
+	{"text": "齊謂多爲𠑽从", "bbox": [363, 432, 416, 636], "size": "medium", "type": "description", "comment": ""},
+	{"text": "大也从多圣", "bbox": [356, 767, 409, 971], "size": "medium", "type": "description", "comment": ""},
+	{"text": "多", "bbox": [313, 167, 349, 212], "size": "medium", "type": "description", "comment": ""},
+	{"text": "多果聲呼果切", "bbox": [303, 432, 354, 639], "size": "medium", "type": "description", "comment": ""},
+	{"text": "聲苦回切", "bbox": [295, 767, 349, 924], "size": "medium", "type": "description", "comment": ""},
+	{"text": "𠑽", "bbox": [313, 262, 414, 384], "size": "large", "type": "character", "comment": ""},
+	{"text": "𠑽", "bbox": [295, 646, 414, 759], "size": "large", "type": "character", "comment": ""},
+	{"text": "厚脣皃从多从尚徐鍇", "bbox": [228, 167, 287, 544], "size": "medium", "type": "description", "comment": ""},
+	{"text": "曰多即厚也陟加切", "bbox": [171, 167, 225, 497], "size": "medium", "type": "description", "comment": ""},
+	{"text": "文四", "bbox": [178, 632, 269, 745], "size": "large", "type": "header", "comment": ""},
+	{"text": "重一", "bbox": [178, 806, 269, 922], "size": "large", "type": "header", "comment": ""},
+	{"text": "田", "bbox": [39, 30, 158, 144], "size": "large", "type": "character", "comment": ""},
+	{"text": "穿物持之也从一橫貫象寶貨之", "bbox": [39, 152, 145, 963], "size": "large", "type": "description", "comment": ""},
+	{"text": "文九", "bbox": [845, 597, 942, 719], "size": "large", "type": "header", "comment": ""},
+	{"text": "重四", "bbox": [845, 785, 937, 911], "size": "large", "type": "header", "comment": ""},
+	{"text": "李云", "bbox": [959, 905, 982, 971], "size": "small", "type": "footer", "comment": ""}
+]
+```

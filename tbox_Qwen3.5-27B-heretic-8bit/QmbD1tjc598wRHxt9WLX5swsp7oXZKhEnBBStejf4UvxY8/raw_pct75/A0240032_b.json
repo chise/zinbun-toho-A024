@@ -1,0 +1,19 @@
+```json
+[
+	{"text": "說文解字弟一", "bbox": [872, 13, 975, 397], "size": "39.86", "type": "title", "comment": "下"},
+	{"text": "漢太尉祭酒許慎記", "bbox": [877, 478, 978, 951], "size": "40.2", "type": "title", "comment": ""},
+	{"text": "銀靑光禄大夫守右散騎常侍上柱國東海縣開國子食邑", "bbox": [752, 54, 824, 655], "size": "28.43", "type": "title", "comment": ""},
+	{"text": "晉虜徐銓等奉", "bbox": [757, 655, 820, 988], "size": "28.43", "type": "title", "comment": ""},
+	{"text": "敕校定", "bbox": [615, 47, 677, 142], "size": "31.88", "type": "title", "comment": ""},
+	{"text": "𠦑", "bbox": [478, 17, 561, 152], "size": "44.06", "type": "title", "comment": ""},
+	{"text": "艸木初生也象丨出形有枝莖也", "bbox": [473, 160, 567, 986], "size": "44.06", "type": "title", "comment": ""},
+	{"text": "古文或以爲艸字讀若徹凡𠦑之", "bbox": [325, 152, 427, 988], "size": "44.06", "type": "title", "comment": ""},
+	{"text": "屬皆从𠦑尹彤說", "bbox": [192, 152, 288, 596], "size": "44.06", "type": "title", "comment": ""},
+	{"text": "臣鉉等曰丨上下通", "bbox": [244, 619, 300, 983], "size": "25.24", "type": "title", "comment": ""},
+	{"text": "也象艸木萌芽通徹", "bbox": [178, 617, 234, 988], "size": "25.24", "type": "title", "comment": ""},
+	{"text": "地上也", "bbox": [108, 160, 164, 281], "size": "25.24", "type": "title", "comment": ""},
+	{"text": "丑列切", "bbox": [46, 159, 101, 277], "size": "25.24", "type": "title", "comment": ""},
+	{"text": "大十一", "bbox": [5, 10, 31, 67], "size": "13.49", "type": "title", "comment": ""},
+	{"text": "程樹", "bbox": [6, 931, 33, 978], "size": "11.58", "type": "title", "comment": ""}
+]
+```

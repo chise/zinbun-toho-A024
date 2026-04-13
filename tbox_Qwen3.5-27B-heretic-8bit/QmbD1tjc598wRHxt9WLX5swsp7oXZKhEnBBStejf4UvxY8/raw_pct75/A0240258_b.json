@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "文六", "bbox": [852, 218, 956, 332], "size": "large", "type": "heading"},
+	{"text": "重一", "bbox": [852, 403, 950, 517], "size": "large", "type": "heading"},
+	{"text": "瓜古華切", "bbox": [714, 154, 826, 880], "size": "medium", "type": "character_definition"},
+	{"text": "也象形凡瓜之屬皆从瓜", "bbox": [714, 224, 826, 836], "size": "medium", "type": "character_definition"},
+	{"text": "瓠小瓜也从瓜交聲臣鉉等曰交非聲未詳蒲角切", "bbox": [575, 165, 698, 550], "size": "small", "type": "character_definition"},
+	{"text": "瓠破也从瓜失聲詩曰緜緜瓜瓞", "bbox": [575, 604, 698, 987], "size": "small", "type": "character_definition"},
+	{"text": "瓠徒結切", "bbox": [452, 26, 561, 91], "size": "small", "type": "character_definition"},
+	{"text": "瓠或从弗", "bbox": [452, 250, 561, 329], "size": "small", "type": "character_definition"},
+	{"text": "瓠小瓜也从瓜熒省聲戶扃切", "bbox": [452, 487, 561, 707], "size": "small", "type": "character_definition"},
+	{"text": "瓢从瓜瓜也", "bbox": [452, 756, 561, 990], "size": "small", "type": "character_definition"},
+	{"text": "瓢省聲余昭切", "bbox": [307, 22, 433, 91], "size": "small", "type": "character_definition"},
+	{"text": "瓢瓜中實从瓜辢聲蒲莧切", "bbox": [307, 304, 433, 507], "size": "small", "type": "character_definition"},
+	{"text": "瓢本不勝末微弱也从二瓜讀若庾以主切", "bbox": [307, 635, 433, 978], "size": "small", "type": "character_definition"},
+	{"text": "文七", "bbox": [191, 361, 287, 475], "size": "large", "type": "heading"},
+	{"text": "重一", "bbox": [191, 507, 287, 620], "size": "large", "type": "heading"},
+	{"text": "瓠也从瓜夸聲凡瓠之屬皆从瓠", "bbox": [45, 161, 167, 987], "size": "medium", "type": "character_definition"},
+	{"text": "六十九", "bbox": [8, 24, 23, 76], "size": "small", "type": "page_number"},
+	{"text": "仲奇", "bbox": [9, 920, 30, 976], "size": "small", "type": "signature"}
+]
+```

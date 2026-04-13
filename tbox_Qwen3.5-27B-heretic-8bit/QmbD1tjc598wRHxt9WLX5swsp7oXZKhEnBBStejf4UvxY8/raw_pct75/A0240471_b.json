@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "評", "bbox": [897, 55, 978, 103], "size": "1.27", "type": "text", "comment": ""},
+	{"text": "者", "bbox": [897, 111, 978, 159], "size": "1.30", "type": "text", "comment": ""},
+	{"text": "曰", "bbox": [897, 165, 978, 213], "size": "1.26", "type": "text", "comment": ""},
+	{"text": "此", "bbox": [897, 221, 978, 268], "size": "1.26", "type": "text", "comment": ""},
+	{"text": "卷", "bbox": [897, 274, 978, 322], "size": "1.30", "type": "text", "comment": ""},
+	{"text": "也", "bbox": [897, 328, 978, 376], "size": "1.30", "type": "text", "comment": ""},
+	{"text": "其", "bbox": [897, 382, 978, 430], "size": "1.28", "type": "text", "comment": ""},
+	{"text": "文", "bbox": [897, 436, 978, 484], "size": "1.27", "type": "text", "comment": ""},
+	{"text": "辭", "bbox": [897, 490, 978, 538], "size": "1.31", "type": "text", "comment": ""},
+	{"text": "簡", "bbox": [897, 544, 978, 592], "size": "1.27", "type": "text", "comment": ""},
+	{"text": "質", "bbox": [897, 598, 978, 646], "size": "1.31", "type": "text", "comment": ""},
+	{"text": "而", "bbox": [897, 652, 978, 700], "size": "1.28", "type": "text", "comment": ""},
+	{"text": "不", "bbox": [897, 706, 978, 754], "size": "1.27", "type": "text", "comment": ""},
+	{"text": "失", "bbox": [897, 760, 978, 808], "size": "1.28", "type": "text", "comment": ""},
+	{"text": "之", "bbox": [897, 814, 978, 862], "size": "1.27", "type": "text", "comment": ""},
+	{"text": "雅", "bbox": [897, 868, 978, 916], "size": "1.30", "type": "text", "comment": ""},
+	{"text": "正", "bbox": [897, 922, 978, 970], "size": "1.28", "type": "text", "comment": ""},
+	{"text": "者", "bbox": [897, 976, 978, 1024], "size": "1.30", "type": "text", "comment": ""}
+]
+```

@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "古文", "bbox": [907, 172, 970, 245], "size": "29.99", "type": "text", "comment": ""},
+	{"text": "餘分之月五歲再閏告朔之禮天", "bbox": [917, 402, 980, 976], "size": "27.55", "type": "text", "comment": ""},
+	{"text": "王", "bbox": [850, 172, 899, 200], "size": "28.65", "type": "text", "comment": ""},
+	{"text": "子居宗廟閏月居門中从王在門", "bbox": [850, 402, 914, 976], "size": "29.04", "type": "text", "comment": ""},
+	{"text": "中周禮曰閏月王居", "bbox": [775, 20, 839, 391], "size": "29.39", "type": "text", "comment": ""},
+	{"text": "大也从自自始也始皇者", "bbox": [785, 541, 849, 984], "size": "29.04", "type": "text", "comment": ""},
+	{"text": "門中終月也如順切", "bbox": [715, 20, 778, 391], "size": "28.97", "type": "text", "comment": ""},
+	{"text": "三皇大君也自讀若鼻今", "bbox": [722, 541, 787, 987], "size": "29.2", "type": "text", "comment": ""},
+	{"text": "俗以始生子爲", "bbox": [645, 20, 708, 297], "size": "28.65", "type": "text", "comment": ""},
+	{"text": "鼻子胡光切", "bbox": [585, 20, 648, 253], "size": "28.65", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [600, 461, 694, 592], "size": "48.37", "type": "text", "comment": ""},
+	{"text": "重一", "bbox": [600, 722, 694, 852], "size": "48.59", "type": "text", "comment": ""},
+	{"text": "玉", "bbox": [450, 27, 564, 125], "size": "47.25", "type": "text", "comment": ""},
+	{"text": "石之美有五德潤澤以温仁之方", "bbox": [456, 140, 561, 976], "size": "31.25", "type": "text", "comment": ""},
+	{"text": "也齠理自外可以知中義之方也", "bbox": [327, 144, 432, 979], "size": "30.89", "type": "text", "comment": ""},
+	{"text": "其聲舒揚專以遠聞智之方也不", "bbox": [190, 154, 295, 986], "size": "31.25", "type": "text", "comment": ""},
+	{"text": "撓而折勇之方也銳廉而不技絜", "bbox": [51, 151, 156, 983], "size": "30.89", "type": "text", "comment": ""},
+	{"text": "大十五", "bbox": [4, 25, 33, 115], "size": "17.59", "type": "text", "comment": ""},
+	{"text": "周太", "bbox": [12, 925, 39, 986], "size": "17.18", "type": "text", "comment": ""}
+]
+```

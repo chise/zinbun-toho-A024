@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "小一百七十三", "bbox": [954, 32, 980, 66], "size": "27", "type": "label", "comment": "text"},
+	{"text": "言文一", "bbox": [957, 264, 997, 378], "size": "29", "type": "label", "comment": "text"},
+	{"text": "十", "bbox": [957, 697, 997, 724], "size": "24", "type": "label", "comment": "text"},
+	{"text": "吳慶", "bbox": [954, 897, 979, 959], "size": "24", "type": "label", "comment": "text"},
+	{"text": "籀文", "bbox": [890, 172, 942, 254], "size": "38", "type": "heading", "comment": "text"},
+	{"text": "麗字", "bbox": [833, 172, 885, 254], "size": "38", "type": "heading", "comment": "text"},
+	{"text": "牝鹿也从鹿从", "bbox": [885, 411, 943, 651], "size": "38", "type": "description", "comment": "text"},
+	{"text": "牝省於虯切", "bbox": [827, 411, 885, 615], "size": "38", "type": "description", "comment": "text"},
+	{"text": "或从", "bbox": [885, 806, 943, 889], "size": "38", "type": "description", "comment": "text"},
+	{"text": "幽聲", "bbox": [827, 806, 885, 889], "size": "38", "type": "description", "comment": "text"},
+	{"text": "文二十六", "bbox": [711, 272, 806, 511], "size": "50", "type": "heading", "comment": "text"},
+	{"text": "重六", "bbox": [711, 631, 806, 761], "size": "50", "type": "heading", "comment": "text"},
+	{"text": "行超遠也从三鹿凡鹿麤之屬皆从", "bbox": [574, 172, 681, 969], "size": "56", "type": "heading", "comment": "text"},
+	{"text": "鹿麤", "bbox": [444, 172, 541, 254], "size": "38", "type": "heading", "comment": "text"},
+	{"text": "倉胡", "bbox": [491, 272, 548, 354], "size": "38", "type": "description", "comment": "text"},
+	{"text": "切", "bbox": [434, 272, 491, 310], "size": "38", "type": "description", "comment": "text"},
+	{"text": "鹿行揚土也从", "bbox": [365, 232, 421, 423], "size": "38", "type": "description", "comment": "text"},
+	{"text": "麤从土直珍切", "bbox": [308, 232, 365, 423], "size": "38", "type": "description", "comment": "text"},
+	{"text": "籀", "bbox": [365, 579, 421, 618], "size": "38", "type": "description", "comment": "text"},
+	{"text": "文", "bbox": [308, 579, 365, 618], "size": "38", "type": "description", "comment": "text"},
+	{"text": "文二", "bbox": [310, 648, 405, 778], "size": "50", "type": "heading", "comment": "text"},
+	{"text": "重一", "bbox": [310, 810, 405, 922], "size": "50", "type": "heading", "comment": "text"},
+	{"text": "獸也似兔靑色而大象形頭與兔", "bbox": [187, 172, 282, 977], "size": "56", "type": "heading", "comment": "text"},
+	{"text": "同足與鹿同凡麤之屬皆从麤", "bbox": [57, 172, 152, 886], "size": "56", "type": "heading", "comment": "text"},
+	{"text": "丑略", "bbox": [104, 904, 162, 977], "size": "38", "type": "description", "comment": "text"},
+	{"text": "切", "bbox": [47, 904, 104, 943], "size": "38", "type": "description", "comment": "text"}
+]
+```

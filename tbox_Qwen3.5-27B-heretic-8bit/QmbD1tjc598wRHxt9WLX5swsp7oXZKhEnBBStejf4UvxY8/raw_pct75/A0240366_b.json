@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "大屈也从大象形凡夭之屬皆从夭", "bbox": [837, 20, 961, 979], "size": "large", "type": "heading", "comment": "Heading text on the rightmost column."},
+	{"text": "於兆切", "bbox": [707, 167, 831, 246], "size": "small", "type": "description", "comment": "Description text below the heading on the rightmost column."},
+	{"text": "高而曲也从夭从高省", "bbox": [640, 166, 699, 566], "size": "medium", "type": "description", "comment": "Description text in the second column from the right."},
+	{"text": "詩曰南有喬木巨嬌切", "bbox": [574, 166, 632, 566], "size": "medium", "type": "description", "comment": "Description text in the second column from the right."},
+	{"text": "吉而免凶也从", "bbox": [640, 729, 699, 978], "size": "medium", "type": "description", "comment": "Description text in the second column from the right."},
+	{"text": "并从夭夭死之", "bbox": [574, 729, 632, 978], "size": "medium", "type": "description", "comment": "Description text in the second column from the right."},
+	{"text": "事故死謂之", "bbox": [511, 21, 566, 233], "size": "medium", "type": "description", "comment": "Description text in the third column from the right."},
+	{"text": "不彘胡耿切", "bbox": [443, 21, 501, 233], "size": "medium", "type": "description", "comment": "Description text in the third column from the right."},
+	{"text": "走也从夭賁省聲與走", "bbox": [501, 410, 560, 789], "size": "medium", "type": "description", "comment": "Description text in the third column from the right."},
+	{"text": "同意俱从夭博昆切", "bbox": [438, 410, 499, 717], "size": "medium", "type": "description", "comment": "Description text in the third column from the right."},
+	{"text": "文四", "bbox": [444, 827, 548, 944], "size": "medium", "type": "description", "comment": "Description text in the third column from the right."},
+	{"text": "交脛也从大象交形凡交之屬皆", "bbox": [314, 159, 424, 987], "size": "large", "type": "heading", "comment": "Heading text in the fourth column from the right."},
+	{"text": "从交", "bbox": [186, 166, 288, 296], "size": "large", "type": "heading", "comment": "Heading text in the fifth column from the right."},
+	{"text": "古交切", "bbox": [178, 296, 288, 382], "size": "medium", "type": "description", "comment": "Description text in the fifth column from the right."},
+	{"text": "哀也从交韋", "bbox": [106, 166, 164, 382], "size": "medium", "type": "description", "comment": "Description text in the sixth column from the right."},
+	{"text": "聲羽非切", "bbox": [42, 166, 101, 343], "size": "medium", "type": "description", "comment": "Description text in the sixth column from the right."},
+	{"text": "縊也从交从", "bbox": [93, 526, 162, 739], "size": "medium", "type": "description", "comment": "Description text in the sixth column from the right."},
+	{"text": "系古巧切", "bbox": [38, 526, 97, 699], "size": "medium", "type": "description", "comment": "Description text in the sixth column from the right."},
+	{"text": "文三", "bbox": [45, 805, 151, 935], "size": "medium", "type": "description", "comment": "Description text in the sixth column from the right."},
+	{"text": "大", "bbox": [4, 18, 32, 49], "size": "medium", "type": "description", "comment": "Description text on the leftmost edge."},
+	{"text": "井", "bbox": [13, 51, 32, 67], "size": "medium", "type": "description", "comment": "Description text on the leftmost edge."},
+	{"text": "陳", "bbox": [0, 898, 33, 927], "size": "medium", "type": "description", "comment": "Description text on the leftmost edge."},
+	{"text": "五", "bbox": [0, 941, 33, 963], "size": "medium", "type": "description", "comment": "Description text on the leftmost edge."},
+	{"text": "文", "bbox": [0, 703, 18, 729], "size": "medium", "type": "description", "comment": "Description text on the leftmost edge."}
+]
+```

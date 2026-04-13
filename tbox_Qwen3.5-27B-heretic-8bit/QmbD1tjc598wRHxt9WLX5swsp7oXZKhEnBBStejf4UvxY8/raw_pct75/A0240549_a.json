@@ -1,0 +1,15 @@
+```json
+[
+	{"bbox_2d": [956, 14, 984, 59], "text": "少二百十一", "size": "11.5", "type": "heading", "comment": "top right"},
+	{"bbox_2d": [965, 251, 995, 383], "text": "言文一二", "size": "12.0", "type": "heading", "comment": "right margin"},
+	{"bbox_2d": [952, 709, 982, 772], "text": "三", "size": "12.0", "type": "heading", "comment": "right margin"},
+	{"bbox_2d": [954, 822, 982, 978], "text": "殿華", "size": "12.0", "type": "heading", "comment": "bottom right"},
+	{"bbox_2d": [836, 14, 932, 971], "text": "師法古文既絶譌僞日滋至漢宣帝時", "size": "50.0", "type": "body", "comment": "rightmost column"},
+	{"bbox_2d": [698, 14, 796, 976], "text": "始命諸儒修倉頡之法亦不能復故光", "size": "50.0", "type": "body", "comment": "second column from right"},
+	{"bbox_2d": [556, 14, 658, 979], "text": "武時馬援上疏論文字之譌謬其言詳", "size": "50.0", "type": "body", "comment": "third column from right"},
+	{"bbox_2d": [424, 14, 522, 976], "text": "矣及和帝時申命賈逵修理舊文於是", "size": "50.0", "type": "body", "comment": "fourth column from right"},
+	{"bbox_2d": [290, 14, 386, 976], "text": "許慎采史籀李斯楊雄之書博訪通人", "size": "50.0", "type": "body", "comment": "fifth column from right"},
+	{"bbox_2d": [158, 14, 254, 979], "text": "考之於達作說文解字至安帝十五年", "size": "50.0", "type": "body", "comment": "sixth column from right"},
+	{"bbox_2d": [24, 14, 122, 979], "text": "始奏上之而隸書行之已久習之益工", "size": "50.0", "type": "body", "comment": "leftmost column"}
+]
+```

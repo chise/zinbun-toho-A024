@@ -1,0 +1,8 @@
+```json
+[
+	{"text": "說文解字第一下", "bbox": [676, 20, 780, 437], "size": "45", "type": "heading", "comment": ""},
+	{"text": "小甲卅五", "bbox": [918, 23, 946, 126], "size": "12", "type": "mark", "comment": ""},
+	{"text": "說文二", "bbox": [934, 247, 961, 351], "size": "13", "type": "mark", "comment": ""},
+	{"text": "孫佩", "bbox": [873, 892, 954, 957], "size": "16", "type": "mark", "comment": ""}
+]
+```

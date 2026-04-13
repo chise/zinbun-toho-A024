@@ -1,0 +1,32 @@
+```json
+[
+	{"bbox_2d": [950, 28, 975, 107], "text_content": "小三百十一", "label": "page_number", "size": "small", "type": "traditional"},
+	{"bbox_2d": [950, 928, 975, 977], "text_content": "嚴華", "label": "signature", "size": "small", "type": "traditional"},
+	{"bbox_2d": [958, 239, 995, 392], "text_content": "許文王", "label": "title", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [701, 22, 805, 424], "text_content": "說文解字第十三", "label": "title", "size": "large", "type": "traditional"},
+	{"bbox_2d": [824, 168, 938, 253], "text_content": "部四百六十三", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [828, 399, 940, 487], "text_content": "部四百六十四", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [827, 640, 940, 728], "text_content": "部四百六十五", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [825, 888, 937, 978], "text_content": "部四百六十六", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [564, 162, 678, 250], "text_content": "部四百六十七", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [563, 397, 676, 488], "text_content": "部四百六十八", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [563, 640, 676, 730], "text_content": "部四百六十九", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [560, 887, 674, 972], "text_content": "部四百七十", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [435, 165, 548, 251], "text_content": "部四百七十一", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [435, 397, 548, 489], "text_content": "部四百七十二", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [435, 640, 547, 730], "text_content": "部四百七十三", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [433, 885, 546, 975], "text_content": "部四百七十四", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [304, 163, 416, 250], "text_content": "部四百七十五", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [305, 399, 417, 490], "text_content": "部四百七十六", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [303, 640, 416, 730], "text_content": "部四百七十七", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [302, 885, 415, 975], "text_content": "部四百七十八", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [177, 163, 289, 250], "text_content": "部四百七十九", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [176, 399, 289, 491], "text_content": "部四百八十", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [175, 641, 288, 730], "text_content": "部四百八十一", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [174, 886, 287, 976], "text_content": "部四百八十二", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [50, 162, 162, 250], "text_content": "部四百八十三", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [50, 398, 162, 490], "text_content": "部四百八十四", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [48, 640, 161, 730], "text_content": "部四百八十五", "label": "description", "size": "medium", "type": "traditional"},
+	{"bbox_2d": [47, 886, 160, 976], "text_content": "部四百八十六", "label": "description", "size": "medium", "type": "traditional"}
+]
+```

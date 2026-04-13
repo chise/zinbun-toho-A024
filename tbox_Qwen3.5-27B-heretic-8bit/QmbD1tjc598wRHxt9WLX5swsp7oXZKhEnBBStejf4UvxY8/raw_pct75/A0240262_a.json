@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小二百卄", "bbox": [936, 23, 965, 102], "size": "small", "type": "header", "comment": "page number"},
+	{"text": "直又", "bbox": [880, 34, 928, 108], "size": "medium", "type": "text", "comment": "phonetic guide"},
+	{"text": "切", "bbox": [817, 35, 868, 75], "size": "medium", "type": "text", "comment": "phonetic guide"},
+	{"text": "文七十一", "bbox": [701, 307, 790, 561], "size": "large", "type": "header", "comment": "section header"},
+	{"text": "重十六", "bbox": [701, 610, 785, 794], "size": "large", "type": "header", "comment": "section header"},
+	{"text": "置也从宀真", "bbox": [618, 176, 675, 375], "size": "medium", "type": "text", "comment": "definition"},
+	{"text": "聲支義切", "bbox": [559, 174, 612, 335], "size": "medium", "type": "text", "comment": "phonetic guide"},
+	{"text": "王者封畿内縣也", "bbox": [613, 537, 670, 823], "size": "medium", "type": "text", "comment": "definition"},
+	{"text": "从宀褁聲戸關切", "bbox": [554, 537, 607, 824], "size": "medium", "type": "text", "comment": "phonetic guide"},
+	{"text": "同地爲宋从宀", "bbox": [487, 33, 543, 275], "size": "medium", "type": "text", "comment": "definition"},
+	{"text": "采聲倉宰切", "bbox": [426, 30, 479, 246], "size": "medium", "type": "text", "comment": "phonetic guide"},
+	{"text": "文三", "bbox": [442, 410, 527, 523], "size": "large", "type": "header", "comment": "section header"},
+	{"text": "新", "bbox": [487, 549, 537, 585], "size": "medium", "type": "text", "comment": "classification"},
+	{"text": "附", "bbox": [431, 549, 479, 586], "size": "medium", "type": "text", "comment": "classification"},
+	{"text": "室也从宀𦣺省聲凡宫之屬皆从", "bbox": [310, 163, 405, 970], "size": "large", "type": "text", "comment": "definition"},
+	{"text": "宫", "bbox": [187, 164, 266, 230], "size": "large", "type": "text", "comment": "character"},
+	{"text": "居戎", "bbox": [227, 244, 286, 319], "size": "medium", "type": "text", "comment": "phonetic guide"},
+	{"text": "切", "bbox": [177, 235, 225, 273], "size": "medium", "type": "text", "comment": "phonetic guide"},
+	{"text": "市居也从宮熒", "bbox": [100, 168, 155, 417], "size": "medium", "type": "text", "comment": "definition"},
+	{"text": "省聲余傾切", "bbox": [38, 166, 96, 371], "size": "medium", "type": "text", "comment": "phonetic guide"},
+	{"text": "文二", "bbox": [50, 510, 137, 625], "size": "large", "type": "header", "comment": "section header"},
+	{"text": "祁三", "bbox": [935, 903, 965, 967], "size": "small", "type": "header", "comment": "page number"},
+	{"text": "言又十一", "bbox": [941, 271, 974, 390], "size": "small", "type": "header", "comment": "page number"},
+	{"text": "宔", "bbox": [562, 24, 675, 156], "size": "large", "type": "character", "comment": "character"},
+	{"text": "寰", "bbox": [560, 395, 670, 525], "size": "large", "type": "character", "comment": "character"},
+	{"text": "宋", "bbox": [560, 833, 665, 960], "size": "large", "type": "character", "comment": "character"},
+	{"text": "宀", "bbox": [306, 33, 408, 151], "size": "large", "type": "character", "comment": "character"},
+	{"text": "𠫓", "bbox": [45, 27, 150, 160], "size": "large", "type": "character", "comment": "character"}
+]
+```

@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "小二百四", "bbox": [930, 30, 956, 125], "size": "38.5", "type": "header", "comment": "top"},
+	{"text": "言文十二", "bbox": [940, 255, 965, 370], "size": "38.5", "type": "header", "comment": "right"},
+	{"text": "洪章", "bbox": [927, 896, 955, 967], "size": "38.5", "type": "header", "comment": "bottom"},
+	{"text": "三", "bbox": [938, 693, 967, 717], "size": "38.5", "type": "header", "comment": "right"},
+	{"text": "水泉本也从𤰩", "bbox": [864, 171, 916, 420], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "篆文从泉臣鉉等", "bbox": [864, 574, 916, 864], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "出厂下愚袁切", "bbox": [807, 171, 859, 420], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "曰今别作源非是", "bbox": [803, 574, 855, 870], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "文二", "bbox": [686, 287, 773, 357], "size": "38.5", "type": "header", "comment": "right"},
+	{"text": "重一", "bbox": [686, 523, 773, 594], "size": "38.5", "type": "header", "comment": "right"},
+	{"text": "長也象水𠫔理之長詩曰江之永", "bbox": [552, 170, 644, 967], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "矣凡永之屬皆从永", "bbox": [427, 167, 518, 653], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "于憬", "bbox": [482, 689, 525, 773], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "切", "bbox": [418, 689, 461, 720], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "水長也从永羊聲詩", "bbox": [344, 191, 396, 527], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "曰江之𥝠矣余亮切", "bbox": [288, 191, 340, 517], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "文三", "bbox": [302, 648, 388, 774], "size": "38.5", "type": "header", "comment": "right"},
+	{"text": "水之衰流别也从反永凡𡕨之屬", "bbox": [161, 170, 252, 975], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "皆从𡕨讀若稗縣", "bbox": [36, 167, 127, 584], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "徐鍇曰永長流也反", "bbox": [86, 605, 140, 935], "size": "38.5", "type": "body", "comment": "right"},
+	{"text": "即分𡕨也匹卦切", "bbox": [31, 602, 83, 900], "size": "38.5", "type": "body", "comment": "right"}
+]
+```

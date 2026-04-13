@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "小", "bbox": [970, 43, 986, 60], "size": "16", "type": "text", "comment": "Right margin"},
+	{"text": "言文十二", "bbox": [966, 263, 995, 382], "size": "16", "type": "text", "comment": "Right margin"},
+	{"text": "洪章", "bbox": [952, 899, 974, 966], "size": "16", "type": "text", "comment": "Right margin"},
+	{"text": "文二十三", "bbox": [845, 301, 943, 546], "size": "98", "type": "text", "comment": "Main column heading"},
+	{"text": "重五", "bbox": [845, 673, 936, 800], "size": "98", "type": "text", "comment": "Main column heading"},
+	{"text": "幽也从日从六ㄇ聲日數十十", "bbox": [707, 192, 810, 976], "size": "98", "type": "text", "comment": "Main column text"},
+	{"text": "六日而月始虧幽也凡冥之屬皆", "bbox": [569, 194, 674, 981], "size": "98", "type": "text", "comment": "Main column text"},
+	{"text": "从冥", "bbox": [443, 194, 545, 311], "size": "98", "type": "text", "comment": "Main column text"},
+	{"text": "莫經", "bbox": [492, 324, 545, 411], "size": "49", "type": "text", "comment": "Main column text"},
+	{"text": "切", "bbox": [443, 324, 489, 364], "size": "49", "type": "text", "comment": "Main column text"},
+	{"text": "冥也从冥黽聲讀若", "bbox": [359, 165, 424, 521], "size": "49", "type": "text", "comment": "Main column text"},
+	{"text": "黽蛙之黽武庚切", "bbox": [300, 165, 363, 470], "size": "49", "type": "text", "comment": "Main column text"},
+	{"text": "文二", "bbox": [313, 712, 403, 840], "size": "98", "type": "text", "comment": "Main column heading"},
+	{"text": "晶精光也从三日凡晶之屬皆从晶", "bbox": [171, 152, 276, 981], "size": "98", "type": "text", "comment": "Main column text"},
+	{"text": "子盈", "bbox": [106, 160, 157, 240], "size": "49", "type": "text", "comment": "Main column text"},
+	{"text": "切", "bbox": [48, 160, 98, 199], "size": "49", "type": "text", "comment": "Main column text"}
+]
+```

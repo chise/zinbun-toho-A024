@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "小暑", "bbox": [884, 26, 911, 64], "size": "5.0", "type": "heading", "comment": ""},
+	{"text": "古文", "bbox": [825, 157, 873, 213], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "長", "bbox": [767, 157, 808, 191], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "亦古", "bbox": [825, 376, 873, 433], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "文長", "bbox": [767, 376, 817, 433], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "極陳也从長", "bbox": [818, 633, 877, 793], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "陳元", "bbox": [831, 896, 857, 933], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "隸聲息利切", "bbox": [761, 633, 810, 793], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "或从", "bbox": [697, 31, 753, 108], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "長", "bbox": [641, 31, 688, 64], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "久長也从長", "bbox": [702, 279, 758, 478], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "爾聲武移切", "bbox": [644, 279, 700, 478], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "蛇惡毒長也从", "bbox": [700, 637, 755, 837], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "長失聲徒結切", "bbox": [644, 637, 700, 837], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "州里所建旗象其柄有三游雜帛", "bbox": [410, 157, 501, 950], "size": "15.0", "type": "text", "comment": ""},
+	{"text": "文四", "bbox": [529, 277, 622, 399], "size": "15.0", "type": "heading", "comment": ""},
+	{"text": "重三", "bbox": [536, 573, 614, 695], "size": "15.0", "type": "heading", "comment": ""},
+	{"text": "幅半異所以趣民故遽稱勿勿凡", "bbox": [288, 157, 379, 950], "size": "15.0", "type": "text", "comment": ""},
+	{"text": "勿之屬皆从勿", "bbox": [165, 167, 256, 539], "size": "15.0", "type": "text", "comment": ""},
+	{"text": "文弗", "bbox": [218, 552, 256, 626], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [162, 552, 208, 586], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "開也从曰一勿一曰飛揚一曰", "bbox": [98, 406, 146, 882], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "長也一曰彊者衆兒與章切", "bbox": [39, 401, 88, 857], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "勿或", "bbox": [101, 177, 146, 254], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "从𠬪", "bbox": [38, 177, 92, 254], "size": "5.0", "type": "text", "comment": ""},
+	{"text": "言文九一", "bbox": [889, 261, 923, 390], "size": "5.0", "type": "text", "comment": ""}
+]
+```

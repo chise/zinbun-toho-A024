@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "屬皆从疋讀若罽居例", "bbox": [844, 185, 945, 721], "size": "50.0", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [842, 627, 890, 670], "size": "30.0", "type": "text", "comment": ""},
+	{"text": "篆文从", "bbox": [99, 159, 155, 278], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "肉豕", "bbox": [42, 159, 90, 226], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "篆文", "bbox": [42, 291, 150, 426], "size": "135.0", "type": "text", "comment": ""},
+	{"text": "豖屬从豚衛聲", "bbox": [90, 435, 155, 695], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "讀若罽于歲切", "bbox": [34, 435, 90, 687], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "給祠祀凡豚之屬皆从豚徒魂", "bbox": [172, 162, 290, 846], "size": "50.0", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [168, 807, 218, 848], "size": "30.0", "type": "text", "comment": ""},
+	{"text": "篆文从", "bbox": [307, 30, 423, 973], "size": "65.0", "type": "text", "comment": ""},
+	{"text": "小豕也从彖省象形从又持肉以", "bbox": [447, 250, 537, 972], "size": "50.0", "type": "text", "comment": ""},
+	{"text": "文五", "bbox": [450, 247, 537, 379], "size": "50.0", "type": "text", "comment": ""},
+	{"text": "篆文", "bbox": [567, 31, 690, 312], "size": "115.0", "type": "text", "comment": ""},
+	{"text": "弛式", "bbox": [636, 31, 686, 105], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "視切", "bbox": [567, 31, 624, 105], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "豕也从疋下象其", "bbox": [631, 266, 686, 534], "size": "30.0", "type": "text", "comment": ""},
+	{"text": "足讀若瑕乎加切", "bbox": [567, 266, 624, 534], "size": "30.0", "type": "text", "comment": ""},
+	{"text": "篆文", "bbox": [567, 534, 690, 675], "size": "130.0", "type": "text", "comment": ""},
+	{"text": "豕走也从疋从", "bbox": [626, 684, 686, 943], "size": "30.0", "type": "text", "comment": ""},
+	{"text": "豕省通貫切", "bbox": [567, 684, 624, 898], "size": "30.0", "type": "text", "comment": ""},
+	{"text": "篆文", "bbox": [698, 31, 824, 162], "size": "130.0", "type": "text", "comment": ""},
+	{"text": "豕也後蹏廢謂之彘从疋矢聲", "bbox": [763, 169, 824, 667], "size": "30.0", "type": "text", "comment": ""},
+	{"text": "从二匕彘足與鹿足同直例切", "bbox": [698, 169, 763, 631], "size": "30.0", "type": "text", "comment": ""},
+	{"text": "篆文", "bbox": [698, 676, 824, 811], "size": "130.0", "type": "text", "comment": ""},
+	{"text": "豕也从疋", "bbox": [763, 815, 824, 964], "size": "30.0", "type": "text", "comment": ""},
+	{"text": "从豕讀若", "bbox": [698, 815, 763, 978], "size": "30.0", "type": "text", "comment": ""},
+	{"text": "篆文", "bbox": [965, 36, 995, 110], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "言文九一", "bbox": [973, 283, 1002, 383], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "李云", "bbox": [965, 898, 995, 972], "size": "25.0", "type": "text", "comment": ""}
+]
+```

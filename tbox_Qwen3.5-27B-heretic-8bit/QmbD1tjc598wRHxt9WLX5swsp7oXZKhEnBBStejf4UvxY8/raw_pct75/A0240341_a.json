@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "小百十九", "bbox": [962, 22, 987, 119], "size": "small", "type": "text", "comment": "top right corner"},
+	{"text": "凡馬之屬皆从馬莫下切", "bbox": [839, 165, 944, 694], "size": "large", "type": "text", "comment": "rightmost column"},
+	{"text": "李云", "bbox": [958, 897, 993, 973], "size": "small", "type": "text", "comment": "bottom right corner"},
+	{"text": "馬古籀文馬與文影同有髦牡馬也从馬陟聲讀若郅之日切", "bbox": [698, 148, 815, 975], "size": "medium", "type": "text", "comment": "column 1"},
+	{"text": "馬一歲也从馬一絆其足讀若弦一曰若環戸關切馬二歲曰駒三歲曰駣从", "bbox": [562, 153, 683, 981], "size": "medium", "type": "text", "comment": "column 2"},
+	{"text": "馬八歲也从馬从八博拔切馬一目白曰驏二目白曰魚从", "bbox": [435, 179, 551, 981], "size": "medium", "type": "text", "comment": "column 3"},
+	{"text": "馬青驪文如博棊也从馬其聲渠之切馬深黑色从馬麗聲", "bbox": [297, 165, 415, 984], "size": "medium", "type": "text", "comment": "column 4"},
+	{"text": "青驪馬从馬𦣞聲詩曰駓彼乘駑火玄切馬淺黑色从馬鬼聲俱位", "bbox": [167, 237, 285, 984], "size": "medium", "type": "text", "comment": "column 5"},
+	{"text": "赤馬黑毛尾也从馬雷聲力求切馬赤白雜毛从馬叚聲謂色似鮫魚", "bbox": [39, 198, 157, 981], "size": "medium", "type": "text", "comment": "leftmost column"},
+	{"text": "馬句聲舉朱切", "bbox": [435, 22, 550, 165], "size": "medium", "type": "text", "comment": "column 3 top"},
+	{"text": "馬閒聲戸間切", "bbox": [297, 22, 415, 165], "size": "medium", "type": "text", "comment": "column 4 top"},
+	{"text": "吕支切", "bbox": [167, 22, 285, 165], "size": "medium", "type": "text", "comment": "column 5 top"},
+	{"text": "切", "bbox": [39, 22, 157, 165], "size": "medium", "type": "text", "comment": "leftmost column top"}
+]
+```

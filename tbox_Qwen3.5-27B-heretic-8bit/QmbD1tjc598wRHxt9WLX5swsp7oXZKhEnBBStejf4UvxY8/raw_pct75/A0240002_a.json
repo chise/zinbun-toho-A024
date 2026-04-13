@@ -1,0 +1,6 @@
+```json
+[
+	{"text": "1", "bbox": [26, 53, 147, 110], "size": "1.56", "type": "number", "comment": "The number is faint but visible in the top left corner."},
+	{"text": "2", "bbox": [26, 114, 147, 169], "size": "1.56", "type": "number", "comment": "The number is faint but visible in the top left corner."}
+]
+```

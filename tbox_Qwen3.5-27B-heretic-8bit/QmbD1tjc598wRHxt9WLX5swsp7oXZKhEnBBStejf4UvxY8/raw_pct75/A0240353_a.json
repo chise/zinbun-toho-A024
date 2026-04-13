@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小言十三", "bbox": [953, 34, 976, 79], "size": "小", "type": "annotation", "comment": "top right corner"},
+	{"text": "言文十一", "bbox": [964, 258, 990, 310], "size": "small", "type": "annotation", "comment": "right margin"},
+	{"text": "三", "bbox": [969, 676, 990, 696], "size": "small", "type": "annotation", "comment": "right margin"},
+	{"text": "三", "bbox": [969, 699, 990, 717], "size": "small", "type": "annotation", "comment": "right margin"},
+	{"text": "吳慶", "bbox": [953, 897, 982, 936], "size": "small", "type": "annotation", "comment": "bottom right corner"},
+	{"text": "切", "bbox": [830, 32, 890, 61], "size": "small", "type": "annotation", "comment": "top of column 5"},
+	{"text": "胡", "bbox": [826, 77, 901, 200], "size": "large", "type": "seal script", "comment": "large seal character"},
+	{"text": "昆", "bbox": [885, 34, 938, 61], "size": "small", "type": "annotation", "comment": "top of column 5"},
+	{"text": "闐", "bbox": [879, 79, 940, 201], "size": "large", "type": "seal script", "comment": "large seal character"},
+	{"text": "斬𪊞鼠黑身白膏若帶手有長白毛似握", "bbox": [892, 214, 944, 866], "size": "medium", "type": "description", "comment": "column 5"},
+	{"text": "版之狀𩔗蝯雌之屬从鼠胡聲戸吳切", "bbox": [826, 214, 885, 871], "size": "medium", "type": "description", "comment": "column 5"},
+	{"text": "文二十", "bbox": [712, 265, 804, 396], "size": "large", "type": "heading", "comment": "column 4"},
+	{"text": "重三", "bbox": [714, 560, 807, 691], "size": "large", "type": "heading", "comment": "column 4"},
+	{"text": "能", "bbox": [565, 29, 688, 150], "size": "large", "type": "seal script", "comment": "large seal character"},
+	{"text": "熊屬足似鹿从肉㠯聲能獸堅中", "bbox": [579, 164, 671, 873], "size": "medium", "type": "description", "comment": "column 3"},
+	{"text": "故稱賢能而彊壯稱能傑也凡能", "bbox": [443, 165, 542, 873], "size": "medium", "type": "description", "comment": "column 2"},
+	{"text": "之屬皆从能", "bbox": [314, 166, 413, 480], "size": "medium", "type": "description", "comment": "column 2"},
+	{"text": "臣鉉等曰㠯非聲", "bbox": [365, 512, 419, 806], "size": "small", "type": "annotation", "comment": "column 2"},
+	{"text": "疑皆象形奴登切", "bbox": [307, 512, 360, 806], "size": "small", "type": "annotation", "comment": "column 2"},
+	{"text": "文一", "bbox": [321, 830, 409, 977], "size": "large", "type": "heading", "comment": "column 2"},
+	{"text": "能", "bbox": [175, 29, 290, 150], "size": "large", "type": "seal script", "comment": "large seal character"},
+	{"text": "獸似豕山居冬蟄从能炎省聲", "bbox": [185, 164, 281, 972], "size": "medium", "type": "description", "comment": "column 1"},
+	{"text": "凡熊之屬皆从熊", "bbox": [57, 166, 156, 599], "size": "medium", "type": "description", "comment": "column 1"},
+	{"text": "羽弓", "bbox": [108, 632, 154, 717], "size": "small", "type": "annotation", "comment": "column 1"},
+	{"text": "切", "bbox": [46, 632, 94, 662], "size": "small", "type": "annotation", "comment": "column 1"}
+]
+```

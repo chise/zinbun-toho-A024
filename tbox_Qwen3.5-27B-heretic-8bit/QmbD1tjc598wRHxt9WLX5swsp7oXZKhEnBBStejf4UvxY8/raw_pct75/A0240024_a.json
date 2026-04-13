@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "小三百四十二", "bbox": [950, 26, 978, 95], "size": "小", "type": "title", "comment": ""},
+	{"text": "皆从三", "bbox": [833, 155, 937, 339], "size": "大", "type": "heading", "comment": ""},
+	{"text": "蘇甘", "bbox": [886, 361, 946, 444], "size": "小", "type": "title", "comment": ""},
+	{"text": "切", "bbox": [825, 361, 876, 403], "size": "小", "type": "title", "comment": ""},
+	{"text": "古文三", "bbox": [755, 172, 807, 288], "size": "小", "type": "title", "comment": ""},
+	{"text": "从弋", "bbox": [695, 172, 748, 242], "size": "小", "type": "title", "comment": ""},
+	{"text": "文一", "bbox": [709, 420, 803, 526], "size": "大", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [709, 663, 803, 770], "size": "大", "type": "heading", "comment": ""},
+	{"text": "天下所歸往也董仲舒曰古之", "bbox": [565, 171, 669, 960], "size": "大", "type": "text", "comment": ""},
+	{"text": "造文者三畫而連其中謂之王三", "bbox": [435, 165, 530, 975], "size": "大", "type": "text", "comment": ""},
+	{"text": "者天地人也而參通之者王也孔", "bbox": [305, 162, 400, 975], "size": "大", "type": "text", "comment": ""},
+	{"text": "子曰一貫三爲王凡王之屬皆从", "bbox": [174, 165, 270, 973], "size": "大", "type": "text", "comment": ""},
+	{"text": "李陽冰曰中畫近上王", "bbox": [91, 250, 143, 658], "size": "小", "type": "title", "comment": ""},
+	{"text": "者則天之義雨方切", "bbox": [29, 248, 80, 610], "size": "小", "type": "title", "comment": ""},
+	{"text": "說文一", "bbox": [954, 252, 995, 361], "size": "小", "type": "title", "comment": ""},
+	{"text": "陳元", "bbox": [954, 910, 995, 978], "size": "小", "type": "title", "comment": ""}
+]
+```

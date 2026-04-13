@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "戉殷執白戚周左杖黃戉右秉白", "bbox": [852, 162, 951, 967], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "髦凡戉之屬皆从戉", "bbox": [710, 162, 810, 650], "size": "50.0", "type": "text", "comment": ""},
+	{"text": "臣鉉等曰今俗别", "bbox": [764, 670, 826, 893], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "作鉞非是王伐切", "bbox": [696, 670, 757, 953], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "戚", "bbox": [578, 25, 679, 150], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "戉也从戉赤", "bbox": [624, 162, 684, 366], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "聲倉歷切", "bbox": [571, 162, 632, 329], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [585, 670, 671, 782], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "我", "bbox": [435, 25, 549, 150], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "施身自謂也或說我頃頓也从戈", "bbox": [447, 162, 540, 967], "size": "50.0", "type": "text", "comment": ""},
+	{"text": "从手手或說古垂字一曰古殺字", "bbox": [309, 162, 409, 971], "size": "50.0", "type": "text", "comment": ""},
+	{"text": "凡我之屬皆从我", "bbox": [175, 162, 272, 591], "size": "50.0", "type": "text", "comment": ""},
+	{"text": "徐鍇曰从戈者取", "bbox": [210, 611, 279, 927], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "戈自持也五可切", "bbox": [148, 611, 216, 927], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "我", "bbox": [32, 25, 151, 150], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [92, 162, 150, 246], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "我", "bbox": [31, 162, 91, 206], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "義", "bbox": [25, 268, 144, 393], "size": "60.0", "type": "text", "comment": ""},
+	{"text": "已之威儀也从我羊臣鉉等曰", "bbox": [89, 417, 147, 920], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "此與善同意故从羊宜寄切", "bbox": [28, 417, 88, 882], "size": "25.0", "type": "text", "comment": ""},
+	{"text": "小三〇〇", "bbox": [972, 40, 995, 107], "size": "13.0", "type": "text", "comment": ""},
+	{"text": "言", "bbox": [973, 203, 999, 232], "size": "20.0", "type": "text", "comment": ""},
+	{"text": "陸安", "bbox": [961, 892, 995, 953], "size": "15.0", "type": "text", "comment": ""}
+]
+```

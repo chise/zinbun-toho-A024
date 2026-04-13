@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "𣥀讀若撥", "bbox": [872, 158, 976, 303], "size": "50", "type": "heading", "comment": ""},
+	{"text": "北末", "bbox": [936, 429, 988, 507], "size": "20", "type": "annotation", "comment": ""},
+	{"text": "切", "bbox": [868, 427, 922, 465], "size": "20", "type": "annotation", "comment": ""},
+	{"text": "𣥀", "bbox": [732, 16, 841, 149], "size": "70", "type": "character", "comment": ""},
+	{"text": "上車也从𣥀豆象", "bbox": [795, 166, 851, 461], "size": "20", "type": "description", "comment": ""},
+	{"text": "登車形都滕切", "bbox": [732, 166, 789, 409], "size": "20", "type": "description", "comment": ""},
+	{"text": "𦴲", "bbox": [732, 474, 841, 593], "size": "70", "type": "character", "comment": ""},
+	{"text": "籀文登", "bbox": [795, 606, 851, 704], "size": "20", "type": "description", "comment": ""},
+	{"text": "从収", "bbox": [732, 604, 789, 659], "size": "20", "type": "description", "comment": ""},
+	{"text": "𨃭", "bbox": [732, 740, 841, 873], "size": "70", "type": "character", "comment": ""},
+	{"text": "以足", "bbox": [795, 898, 851, 983], "size": "20", "type": "description", "comment": ""},
+	{"text": "蹋夷", "bbox": [732, 898, 789, 983], "size": "20", "type": "description", "comment": ""},
+	{"text": "𣥄从𣥀从殳春秋傳曰", "bbox": [660, 16, 715, 419], "size": "20", "type": "description", "comment": ""},
+	{"text": "𠬘夷蘊崇之普活切", "bbox": [597, 16, 653, 377], "size": "20", "type": "description", "comment": ""},
+	{"text": "文三", "bbox": [612, 540, 705, 672], "size": "50", "type": "annotation", "comment": ""},
+	{"text": "重一", "bbox": [612, 796, 705, 927], "size": "50", "type": "annotation", "comment": ""},
+	{"text": "𣥂", "bbox": [463, 16, 565, 149], "size": "70", "type": "character", "comment": ""},
+	{"text": "行也从止少相背凡步之屬皆从步", "bbox": [477, 159, 568, 989], "size": "50", "type": "description", "comment": ""},
+	{"text": "薄故", "bbox": [394, 206, 446, 284], "size": "20", "type": "annotation", "comment": ""},
+	{"text": "切", "bbox": [329, 206, 381, 244], "size": "20", "type": "annotation", "comment": ""},
+	{"text": "𡻕", "bbox": [190, 16, 309, 149], "size": "70", "type": "character", "comment": ""},
+	{"text": "木星也越歷二十八宿宣徧隂陽十二月一", "bbox": [254, 166, 311, 869], "size": "20", "type": "description", "comment": ""},
+	{"text": "次从步戉聲律歷書名五星為五步相銳切", "bbox": [190, 154, 247, 869], "size": "20", "type": "description", "comment": ""},
+	{"text": "文二", "bbox": [67, 268, 160, 399], "size": "50", "type": "annotation", "comment": ""},
+	{"text": "大九", "bbox": [11, 22, 35, 80], "size": "15", "type": "annotation", "comment": ""},
+	{"text": "說文二上", "bbox": [0, 261, 35, 386], "size": "15", "type": "annotation", "comment": ""},
+	{"text": "十二", "bbox": [0, 693, 35, 751], "size": "15", "type": "annotation", "comment": ""},
+	{"text": "焦克", "bbox": [15, 925, 44, 982], "size": "15", "type": "annotation", "comment": ""}
+]
+```

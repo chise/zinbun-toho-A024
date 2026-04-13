@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "录", "bbox": [864, 185, 966, 260], "size": "102", "type": "heading", "comment": ""},
+	{"text": "盧谷", "bbox": [914, 239, 972, 337], "size": "26", "type": "comment", "comment": ""},
+	{"text": "切", "bbox": [866, 264, 916, 308], "size": "26", "type": "comment", "comment": ""},
+	{"text": "文一", "bbox": [873, 595, 964, 700], "size": "60", "type": "heading", "comment": ""},
+	{"text": "禾", "bbox": [733, 24, 825, 166], "size": "102", "type": "heading", "comment": ""},
+	{"text": "嘉穀也二月始生八月而孰得", "bbox": [731, 171, 833, 991], "size": "60", "type": "description", "comment": ""},
+	{"text": "時之中故謂之禾禾木也木王而", "bbox": [596, 171, 699, 991], "size": "60", "type": "description", "comment": ""},
+	{"text": "生金王而死从木从𠬤省𠬤象", "bbox": [468, 185, 571, 996], "size": "60", "type": "description", "comment": ""},
+	{"text": "其穗凡禾之屬皆从禾", "bbox": [331, 185, 435, 759], "size": "60", "type": "description", "comment": ""},
+	{"text": "户戈", "bbox": [390, 774, 435, 852], "size": "26", "type": "comment", "comment": ""},
+	{"text": "切", "bbox": [331, 774, 380, 809], "size": "26", "type": "comment", "comment": ""},
+	{"text": "秀", "bbox": [194, 24, 300, 166], "size": "102", "type": "heading", "comment": ""},
+	{"text": "上諱", "bbox": [194, 161, 296, 298], "size": "60", "type": "description", "comment": ""},
+	{"text": "漢光武帝名也徐鍇曰禾實", "bbox": [246, 313, 304, 799], "size": "26", "type": "comment", "comment": ""},
+	{"text": "也有實之象下垂也息救切", "bbox": [187, 313, 242, 784], "size": "26", "type": "comment", "comment": ""},
+	{"text": "稼", "bbox": [194, 806, 300, 938], "size": "60", "type": "description", "comment": ""},
+	{"text": "禾", "bbox": [256, 957, 296, 991], "size": "26", "type": "comment", "comment": ""},
+	{"text": "之", "bbox": [194, 957, 237, 981], "size": "26", "type": "comment", "comment": ""},
+	{"text": "秀實爲稼莖節爲禾从禾家聲一曰", "bbox": [118, 29, 172, 634], "size": "26", "type": "comment", "comment": ""},
+	{"text": "稼家事也一曰在野曰稼古訝切", "bbox": [52, 29, 111, 598], "size": "26", "type": "comment", "comment": ""},
+	{"text": "穡", "bbox": [52, 645, 169, 779], "size": "60", "type": "description", "comment": ""},
+	{"text": "穀可收曰", "bbox": [116, 814, 170, 967], "size": "26", "type": "comment", "comment": ""},
+	{"text": "穡从禾𩰿", "bbox": [49, 814, 109, 986], "size": "26", "type": "comment", "comment": ""},
+	{"text": "大十八", "bbox": [14, 29, 36, 88], "size": "11", "type": "comment", "comment": ""},
+	{"text": "陳玉", "bbox": [21, 884, 43, 967], "size": "11", "type": "comment", "comment": ""}
+]
+```

@@ -1,0 +1,33 @@
+```json
+[
+	{"bbox_2d": [928, 162, 993, 279], "text": "古文服", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [861, 159, 918, 278], "text": "从人", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [883, 455, 982, 634], "text": "文十二", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [883, 697, 982, 824], "text": "重二", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [793, 162, 854, 406], "text": "舟也从舟可", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [731, 160, 787, 326], "text": "聲古我切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [797, 521, 858, 727], "text": "小舟也从舟", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [732, 521, 788, 706], "text": "廷聲徒鼎切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [800, 874, 858, 994], "text": "餘艄舟", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [735, 874, 790, 994], "text": "名从舟", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [661, 27, 718, 291], "text": "余聲經典通用", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [595, 22, 651, 264], "text": "餘皇以諸切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [660, 426, 718, 651], "text": "餘艎也从舟", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [597, 426, 651, 623], "text": "皇聲胡光切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [620, 737, 710, 862], "text": "文四", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [655, 869, 711, 955], "text": "新附", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [468, 159, 581, 989], "text": "併船也象兩舟省緫頭形凡方之", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [331, 160, 433, 413], "text": "屬皆从方", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [328, 433, 386, 485], "text": "切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [390, 433, 447, 519], "text": "府良", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [254, 180, 310, 990], "text": "方或方舟也从方亢聲禮天子造舟諸", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [185, 181, 244, 262], "text": "从水", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [183, 420, 240, 990], "text": "矦維舟大夫方舟士特舟臣鉉等", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [107, 26, 164, 283], "text": "曰今俗別作航", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [43, 24, 99, 249], "text": "非是胡郎切", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [53, 413, 153, 540], "text": "文二", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [55, 697, 155, 840], "text": "重一", "size": "large", "type": "text", "comment": ""},
+	{"bbox_2d": [8, 23, 39, 114], "text": "大あ", "size": "medium", "type": "text", "comment": ""},
+	{"bbox_2d": [13, 912, 39, 975], "text": "陳五", "size": "medium", "type": "text", "comment": ""}
+]
+```

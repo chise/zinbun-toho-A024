@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "年八十曰耋从老", "bbox": [897, 180, 961, 419], "size": "33", "type": "text", "comment": ""},
+	{"text": "省从至徒結切", "bbox": [839, 180, 896, 419], "size": "32", "type": "text", "comment": ""},
+	{"text": "年九十曰耄从老", "bbox": [897, 637, 961, 915], "size": "33", "type": "text", "comment": ""},
+	{"text": "从蒿省莫報切", "bbox": [839, 637, 896, 876], "size": "32", "type": "text", "comment": ""},
+	{"text": "老也从老省", "bbox": [769, 179, 829, 373], "size": "31", "type": "text", "comment": ""},
+	{"text": "旨聲渠脂切", "bbox": [712, 179, 769, 373], "size": "31", "type": "text", "comment": ""},
+	{"text": "老人面凍黎若垢从", "bbox": [769, 558, 829, 876], "size": "31", "type": "text", "comment": ""},
+	{"text": "老省句聲古厚切", "bbox": [712, 558, 769, 837], "size": "31", "type": "text", "comment": ""},
+	{"text": "老人面如黚也从老省占", "bbox": [643, 179, 700, 537], "size": "31", "type": "text", "comment": ""},
+	{"text": "聲讀若耿介之耿丁念切", "bbox": [582, 179, 639, 558], "size": "31", "type": "text", "comment": ""},
+	{"text": "老人行才相", "bbox": [643, 773, 700, 977], "size": "31", "type": "text", "comment": ""},
+	{"text": "逮从老省易", "bbox": [582, 773, 639, 977], "size": "31", "type": "text", "comment": ""},
+	{"text": "久也从老省", "bbox": [514, 412, 568, 617], "size": "30", "type": "text", "comment": ""},
+	{"text": "省行象讀若", "bbox": [514, 34, 568, 238], "size": "30", "type": "text", "comment": ""},
+	{"text": "樹常句切", "bbox": [449, 34, 504, 211], "size": "30", "type": "text", "comment": ""},
+	{"text": "冏聲殖酉切", "bbox": [449, 412, 504, 617], "size": "30", "type": "text", "comment": ""},
+	{"text": "老也从老省", "bbox": [514, 752, 568, 977], "size": "30", "type": "text", "comment": ""},
+	{"text": "亏聲苦浩切", "bbox": [449, 752, 504, 977], "size": "30", "type": "text", "comment": ""},
+	{"text": "善事父母者从老省从", "bbox": [378, 180, 432, 558], "size": "30", "type": "text", "comment": ""},
+	{"text": "子子承耄也呼敎切", "bbox": [315, 180, 371, 537], "size": "30", "type": "text", "comment": ""},
+	{"text": "文十", "bbox": [328, 694, 418, 824], "size": "61", "type": "text", "comment": ""},
+	{"text": "屬皆从毛", "bbox": [60, 180, 153, 419], "size": "44", "type": "text", "comment": ""},
+	{"text": "莫袍", "bbox": [109, 443, 166, 519], "size": "28", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [51, 443, 97, 471], "size": "28", "type": "text", "comment": ""},
+	{"text": "眉髮之屬及獸毛也象形凡毛之", "bbox": [192, 180, 285, 977], "size": "45", "type": "text", "comment": ""},
+	{"text": "陳廣", "bbox": [11, 906, 34, 972], "size": "17", "type": "text", "comment": ""},
+	{"text": "大二十二", "bbox": [11, 31, 34, 102], "size": "17", "type": "text", "comment": ""}
+]
+```

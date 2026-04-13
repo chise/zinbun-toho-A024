@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "小二百四十五", "bbox": [958, 34, 982, 118], "size": "小", "type": "text", "comment": ""},
+	{"text": "說文十四下", "bbox": [964, 267, 996, 406], "size": "小", "type": "text", "comment": ""},
+	{"text": "嚴華", "bbox": [957, 908, 983, 965], "size": "小", "type": "text", "comment": ""},
+	{"text": "幽", "bbox": [828, 34, 944, 166], "size": "大", "type": "text", "comment": ""},
+	{"text": "周成王時州靡國獻囂人身反踵自笑笑即上脣", "bbox": [888, 173, 947, 974], "size": "中", "type": "text", "comment": ""},
+	{"text": "掩其目食人北方謂之土螻爾疋云囂囂如人被", "bbox": [822, 173, 886, 965], "size": "中", "type": "text", "comment": ""},
+	{"text": "髮一名鼻陽从", "bbox": [757, 34, 819, 288], "size": "中", "type": "text", "comment": ""},
+	{"text": "虫", "bbox": [705, 295, 817, 427], "size": "大", "type": "text", "comment": ""},
+	{"text": "蟲也从虫象形讀", "bbox": [757, 436, 817, 730], "size": "中", "type": "text", "comment": ""},
+	{"text": "古文", "bbox": [757, 885, 814, 960], "size": "中", "type": "text", "comment": ""},
+	{"text": "虫象形符未切", "bbox": [700, 34, 757, 297], "size": "中", "type": "text", "comment": ""},
+	{"text": "與禦同私剴切", "bbox": [700, 436, 755, 689], "size": "中", "type": "text", "comment": ""},
+	{"text": "𦍑", "bbox": [697, 739, 813, 872], "size": "大", "type": "text", "comment": ""},
+	{"text": "𦍑", "bbox": [697, 884, 752, 922], "size": "中", "type": "text", "comment": ""},
+	{"text": "文七", "bbox": [578, 255, 667, 368], "size": "大", "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [579, 488, 665, 603], "size": "大", "type": "text", "comment": ""},
+	{"text": "𤉹", "bbox": [443, 32, 547, 149], "size": "大", "type": "text", "comment": ""},
+	{"text": "犨也象耳頭足虫地之形古文𤉹", "bbox": [443, 155, 539, 967], "size": "中", "type": "text", "comment": ""},
+	{"text": "下从虫凡𤉹之屬皆从𤉹", "bbox": [319, 223, 412, 776], "size": "中", "type": "text", "comment": ""},
+	{"text": "許救", "bbox": [362, 793, 418, 877], "size": "中", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [308, 793, 358, 832], "size": "中", "type": "text", "comment": ""},
+	{"text": "𤉹", "bbox": [183, 34, 290, 150], "size": "大", "type": "text", "comment": ""},
+	{"text": "守備者从𤉹", "bbox": [237, 155, 290, 361], "size": "中", "type": "text", "comment": ""},
+	{"text": "从犬舒救切", "bbox": [177, 155, 229, 357], "size": "中", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [190, 566, 280, 679], "size": "大", "type": "text", "comment": ""},
+	{"text": "甲", "bbox": [61, 33, 146, 150], "size": "大", "type": "text", "comment": ""},
+	{"text": "東方之孟陽气萌動从木戴孚甲", "bbox": [61, 166, 146, 972], "size": "中", "type": "text", "comment": ""}
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小百十九", "bbox": [943, 20, 969, 106], "size": "15.8", "type": "text", "comment": "reading right to left"},
+	{"text": "言文十四下", "bbox": [946, 258, 981, 413], "size": "20.0", "type": "text", "comment": "reading right to left"},
+	{"text": "十", "bbox": [982, 715, 997, 737], "size": "10.6", "type": "text", "comment": "reading right to left"},
+	{"text": "祁三", "bbox": [941, 893, 966, 972], "size": "15.8", "type": "text", "comment": "reading right to left"},
+	{"text": "辯", "bbox": [879, 33, 931, 161], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "訟也从𠬪𠬪猶理辜", "bbox": [876, 177, 928, 520], "size": "30.2", "type": "text", "comment": "reading right to left"},
+	{"text": "籀文辭", "bbox": [876, 651, 931, 784], "size": "30.2", "type": "text", "comment": "reading right to left"},
+	{"text": "𤔔", "bbox": [814, 33, 868, 156], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "也𠬪理也似兹切", "bbox": [815, 177, 868, 465], "size": "30.2", "type": "text", "comment": "reading right to left"},
+	{"text": "𠬧", "bbox": [810, 510, 872, 639], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "从司", "bbox": [817, 651, 864, 730], "size": "30.2", "type": "text", "comment": "reading right to left"},
+	{"text": "文六", "bbox": [699, 284, 787, 401], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "重三", "bbox": [701, 530, 783, 656], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "辯", "bbox": [556, 33, 667, 156], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "鼻人相與訟也从二辛凡𠮟之屬", "bbox": [556, 164, 657, 977], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "皆从𠮟", "bbox": [431, 156, 522, 358], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "方免", "bbox": [478, 371, 532, 449], "size": "30.2", "type": "text", "comment": "reading right to left"},
+	{"text": "切", "bbox": [431, 371, 472, 402], "size": "30.2", "type": "text", "comment": "reading right to left"},
+	{"text": "辯", "bbox": [287, 33, 409, 156], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "治也从言在𠮟", "bbox": [344, 171, 409, 419], "size": "30.2", "type": "text", "comment": "reading right to left"},
+	{"text": "之間符蹇切", "bbox": [295, 171, 344, 387], "size": "30.2", "type": "text", "comment": "reading right to left"},
+	{"text": "文二", "bbox": [307, 635, 391, 751], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "壬", "bbox": [167, 37, 275, 143], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "位北方也陰極陽生故易曰龍戰", "bbox": [179, 164, 266, 977], "size": "64.0", "type": "text", "comment": "reading right to left"},
+	{"text": "于野戰者接也象人裹妊之形承", "bbox": [45, 171, 138, 977], "size": "64.0", "type": "text", "comment": "reading right to left"}
+]
+```

@@ -1,0 +1,33 @@
+```json
+[
+	{"bbox_2d": [880, 89, 944, 812], "text_content": "十五葉衣錦聚衣示反古後改棄示字空白", "font_size": "31"},
+	{"bbox_2d": [846, 91, 880, 215], "text_content": "十四行", "font_size": "31"},
+	{"bbox_2d": [796, 91, 843, 221], "text_content": "十八葉", "font_size": "31"},
+	{"bbox_2d": [746, 93, 785, 172], "text_content": "八行", "font_size": "31"},
+	{"bbox_2d": [765, 216, 832, 470], "text_content": "裏也裏後改裏", "font_size": "51"},
+	{"bbox_2d": [658, 27, 726, 302], "text_content": "弟八上", "font_size": "65"},
+	{"bbox_2d": [645, 184, 682, 257], "text_content": "十行", "font_size": "31"},
+	{"bbox_2d": [691, 184, 730, 256], "text_content": "四葉", "font_size": "31"},
+	{"bbox_2d": [662, 300, 732, 565], "text_content": "殷曰吁吁後改嘑", "font_size": "51"},
+	{"bbox_2d": [591, 93, 630, 172], "text_content": "五葉", "font_size": "31"},
+	{"bbox_2d": [541, 93, 581, 172], "text_content": "三行", "font_size": "31"},
+	{"bbox_2d": [556, 185, 626, 558], "text_content": "之人上之下後增在字", "font_size": "51"},
+	{"bbox_2d": [490, 93, 529, 172], "text_content": "八葉", "font_size": "31"},
+	{"bbox_2d": [440, 93, 479, 172], "text_content": "二行", "font_size": "31"},
+	{"bbox_2d": [456, 184, 525, 682], "text_content": "繇繇气出兒繇繇後改𠯋𠯋", "font_size": "51"},
+	{"bbox_2d": [388, 93, 427, 172], "text_content": "八葉", "font_size": "31"},
+	{"bbox_2d": [338, 93, 377, 172], "text_content": "四行", "font_size": "31"},
+	{"bbox_2d": [353, 184, 422, 551], "text_content": "篆文𠯋後改𠯋", "font_size": "51"},
+	{"bbox_2d": [254, 27, 322, 264], "text_content": "弟九上", "font_size": "65"},
+	{"bbox_2d": [239, 184, 277, 257], "text_content": "四行", "font_size": "31"},
+	{"bbox_2d": [284, 184, 323, 256], "text_content": "首葉", "font_size": "31"},
+	{"bbox_2d": [252, 261, 322, 594], "text_content": "重六十三三後改四", "font_size": "51"},
+	{"bbox_2d": [189, 93, 228, 172], "text_content": "二葉", "font_size": "31"},
+	{"bbox_2d": [139, 93, 178, 172], "text_content": "首行", "font_size": "31"},
+	{"bbox_2d": [155, 185, 224, 561], "text_content": "籀文頰後改籀文从𩠐", "font_size": "51"},
+	{"bbox_2d": [89, 93, 128, 172], "text_content": "四葉", "font_size": "31"},
+	{"bbox_2d": [39, 93, 78, 172], "text_content": "首行", "font_size": "31"},
+	{"bbox_2d": [56, 185, 124, 472], "text_content": "司人也司後改伺", "font_size": "51"},
+	{"bbox_2d": [15, 928, 43, 973], "text_content": "陳生", "font_size": "18"}
+]
+```

@@ -1,0 +1,14 @@
+```json
+[
+	{"text": "說文解字弟一上", "bbox": [860, 5, 966, 419], "size": "41.86", "type": "heading", "comment": ""},
+	{"text": "漢太尉祭酒許慎記", "bbox": [869, 489, 977, 961], "size": "43.14", "type": "heading", "comment": ""},
+	{"text": "銀靑光禄大夫守右散騎常侍上桂國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [735, 38, 822, 994], "size": "31.43", "type": "heading", "comment": ""},
+	{"text": "敕校定", "bbox": [596, 37, 670, 152], "size": "36.13", "type": "heading", "comment": ""},
+	{"text": "十四部六百七十二文重八十一", "bbox": [456, 73, 559, 904], "size": "41.4", "type": "heading", "comment": ""},
+	{"text": "凡萬六百三十九字", "bbox": [324, 202, 419, 664], "size": "41.86", "type": "heading", "comment": ""},
+	{"text": "文三十一", "bbox": [185, 202, 277, 428], "size": "41.86", "type": "heading", "comment": ""},
+	{"text": "新附", "bbox": [223, 437, 288, 527], "size": "24.6", "type": "heading", "comment": ""},
+	{"text": "一惟初太始道立於一造分天地化成", "bbox": [42, 56, 153, 996], "size": "41.86", "type": "heading", "comment": ""},
+	{"text": "張信", "bbox": [4, 930, 34, 994], "size": "13.2", "type": "heading", "comment": ""}
+]
+```

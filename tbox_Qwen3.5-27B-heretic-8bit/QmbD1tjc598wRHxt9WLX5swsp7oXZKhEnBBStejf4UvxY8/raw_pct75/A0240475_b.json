@@ -1,0 +1,16 @@
+```json
+[
+	{"bbox_2d": [824, 25, 953, 977], "text": "風八風也東方曰明庶風東南曰清", "size": 132.667, "type": "text", "comment": ""},
+	{"bbox_2d": [696, 159, 820, 979], "text": "明風南方曰景風西南曰涼風西", "size": 120.5, "type": "text", "comment": ""},
+	{"bbox_2d": [574, 155, 696, 977], "text": "方曰閶闔風西北曰不周風北方", "size": 123.333, "type": "text", "comment": ""},
+	{"bbox_2d": [444, 168, 546, 977], "text": "曰廣莫風東北曰融風風動蟲生", "size": 118.833, "type": "text", "comment": ""},
+	{"bbox_2d": [317, 157, 416, 971], "text": "故蟲八日而化从虫凡聲凡風之", "size": 119.5, "type": "text", "comment": ""},
+	{"bbox_2d": [178, 163, 286, 537], "text": "屬皆从風方戎切", "size": 114.167, "type": "text", "comment": ""},
+	{"bbox_2d": [101, 163, 166, 672], "text": "古文北風謂之颯从風", "size": 65.167, "type": "text", "comment": ""},
+	{"bbox_2d": [40, 163, 95, 205], "text": "風", "size": 42.167, "type": "text", "comment": ""},
+	{"bbox_2d": [40, 248, 166, 589], "text": "涼省聲吕張切", "size": 57.667, "type": "text", "comment": ""},
+	{"bbox_2d": [40, 679, 163, 979], "text": "小風也从風木聲翔", "size": 55.667, "type": "text", "comment": ""},
+	{"bbox_2d": [4, 38, 34, 104], "text": "六十八", "size": 15.667, "type": "text", "comment": ""},
+	{"bbox_2d": [1, 891, 34, 942], "text": "唐文", "size": 17.5, "type": "text", "comment": ""}
+]
+```

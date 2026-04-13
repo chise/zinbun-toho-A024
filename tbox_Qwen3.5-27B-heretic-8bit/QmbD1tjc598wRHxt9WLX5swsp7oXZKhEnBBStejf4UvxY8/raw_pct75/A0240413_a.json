@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "小言夕", "bbox": [925, 37, 953, 104], "size": "小", "type": "heading", "comment": "small characters in top right corner"},
+	{"text": "从魚兆聲", "bbox": [861, 35, 918, 169], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "魚名从魚匕", "bbox": [866, 345, 921, 529], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "新魚精也从三魚", "bbox": [861, 685, 918, 869], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "李云", "bbox": [921, 905, 951, 972], "size": "小", "type": "heading", "comment": "small characters in bottom right corner"},
+	{"text": "治小切", "bbox": [803, 35, 856, 167], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "聲呼跨切", "bbox": [803, 331, 858, 497], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "不變魚徐鍇曰三", "bbox": [803, 685, 858, 869], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "衆也衆而不變", "bbox": [738, 35, 791, 167], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "是魚鱻也相然切", "bbox": [679, 35, 732, 167], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "文一百三", "bbox": [690, 417, 782, 662], "size": "特大", "type": "heading", "comment": "very large characters"},
+	{"text": "重七", "bbox": [690, 723, 770, 827], "size": "特大", "type": "heading", "comment": "very large characters"},
+	{"text": "比目魚也从魚", "bbox": [614, 182, 666, 413], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "文魮魚名从魚", "bbox": [611, 573, 664, 811], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "葉聲土盍切", "bbox": [548, 182, 604, 373], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "比聲房脂切", "bbox": [545, 573, 600, 765], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "文鯉魚名从魚", "bbox": [483, 35, 536, 167], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "新附", "bbox": [476, 570, 528, 615], "size": "中", "type": "heading", "comment": "medium characters"},
+	{"text": "文三", "bbox": [435, 408, 521, 535], "size": "特大", "type": "heading", "comment": "very large characters"},
+	{"text": "岳聲余招切", "bbox": [422, 35, 477, 167], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "二魚也凡𩵋之屬皆从𩵋", "bbox": [309, 159, 395, 781], "size": "特大", "type": "heading", "comment": "very large characters"},
+	{"text": "語居", "bbox": [354, 795, 408, 871], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "切", "bbox": [306, 795, 359, 830], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "捕魚也从𩵋", "bbox": [231, 170, 284, 373], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "篆文𩵋", "bbox": [231, 518, 283, 636], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "从水語居切", "bbox": [170, 170, 222, 373], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "从魚", "bbox": [170, 518, 222, 584], "size": "大", "type": "heading", "comment": "large characters"},
+	{"text": "文二", "bbox": [59, 385, 146, 484], "size": "特大", "type": "heading", "comment": "very large characters"},
+	{"text": "重一", "bbox": [59, 607, 146, 719], "size": "特大", "type": "heading", "comment": "very large characters"}
+]
+```

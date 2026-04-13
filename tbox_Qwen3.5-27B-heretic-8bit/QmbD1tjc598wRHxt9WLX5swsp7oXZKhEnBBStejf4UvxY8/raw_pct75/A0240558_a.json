@@ -1,0 +1,17 @@
+```json
+[
+	{"text": "人牒至準", "bbox": [851, 13, 945, 271], "size": "60.11", "type": "Chinese", "comment": ""},
+	{"text": "敕故牒", "bbox": [716, 12, 812, 200], "size": "59.28", "type": "Chinese", "comment": ""},
+	{"text": "雍熙三年十一月", "bbox": [583, 77, 671, 550], "size": "57.53", "type": "Chinese", "comment": ""},
+	{"text": "日牒", "bbox": [587, 664, 675, 787], "size": "58.33", "type": "Chinese", "comment": ""},
+	{"text": "給事中參知政事辛仲甫", "bbox": [450, 163, 547, 911], "size": "55.69", "type": "Chinese", "comment": ""},
+	{"text": "給事中參知政事吕蒙正", "bbox": [317, 164, 412, 902], "size": "54.52", "type": "Chinese", "comment": ""},
+	{"text": "中書侍郎兼工部尚書平章事李昉", "bbox": [190, 164, 277, 904], "size": "52.82", "type": "Chinese", "comment": ""},
+	{"text": "有明後學毛晉從宋本校刊", "bbox": [40, 438, 90, 789], "size": "25.4", "type": "Chinese", "comment": ""},
+	{"text": "男扆再校", "bbox": [38, 814, 86, 943], "size": "25.62", "type": "Chinese", "comment": ""},
+	{"text": "小百七十七", "bbox": [964, 15, 992, 120], "size": "14.1", "type": "Chinese", "comment": ""},
+	{"text": "言文三", "bbox": [972, 262, 997, 286], "size": "16.27", "type": "Chinese", "comment": ""},
+	{"text": "一四", "bbox": [972, 684, 994, 714], "size": "15.42", "type": "Chinese", "comment": ""},
+	{"text": "嚴華", "bbox": [957, 915, 985, 979], "size": "15.27", "type": "Chinese", "comment": ""}
+]
+```

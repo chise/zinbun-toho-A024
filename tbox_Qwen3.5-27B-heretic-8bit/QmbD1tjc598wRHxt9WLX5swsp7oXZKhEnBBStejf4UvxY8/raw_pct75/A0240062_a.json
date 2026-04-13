@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "張口皃从口", "bbox": [860, 162, 911, 325], "size": "25.423800000000002", "type": "main_text", "comment": "The first character is '張'."},
+	{"text": "聲許加切", "bbox": [803, 162, 853, 348], "size": "25.423800000000002", "type": "main_text", "comment": "The last character is '切'."},
+	{"text": "文十", "bbox": [811, 565, 894, 695], "size": "50.847600000000006", "type": "main_text", "comment": ""},
+	{"text": "新附", "bbox": [853, 697, 904, 780], "size": "32.0328", "type": "main_text", "comment": ""},
+	{"text": "口犯切", "bbox": [681, 911, 785, 977], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "張口也象形凡口之屬皆从口", "bbox": [684, 157, 772, 908], "size": "40.678099999999996", "type": "main_text", "comment": ""},
+	{"text": "文一", "bbox": [558, 355, 642, 485], "size": "50.847600000000006", "type": "main_text", "comment": ""},
+	{"text": "驚嘑也从二口凡口之屬皆从口", "bbox": [428, 157, 517, 977], "size": "40.678099999999996", "type": "main_text", "comment": ""},
+	{"text": "讀若讙", "bbox": [300, 160, 388, 395], "size": "40.678099999999996", "type": "main_text", "comment": ""},
+	{"text": "臣鉉等曰或通用讙今", "bbox": [343, 382, 399, 785], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "俗別作喧非是況袁切", "bbox": [290, 382, 346, 785], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "亂也从交工交呬一曰窑譭讀若讓徐鍇曰二", "bbox": [237, 207, 282, 977], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "口嗗沓也爻物相交質也工人所作也已象交", "bbox": [175, 207, 221, 977], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "構形女", "bbox": [92, 26, 147, 152], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "籀文", "bbox": [95, 305, 147, 388], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "譭", "bbox": [44, 305, 90, 345], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "敎命急也从口", "bbox": [97, 550, 147, 785], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "古", "bbox": [108, 935, 147, 977], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "嚴聲語桉切", "bbox": [41, 550, 87, 785], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "文", "bbox": [52, 935, 92, 977], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "庚切", "bbox": [42, 26, 87, 109], "size": "25.423800000000002", "type": "main_text", "comment": ""},
+	{"text": "任三", "bbox": [922, 919, 950, 977], "size": "13.388400000000001", "type": "footer", "comment": ""},
+	{"text": "十三", "bbox": [933, 715, 961, 765], "size": "13.388400000000001", "type": "footer", "comment": ""},
+	{"text": "言文二", "bbox": [933, 256, 961, 306], "size": "13.388400000000001", "type": "footer", "comment": ""},
+	{"text": "小三卅", "bbox": [925, 26, 953, 76], "size": "13.388400000000001", "type": "header", "comment": ""}
+]
+```

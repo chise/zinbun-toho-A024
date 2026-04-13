@@ -1,0 +1,22 @@
+```json
+[
+	{"bbox_2d": [957, 36, 985, 145], "text_content": "小四百二十五", "size": "4.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [952, 499, 985, 979], "text_content": "十二 嚴華", "size": "4.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [898, 178, 952, 934], "text_content": "左馮翊高陵从 邑由聲徒歷切 左馮翊谷口鄉从邑 季聲讀若寧奴顛切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [761, 178, 817, 417], "text_content": "隴西上邽也从 邑圭聲古畦切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [759, 571, 815, 770], "text_content": "天水狄部从邑 音聲蒲口切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [633, 39, 688, 286], "text_content": "弘農縣庾地从 邑豆聲當侯切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [631, 529, 685, 974], "text_content": "河南縣直城門官陌地也从邑 辱聲春秋傳曰成王定鼎于郟", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [496, 39, 552, 260], "text_content": "鄢而 蜀切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [494, 276, 549, 565], "text_content": "周邑也从邑 輦聲力展切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [494, 581, 548, 820], "text_content": "周邑也从邑 祭聲側介切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [371, 39, 426, 369], "text_content": "河南洛陽北芒山上 邑从邑亾聲莫郎切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [370, 529, 424, 737], "text_content": "周邑也从邑 尋聲徐林切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [369, 859, 423, 974], "text_content": "周邑 也在", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [237, 39, 291, 259], "text_content": "河内从邑希 聲丑脂切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [236, 401, 289, 730], "text_content": "河内沁水鄉从邑軍 聲魯有鄆地王問切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [235, 859, 288, 974], "text_content": "故商邑 自河内", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [102, 39, 157, 470], "text_content": "朝歌以北是也从 邑北聲補妹切", "size": "10.5", "type": "Main text", "comment": ""},
+	{"bbox_2d": [102, 487, 156, 974], "text_content": "周武王子所封在河内野王是 也从邑于聲又讀若區況于切", "size": "10.5", "type": "Main text", "comment": ""}
+]
+```

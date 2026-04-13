@@ -1,0 +1,18 @@
+```json
+[
+	{"text": "小九十一", "bbox": [912, 38, 937, 125], "size": "small", "type": "line number"},
+	{"text": "說文十一下", "bbox": [918, 250, 962, 387], "size": "small", "type": "title"},
+	{"text": "十三", "bbox": [929, 663, 962, 714], "size": "small", "type": "section"},
+	{"text": "宏昌", "bbox": [868, 883, 943, 951], "size": "small", "type": "publisher"},
+	{"text": "熒", "bbox": [533, 16, 657, 167], "size": "large", "type": "character"},
+	{"text": "回熱也从熒營", "bbox": [549, 168, 657, 422], "size": "small", "type": "definition"},
+	{"text": "文三", "bbox": [549, 595, 645, 710], "size": "small", "type": "count"},
+	{"text": "皆从爿息晉", "bbox": [414, 155, 535, 422], "size": "small", "type": "definition"},
+	{"text": "几", "bbox": [288, 16, 408, 167], "size": "large", "type": "character"},
+	{"text": "几实𩭁也从𩭁𩭁不見几", "bbox": [292, 167, 408, 825], "size": "small", "type": "definition"},
+	{"text": "非", "bbox": [43, 16, 159, 167], "size": "large", "type": "character"},
+	{"text": "非也非也非也非", "bbox": [43, 167, 159, 730], "size": "small", "type": "definition"},
+	{"text": "非", "bbox": [43, 730, 159, 880], "size": "large", "type": "character"},
+	{"text": "相蓮", "bbox": [43, 880, 159, 951], "size": "small", "type": "definition"}
+]
+```

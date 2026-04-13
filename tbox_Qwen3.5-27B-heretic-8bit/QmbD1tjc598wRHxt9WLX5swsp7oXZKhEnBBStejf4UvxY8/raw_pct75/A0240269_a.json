@@ -1,0 +1,23 @@
+```json
+[
+	{"bbox_2d": [940, 20, 966, 120], "text_content": "小二百八十三", "font_size": "小", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [947, 258, 975, 393], "text_content": "言文七下", "font_size": "小", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [935, 910, 959, 971], "text_content": "李明", "font_size": "小", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [826, 164, 922, 974], "text_content": "覆也从一下坐也凡冂之屬皆从", "font_size": "大", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [755, 255, 800, 500], "text_content": "臣鉉等曰今俗", "font_size": "中", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [686, 253, 741, 485], "text_content": "作幂同莫狄切", "font_size": "中", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [606, 160, 666, 974], "text_content": "髟也所以髟髮弁冕之總名也从冂从元元亦聲", "font_size": "大", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [552, 162, 606, 974], "text_content": "冠有法制从寸徐鍇曰取其在首故从元古丸切", "font_size": "大", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [478, 158, 536, 405], "text_content": "積也从冂从取", "font_size": "大", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [425, 162, 480, 408], "text_content": "取亦聲才句切", "font_size": "大", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [481, 554, 536, 775], "text_content": "奠爵酒也从冂", "font_size": "大", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [479, 792, 533, 977], "text_content": "託聲周書", "font_size": "大", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [417, 554, 473, 975], "text_content": "曰王三宿三祭三酳當故", "font_size": "大", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [361, 30, 410, 67], "text_content": "切", "font_size": "中", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [310, 233, 391, 388], "text_content": "文四", "font_size": "大", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [174, 162, 272, 974], "text_content": "重覆也从冂一凡冂之屬皆从冂", "font_size": "大", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [98, 164, 150, 249], "text_content": "莫保", "font_size": "中", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [47, 166, 79, 215], "text_content": "切", "font_size": "中", "font_type": "宋体", "comment": ""},
+	{"bbox_2d": [45, 249, 138, 626], "text_content": "讀若艸苺之苺", "font_size": "大", "font_type": "宋体", "comment": ""}
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "緀", "bbox": [833, 32, 971, 171], "size": "138", "type": "seal"},
+	{"text": "合箸也从敆", "bbox": [901, 175, 963, 375], "size": "16", "type": "heading"},
+	{"text": "从糸陟衛切", "bbox": [842, 175, 903, 384], "size": "16", "type": "heading"},
+	{"text": "文二", "bbox": [868, 551, 951, 677], "size": "42", "type": "heading"},
+	{"text": "亞", "bbox": [717, 32, 833, 138], "size": "116", "type": "seal"},
+	{"text": "醜也象人局背之形賈侍中説以", "bbox": [728, 173, 823, 980], "size": "42", "type": "description"},
+	{"text": "爲次弟也凡亞之屬皆从亞", "bbox": [593, 160, 686, 859], "size": "42", "type": "description"},
+	{"text": "衣駕", "bbox": [647, 875, 695, 968], "size": "16", "type": "heading"},
+	{"text": "切", "bbox": [589, 875, 637, 921], "size": "16", "type": "heading"},
+	{"text": "亞", "bbox": [452, 32, 566, 157], "size": "114", "type": "seal"},
+	{"text": "闕衣", "bbox": [507, 163, 564, 247], "size": "16", "type": "heading"},
+	{"text": "駕切", "bbox": [452, 163, 507, 247], "size": "16", "type": "heading"},
+	{"text": "文二", "bbox": [468, 546, 551, 658], "size": "42", "type": "heading"},
+	{"text": "X", "bbox": [319, 37, 432, 133], "size": "114", "type": "seal"},
+	{"text": "五行也从二陰陽在天地閒交午", "bbox": [329, 181, 423, 999], "size": "42", "type": "description"},
+	{"text": "也凡五之屬皆从五", "bbox": [192, 181, 285, 682], "size": "42", "type": "description"},
+	{"text": "臣鉉等曰二天", "bbox": [247, 712, 299, 980], "size": "16", "type": "heading"},
+	{"text": "地也疑古切", "bbox": [185, 712, 236, 980], "size": "16", "type": "heading"},
+	{"text": "X", "bbox": [50, 35, 164, 147], "size": "114", "type": "seal"},
+	{"text": "古文", "bbox": [111, 171, 163, 250], "size": "16", "type": "heading"},
+	{"text": "五省", "bbox": [50, 171, 102, 250], "size": "16", "type": "heading"},
+	{"text": "文一", "bbox": [68, 416, 152, 527], "size": "42", "type": "heading"},
+	{"text": "重一", "bbox": [68, 665, 152, 775], "size": "42", "type": "heading"},
+	{"text": "大十", "bbox": [8, 32, 34, 92], "size": "10", "type": "page number"},
+	{"text": "史攸", "bbox": [8, 925, 34, 990], "size": "10", "type": "signature"}
+]
+```

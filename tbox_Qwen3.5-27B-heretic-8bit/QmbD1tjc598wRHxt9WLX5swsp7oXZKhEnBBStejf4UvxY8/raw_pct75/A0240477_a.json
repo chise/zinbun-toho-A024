@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "之形凡龜之屬皆从龜", "bbox": [837, 181, 931, 732], "size": "30", "type": "text", "comment": "居追切"},
+	{"text": "古文龜", "bbox": [691, 163, 807, 243], "size": "20", "type": "text", "comment": "名从龜舁聲舁古文終字徒冬切"},
+	{"text": "龜申邊也从龜", "bbox": [691, 837, 807, 971], "size": "20", "type": "text", "comment": ""},
+	{"text": "井聲天子巨鼉尺有二寸諸侯尺大夫八寸士六寸汝閭切", "bbox": [557, 37, 681, 507], "size": "20", "type": "text", "comment": ""},
+	{"text": "文三 重一", "bbox": [571, 624, 663, 923], "size": "20", "type": "text", "comment": ""},
+	{"text": "龜 鼃也从它象形鼃頭與它頭同", "bbox": [439, 162, 534, 976], "size": "30", "type": "text", "comment": ""},
+	{"text": "臣鉉等曰象其腹也", "bbox": [297, 163, 412, 328], "size": "20", "type": "text", "comment": ""},
+	{"text": "凡鼃之屬皆从鼃", "bbox": [309, 345, 404, 775], "size": "30", "type": "text", "comment": "莫杏切"},
+	{"text": "籀文鼃", "bbox": [176, 163, 281, 243], "size": "20", "type": "text", "comment": ""},
+	{"text": "甲蟲也从鼃敝聲幷列切", "bbox": [166, 385, 281, 589], "size": "20", "type": "text", "comment": ""},
+	{"text": "大鼈也从鼃元聲愚袁切", "bbox": [166, 736, 281, 942], "size": "20", "type": "text", "comment": ""},
+	{"text": "蝦墓也从鼃圭聲烏媧切", "bbox": [39, 163, 154, 371], "size": "20", "type": "text", "comment": ""},
+	{"text": "兖鼈詹諸也其鳴詹諸其皮鼈鼈其行先先从鼃从先先", "bbox": [29, 512, 149, 976], "size": "20", "type": "text", "comment": ""},
+	{"text": "小言究", "bbox": [951, 41, 982, 141], "size": "20", "type": "text", "comment": ""},
+	{"text": "言文十三", "bbox": [959, 276, 991, 411], "size": "20", "type": "text", "comment": ""},
+	{"text": "四", "bbox": [959, 689, 991, 711], "size": "20", "type": "text", "comment": ""},
+	{"text": "陳元", "bbox": [951, 885, 982, 959], "size": "20", "type": "text", "comment": ""}
+]
+```

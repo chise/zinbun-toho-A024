@@ -1,0 +1,28 @@
+```json
+[
+	{"bbox_2d": [928, 19, 986, 994], "text": "鉉等曰今俗以此爲艸木之艸別作皁字爲黑色之皁", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [857, 20, 914, 971], "text": "案櫟實可以染帛爲黑色故曰草通用爲草棧字今俗", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [786, 18, 843, 467], "text": "書皁或从白从十或从白从七皆無意義無以下筆", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [789, 529, 847, 930], "text": "麻蒸也从艸取聲一曰蓐也側鳩切", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [654, 177, 712, 394], "text": "積也从艸畜聲丑六切", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [656, 547, 714, 900], "text": "推也从艸从日艸春時生也屯聲昌純切", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [517, 177, 575, 569], "text": "艸多皃从艸狐聲江夏", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [456, 177, 513, 498], "text": "乎春有菰亭古狐切", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [520, 691, 578, 897], "text": "艸木倒从艸", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [458, 691, 515, 944], "text": "到聲都盜切", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [331, 169, 430, 535], "text": "文四百四十五", "size": 64, "type": "body", "comment": ""},
+	{"bbox_2d": [331, 673, 423, 891], "text": "重三十一", "size": 64, "type": "body", "comment": ""},
+	{"bbox_2d": [247, 172, 305, 390], "text": "芙蓉也从艸", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [185, 172, 243, 390], "text": "夫聲防無切", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [249, 533, 307, 751], "text": "芙蓉也从艸", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [187, 533, 245, 751], "text": "容聲余封切", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [251, 856, 309, 978], "text": "艸也", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [189, 856, 247, 978], "text": "左氏", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [117, 19, 175, 327], "text": "傳楚大夫薳子馮", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [55, 19, 113, 318], "text": "从艸遠聲韋委切", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [118, 532, 175, 985], "text": "艸也从艸旬聲臣鉉等案今", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [55, 532, 113, 978], "text": "人姓荀氏本郇侯之後宜用", "size": 31, "type": "body", "comment": ""},
+	{"bbox_2d": [8, 19, 32, 82], "text": "大十九", "size": 16, "type": "body", "comment": ""},
+	{"bbox_2d": [8, 916, 33, 978], "text": "陳廣", "size": 16, "type": "body", "comment": ""}
+]
+```

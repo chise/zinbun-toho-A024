@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "小二十四", "bbox": [944, 30, 965, 83], "size": "34", "type": "text", "comment": ""},
+	{"text": "言文十一", "bbox": [953, 248, 977, 314], "size": "34", "type": "text", "comment": ""},
+	{"text": "景昌", "bbox": [944, 907, 970, 968], "size": "34", "type": "text", "comment": ""},
+	{"text": "林", "bbox": [829, 38, 932, 148], "size": "94", "type": "text", "comment": ""},
+	{"text": "葩之總名也林之爲言微也微纖", "bbox": [829, 168, 929, 961], "size": "86", "type": "text", "comment": ""},
+	{"text": "爲功象形凡林之屬皆从林", "bbox": [702, 161, 795, 817], "size": "91", "type": "text", "comment": ""},
+	{"text": "匹卦", "bbox": [749, 842, 800, 920], "size": "40", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [697, 842, 744, 883], "size": "40", "type": "text", "comment": ""},
+	{"text": "𣏌", "bbox": [562, 33, 668, 155], "size": "94", "type": "text", "comment": ""},
+	{"text": "桌屬从林熒省詩曰", "bbox": [626, 183, 677, 503], "size": "44", "type": "text", "comment": ""},
+	{"text": "衣錦縠衣去潁切", "bbox": [560, 183, 614, 464], "size": "42", "type": "text", "comment": ""},
+	{"text": "𣗠", "bbox": [558, 519, 675, 643], "size": "114", "type": "text", "comment": ""},
+	{"text": "分離也从攴从林", "bbox": [619, 666, 675, 956], "size": "44", "type": "text", "comment": ""},
+	{"text": "林分𣗠之意也蘇", "bbox": [558, 666, 614, 964], "size": "42", "type": "text", "comment": ""},
+	{"text": "旰", "bbox": [491, 36, 542, 70], "size": "34", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [432, 36, 480, 70], "size": "34", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [451, 248, 529, 373], "size": "94", "type": "text", "comment": ""},
+	{"text": "麻", "bbox": [306, 35, 405, 157], "size": "94", "type": "text", "comment": ""},
+	{"text": "與林同人所治在屋下从广从林", "bbox": [311, 169, 405, 959], "size": "86", "type": "text", "comment": ""},
+	{"text": "𤓂", "bbox": [43, 38, 147, 168], "size": "94", "type": "text", "comment": ""},
+	{"text": "未練治纑也从麻後聲臣鉉等曰後非", "bbox": [106, 183, 160, 814], "size": "44", "type": "text", "comment": ""},
+	{"text": "聲疑復字譌當从復省乃得聲空谷切", "bbox": [45, 183, 98, 805], "size": "42", "type": "text", "comment": ""},
+	{"text": "凡麻之屬皆从麻", "bbox": [184, 176, 271, 593], "size": "86", "type": "text", "comment": ""},
+	{"text": "莫遐", "bbox": [223, 618, 276, 690], "size": "40", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [178, 613, 223, 650], "size": "40", "type": "text", "comment": ""},
+	{"text": "𤓂", "bbox": [48, 821, 147, 959], "size": "114", "type": "text", "comment": ""}
+]
+```

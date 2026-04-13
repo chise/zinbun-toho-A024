@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "巳", "bbox": [861, 24, 966, 161], "size": "large", "type": "heading", "comment": "heading"},
+	{"text": "瑞信也守國者用玉卩守都鄙者", "bbox": [859, 173, 964, 990], "size": "large", "type": "description", "comment": ""},
+	{"text": "用角卩使山邦者用虎卩土邦者", "bbox": [724, 173, 829, 990], "size": "large", "type": "description", "comment": ""},
+	{"text": "用人卩澤邦者用龍卩門關者用", "bbox": [593, 183, 698, 990], "size": "large", "type": "description", "comment": ""},
+	{"text": "符卩貨賄用璽卩道路用旌卩象", "bbox": [458, 183, 563, 990], "size": "large", "type": "description", "comment": ""},
+	{"text": "相合之形凡卩之屬皆从卩", "bbox": [322, 173, 427, 867], "size": "large", "type": "description", "comment": ""},
+	{"text": "子結", "bbox": [378, 867, 427, 957], "size": "small", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [316, 867, 366, 957], "size": "small", "type": "description", "comment": ""},
+	{"text": "令", "bbox": [175, 24, 280, 161], "size": "large", "type": "heading", "comment": "heading"},
+	{"text": "發號也从人卩徐鍇曰號令", "bbox": [237, 173, 291, 629], "size": "small", "type": "description", "comment": ""},
+	{"text": "者集而爲之卩制也力正切", "bbox": [178, 173, 232, 629], "size": "small", "type": "description", "comment": ""},
+	{"text": "𠬢", "bbox": [182, 649, 296, 774], "size": "large", "type": "description", "comment": "heading"},
+	{"text": "輔信也从卩", "bbox": [237, 783, 291, 990], "size": "small", "type": "description", "comment": ""},
+	{"text": "比聲虞書曰", "bbox": [178, 783, 232, 990], "size": "small", "type": "description", "comment": ""},
+	{"text": "卪", "bbox": [112, 207, 161, 332], "size": "large", "type": "description", "comment": "heading"},
+	{"text": "有大度也从卩多", "bbox": [106, 342, 161, 639], "size": "small", "type": "description", "comment": ""},
+	{"text": "即成五服", "bbox": [106, 24, 161, 207], "size": "small", "type": "description", "comment": ""},
+	{"text": "多", "bbox": [39, 207, 106, 332], "size": "large", "type": "description", "comment": "heading"},
+	{"text": "聲讀若侈充豉切", "bbox": [41, 342, 96, 639], "size": "small", "type": "description", "comment": ""},
+	{"text": "毗必切", "bbox": [41, 24, 96, 207], "size": "small", "type": "description", "comment": ""},
+	{"text": "𠬡", "bbox": [43, 649, 157, 774], "size": "large", "type": "description", "comment": "heading"},
+	{"text": "宰之也从卩", "bbox": [106, 783, 161, 990], "size": "small", "type": "description", "comment": ""},
+	{"text": "必聲兵媚切", "bbox": [41, 783, 96, 990], "size": "small", "type": "description", "comment": ""},
+	{"text": "大", "bbox": [1, 24, 27, 96], "size": "small", "type": "description", "comment": ""},
+	{"text": "唐文", "bbox": [3, 907, 34, 970], "size": "small", "type": "description", "comment": ""}
+]
+```

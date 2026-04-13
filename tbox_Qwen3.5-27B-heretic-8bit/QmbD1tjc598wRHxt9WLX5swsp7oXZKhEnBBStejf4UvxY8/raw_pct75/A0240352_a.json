@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "从犰語斤切", "bbox": [834, 168, 942, 338], "size": "large", "type": "heading", "comment": ""},
+	{"text": "司空也从犰臣聲復說獄司空息兹切", "bbox": [686, 164, 816, 463], "size": "normal", "type": "description", "comment": ""},
+	{"text": "确也从犰从言二犬所以守也魚欲切", "bbox": [687, 667, 817, 972], "size": "normal", "type": "description", "comment": ""},
+	{"text": "文三", "bbox": [573, 363, 673, 492], "size": "large", "type": "heading", "comment": ""},
+	{"text": "穴蟲之總名也象形凡鼠之屬皆从鼠書吕切", "bbox": [438, 152, 532, 981], "size": "normal", "type": "description", "comment": ""},
+	{"text": "鼠也从鼠番聲讀若樊或曰鼠婦附袁切", "bbox": [166, 158, 281, 513], "size": "normal", "type": "description", "comment": ""},
+	{"text": "鼠出胡地皮可作裘从鼠各聲下各切", "bbox": [166, 641, 281, 934], "size": "normal", "type": "description", "comment": ""},
+	{"text": "地行鼠伯勞所作也一曰偃鼠从鼠分聲房吻切", "bbox": [27, 161, 144, 540], "size": "normal", "type": "description", "comment": ""},
+	{"text": "或从鼠令", "bbox": [27, 708, 146, 968], "size": "normal", "type": "description", "comment": ""}
+]
+```

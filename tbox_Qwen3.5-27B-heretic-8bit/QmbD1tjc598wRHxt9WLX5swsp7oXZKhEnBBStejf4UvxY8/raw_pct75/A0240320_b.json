@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "按也从反", "bbox": [914, 146, 979, 314], "size": "小", "type": "text", "comment": ""},
+	{"text": "俗从", "bbox": [922, 459, 983, 532], "size": "小", "type": "text", "comment": ""},
+	{"text": "印於棘切", "bbox": [855, 147, 919, 314], "size": "小", "type": "text", "comment": ""},
+	{"text": "手", "bbox": [874, 458, 910, 494], "size": "小", "type": "text", "comment": ""},
+	{"text": "文二重一", "bbox": [879, 588, 971, 894], "size": "大", "type": "text", "comment": ""},
+	{"text": "色顏气也從人從卩凡色之屬皆从", "bbox": [731, 149, 837, 989], "size": "中", "type": "text", "comment": ""},
+	{"text": "所力", "bbox": [647, 235, 704, 314], "size": "小", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [595, 233, 647, 269], "size": "小", "type": "text", "comment": ""},
+	{"text": "古", "bbox": [513, 147, 570, 183], "size": "小", "type": "text", "comment": ""},
+	{"text": "色艴如也从色弗聲論", "bbox": [513, 335, 575, 729], "size": "小", "type": "text", "comment": ""},
+	{"text": "文", "bbox": [454, 147, 511, 183], "size": "小", "type": "text", "comment": ""},
+	{"text": "語曰色艴如也蒲没切", "bbox": [454, 335, 515, 729], "size": "小", "type": "text", "comment": ""},
+	{"text": "縹色", "bbox": [523, 857, 578, 989], "size": "小", "type": "text", "comment": ""},
+	{"text": "也从", "bbox": [456, 857, 515, 989], "size": "小", "type": "text", "comment": ""},
+	{"text": "色幷聲", "bbox": [384, 20, 435, 155], "size": "小", "type": "text", "comment": ""},
+	{"text": "普丁切", "bbox": [316, 19, 367, 154], "size": "小", "type": "text", "comment": ""},
+	{"text": "文三重一", "bbox": [332, 403, 426, 799], "size": "大", "type": "text", "comment": ""},
+	{"text": "事之制也从卩彳凡卯之屬皆从", "bbox": [193, 151, 298, 990], "size": "中", "type": "text", "comment": ""},
+	{"text": "去京", "bbox": [115, 313, 170, 376], "size": "小", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [61, 312, 107, 348], "size": "小", "type": "text", "comment": ""},
+	{"text": "大十二", "bbox": [7, 19, 32, 84], "size": "小", "type": "text", "comment": ""},
+	{"text": "唐文", "bbox": [13, 912, 38, 978], "size": "小", "type": "text", "comment": ""},
+	{"text": "色", "bbox": [610, 144, 694, 199], "size": "大", "type": "text", "comment": ""}
+]
+```

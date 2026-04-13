@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "它", "bbox": [847, 16, 960, 158], "size": "large", "type": "heading"},
+	{"text": "虫也从虫而長象冤曲垂尾形上", "bbox": [847, 163, 960, 972], "size": "large", "type": "description"},
+	{"text": "古艸居患它故相問無它乎凡它", "bbox": [716, 163, 829, 972], "size": "large", "type": "description"},
+	{"text": "之屬皆从它", "bbox": [587, 163, 699, 483], "size": "large", "type": "description"},
+	{"text": "託何", "bbox": [641, 483, 700, 573], "size": "small", "type": "description"},
+	{"text": "切", "bbox": [587, 483, 641, 532], "size": "small", "type": "description"},
+	{"text": "蛇", "bbox": [447, 16, 560, 158], "size": "large", "type": "heading"},
+	{"text": "它或从虫臣鉉等", "bbox": [502, 163, 560, 455], "size": "small", "type": "description"},
+	{"text": "曰今俗作食遮切", "bbox": [447, 163, 502, 449], "size": "small", "type": "description"},
+	{"text": "文一", "bbox": [447, 553, 560, 626], "size": "medium", "type": "description"},
+	{"text": "重一", "bbox": [447, 785, 560, 905], "size": "medium", "type": "description"},
+	{"text": "龜", "bbox": [306, 16, 419, 158], "size": "large", "type": "heading"},
+	{"text": "舊也外骨内肉者也从它龜頭", "bbox": [306, 163, 419, 972], "size": "large", "type": "description"},
+	{"text": "與它頭同天地之性廣肩無雄", "bbox": [176, 163, 289, 972], "size": "large", "type": "description"},
+	{"text": "龜鼈之類以它爲雄象足甲尾", "bbox": [45, 163, 159, 972], "size": "large", "type": "description"},
+	{"text": "六十二", "bbox": [5, 26, 36, 95], "size": "small", "type": "description"},
+	{"text": "唐文", "bbox": [12, 893, 45, 972], "size": "small", "type": "description"}
+]
+```

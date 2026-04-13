@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "說文解字第十一", "bbox": [875, 8, 976, 404], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "下", "bbox": [919, 417, 970, 452], "size": "1.0", "type": "text", "comment": ""},
+	{"text": "漢太尉祭酒許慎記", "bbox": [875, 487, 982, 951], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "銀青光禄大夫守右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [752, 44, 825, 995], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "敕校定", "bbox": [620, 39, 683, 150], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "二水也闕凡𣲙之屬皆从𣲙", "bbox": [463, 160, 574, 875], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "之璽", "bbox": [520, 882, 572, 971], "size": "1.0", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [463, 882, 512, 920], "size": "1.0", "type": "text", "comment": ""},
+	{"text": "𣲙", "bbox": [318, 15, 444, 145], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "水行也从𣲙𣲙", "bbox": [384, 155, 442, 467], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "突忽也力求切", "bbox": [321, 155, 380, 423], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "𣲙", "bbox": [321, 471, 440, 603], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "篆文", "bbox": [384, 611, 435, 699], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "从水", "bbox": [321, 611, 376, 695], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "𣲙", "bbox": [318, 709, 440, 843], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "徒行厲", "bbox": [380, 852, 440, 995], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "水也从", "bbox": [319, 852, 375, 995], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "𣲙从步", "bbox": [247, 15, 306, 150], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "時攝切", "bbox": [182, 15, 241, 150], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "𣲙", "bbox": [182, 155, 302, 300], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "篆文", "bbox": [247, 308, 304, 397], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "从水", "bbox": [182, 308, 241, 395], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [194, 529, 289, 655], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "重二", "bbox": [194, 784, 282, 911], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "𣵿", "bbox": [46, 15, 167, 145], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "水厓人所賓附𣵿蹙不前而止从", "bbox": [54, 150, 154, 985], "size": "14.0", "type": "text", "comment": ""},
+	{"text": "大八", "bbox": [5, 18, 32, 65], "size": "1.0", "type": "text", "comment": ""},
+	{"text": "陳玉", "bbox": [5, 914, 35, 976], "size": "1.0", "type": "text", "comment": ""}
+]
+```

@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "大十二", "bbox": [10, 14, 32, 77], "size": "小", "type": "header"},
+	{"text": "麻黰也从麻", "bbox": [931, 19, 986, 235], "size": "小", "type": "description"},
+	{"text": "取聲側鳩切", "bbox": [862, 25, 917, 240], "size": "小", "type": "description"},
+	{"text": "𣑁", "bbox": [862, 240, 986, 370], "size": "大", "type": "header"},
+	{"text": "黰屬从麻兪", "bbox": [931, 377, 986, 593], "size": "小", "type": "description"},
+	{"text": "聲度矦切", "bbox": [862, 382, 917, 550], "size": "小", "type": "description"},
+	{"text": "文四", "bbox": [892, 746, 979, 870], "size": "大", "type": "description"},
+	{"text": "未", "bbox": [736, 19, 845, 151], "size": "大", "type": "header"},
+	{"text": "豆也象未豆生之形也凡未之屬", "bbox": [746, 157, 845, 996], "size": "大", "type": "description"},
+	{"text": "皆从未", "bbox": [617, 152, 704, 337], "size": "大", "type": "description"},
+	{"text": "式竹", "bbox": [657, 357, 704, 439], "size": "小", "type": "description"},
+	{"text": "切", "bbox": [606, 357, 652, 394], "size": "小", "type": "description"},
+	{"text": "未", "bbox": [460, 14, 571, 151], "size": "大", "type": "header"},
+	{"text": "配鹽幽未也从", "bbox": [522, 166, 571, 418], "size": "小", "type": "description"},
+	{"text": "未支聲是義切", "bbox": [460, 166, 514, 418], "size": "小", "type": "description"},
+	{"text": "𣏶", "bbox": [460, 431, 571, 544], "size": "大", "type": "header"},
+	{"text": "俗敉", "bbox": [522, 560, 571, 630], "size": "小", "type": "description"},
+	{"text": "从豆", "bbox": [460, 560, 514, 630], "size": "小", "type": "description"},
+	{"text": "文二", "bbox": [337, 297, 430, 415], "size": "大", "type": "description"},
+	{"text": "重一", "bbox": [337, 565, 430, 704], "size": "大", "type": "description"},
+	{"text": "耑", "bbox": [189, 19, 297, 151], "size": "大", "type": "header"},
+	{"text": "物初生之題也上象生形下象", "bbox": [199, 189, 297, 993], "size": "大", "type": "description"},
+	{"text": "其根也凡耑之屬皆从耑", "bbox": [65, 184, 163, 807], "size": "大", "type": "description"},
+	{"text": "臣鉉等曰", "bbox": [120, 822, 175, 985], "size": "小", "type": "description"},
+	{"text": "中一地也", "bbox": [59, 822, 113, 985], "size": "小", "type": "description"},
+	{"text": "嚴張", "bbox": [25, 929, 45, 987], "size": "小", "type": "description"}
+]
+```

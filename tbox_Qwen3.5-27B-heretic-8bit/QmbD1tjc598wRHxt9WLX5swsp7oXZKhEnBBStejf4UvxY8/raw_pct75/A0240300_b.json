@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "履足所依也从尸从彳从夊舟象履", "bbox": [886, 16, 994, 992], "size": "49.36", "type": "heading", "comment": "履 is the heading."},
+	{"text": "形一曰尸聲凡履之屬皆从履", "bbox": [746, 155, 854, 898], "size": "49.36", "type": "description", "comment": "Description of the character 履."},
+	{"text": "良止", "bbox": [804, 906, 862, 986], "size": "20.32", "type": "rhyme", "comment": "Rhyme notation."},
+	{"text": "切", "bbox": [746, 906, 795, 948], "size": "26.07", "type": "rhyme", "comment": "Rhyme notation."},
+	{"text": "頁古文履从", "bbox": [661, 15, 723, 329], "size": "33.97", "type": "description", "comment": "Description of the ancient character 履."},
+	{"text": "頁从足", "bbox": [599, 16, 661, 288], "size": "33.97", "type": "description", "comment": "Description of the character 頁."},
+	{"text": "履也从履省婁聲", "bbox": [661, 477, 723, 773], "size": "33.97", "type": "description", "comment": "Description of the character 履."},
+	{"text": "一曰鞮也九遇切", "bbox": [599, 477, 661, 773], "size": "33.97", "type": "description", "comment": "Description of the character 履."},
+	{"text": "復", "bbox": [661, 953, 723, 994], "size": "33.97", "type": "description", "comment": "Description of the character 復."},
+	{"text": "下", "bbox": [599, 953, 661, 982], "size": "33.97", "type": "description", "comment": "Description of the character 下."},
+	{"text": "也从履省歷", "bbox": [532, 25, 589, 238], "size": "33.97", "type": "description", "comment": "Description of the character 歷."},
+	{"text": "聲郎擊切", "bbox": [469, 16, 527, 203], "size": "33.97", "type": "description", "comment": "Description of the character 聲."},
+	{"text": "復屬从履省", "bbox": [532, 391, 589, 604], "size": "33.97", "type": "description", "comment": "Description of the character 復."},
+	{"text": "予聲徐吕切", "bbox": [469, 391, 527, 604], "size": "33.97", "type": "description", "comment": "Description of the character 予."},
+	{"text": "履也从履省", "bbox": [532, 762, 589, 975], "size": "33.97", "type": "description", "comment": "Description of the character 履."},
+	{"text": "喬聲居勺切", "bbox": [469, 762, 527, 975], "size": "33.97", "type": "description", "comment": "Description of the character 喬."},
+	{"text": "僑也从履省", "bbox": [399, 154, 456, 367], "size": "33.97", "type": "description", "comment": "Description of the character 僑."},
+	{"text": "支聲奇逆切", "bbox": [337, 154, 394, 367], "size": "33.97", "type": "description", "comment": "Description of the character 支."},
+	{"text": "文六", "bbox": [337, 520, 441, 636], "size": "49.36", "type": "description", "comment": "Text indicating the number of characters."},
+	{"text": "重一", "bbox": [337, 773, 441, 898], "size": "49.36", "type": "description", "comment": "Text indicating the number of repeated characters."},
+	{"text": "船也古者共鼓貨狄刳木爲舟剡", "bbox": [196, 171, 304, 992], "size": "49.36", "type": "description", "comment": "Description of the character 船."},
+	{"text": "木爲楫以濟不通象形凡舟之屬", "bbox": [56, 155, 164, 975], "size": "49.36", "type": "description", "comment": "Description of the character 木."},
+	{"text": "大干", "bbox": [0, 16, 27, 105], "size": "17.53", "type": "description", "comment": "Text indicating the number of characters."},
+	{"text": "免", "bbox": [0, 270, 27, 290], "size": "17.53", "type": "description", "comment": "Text indicating the number of characters."},
+	{"text": "二", "bbox": [0, 711, 27, 731], "size": "17.53", "type": "description", "comment": "Text indicating the number of characters."},
+	{"text": "唐文", "bbox": [0, 906, 37, 975], "size": "20.32", "type": "description", "comment": "Text indicating the number of characters."}
+]
+```

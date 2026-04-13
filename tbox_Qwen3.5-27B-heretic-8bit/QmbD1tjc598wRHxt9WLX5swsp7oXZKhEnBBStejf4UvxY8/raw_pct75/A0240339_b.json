@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "貓", "bbox": [851, 22, 962, 146], "size": "大", "type": "heading", "comment": "篆文"},
+	{"text": "貍屬从豸苗", "bbox": [908, 155, 962, 396], "size": "中", "type": "description", "comment": ""},
+	{"text": "聲莫交切", "bbox": [850, 155, 904, 396], "size": "中", "type": "description", "comment": ""},
+	{"text": "文一", "bbox": [866, 599, 956, 702], "size": "大", "type": "description", "comment": ""},
+	{"text": "新附", "bbox": [906, 712, 960, 789], "size": "小", "type": "description", "comment": ""},
+	{"text": "豸", "bbox": [716, 22, 826, 153], "size": "大", "type": "heading", "comment": "篆文"},
+	{"text": "如野牛而青象形與禽离頭同凡", "bbox": [721, 161, 822, 980], "size": "中", "type": "description", "comment": ""},
+	{"text": "爲之屬皆从爲", "bbox": [589, 161, 689, 549], "size": "中", "type": "description", "comment": ""},
+	{"text": "徐姊", "bbox": [640, 562, 696, 650], "size": "小", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [586, 562, 638, 650], "size": "小", "type": "description", "comment": ""},
+	{"text": "𠔼", "bbox": [437, 24, 563, 157], "size": "大", "type": "heading", "comment": "古文"},
+	{"text": "古文", "bbox": [515, 168, 565, 256], "size": "小", "type": "description", "comment": ""},
+	{"text": "从儿", "bbox": [442, 168, 494, 256], "size": "小", "type": "description", "comment": ""},
+	{"text": "文一", "bbox": [455, 492, 550, 596], "size": "大", "type": "description", "comment": ""},
+	{"text": "重一", "bbox": [455, 739, 550, 855], "size": "大", "type": "description", "comment": ""},
+	{"text": "易", "bbox": [320, 22, 430, 153], "size": "大", "type": "heading", "comment": "篆文"},
+	{"text": "蜥易蝘蜓守宮也象形祕書說日", "bbox": [325, 161, 425, 980], "size": "中", "type": "description", "comment": ""},
+	{"text": "月爲易象陰陽也一曰从勿凡易", "bbox": [188, 155, 287, 977], "size": "中", "type": "description", "comment": ""},
+	{"text": "之屬皆从易", "bbox": [56, 155, 156, 480], "size": "中", "type": "description", "comment": ""},
+	{"text": "羊益", "bbox": [105, 489, 160, 576], "size": "小", "type": "description", "comment": ""},
+	{"text": "切", "bbox": [52, 489, 104, 576], "size": "小", "type": "description", "comment": ""},
+	{"text": "文一", "bbox": [50, 754, 145, 858], "size": "大", "type": "description", "comment": ""},
+	{"text": "大七", "bbox": [6, 26, 31, 70], "size": "小", "type": "description", "comment": ""},
+	{"text": "陳王", "bbox": [6, 898, 31, 970], "size": "小", "type": "description", "comment": ""}
+]
+```

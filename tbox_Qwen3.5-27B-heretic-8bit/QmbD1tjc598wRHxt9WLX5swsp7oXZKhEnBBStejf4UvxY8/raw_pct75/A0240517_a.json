@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小二百六十四", "bbox": [938, 33, 965, 124], "size": "小", "type": "heading", "comment": ""},
+	{"text": "言文十四一", "bbox": [942, 267, 971, 395], "size": "小", "type": "heading", "comment": ""},
+	{"text": "陳元", "bbox": [936, 893, 965, 950], "size": "小", "type": "heading", "comment": ""},
+	{"text": "从了", "bbox": [825, 164, 922, 242], "size": "大", "type": "heading", "comment": ""},
+	{"text": "盧鳥", "bbox": [868, 265, 930, 319], "size": "小", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [822, 288, 865, 319], "size": "小", "type": "heading", "comment": ""},
+	{"text": "無右臂也从了", "bbox": [745, 155, 800, 278], "size": "小", "type": "text", "comment": ""},
+	{"text": "冫象形居桀切", "bbox": [683, 156, 737, 360], "size": "小", "type": "text", "comment": ""},
+	{"text": "無左臂也从了", "bbox": [745, 544, 798, 667], "size": "小", "type": "text", "comment": ""},
+	{"text": "」象形居月切", "bbox": [684, 544, 737, 749], "size": "小", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [692, 830, 782, 946], "size": "大", "type": "heading", "comment": ""},
+	{"text": "謹也从三子凡孨之屬皆从孨讀", "bbox": [554, 164, 664, 954], "size": "大", "type": "heading", "comment": ""},
+	{"text": "若翦", "bbox": [435, 155, 518, 279], "size": "大", "type": "heading", "comment": ""},
+	{"text": "旨克", "bbox": [478, 289, 534, 342], "size": "小", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [431, 290, 471, 320], "size": "小", "type": "heading", "comment": ""},
+	{"text": "迮也一曰呻吟也从孨在尸下", "bbox": [359, 163, 414, 666], "size": "小", "type": "text", "comment": ""},
+	{"text": "臣鉉等曰尸者屋也士連切", "bbox": [296, 164, 351, 628], "size": "小", "type": "text", "comment": ""},
+	{"text": "盛皃从孨", "bbox": [355, 822, 409, 923], "size": "小", "type": "text", "comment": ""},
+	{"text": "从日讀若", "bbox": [293, 822, 347, 951], "size": "小", "type": "text", "comment": ""},
+	{"text": "薿薿一曰若", "bbox": [233, 30, 286, 153], "size": "小", "type": "text", "comment": ""},
+	{"text": "存魚紀切", "bbox": [172, 30, 224, 153], "size": "小", "type": "text", "comment": ""},
+	{"text": "籀文㫐从二子一", "bbox": [230, 388, 283, 668], "size": "小", "type": "text", "comment": ""},
+	{"text": "曰㫐即奇字㫐", "bbox": [168, 388, 221, 637], "size": "小", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [51, 259, 142, 386], "size": "大", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [55, 537, 137, 633], "size": "大", "type": "heading", "comment": ""}
+]
+```

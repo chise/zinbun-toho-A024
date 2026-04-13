@@ -1,0 +1,31 @@
+```json
+[
+	{"text": "形凡冊之屬皆从冊讀若冠", "bbox": [861, 162, 963, 712], "size": "34", "type": "heading", "comment": "heading"},
+	{"text": "古丸", "bbox": [917, 753, 972, 824], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "切", "bbox": [860, 738, 915, 786], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "貫", "bbox": [725, 27, 837, 147], "size": "34", "type": "char", "comment": "character"},
+	{"text": "錢貝之貫从", "bbox": [777, 161, 839, 313], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "冊貝古玩切", "bbox": [720, 174, 777, 327], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "獲也从冊从力", "bbox": [777, 528, 840, 783], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "𠸲聲郎古切", "bbox": [720, 530, 777, 738], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "文三", "bbox": [735, 805, 828, 924], "size": "34", "type": "heading", "comment": "heading"},
+	{"text": "𠆢", "bbox": [602, 28, 701, 159], "size": "34", "type": "char", "comment": "character"},
+	{"text": "嚕也艸木之蘢未發函然象形凡", "bbox": [594, 172, 699, 977], "size": "34", "type": "heading", "comment": "heading"},
+	{"text": "𠆢之屬皆从𠆢讀若含", "bbox": [453, 174, 560, 733], "size": "34", "type": "heading", "comment": "heading"},
+	{"text": "乎感", "bbox": [509, 750, 573, 827], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "切", "bbox": [453, 738, 508, 786], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "舌也象形舌體𠆢𠆢", "bbox": [383, 161, 445, 507], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "从𠆢𠆢亦聲胡男切", "bbox": [327, 174, 383, 500], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "俗函从", "bbox": [383, 636, 443, 763], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "冏今", "bbox": [326, 642, 383, 720], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "木生", "bbox": [383, 903, 443, 979], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "條也", "bbox": [326, 908, 382, 977], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "从𠆢由聲商書曰若顛木之有𢇪𢇪古文言由𢇪徐鍇曰", "bbox": [250, 30, 307, 976], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "說文無由字今尚書只作由𢇪蓋古文省𠆢而後人因省", "bbox": [185, 28, 243, 977], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "之通用爲因由等字从𠆢上象枝條華函之形臣鉉等按", "bbox": [117, 28, 175, 979], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "孔安國注尚書直訓由作用也用𢇪之語不通以州切", "bbox": [53, 27, 110, 937], "size": "13", "type": "comment", "comment": "small comment"},
+	{"text": "大十一", "bbox": [12, 28, 36, 76], "size": "6", "type": "comment", "comment": "small comment"},
+	{"text": "免文七上", "bbox": [0, 275, 36, 388], "size": "6", "type": "comment", "comment": "small comment"},
+	{"text": "亥和", "bbox": [12, 901, 36, 974], "size": "6", "type": "comment", "comment": "small comment"}
+]
+```

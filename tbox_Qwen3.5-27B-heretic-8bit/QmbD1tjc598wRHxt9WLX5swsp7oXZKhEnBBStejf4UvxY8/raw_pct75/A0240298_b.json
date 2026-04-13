@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "文二十三 重五", "bbox": [324, 246, 426, 688], "size": "heading", "type": "heading", "comment": "Title of the section"},
+	{"text": "畢遲也从尸", "bbox": [895, 28, 962, 142], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "辛聲先稽切", "bbox": [830, 24, 897, 138], "size": "text", "type": "text", "comment": "Phonetic component and pronunciation"},
+	{"text": "復也从尸非", "bbox": [895, 385, 962, 578], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "聲扶沸切", "bbox": [830, 380, 897, 545], "size": "text", "type": "text", "comment": "Phonetic component and pronunciation"},
+	{"text": "終主从尸从", "bbox": [895, 733, 962, 937], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "死式脂切", "bbox": [830, 728, 897, 902], "size": "text", "type": "text", "comment": "Phonetic component and pronunciation"},
+	{"text": "厔 剏也从尸者", "bbox": [765, 166, 830, 370], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "聲同都切", "bbox": [701, 162, 768, 327], "size": "text", "type": "text", "comment": "Phonetic component and pronunciation"},
+	{"text": "復中薦也从尸", "bbox": [765, 525, 830, 777], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "葉聲穌叶切", "bbox": [701, 521, 768, 725], "size": "text", "type": "text", "comment": "Phonetic component and pronunciation"},
+	{"text": "居", "bbox": [765, 934, 830, 973], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "也", "bbox": [701, 930, 768, 969], "size": "text", "type": "text", "comment": "Particle"},
+	{"text": "从尸尸所主也一曰尸象屋形从", "bbox": [636, 28, 703, 598], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "至至所至止室屋皆从至烏谷切", "bbox": [571, 28, 638, 598], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "籀文屋", "bbox": [636, 755, 703, 862], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "从广", "bbox": [571, 750, 638, 837], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "古文", "bbox": [505, 169, 571, 250], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "屋", "bbox": [440, 172, 505, 209], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "屏蔽也从尸", "bbox": [505, 387, 571, 603], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "幷聲必郢切", "bbox": [440, 383, 505, 600], "size": "text", "type": "text", "comment": "Phonetic component and pronunciation"},
+	{"text": "重屋也从尸", "bbox": [505, 741, 571, 957], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "曾聲昨稜切", "bbox": [440, 737, 505, 954], "size": "text", "type": "text", "comment": "Phonetic component and pronunciation"},
+	{"text": "數也按今之婁字本是屢空字此", "bbox": [238, 169, 305, 725], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "字後人所加从尸未詳立羽切", "bbox": [172, 169, 238, 725], "size": "text", "type": "text", "comment": "Definition of the character"},
+	{"text": "文一 新附", "bbox": [70, 246, 167, 500], "size": "heading", "type": "heading", "comment": "Title of the section"},
+	{"text": "大十", "bbox": [12, 21, 42, 65], "size": "text", "type": "text", "comment": "Page number"},
+	{"text": "周太", "bbox": [12, 917, 42, 972], "size": "text", "type": "text", "comment": "Page number"}
+]
+```

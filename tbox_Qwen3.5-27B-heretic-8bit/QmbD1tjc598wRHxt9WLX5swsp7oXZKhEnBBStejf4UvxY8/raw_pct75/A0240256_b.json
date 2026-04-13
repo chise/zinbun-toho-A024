@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "説文解字第七 下", "bbox": [853, 18, 949, 404], "size": "大", "type": "title", "comment": ""},
+	{"text": "漢太尉祭酒許愼記", "bbox": [859, 468, 957, 878], "size": "大", "type": "title", "comment": ""},
+	{"text": "銀青光禄大夫守右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [740, 55, 805, 977], "size": "中", "type": "title", "comment": ""},
+	{"text": "敕校定", "bbox": [610, 50, 671, 156], "size": "中", "type": "title", "comment": ""},
+	{"text": "𣎳", "bbox": [469, 21, 548, 150], "size": "大", "type": "title", "comment": ""},
+	{"text": "分枲莖皮也从中八象枲之皮莖", "bbox": [467, 153, 564, 971], "size": "大", "type": "text", "comment": ""},
+	{"text": "也凡𣎳之屬皆从𣎳", "bbox": [338, 153, 428, 652], "size": "大", "type": "text", "comment": ""},
+	{"text": "匹刃", "bbox": [390, 671, 431, 758], "size": "小", "type": "phonetic", "comment": ""},
+	{"text": "切", "bbox": [333, 671, 373, 758], "size": "小", "type": "phonetic", "comment": ""},
+	{"text": "讀若𦜫", "bbox": [335, 765, 429, 970], "size": "大", "type": "text", "comment": ""},
+	{"text": "𣎺", "bbox": [210, 21, 291, 151], "size": "大", "type": "title", "comment": ""},
+	{"text": "麻也从𣎳台", "bbox": [257, 153, 307, 371], "size": "中", "type": "text", "comment": ""},
+	{"text": "聲胥里切", "bbox": [195, 153, 246, 331], "size": "中", "type": "phonetic", "comment": ""},
+	{"text": "𣎻", "bbox": [257, 376, 307, 495], "size": "大", "type": "title", "comment": ""},
+	{"text": "籀文枲从", "bbox": [257, 500, 307, 668], "size": "中", "type": "text", "comment": ""},
+	{"text": "𣎼", "bbox": [195, 376, 246, 495], "size": "大", "type": "title", "comment": ""},
+	{"text": "林从辝", "bbox": [195, 500, 246, 625], "size": "中", "type": "text", "comment": ""},
+	{"text": "文二", "bbox": [77, 205, 161, 324], "size": "大", "type": "count", "comment": ""},
+	{"text": "重一", "bbox": [77, 504, 161, 623], "size": "大", "type": "count", "comment": ""},
+	{"text": "大九", "bbox": [18, 18, 44, 62], "size": "小", "type": "page_number", "comment": ""},
+	{"text": "説文七下", "bbox": [2, 247, 39, 388], "size": "小", "type": "page_number", "comment": ""},
+	{"text": "嚴振", "bbox": [24, 916, 49, 977], "size": "小", "type": "page_number", "comment": ""}
+]
+```

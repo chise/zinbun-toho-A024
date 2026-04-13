@@ -1,0 +1,27 @@
+```json
+[
+	{"bbox_2d": [873, 741, 959, 854], "text": "文一", "size": "54", "type": "heading"},
+	{"bbox_2d": [909, 741, 972, 812], "text": "當經", "size": "28", "type": "small"},
+	{"bbox_2d": [847, 736, 898, 772], "text": "切", "size": "28", "type": "small"},
+	{"bbox_2d": [850, 148, 953, 704], "text": "人心凡丁之屬皆从丁", "size": "54", "type": "text"},
+	{"bbox_2d": [724, 161, 819, 965], "text": "中宮也象六甲五龍相拘絞也戊", "size": "54", "type": "text"},
+	{"bbox_2d": [718, 22, 815, 148], "text": "戊", "size": "54", "type": "character"},
+	{"bbox_2d": [647, 865, 699, 985], "text": "莫候", "size": "28", "type": "small"},
+	{"bbox_2d": [580, 913, 631, 950], "text": "切", "size": "28", "type": "small"},
+	{"bbox_2d": [586, 163, 689, 913], "text": "承丁象人脅凡戊之屬皆从戊", "size": "54", "type": "text"},
+	{"bbox_2d": [501, 505, 554, 839], "text": "古文成从午徐鍇曰", "size": "28", "type": "small"},
+	{"bbox_2d": [446, 508, 498, 805], "text": "戊中宮成於中也", "size": "28", "type": "small"},
+	{"bbox_2d": [499, 167, 553, 375], "text": "就也从戊丁", "size": "28", "type": "small"},
+	{"bbox_2d": [442, 158, 494, 328], "text": "聲氏征切", "size": "28", "type": "small"},
+	{"bbox_2d": [442, 21, 547, 158], "text": "戊", "size": "54", "type": "character"},
+	{"bbox_2d": [319, 291, 412, 410], "text": "文二", "size": "54", "type": "heading"},
+	{"bbox_2d": [325, 616, 415, 732], "text": "重一", "size": "54", "type": "heading"},
+	{"bbox_2d": [111, 894, 163, 976], "text": "居擬", "size": "28", "type": "small"},
+	{"bbox_2d": [52, 893, 104, 929], "text": "切", "size": "28", "type": "small"},
+	{"bbox_2d": [56, 161, 159, 861], "text": "戊象人腹凡已之屬皆从已", "size": "54", "type": "text"},
+	{"bbox_2d": [185, 30, 289, 164], "text": "已", "size": "54", "type": "character"},
+	{"bbox_2d": [190, 174, 295, 985], "text": "中宮也象萬物辟藏詘形也已承", "size": "54", "type": "text"},
+	{"bbox_2d": [4, 24, 32, 67], "text": "六十", "size": "22", "type": "page_number"},
+	{"bbox_2d": [5, 924, 35, 969], "text": "焦克", "size": "22", "type": "page_number"}
+]
+```

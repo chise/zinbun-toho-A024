@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "小言廿", "bbox": [916, 36, 942, 126], "size": "medium", "type": "heading", "comment": "Top right corner"},
+	{"text": "言文十二", "bbox": [931, 254, 960, 384], "size": "medium", "type": "heading", "comment": "Top right corner"},
+	{"text": "七", "bbox": [933, 704, 964, 729], "size": "medium", "type": "heading", "comment": "Right margin"},
+	{"text": "繆春", "bbox": [924, 905, 952, 933], "size": "medium", "type": "heading", "comment": "Bottom right corner"},
+	{"text": "也從雨羽", "bbox": [856, 30, 911, 198], "size": "medium", "type": "body", "comment": "Right column, top"},
+	{"text": "聲王矩切", "bbox": [795, 27, 849, 201], "size": "medium", "type": "body", "comment": "Right column, top"},
+	{"text": "文四十六", "bbox": [812, 341, 900, 590], "size": "large", "type": "heading", "comment": "Right column, middle"},
+	{"text": "重十一", "bbox": [814, 712, 898, 884], "size": "large", "type": "heading", "comment": "Right column, bottom"},
+	{"text": "雨段赤雲气也從雨", "bbox": [675, 29, 786, 415], "size": "large", "type": "body", "comment": "Right column, main text"},
+	{"text": "段聲胡加切", "bbox": [675, 162, 725, 370], "size": "medium", "type": "body", "comment": "Right column, main text"},
+	{"text": "雨霏雨雪皃從雨", "bbox": [678, 416, 787, 770], "size": "large", "type": "body", "comment": "Right column, main text"},
+	{"text": "非聲芳非切", "bbox": [678, 565, 727, 769], "size": "medium", "type": "body", "comment": "Right column, main text"},
+	{"text": "雨霓小", "bbox": [683, 788, 784, 954], "size": "large", "type": "body", "comment": "Right column, main text"},
+	{"text": "也從雨妾", "bbox": [602, 27, 656, 201], "size": "medium", "type": "body", "comment": "Right column, top"},
+	{"text": "聲山洽切", "bbox": [543, 25, 596, 199], "size": "medium", "type": "body", "comment": "Right column, top"},
+	{"text": "雨靉靆靄雲黑皃從", "bbox": [547, 213, 657, 611], "size": "large", "type": "body", "comment": "Right column, main text"},
+	{"text": "雨對聲徒對切", "bbox": [547, 347, 596, 612], "size": "medium", "type": "body", "comment": "Right column, main text"},
+	{"text": "雨靁雲皃從雨萬", "bbox": [544, 612, 656, 965], "size": "large", "type": "body", "comment": "Right column, main text"},
+	{"text": "省聲於蓋切", "bbox": [544, 756, 594, 965], "size": "medium", "type": "body", "comment": "Right column, main text"},
+	{"text": "文五", "bbox": [429, 272, 520, 398], "size": "large", "type": "heading", "comment": "Center column"},
+	{"text": "新附", "bbox": [427, 431, 524, 467], "size": "medium", "type": "heading", "comment": "Center column"},
+	{"text": "雲山川气也從雨云象雲回轉形凡", "bbox": [299, 27, 400, 927], "size": "large", "type": "body", "comment": "Center column, main text"},
+	{"text": "雲之屬皆從雲", "bbox": [182, 166, 272, 542], "size": "large", "type": "body", "comment": "Center column, main text"},
+	{"text": "王分切", "bbox": [177, 562, 274, 637], "size": "medium", "type": "body", "comment": "Center column, main text"},
+	{"text": "古文省雨", "bbox": [45, 32, 150, 238], "size": "large", "type": "body", "comment": "Left column, top"},
+	{"text": "亦古文雲", "bbox": [45, 369, 145, 579], "size": "large", "type": "body", "comment": "Left column, middle"},
+	{"text": "雲覆日也從雲", "bbox": [103, 601, 153, 843], "size": "medium", "type": "body", "comment": "Left column, middle"},
+	{"text": "今聲於今切", "bbox": [41, 602, 94, 809], "size": "medium", "type": "body", "comment": "Left column, bottom"},
+	{"text": "會小", "bbox": [52, 846, 152, 950], "size": "large", "type": "body", "comment": "Left column, bottom"}
+]
+```

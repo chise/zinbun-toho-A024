@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "上", "bbox": [563, 244, 645, 276], "size": "23.4", "type": "body", "comment": ""},
+	{"text": "下", "bbox": [566, 336, 642, 368], "size": "23.4", "type": "body", "comment": ""},
+	{"text": "二", "bbox": [566, 431, 639, 462], "size": "23.4", "type": "body", "comment": ""},
+	{"text": "四", "bbox": [563, 526, 642, 556], "size": "23.4", "type": "body", "comment": ""},
+	{"text": "三", "bbox": [566, 617, 639, 649], "size": "23.4", "type": "body", "comment": ""},
+	{"text": "五", "bbox": [566, 711, 642, 743], "size": "23.4", "type": "body", "comment": ""},
+	{"text": "六", "bbox": [566, 804, 642, 836], "size": "23.4", "type": "body", "comment": ""},
+	{"text": "七", "bbox": [566, 898, 639, 930], "size": "23.4", "type": "body", "comment": ""},
+	{"text": "八", "bbox": [563, 993, 642, 1023], "size": "23.4", "type": "body", "comment": ""}
+]
+```

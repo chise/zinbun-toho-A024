@@ -1,0 +1,22 @@
+```json
+[
+	{"bbox_2d": [958, 33, 978, 122], "text_content": "小习九十七", "size": "12.0", "type": "line", "comment": ""},
+	{"bbox_2d": [965, 243, 987, 356], "text_content": "言五二一", "size": "12.0", "type": "line", "comment": ""},
+	{"bbox_2d": [948, 888, 973, 948], "text_content": "陳元", "size": "12.0", "type": "line", "comment": ""},
+	{"bbox_2d": [829, 163, 942, 973], "text_content": "火華也从三火凡焱之屬皆从焱", "size": "100.0", "type": "line", "comment": ""},
+	{"bbox_2d": [756, 173, 810, 227], "text_content": "以冉", "size": "36.0", "type": "line", "comment": ""},
+	{"bbox_2d": [702, 173, 745, 201], "text_content": "切", "size": "36.0", "type": "line", "comment": ""},
+	{"bbox_2d": [622, 182, 682, 973], "text_content": "屋下燈燭之光盛皃从焱在木上讀若詩", "size": "36.0", "type": "line", "comment": ""},
+	{"bbox_2d": [554, 177, 615, 973], "text_content": "从焱門户扃切曰莘莘征夫一曰役也所", "size": "36.0", "type": "line", "comment": ""},
+	{"bbox_2d": [497, 33, 549, 71], "text_content": "臻", "size": "36.0", "type": "line", "comment": ""},
+	{"bbox_2d": [430, 33, 483, 71], "text_content": "切", "size": "36.0", "type": "line", "comment": ""},
+	{"bbox_2d": [439, 320, 533, 444], "text_content": "文三", "size": "100.0", "type": "line", "comment": ""},
+	{"bbox_2d": [303, 168, 414, 973], "text_content": "炮肉也从肉在火上凡炙之屬皆", "size": "100.0", "type": "line", "comment": ""},
+	{"bbox_2d": [227, 311, 279, 380], "text_content": "之石", "size": "36.0", "type": "line", "comment": ""},
+	{"bbox_2d": [185, 182, 279, 292], "text_content": "从炙", "size": "100.0", "type": "line", "comment": ""},
+	{"bbox_2d": [173, 311, 225, 340], "text_content": "切", "size": "36.0", "type": "line", "comment": ""},
+	{"bbox_2d": [96, 182, 156, 943], "text_content": "籀宗廟火孰肉从炙番聲春秋傳曰天", "size": "36.0", "type": "line", "comment": ""},
+	{"bbox_2d": [42, 182, 95, 205], "text_content": "文", "size": "36.0", "type": "line", "comment": ""},
+	{"bbox_2d": [39, 358, 99, 943], "text_content": "子有事籥焉以饋同姓諸矦附袁切", "size": "36.0", "type": "line", "comment": ""}
+]
+```

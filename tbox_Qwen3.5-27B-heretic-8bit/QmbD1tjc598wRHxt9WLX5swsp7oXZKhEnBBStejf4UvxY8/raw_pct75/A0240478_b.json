@@ -1,0 +1,30 @@
+```json
+[
+	{"text": "古文怡从月詩", "bbox": [902, 146, 957, 397], "size": "31.36", "type": "hanzi", "comment": "怡：通“恒”"},
+	{"text": "曰如月之恒", "bbox": [838, 146, 893, 338], "size": "26.66", "type": "hanzi", "comment": ""},
+	{"text": "求亘也从二从回回古文", "bbox": [902, 548, 962, 973], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "回象亘回形上下所求物", "bbox": [845, 548, 905, 973], "size": "26.66", "type": "hanzi", "comment": ""},
+	{"text": "也徐鍇曰回風回轉所", "bbox": [766, 25, 828, 408], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "以宣陰陽也須緣切", "bbox": [707, 25, 768, 368], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "厚也从二竹", "bbox": [773, 548, 833, 756], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "聲冬毒切", "bbox": [710, 548, 768, 706], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "最恬", "bbox": [778, 888, 833, 973], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "也从", "bbox": [712, 888, 770, 973], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "二二偶也从冂冂", "bbox": [642, 25, 697, 338], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "古文及浮苃切", "bbox": [578, 25, 635, 284], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "文六", "bbox": [595, 429, 692, 543], "size": "47.04", "type": "hanzi", "comment": ""},
+	{"text": "重二", "bbox": [595, 657, 687, 785], "size": "47.04", "type": "hanzi", "comment": ""},
+	{"text": "土地之吐生物者也二象地之下地", "bbox": [455, 25, 555, 963], "size": "57.28", "type": "hanzi", "comment": ""},
+	{"text": "之中物出形也凡土之屬皆从土", "bbox": [328, 146, 428, 973], "size": "47.04", "type": "hanzi", "comment": ""},
+	{"text": "它魯", "bbox": [247, 166, 290, 249], "size": "21.96", "type": "hanzi", "comment": ""},
+	{"text": "切", "bbox": [185, 166, 227, 208], "size": "21.96", "type": "hanzi", "comment": ""},
+	{"text": "元气初分輕清陽爲天重濁陰爲地", "bbox": [113, 166, 170, 766], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "萬物所陳列也从土也聲徒四切", "bbox": [55, 156, 110, 716], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "籀文", "bbox": [118, 907, 170, 973], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "地从", "bbox": [55, 897, 110, 973], "size": "31.36", "type": "hanzi", "comment": ""},
+	{"text": "大十二", "bbox": [10, 35, 30, 108], "size": "10.44", "type": "hanzi", "comment": ""},
+	{"text": "說文十三下", "bbox": [0, 264, 20, 461], "size": "10.44", "type": "hanzi", "comment": ""},
+	{"text": "六", "bbox": [0, 691, 25, 716], "size": "10.44", "type": "hanzi", "comment": ""},
+	{"text": "陳玉", "bbox": [20, 892, 45, 963], "size": "10.44", "type": "hanzi", "comment": ""}
+]
+```

@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "說文解字卷第六", "bbox": [860, 21, 956, 400], "size": "40", "type": "heading", "comment": ""},
+	{"text": "下", "bbox": [907, 418, 944, 448], "size": "10", "type": "heading", "comment": ""},
+	{"text": "漢太尉祭酒許慎記", "bbox": [861, 480, 956, 949], "size": "40", "type": "heading", "comment": ""},
+	{"text": "銀青光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [736, 55, 809, 978], "size": "20", "type": "heading", "comment": ""},
+	{"text": "敕校定", "bbox": [606, 55, 671, 157], "size": "10", "type": "heading", "comment": ""},
+	{"text": "叒", "bbox": [453, 32, 562, 151], "size": "10", "type": "heading", "comment": ""},
+	{"text": "日初出東方暘谷所登榑桑叒木", "bbox": [466, 174, 559, 974], "size": "40", "type": "heading", "comment": ""},
+	{"text": "也象形凡叒之屬皆从叒", "bbox": [328, 169, 423, 774], "size": "40", "type": "heading", "comment": ""},
+	{"text": "而灼", "bbox": [374, 781, 428, 855], "size": "10", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [324, 780, 375, 811], "size": "10", "type": "heading", "comment": ""},
+	{"text": "叒", "bbox": [181, 30, 289, 156], "size": "10", "type": "heading", "comment": ""},
+	{"text": "籀", "bbox": [248, 162, 297, 205], "size": "10", "type": "heading", "comment": ""},
+	{"text": "文", "bbox": [186, 161, 236, 203], "size": "10", "type": "heading", "comment": ""},
+	{"text": "叒", "bbox": [186, 213, 294, 337], "size": "10", "type": "heading", "comment": ""},
+	{"text": "蠶所食葉木从", "bbox": [243, 344, 300, 597], "size": "10", "type": "heading", "comment": ""},
+	{"text": "叒木息郎切", "bbox": [187, 346, 236, 597], "size": "10", "type": "heading", "comment": ""},
+	{"text": "文二", "bbox": [71, 272, 160, 388], "size": "40", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [65, 568, 151, 682], "size": "40", "type": "heading", "comment": ""},
+	{"text": "大八", "bbox": [8, 21, 37, 68], "size": "10", "type": "heading", "comment": ""},
+	{"text": "說文解字下", "bbox": [1, 254, 37, 389], "size": "10", "type": "heading", "comment": ""},
+	{"text": "仲奇", "bbox": [16, 924, 44, 978], "size": "10", "type": "heading", "comment": ""}
+]
+```

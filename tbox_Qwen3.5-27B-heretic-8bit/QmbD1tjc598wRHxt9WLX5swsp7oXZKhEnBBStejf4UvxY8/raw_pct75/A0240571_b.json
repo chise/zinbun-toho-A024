@@ -1,0 +1,24 @@
+```json
+[
+	{"bbox_2d": [901, 78, 947, 206], "text_content": "十三葉", "confidence": 0.9, "size": "14.5", "type": "heading", "comment": "right"},
+	{"bbox_2d": [856, 80, 940, 757], "text_content": "十四行蛄螗强芉也蛄後改姑芉後改蛑", "confidence": 0.9, "size": "23.5", "type": "text", "comment": "right"},
+	{"bbox_2d": [797, 76, 842, 203], "text_content": "十五葉", "confidence": 0.9, "size": "14.5", "type": "heading", "comment": "right"},
+	{"bbox_2d": [749, 78, 836, 542], "text_content": "首行楚謂之蚖蚖後改蚊", "confidence": 0.9, "size": "23.5", "type": "text", "comment": "right"},
+	{"bbox_2d": [697, 77, 742, 203], "text_content": "十五葉", "confidence": 0.9, "size": "14.5", "type": "heading", "comment": "right"},
+	{"bbox_2d": [651, 79, 737, 456], "text_content": "五行螽醜螽後改逢螽", "confidence": 0.9, "size": "23.5", "type": "text", "comment": "right"},
+	{"bbox_2d": [597, 77, 643, 204], "text_content": "十五葉", "confidence": 0.9, "size": "14.5", "type": "heading", "comment": "right"},
+	{"bbox_2d": [549, 78, 635, 797], "text_content": "七行蟲行毒也蟲下本空白後增虫字", "confidence": 0.9, "size": "23.5", "type": "text", "comment": "right"},
+	{"bbox_2d": [497, 79, 542, 205], "text_content": "十六葉", "confidence": 0.9, "size": "14.5", "type": "heading", "comment": "right"},
+	{"bbox_2d": [449, 79, 535, 544], "text_content": "四行蝓鼇詹諸鼇後改鼇", "confidence": 0.9, "size": "23.5", "type": "text", "comment": "right"},
+	{"bbox_2d": [397, 79, 442, 206], "text_content": "十七葉", "confidence": 0.9, "size": "14.5", "type": "heading", "comment": "right"},
+	{"bbox_2d": [349, 81, 435, 977], "text_content": "五行後增篆文𧌫字又增古文螣三正字又增在", "confidence": 0.9, "size": "23.5", "type": "text", "comment": "right"},
+	{"bbox_2d": [265, 129, 331, 546], "text_content": "第十四葉螣字下八陰文", "confidence": 0.9, "size": "23.5", "type": "text", "comment": "right"},
+	{"bbox_2d": [190, 81, 235, 207], "text_content": "十七葉", "confidence": 0.9, "size": "14.5", "type": "heading", "comment": "right"},
+	{"bbox_2d": [143, 82, 229, 502], "text_content": "六行重十五五後改六", "confidence": 0.9, "size": "23.5", "type": "text", "comment": "right"},
+	{"bbox_2d": [55, 26, 117, 306], "text_content": "弟十三下首葉", "confidence": 0.9, "size": "23.5", "type": "text", "comment": "left"},
+	{"bbox_2d": [40, 215, 134, 762], "text_content": "六行任絲也任後改吐也後改蟲", "confidence": 0.9, "size": "23.5", "type": "text", "comment": "left"},
+	{"bbox_2d": [14, 33, 30, 60], "text_content": "大九", "confidence": 0.9, "size": "7.5", "type": "text", "comment": "left"},
+	{"bbox_2d": [0, 286, 31, 388], "text_content": "兊文交巳", "confidence": 0.9, "size": "11.5", "type": "text", "comment": "left"},
+	{"bbox_2d": [14, 918, 45, 973], "text_content": "陳廣", "confidence": 0.9, "size": "11.5", "type": "text", "comment": "left"}
+]
+```

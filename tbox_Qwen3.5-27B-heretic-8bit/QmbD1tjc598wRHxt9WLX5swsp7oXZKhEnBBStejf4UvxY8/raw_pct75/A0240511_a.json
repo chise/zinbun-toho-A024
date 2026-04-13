@@ -1,0 +1,18 @@
+```json
+[
+	{"bbox_2d": [954, 16, 978, 105], "text_content": "小甲九十一", "font_size": "30", "font_family": "宋体", "font_weight": "bold"},
+	{"bbox_2d": [834, 15, 936, 972], "text_content": "中易之數陰變於六正於八从入从", "font_size": "56", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [701, 189, 802, 963], "text_content": "八凡六之屬皆从六 文一", "font_size": "48", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [564, 15, 666, 977], "text_content": "七陽之正也从一微陰从中哀出也", "font_size": "56", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [431, 168, 533, 967], "text_content": "凡七之屬皆从七 文一", "font_size": "48", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [295, 13, 395, 972], "text_content": "九陽之變也象其屈曲究盡之形凡", "font_size": "56", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [165, 157, 266, 651], "text_content": "九之屬皆从九 切", "font_size": "48", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [23, 15, 144, 625], "text_content": " 九達道也似龜背故謂之  高也从九从首渠追切", "font_size": "48", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [86, 634, 141, 899], "text_content": " 或从", "font_size": "48", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [22, 634, 77, 899], "text_content": " 从", "font_size": "48", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [750, 687, 807, 774], "text_content": "力竹", "font_size": "24", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [481, 589, 538, 676], "text_content": "親吉", "font_size": "24", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [207, 556, 264, 643], "text_content": "舉有", "font_size": "24", "font_family": "隶书", "font_weight": "bold"},
+	{"bbox_2d": [955, 910, 979, 977], "text_content": "嚴華", "font_size": "30", "font_family": "宋体", "font_weight": "bold"}
+]
+```

@@ -1,0 +1,22 @@
+```json
+[
+	{"text": "小一百一十二", "bbox": [932, 33, 954, 109], "size": "small", "type": "page_number"},
+	{"text": "形時加丑亦舉手時也凡丑之屬", "bbox": [810, 155, 912, 960], "size": "large", "type": "main_text"},
+	{"text": "皆从丑", "bbox": [694, 156, 780, 348], "size": "large", "type": "main_text"},
+	{"text": "敕九", "bbox": [744, 360, 799, 442], "size": "small", "type": "phonetic_annotation"},
+	{"text": "切", "bbox": [689, 360, 728, 400], "size": "small", "type": "phonetic_annotation"},
+	{"text": "丑", "bbox": [555, 32, 659, 150], "size": "large", "type": "seal_character"},
+	{"text": "食肉也从丑", "bbox": [613, 156, 667, 359], "size": "small", "type": "explanation"},
+	{"text": "从肉女乆切", "bbox": [554, 156, 608, 360], "size": "small", "type": "explanation"},
+	{"text": "進獻也从羊羊所進也", "bbox": [609, 518, 666, 903], "size": "small", "type": "explanation"},
+	{"text": "从丑丑亦聲息流切", "bbox": [554, 518, 608, 902], "size": "small", "type": "explanation"},
+	{"text": "文三", "bbox": [438, 283, 517, 403], "size": "large", "type": "section_heading"},
+	{"text": "寅", "bbox": [303, 29, 404, 154], "size": "large", "type": "seal_character"},
+	{"text": "髃也正月陽气动去黄泉欲上出", "bbox": [303, 161, 401, 958], "size": "large", "type": "main_text"},
+	{"text": "陰尚彊象门不達髃寅於下也凡", "bbox": [177, 163, 276, 960], "size": "large", "type": "main_text"},
+	{"text": "寅之屬皆从寅", "bbox": [50, 163, 144, 540], "size": "large", "type": "main_text"},
+	{"text": "徐鍇曰髃斥之意人陽", "bbox": [100, 565, 157, 962], "size": "small", "type": "commentary"},
+	{"text": "气銳而出上関於门臼所", "bbox": [37, 565, 93, 973], "size": "small", "type": "commentary"},
+	{"text": "陳元", "bbox": [931, 901, 956, 956], "size": "small", "type": "commentary"}
+]
+```

@@ -1,0 +1,25 @@
+```json
+[
+	{"text": "允之屬皆从允", "bbox": [843, 143, 940, 477], "size": "48.6", "type": "heading", "comment": ""},
+	{"text": "居未切今", "bbox": [896, 547, 947, 723], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "變隸作𠃚", "bbox": [842, 547, 892, 723], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "古文", "bbox": [770, 147, 820, 238], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "𠃚", "bbox": [716, 151, 760, 192], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "茈惡驚詞也从𠃚㔾聲讀", "bbox": [775, 383, 828, 825], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "若楚人名多㬥乎果切", "bbox": [716, 383, 770, 775], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "事有不善言宼也爾雅宼薄也从𠃚京", "bbox": [645, 23, 703, 681], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "聲臣鉉等曰今俗隸書作亮力讓切", "bbox": [588, 23, 643, 640], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "文三", "bbox": [475, 197, 567, 320], "size": "48.6", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [479, 506, 567, 623], "size": "48.6", "type": "heading", "comment": ""},
+	{"text": "說文解字第八", "bbox": [217, 23, 316, 425], "size": "48.6", "type": "heading", "comment": ""},
+	{"text": "下", "bbox": [264, 440, 310, 472], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "四月十四日聞嚴思菴卒於湖廣貢院三月廿一日卯時事也四月初八日家中聞訃", "bbox": [151, 103, 192, 950], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "今日為一七日余入城往唁之次日方挍完此卷", "bbox": [95, 98, 139, 550], "size": "21.0", "type": "description", "comment": ""},
+	{"text": "大", "bbox": [45, 27, 62, 46], "size": "10.0", "type": "description", "comment": ""},
+	{"text": "三", "bbox": [45, 50, 62, 68], "size": "10.0", "type": "description", "comment": ""},
+	{"text": "說文", "bbox": [38, 255, 62, 308], "size": "10.0", "type": "description", "comment": ""},
+	{"text": "上", "bbox": [38, 690, 62, 708], "size": "10.0", "type": "description", "comment": ""},
+	{"text": "二", "bbox": [38, 712, 62, 730], "size": "10.0", "type": "description", "comment": ""},
+	{"text": "陳玉", "bbox": [55, 895, 81, 956], "size": "10.0", "type": "description", "comment": ""}
+]
+```

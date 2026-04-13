@@ -1,0 +1,21 @@
+```json
+[
+	{"text": "四葉篆文𣂈後改𣂈○揭聲揭後改掲", "bbox": [852, 86, 957, 803], "size": "26", "type": "text", "comment": "describes the evolution of the character 揭 (jiē) from seal script to its modern form, noting the phonetic component."},
+	{"text": "一行", "bbox": [852, 86, 902, 154], "size": "26", "type": "heading", "comment": "Indicates the first line of text."},
+	{"text": "七葉", "bbox": [798, 86, 847, 154], "size": "26", "type": "heading", "comment": "Refers to the seventh leaf or page."},
+	{"text": "六行果蔬也蔬後改羸", "bbox": [751, 86, 850, 459], "size": "26", "type": "text", "comment": "Defines the character 蔬 (shū) as vegetables and notes a later change to 羸 (léi)."},
+	{"text": "八葉", "bbox": [699, 86, 748, 154], "size": "26", "type": "heading", "comment": "Refers to the eighth leaf or page."},
+	{"text": "五行益州云云後改生", "bbox": [651, 86, 751, 459], "size": "26", "type": "text", "comment": "Mentions a reference to Yizhou and a subsequent change to the character 生 (shēng)."},
+	{"text": "十一葉", "bbox": [597, 86, 647, 154], "size": "26", "type": "heading", "comment": "Refers to the eleventh leaf or page."},
+	{"text": "九行从艸兹省聲兹後改絲", "bbox": [550, 86, 649, 587], "size": "26", "type": "text", "comment": "Describes the character's composition with the grass radical and a simplified phonetic component, noting a later change to 絲 (sī)."},
+	{"text": "十一葉", "bbox": [494, 86, 544, 154], "size": "26", "type": "heading", "comment": "Refers to the eleventh leaf or page."},
+	{"text": "十行𪗋𪗋不𪗋𪗋下後增𩀌字", "bbox": [446, 86, 546, 634], "size": "26", "type": "text", "comment": "Describes a character with the phonetic component 𪗋 (hǎn) and notes the later addition of the character 𩀌 (wēi) below it."},
+	{"text": "十二葉", "bbox": [392, 86, 441, 154], "size": "26", "type": "heading", "comment": "Refers to the twelfth leaf or page."},
+	{"text": "四行艸淹地也淹後改掩", "bbox": [344, 86, 444, 545], "size": "26", "type": "text", "comment": "Defines the character 淹 (yān) as flooding or submerging and notes a later change to 掩 (yǎn)."},
+	{"text": "十二葉", "bbox": [291, 86, 340, 154], "size": "26", "type": "heading", "comment": "Refers to the twelfth leaf or page."},
+	{"text": "十一行匹凡切匹後改呼", "bbox": [242, 86, 343, 508], "size": "26", "type": "text", "comment": "Provides the phonetic reading for the character and notes a later change to 呼 (hū)."},
+	{"text": "十二葉", "bbox": [189, 86, 238, 154], "size": "26", "type": "heading", "comment": "Refers to the twelfth leaf or page."},
+	{"text": "十三行豫州甫田甫後改圃○雝州弦圃雝後改雍圃", "bbox": [141, 86, 241, 974], "size": "26", "type": "text", "comment": "Describes a character related to fields in Yuzhou and Yuzhou, noting changes to 圃 (pǔ) and 雍 (yōng)."},
+	{"text": "後改蒲", "bbox": [64, 128, 125, 266], "size": "26", "type": "text", "comment": "Indicates a later change to the character 蒲 (pú)."}
+]
+```

@@ -1,0 +1,33 @@
+```json
+[
+	{"bbox_2d": [859, 19, 981, 248], "text_content": "娶取婦也从女从取取亦聲七句切", "font_size": "小"},
+	{"bbox_2d": [859, 474, 981, 995], "text_content": "婚婦家也禮娶婦以昏時婦人陰也故曰婚", "font_size": "小"},
+	{"bbox_2d": [790, 19, 841, 238], "text_content": "从女从昏昏亦聲呼昆切", "font_size": "小"},
+	{"bbox_2d": [727, 248, 841, 995], "text_content": "籀文婚壻家也女之所因故曰姻从女从因因亦聲於", "font_size": "小"},
+	{"bbox_2d": [656, 19, 707, 59], "text_content": "真", "font_size": "小"},
+	{"bbox_2d": [656, 68, 707, 329], "text_content": "籀文姻", "font_size": "小"},
+	{"bbox_2d": [656, 474, 707, 995], "text_content": "婦與夫齊者也从女从中从又", "font_size": "小"},
+	{"bbox_2d": [588, 19, 639, 59], "text_content": "切", "font_size": "小"},
+	{"bbox_2d": [588, 68, 639, 308], "text_content": "从帑", "font_size": "小"},
+	{"bbox_2d": [588, 329, 707, 995], "text_content": "妻婦與夫齊者也从女从中从又又持事妻職也臣鉉等曰帑", "font_size": "小"},
+	{"bbox_2d": [520, 19, 572, 329], "text_content": "者進也齊之義也", "font_size": "小"},
+	{"bbox_2d": [520, 474, 572, 995], "text_content": "古文妻从尚女服也", "font_size": "小"},
+	{"bbox_2d": [452, 19, 504, 288], "text_content": "故从中七稽切", "font_size": "小"},
+	{"bbox_2d": [452, 329, 572, 995], "text_content": "妾古文妻从尚女尚古文貴字服也从女", "font_size": "小"},
+	{"bbox_2d": [384, 19, 436, 208], "text_content": "持帚灑埽", "font_size": "小"},
+	{"bbox_2d": [384, 349, 436, 935], "text_content": "匹也从女已妃也从女𪔂", "font_size": "小"},
+	{"bbox_2d": [316, 19, 368, 188], "text_content": "也房九切", "font_size": "小"},
+	{"bbox_2d": [316, 349, 368, 548], "text_content": "聲芳非切", "font_size": "小"},
+	{"bbox_2d": [316, 558, 436, 895], "text_content": "媯妃也从女𪔂聲匹計切", "font_size": "小"},
+	{"bbox_2d": [248, 159, 300, 408], "text_content": "孕也从女从壬", "font_size": "小"},
+	{"bbox_2d": [248, 558, 300, 995], "text_content": "女妊身動也从女辰聲春", "font_size": "小"},
+	{"bbox_2d": [180, 159, 231, 408], "text_content": "壬亦聲如甚切", "font_size": "小"},
+	{"bbox_2d": [180, 558, 231, 995], "text_content": "秋傳曰后緡方娠一曰官", "font_size": "小"},
+	{"bbox_2d": [112, 19, 164, 208], "text_content": "婢女𨽻謂之", "font_size": "小"},
+	{"bbox_2d": [112, 389, 164, 818], "text_content": "婦人妊身也从女芻聲周", "font_size": "小"},
+	{"bbox_2d": [44, 19, 96, 198], "text_content": "娠夫人切", "font_size": "小"},
+	{"bbox_2d": [44, 389, 164, 995], "text_content": "書曰至于嫗婦側鳩切𡞀", "font_size": "小"},
+	{"bbox_2d": [11, 19, 34, 99], "text_content": "大光", "font_size": "小"},
+	{"bbox_2d": [11, 905, 34, 975], "text_content": "陳玉", "font_size": "小"}
+]
+```

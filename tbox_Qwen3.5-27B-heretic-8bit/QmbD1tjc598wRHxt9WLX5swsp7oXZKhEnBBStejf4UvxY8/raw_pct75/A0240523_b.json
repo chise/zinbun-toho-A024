@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "酉部二", "bbox": [863, 17, 949, 238], "size": "25.5", "type": "heading", "comment": ""},
+	{"text": "文六", "bbox": [872, 274, 968, 396], "size": "37.5", "type": "heading", "comment": ""},
+	{"text": "新附", "bbox": [919, 417, 978, 501], "size": "16", "type": "heading", "comment": ""},
+	{"text": "酉釋酒也从酉水半見於上禮有大", "bbox": [733, 18, 838, 977], "size": "35", "type": "heading", "comment": ""},
+	{"text": "酋掌酒官也凡酋之屬皆从酋", "bbox": [605, 146, 695, 899], "size": "32.5", "type": "heading", "comment": ""},
+	{"text": "字秋", "bbox": [654, 913, 702, 977], "size": "14", "type": "heading", "comment": ""},
+	{"text": "切", "bbox": [599, 913, 647, 977], "size": "14", "type": "heading", "comment": ""},
+	{"text": "酒器也从酋卝以奉之周禮六尊犧尊象尊著", "bbox": [519, 178, 578, 977], "size": "19", "type": "heading", "comment": ""},
+	{"text": "尊壺尊太尊山尊以待祭祀賓客之禮祖昆切", "bbox": [456, 178, 514, 977], "size": "19", "type": "heading", "comment": ""},
+	{"text": "尊", "bbox": [330, 25, 428, 161], "size": "35", "type": "heading", "comment": ""},
+	{"text": "尊或从寸臣鉉等曰今俗以", "bbox": [382, 178, 440, 633], "size": "19", "type": "heading", "comment": ""},
+	{"text": "尊作尊卑之尊別作罇非是", "bbox": [319, 178, 377, 633], "size": "19", "type": "heading", "comment": ""},
+	{"text": "文二", "bbox": [200, 274, 290, 396], "size": "37.5", "type": "heading", "comment": ""},
+	{"text": "重一", "bbox": [205, 515, 295, 637], "size": "37.5", "type": "heading", "comment": ""},
+	{"text": "戌", "bbox": [52, 25, 155, 161], "size": "35", "type": "heading", "comment": ""},
+	{"text": "滅也九月陽气微萬物畢成陽下", "bbox": [57, 161, 157, 977], "size": "35", "type": "heading", "comment": ""},
+	{"text": "大五", "bbox": [2, 28, 33, 56], "size": "11", "type": "heading", "comment": ""},
+	{"text": "免文一四下", "bbox": [0, 259, 33, 409], "size": "11", "type": "heading", "comment": ""},
+	{"text": "陳廣", "bbox": [13, 931, 43, 985], "size": "11", "type": "heading", "comment": ""}
+]
+```

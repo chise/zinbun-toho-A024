@@ -1,0 +1,28 @@
+```json
+[
+	{"text": "醉而怒謂之", "bbox": [910, 22, 967, 237], "size": "30", "type": "text", "comment": ""},
+	{"text": "異癉平祕切", "bbox": [853, 22, 907, 202], "size": "25", "type": "text", "comment": ""},
+	{"text": "文八", "bbox": [857, 480, 954, 597], "size": "48", "type": "text", "comment": ""},
+	{"text": "木", "bbox": [723, 18, 828, 154], "size": "55", "type": "text", "comment": ""},
+	{"text": "丈夫也从大一以象簮也周制以", "bbox": [729, 164, 823, 974], "size": "65", "type": "text", "comment": ""},
+	{"text": "八寸爲尺十尺爲丈人長八尺故", "bbox": [596, 174, 691, 962], "size": "58", "type": "text", "comment": ""},
+	{"text": "曰丈夫凡夫之屬皆从夫", "bbox": [463, 174, 558, 771], "size": "55", "type": "text", "comment": ""},
+	{"text": "甫無", "bbox": [517, 779, 566, 867], "size": "20", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [464, 779, 512, 810], "size": "17", "type": "text", "comment": ""},
+	{"text": "有法度也从夫", "bbox": [379, 174, 434, 413], "size": "25", "type": "text", "comment": ""},
+	{"text": "从見居隨切", "bbox": [317, 174, 372, 376], "size": "25", "type": "text", "comment": ""},
+	{"text": "林", "bbox": [319, 429, 432, 543], "size": "45", "type": "text", "comment": ""},
+	{"text": "竝行也从二夫輦字从此", "bbox": [379, 553, 434, 978], "size": "25", "type": "text", "comment": ""},
+	{"text": "讀若伴侣之伴薄旱切", "bbox": [317, 553, 372, 952], "size": "25", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [192, 263, 286, 381], "size": "48", "type": "text", "comment": ""},
+	{"text": "立", "bbox": [52, 18, 163, 130], "size": "48", "type": "text", "comment": ""},
+	{"text": "住也从大立一之上", "bbox": [59, 160, 153, 655], "size": "55", "type": "text", "comment": ""},
+	{"text": "臣鉉等曰大人", "bbox": [117, 667, 166, 913], "size": "25", "type": "text", "comment": ""},
+	{"text": "也一地也會意", "bbox": [52, 667, 105, 926], "size": "25", "type": "text", "comment": ""},
+	{"text": "凡", "bbox": [79, 928, 156, 974], "size": "35", "type": "text", "comment": ""},
+	{"text": "六十九", "bbox": [11, 26, 34, 86], "size": "10", "type": "text", "comment": ""},
+	{"text": "說文十下", "bbox": [0, 258, 33, 393], "size": "15", "type": "text", "comment": ""},
+	{"text": "八", "bbox": [0, 716, 33, 739], "size": "15", "type": "text", "comment": ""},
+	{"text": "唐文", "bbox": [11, 896, 34, 958], "size": "10", "type": "text", "comment": ""}
+]
+```

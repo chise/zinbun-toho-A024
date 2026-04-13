@@ -1,0 +1,32 @@
+```json
+[
+	{"bbox_2d": [866, 259, 951, 619], "text": "文二重一", "size": "37.25pt", "type": "text", "comment": ""},
+	{"bbox_2d": [733, 23, 818, 970], "text": "豸獸長脅行豸豸然欲有所司殺形", "size": "37.25pt", "type": "text", "comment": ""},
+	{"bbox_2d": [598, 167, 689, 578], "text": "凡豸之屬皆从豸", "size": "37.25pt", "type": "text", "comment": ""},
+	{"bbox_2d": [652, 588, 701, 847], "text": "池爾切司殺讀", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [584, 588, 634, 847], "text": "若伺候之伺", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [515, 167, 568, 441], "text": "似虎圜文从豸", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [455, 167, 505, 372], "text": "勺聲北敎切", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [511, 565, 563, 824], "text": "貙貍似貍者从", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [453, 565, 505, 824], "text": "豸區聲敕俱切", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [380, 23, 433, 248], "text": "貙屬也从豸", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [319, 23, 370, 248], "text": "單聲徒干切", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [379, 391, 433, 977], "text": "豹屬出貉國从豸皃聲詩曰獻其皃", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [319, 391, 370, 977], "text": "皮周書曰如虎如貌貌猛獸房脂切", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [247, 167, 298, 237], "text": "或从", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [190, 167, 238, 195], "text": "比", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [247, 391, 300, 637], "text": "狼屬狗聲从豸", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [190, 391, 242, 588], "text": "才聲士皆切", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [247, 773, 300, 977], "text": "猰貐似貙虎", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [190, 773, 242, 977], "text": "爪食人迅走", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [115, 29, 169, 200], "text": "从豸俞聲", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [55, 29, 108, 148], "text": "以主切", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [115, 341, 169, 693], "text": "似熊而黃黑色出蜀", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [55, 341, 108, 693], "text": "中从豸莫聲莫白切", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [115, 859, 169, 977], "text": "猛獸也", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [55, 859, 108, 977], "text": "从豸庸", "size": "15.88pt", "type": "text", "comment": ""},
+	{"bbox_2d": [21, 29, 37, 87], "text": "大廿二", "size": "5.0pt", "type": "text", "comment": ""},
+	{"bbox_2d": [23, 899, 41, 957], "text": "袁和", "size": "5.0pt", "type": "text", "comment": ""},
+	{"bbox_2d": [8, 255, 25, 384], "text": "兕下", "size": "10.0pt", "type": "text", "comment": ""}
+]
+```

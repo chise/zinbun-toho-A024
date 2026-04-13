@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "小百十六", "bbox": [917, 11, 942, 78], "size": "小", "type": "text", "comment": ""},
+	{"text": "書之詁皆訓其意而天地鬼神山川草", "bbox": [806, 15, 897, 974], "size": "大", "type": "text", "comment": ""},
+	{"text": "木鳥獸螽蟲雜物奇怪王制禮儀世間", "bbox": [677, 19, 770, 978], "size": "大", "type": "text", "comment": ""},
+	{"text": "人事莫不畢載凡十五卷十三萬三千", "bbox": [543, 20, 636, 971], "size": "大", "type": "text", "comment": ""},
+	{"text": "四百四十一字愼前以詔書校書東觀敎", "bbox": [414, 23, 508, 975], "size": "大", "type": "text", "comment": ""},
+	{"text": "小黃門孟生李喜等以文字未定未奏", "bbox": [285, 23, 379, 980], "size": "大", "type": "text", "comment": ""},
+	{"text": "上今愼已病遣臣齎詣闕愼又學孝經", "bbox": [157, 22, 251, 980], "size": "大", "type": "text", "comment": ""},
+	{"text": "孔氏古文說古文孝經者孝昭帝時魯", "bbox": [28, 23, 122, 985], "size": "大", "type": "text", "comment": ""},
+	{"text": "說文十五上", "bbox": [924, 249, 955, 340], "size": "小", "type": "text", "comment": ""},
+	{"text": "三", "bbox": [935, 718, 954, 748], "size": "小", "type": "text", "comment": ""},
+	{"text": "魏三", "bbox": [918, 931, 940, 967], "size": "小", "type": "text", "comment": ""}
+]
+```

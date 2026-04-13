@@ -1,0 +1,15 @@
+```json
+[
+	{"text": "說文解字第十二上 漢太尉祭酒許愼記", "bbox": [854, 24, 950, 449], "size": "large", "type": "title", "comment": "The title of the book and the author."},
+	{"text": "銀靑光禄大夫守右散騎常侍上柱國東海縣開國子食邑五百户臣徐鉉等奉", "bbox": [738, 67, 805, 955], "size": "medium", "type": "text", "comment": "The official title and name of the person who presented the work."},
+	{"text": "敕校定", "bbox": [616, 61, 674, 161], "size": "medium", "type": "text", "comment": "Indicates that the work was corrected by imperial order."},
+	{"text": "三十六部七百七十九文 重八十四", "bbox": [480, 72, 573, 867], "size": "large", "type": "text", "comment": "Summary of the number of sections, characters, and repeated characters."},
+	{"text": "凡九千二百三字", "bbox": [357, 195, 443, 605], "size": "large", "type": "text", "comment": "The total number of characters in the book."},
+	{"text": "文三十 新附", "bbox": [229, 187, 318, 467], "size": "medium", "type": "text", "comment": "Indicates the number of characters and a note about newly added characters."},
+	{"text": "〃 玄鳥也齊魯謂之乙取其鳴自呼", "bbox": [102, 32, 199, 954], "size": "large", "type": "text", "comment": "The main text describing the character '乙'."},
+	{"text": "大五", "bbox": [52, 33, 77, 85], "size": "small", "type": "text", "comment": "A small text, possibly a page number or section marker."},
+	{"text": "說文十二", "bbox": [43, 261, 69, 373], "size": "small", "type": "text", "comment": "A small text, possibly a section marker."},
+	{"text": "一", "bbox": [50, 704, 69, 723], "size": "small", "type": "text", "comment": "A single character, possibly a page number."},
+	{"text": "陳玉", "bbox": [50, 899, 84, 940], "size": "small", "type": "text", "comment": "A small text, possibly a name or signature."}
+]
+```

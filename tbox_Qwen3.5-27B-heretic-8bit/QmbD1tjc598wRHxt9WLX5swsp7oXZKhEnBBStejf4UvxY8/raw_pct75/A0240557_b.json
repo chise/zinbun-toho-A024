@@ -1,0 +1,14 @@
+```json
+[
+	{"text": "篆籀之跡右散騎常侍徐鉉等深明舊", "bbox": [874, 11, 979, 990], "size": "79.58", "type": "main_text", "comment": ""},
+	{"text": "史多識前言果能商榷是非補正闕漏", "bbox": [743, 11, 843, 989], "size": "79.58", "type": "main_text", "comment": ""},
+	{"text": "書成上奏克副朕心宜遣雕鐫用廣流", "bbox": [609, 11, 713, 989], "size": "79.58", "type": "main_text", "comment": ""},
+	{"text": "布自我朝之垂範俾永丗以作程其書", "bbox": [473, 11, 576, 989], "size": "79.58", "type": "main_text", "comment": ""},
+	{"text": "宜付史館仍令國子監雕爲印版依九", "bbox": [338, 11, 442, 989], "size": "79.58", "type": "main_text", "comment": ""},
+	{"text": "經書例許人納紙墨價錢收贖兼委徐", "bbox": [203, 11, 307, 989], "size": "79.58", "type": "main_text", "comment": ""},
+	{"text": "鉉等點檢書寫雕造無令差錯致誤後", "bbox": [69, 11, 173, 989], "size": "79.58", "type": "main_text", "comment": ""},
+	{"text": "說文十系", "bbox": [4, 264, 44, 410], "size": "22.62", "type": "header", "comment": ""},
+	{"text": "古", "bbox": [7, 671, 44, 733], "size": "35.8", "type": "page_number", "comment": ""},
+	{"text": "萬松", "bbox": [26, 914, 51, 982], "size": "17.36", "type": "colophon", "comment": ""}
+]
+```

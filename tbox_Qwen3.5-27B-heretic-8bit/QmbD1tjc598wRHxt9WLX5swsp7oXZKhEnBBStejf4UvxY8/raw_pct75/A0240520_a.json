@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "小", "bbox": [964, 7, 985, 30], "size": "small", "type": "header"},
+	{"text": "二百○五", "bbox": [965, 31, 982, 95], "size": "small", "type": "header"},
+	{"text": "嚴華", "bbox": [954, 934, 978, 987], "size": "small", "type": "header"},
+	{"text": "象木重枝葉也凡未之屬皆从末", "bbox": [843, 134, 937, 974], "size": "large", "type": "main"},
+	{"text": "無沸", "bbox": [755, 150, 816, 236], "size": "small", "type": "rhyme"},
+	{"text": "切", "bbox": [698, 154, 740, 196], "size": "small", "type": "rhyme"},
+	{"text": "文一", "bbox": [712, 450, 797, 567], "size": "large", "type": "header"},
+	{"text": "神也七月陰气成體自申束从臼", "bbox": [562, 157, 665, 992], "size": "large", "type": "main"},
+	{"text": "自持也吏巳舖時聽事申旦政也", "bbox": [427, 147, 523, 974], "size": "large", "type": "main"},
+	{"text": "凡申之屬皆从申", "bbox": [300, 155, 392, 630], "size": "large", "type": "main"},
+	{"text": "失人", "bbox": [333, 644, 400, 738], "size": "small", "type": "rhyme"},
+	{"text": "切", "bbox": [285, 649, 323, 691], "size": "small", "type": "rhyme"},
+	{"text": "古文", "bbox": [220, 147, 269, 243], "size": "small", "type": "header"},
+	{"text": "申", "bbox": [166, 147, 203, 192], "size": "small", "type": "header"},
+	{"text": "籀文", "bbox": [218, 374, 263, 469], "size": "small", "type": "header"},
+	{"text": "申", "bbox": [164, 377, 200, 422], "size": "small", "type": "header"},
+	{"text": "擊小鼓引樂聲也", "bbox": [218, 623, 272, 925], "size": "small", "type": "rhyme"},
+	{"text": "从申束聲羊晉切", "bbox": [148, 624, 206, 941], "size": "small", "type": "rhyme"},
+	{"text": "束縛捽捴爲吏从申从乙", "bbox": [87, 139, 141, 585], "size": "small", "type": "rhyme"},
+	{"text": "臣鉉等曰乙屈也羊朱切", "bbox": [22, 139, 76, 585], "size": "small", "type": "rhyme"},
+	{"text": "臾曳也从申", "bbox": [85, 729, 135, 964], "size": "small", "type": "rhyme"},
+	{"text": "聲余制切", "bbox": [22, 763, 73, 964], "size": "small", "type": "rhyme"}
+]
+```

@@ -1,0 +1,29 @@
+```json
+[
+	{"text": "小二百四十七", "bbox": [934, 24, 961, 106], "size": "12", "type": "text", "comment": ""},
+	{"text": "莫報", "bbox": [864, 27, 927, 109], "size": "42", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [805, 27, 862, 61], "size": "33", "type": "text", "comment": ""},
+	{"text": "𠔼", "bbox": [809, 124, 928, 236], "size": "110", "type": "image", "comment": ""},
+	{"text": "古文", "bbox": [869, 248, 926, 327], "size": "33", "type": "text", "comment": ""},
+	{"text": "冐", "bbox": [814, 248, 855, 288], "size": "38", "type": "text", "comment": ""},
+	{"text": "冓", "bbox": [820, 340, 916, 460], "size": "117", "type": "image", "comment": ""},
+	{"text": "犯而取也从月", "bbox": [865, 474, 924, 717], "size": "33", "type": "text", "comment": ""},
+	{"text": "从取祖外切", "bbox": [808, 474, 864, 675], "size": "33", "type": "text", "comment": ""},
+	{"text": "文五", "bbox": [692, 266, 781, 389], "size": "66", "type": "text", "comment": ""},
+	{"text": "重三", "bbox": [695, 570, 781, 694], "size": "66", "type": "text", "comment": ""},
+	{"text": "再也从門闕易曰參天兩地凡兩", "bbox": [562, 169, 653, 949], "size": "55", "type": "text", "comment": ""},
+	{"text": "之屬皆从兩", "bbox": [430, 161, 524, 464], "size": "55", "type": "text", "comment": ""},
+	{"text": "良𠊊", "bbox": [483, 476, 531, 573], "size": "33", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [429, 476, 476, 515], "size": "38", "type": "text", "comment": ""},
+	{"text": "二十四銖爲一兩从一", "bbox": [358, 170, 413, 529], "size": "33", "type": "text", "comment": ""},
+	{"text": "兩平分兩亦聲良𠊊切", "bbox": [294, 171, 348, 516], "size": "33", "type": "text", "comment": ""},
+	{"text": "平也从廿五行", "bbox": [354, 703, 409, 962], "size": "33", "type": "text", "comment": ""},
+	{"text": "之數二十分爲", "bbox": [292, 703, 347, 962], "size": "33", "type": "text", "comment": ""},
+	{"text": "一辰兩滿平也", "bbox": [229, 39, 282, 283], "size": "33", "type": "text", "comment": ""},
+	{"text": "讀若蠻母官切", "bbox": [168, 36, 220, 277], "size": "33", "type": "text", "comment": ""},
+	{"text": "文三", "bbox": [177, 541, 263, 666], "size": "66", "type": "text", "comment": ""},
+	{"text": "庖犧所結繩以漁从門下象兩交", "bbox": [57, 165, 145, 954], "size": "55", "type": "text", "comment": ""},
+	{"text": "談文七下", "bbox": [940, 254, 973, 373], "size": "33", "type": "text", "comment": ""},
+	{"text": "李明", "bbox": [932, 896, 959, 961], "size": "33", "type": "text", "comment": ""}
+]
+```

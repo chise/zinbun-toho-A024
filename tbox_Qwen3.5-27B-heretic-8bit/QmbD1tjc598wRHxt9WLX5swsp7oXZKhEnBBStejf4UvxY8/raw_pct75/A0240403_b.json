@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "从<", "bbox": [869, 168, 976, 283], "size": "107", "type": "Chinese", "comment": ""},
+	{"text": "姑沱", "bbox": [932, 322, 986, 405], "size": "54", "type": "Chinese", "comment": ""},
+	{"text": "切", "bbox": [872, 322, 921, 360], "size": "38", "type": "Chinese", "comment": ""},
+	{"text": "古文<从", "bbox": [794, 157, 848, 317], "size": "54", "type": "Chinese", "comment": ""},
+	{"text": "田从川", "bbox": [731, 157, 785, 283], "size": "54", "type": "Chinese", "comment": ""},
+	{"text": "篆文<从田犬", "bbox": [794, 489, 853, 741], "size": "59", "type": "Chinese", "comment": ""},
+	{"text": "聲六畎爲一畝", "bbox": [731, 489, 794, 748], "size": "59", "type": "Chinese", "comment": ""},
+	{"text": "文一", "bbox": [605, 278, 705, 383], "size": "100", "type": "Chinese", "comment": ""},
+	{"text": "重二", "bbox": [612, 534, 696, 652], "size": "118", "type": "Chinese", "comment": ""},
+	{"text": "水流澮澮也方百里爲<廣二尋", "bbox": [465, 154, 572, 989], "size": "107", "type": "Chinese", "comment": ""},
+	{"text": "深二仞凡<之屬皆从<", "bbox": [326, 152, 433, 768], "size": "107", "type": "Chinese", "comment": ""},
+	{"text": "古外", "bbox": [381, 782, 440, 871], "size": "39", "type": "Chinese", "comment": ""},
+	{"text": "切", "bbox": [323, 782, 372, 822], "size": "40", "type": "Chinese", "comment": ""},
+	{"text": "水生厓石閒<也", "bbox": [247, 157, 302, 517], "size": "55", "type": "Chinese", "comment": ""},
+	{"text": "从<聲力珍切", "bbox": [185, 157, 240, 517], "size": "55", "type": "Chinese", "comment": ""},
+	{"text": "文二", "bbox": [199, 657, 288, 770], "size": "113", "type": "Chinese", "comment": ""},
+	{"text": "貫穿通流水也虞書曰瀹<<距", "bbox": [48, 157, 154, 980], "size": "106", "type": "Chinese", "comment": ""},
+	{"text": "大十五", "bbox": [10, 17, 30, 87], "size": "20", "type": "Chinese", "comment": ""},
+	{"text": "東五", "bbox": [12, 910, 38, 975], "size": "19", "type": "Chinese", "comment": ""}
+]
+```

@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "屬皆从米讀若輩普活切", "bbox": [772, 160, 868, 638], "size": "大", "type": "primary", "comment": ""},
+	{"text": "艸木𦱣字之皃从", "bbox": [707, 160, 758, 420], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "米𢍉聲干貴切", "bbox": [648, 160, 701, 404], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "艸有莖葉可作繩", "bbox": [707, 610, 758, 917], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "从米糸杜林説米亦", "bbox": [648, 610, 701, 917], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "朱木字", "bbox": [587, 23, 635, 158], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "𦱣也从米人色也从子論", "bbox": [587, 314, 635, 732], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "語曰色𦱣如也蒲妹切", "bbox": [528, 314, 575, 686], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "蘇各切", "bbox": [528, 23, 575, 145], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "止也", "bbox": [587, 891, 635, 927], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "从米", "bbox": [528, 891, 575, 927], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "盛而一橫止", "bbox": [465, 23, 512, 234], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "之也即里切", "bbox": [405, 23, 452, 234], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "艸木至南方有枝任", "bbox": [465, 610, 512, 732], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "也从米羊聲邢含切", "bbox": [405, 610, 452, 732], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "古也", "bbox": [465, 891, 512, 927], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "文", "bbox": [405, 891, 452, 927], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "文六", "bbox": [291, 257, 375, 379], "size": "大", "type": "primary", "comment": ""},
+	{"text": "重一", "bbox": [291, 560, 375, 683], "size": "大", "type": "primary", "comment": ""},
+	{"text": "進也象艸木生出土上凡生之屬", "bbox": [173, 160, 267, 917], "size": "大", "type": "primary", "comment": ""},
+	{"text": "所庚", "bbox": [98, 367, 145, 448], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "切", "bbox": [47, 367, 93, 404], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "皆从生", "bbox": [51, 160, 145, 343], "size": "大", "type": "primary", "comment": ""},
+	{"text": "索", "bbox": [15, 978, 62, 1015], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "景昌", "bbox": [170, 989, 195, 1025], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "景昌", "bbox": [888, 927, 912, 956], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "小二百二十五", "bbox": [888, 23, 912, 130], "size": "小", "type": "secondary", "comment": ""},
+	{"text": "言文六之一", "bbox": [894, 251, 917, 360], "size": "小", "type": "secondary", "comment": ""}
+]
+```

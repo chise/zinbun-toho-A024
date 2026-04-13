@@ -1,0 +1,26 @@
+```json
+[
+	{"text": "曰皋登謌曰奏故皋奏皆从𠦃周禮", "bbox": [913, 18, 963, 639], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "曰詔來皷皋舞皋告之也古勞切", "bbox": [850, 21, 900, 602], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "文六", "bbox": [729, 279, 817, 405], "size": "48.0pt", "type": "heading", "comment": ""},
+	{"text": "重二", "bbox": [729, 528, 817, 653], "size": "48.0pt", "type": "heading", "comment": ""},
+	{"text": "放也从大而八分也凡之屬", "bbox": [593, 187, 694, 990], "size": "56.0pt", "type": "text", "comment": ""},
+	{"text": "皆从", "bbox": [464, 191, 560, 385], "size": "48.0pt", "type": "text", "comment": ""},
+	{"text": "古老", "bbox": [521, 400, 554, 467], "size": "24.0pt", "type": "text", "comment": ""},
+	{"text": "切", "bbox": [461, 399, 504, 431], "size": "24.0pt", "type": "text", "comment": ""},
+	{"text": "舉目驚𩙪然也从", "bbox": [381, 171, 433, 522], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "从眀眀亦聲九遇切", "bbox": [318, 171, 368, 509], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "嫚也从百从", "bbox": [376, 676, 428, 985], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "亦聲虞書曰若丹", "bbox": [313, 676, 365, 985], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "朱𩙪讀若傲論語", "bbox": [247, 18, 301, 329], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "𩙪盪舟五到切", "bbox": [184, 18, 235, 284], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "春爲杲天元气杲杲从", "bbox": [242, 477, 295, 867], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "日亦聲胡老切", "bbox": [180, 477, 233, 816], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "驚走也一曰往來也从", "bbox": [116, 18, 168, 470], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "周書曰伯囂古文𠨬古文", "bbox": [111, 473, 163, 965], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "字臣鉉等曰𠨬居況切𠨬猶乖也𠨬亦聲言古同字未詳", "bbox": [48, 18, 101, 990], "size": "32.0pt", "type": "text", "comment": ""},
+	{"text": "六十三", "bbox": [11, 21, 33, 91], "size": "12.0pt", "type": "text", "comment": ""},
+	{"text": "說文解字", "bbox": [0, 264, 33, 414], "size": "24.0pt", "type": "text", "comment": ""},
+	{"text": "唐文", "bbox": [11, 904, 33, 975], "size": "12.0pt", "type": "text", "comment": ""}
+]
+```

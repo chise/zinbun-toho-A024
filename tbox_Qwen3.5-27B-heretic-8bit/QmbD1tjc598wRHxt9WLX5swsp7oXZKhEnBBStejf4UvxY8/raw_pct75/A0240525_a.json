@@ -1,0 +1,8 @@
+```json
+[
+	{"text": "小三十五", "bbox": [931, 31, 959, 106], "size": "small", "type": "page number"},
+	{"text": "言文十四", "bbox": [939, 270, 970, 401], "size": "medium", "type": "heading"},
+	{"text": "魏三", "bbox": [927, 913, 958, 966], "size": "small", "type": "page number"},
+	{"text": "〔314.1〕", "bbox": [939, 691, 971, 722], "size": "small", "type": "comment"}
+]
+```

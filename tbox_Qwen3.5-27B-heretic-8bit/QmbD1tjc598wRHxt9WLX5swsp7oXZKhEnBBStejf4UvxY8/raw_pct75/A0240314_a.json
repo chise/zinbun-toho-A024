@@ -1,0 +1,20 @@
+```json
+[
+	{"text": "其聲今逐疫有顛頭去其切頭明飾也从頁羺聲臣鉉等曰羺古以爲顯字故从羺聲呼典切", "bbox": [663, 22, 895, 538], "size": "27.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "呼也从頁籥聲讀與籥同商書曰率籲衆戚羊戍切", "bbox": [789, 265, 897, 822], "size": "27.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "選具也从二頁士戀切", "bbox": [663, 574, 769, 876], "size": "27.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "文九十三", "bbox": [548, 194, 632, 420], "size": "47.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "重八", "bbox": [548, 560, 632, 679], "size": "47.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "頁安也案經典通用豫从頁未詳羊洳切", "bbox": [411, 27, 520, 453], "size": "27.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "文一", "bbox": [429, 566, 507, 669], "size": "47.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "新附", "bbox": [463, 698, 511, 776], "size": "27.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "頁頭也象形凡頁之屬皆从頁", "bbox": [296, 27, 388, 836], "size": "47.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "書九切", "bbox": [296, 856, 398, 913], "size": "27.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "面和也从頁从肉讀若柔耳由切", "bbox": [166, 27, 275, 406], "size": "27.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "文二", "bbox": [179, 708, 262, 826], "size": "47.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "頁顏前也从頁象人面形凡面之屬", "bbox": [53, 27, 144, 963], "size": "47.449996948242188", "type": "text", "comment": "Page number"},
+	{"text": "小言卅三", "bbox": [904, 42, 930, 142], "size": "15.999996948242188", "type": "text", "comment": "Page number"},
+	{"text": "言文九一", "bbox": [912, 259, 936, 386], "size": "15.999996948242188", "type": "text", "comment": "Page number"},
+	{"text": "繆春", "bbox": [904, 888, 930, 941], "size": "15.999996948242188", "type": "text", "comment": "Page number"}
+]
+```

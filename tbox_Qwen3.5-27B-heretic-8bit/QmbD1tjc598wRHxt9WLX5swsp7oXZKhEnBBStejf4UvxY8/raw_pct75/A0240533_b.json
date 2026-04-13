@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "説文解字弟三", "bbox": [852, 26, 944, 401], "size": "大", "type": "heading", "comment": ""},
+	{"text": "部四\n十五", "bbox": [715, 160, 821, 240], "size": "小", "type": "description", "comment": ""},
+	{"text": "部四\n十六", "bbox": [715, 407, 824, 481], "size": "小", "type": "description", "comment": ""},
+	{"text": "部四\n十七", "bbox": [722, 653, 831, 732], "size": "小", "type": "description", "comment": ""},
+	{"text": "部四\n十八", "bbox": [728, 895, 836, 972], "size": "小", "type": "description", "comment": ""},
+	{"text": "部四\n十九", "bbox": [591, 160, 701, 237], "size": "小", "type": "description", "comment": ""},
+	{"text": "部五\n十", "bbox": [595, 405, 703, 481], "size": "小", "type": "description", "comment": ""},
+	{"text": "部五\n十一", "bbox": [594, 653, 707, 729], "size": "小", "type": "description", "comment": ""},
+	{"text": "部五\n十二", "bbox": [597, 893, 708, 970], "size": "小", "type": "description", "comment": ""},
+	{"text": "部五\n十三", "bbox": [469, 157, 575, 234], "size": "小", "type": "description", "comment": ""},
+	{"text": "部五\n十四", "bbox": [469, 405, 577, 481], "size": "小", "type": "description", "comment": ""},
+	{"text": "部五\n十五", "bbox": [469, 650, 578, 727], "size": "小", "type": "description", "comment": ""},
+	{"text": "部五\n十六", "bbox": [474, 892, 581, 969], "size": "小", "type": "description", "comment": ""},
+	{"text": "部五\n十七", "bbox": [343, 157, 450, 234], "size": "小", "type": "description", "comment": ""},
+	{"text": "部五\n十八", "bbox": [345, 405, 452, 481], "size": "小", "type": "description", "comment": ""},
+	{"text": "部五\n十九", "bbox": [345, 648, 453, 725], "size": "小", "type": "description", "comment": ""},
+	{"text": "部六\n十", "bbox": [345, 892, 455, 968], "size": "小", "type": "description", "comment": ""},
+	{"text": "部六\n十一", "bbox": [217, 157, 324, 234], "size": "小", "type": "description", "comment": ""},
+	{"text": "部六\n十二", "bbox": [219, 405, 326, 481], "size": "小", "type": "description", "comment": ""},
+	{"text": "部六\n十三", "bbox": [220, 647, 328, 724], "size": "小", "type": "description", "comment": ""},
+	{"text": "部六\n十四", "bbox": [221, 891, 330, 967], "size": "小", "type": "description", "comment": ""},
+	{"text": "部六\n十五", "bbox": [88, 157, 194, 234], "size": "小", "type": "description", "comment": ""},
+	{"text": "部六\n十六", "bbox": [90, 404, 197, 481], "size": "小", "type": "description", "comment": ""},
+	{"text": "部六\n十七", "bbox": [91, 639, 200, 717], "size": "小", "type": "description", "comment": ""},
+	{"text": "部六\n十八", "bbox": [93, 887, 202, 964], "size": "小", "type": "description", "comment": ""},
+	{"text": "大五十二", "bbox": [44, 24, 68, 181], "size": "小", "type": "other", "comment": ""},
+	{"text": "説文解字弟三", "bbox": [29, 255, 70, 402], "size": "小", "type": "heading", "comment": ""},
+	{"text": "沈占", "bbox": [53, 912, 79, 970], "size": "小", "type": "other", "comment": ""}
+]
+```

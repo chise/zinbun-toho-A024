@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "良止", "bbox": [887, 136, 939, 220], "size": "35.28", "type": "Heading", "comment": ""},
+	{"text": "切", "bbox": [828, 146, 869, 184], "size": "29.34", "type": "Heading", "comment": ""},
+	{"text": "從", "bbox": [626, 26, 678, 61], "size": "29.05", "type": "Heading", "comment": ""},
+	{"text": "林", "bbox": [566, 28, 616, 64], "size": "29.05", "type": "Heading", "comment": ""},
+	{"text": "文三", "bbox": [577, 352, 652, 470], "size": "48.88", "type": "Heading", "comment": ""},
+	{"text": "重一", "bbox": [577, 656, 657, 766], "size": "53.39", "type": "Heading", "comment": ""},
+	{"text": "陳也樹穀曰田象四口十阡陌之", "bbox": [443, 164, 534, 963], "size": "42.46", "type": "Heading", "comment": ""},
+	{"text": "制也凡田之屬皆從田", "bbox": [309, 162, 398, 712], "size": "44.62", "type": "Heading", "comment": ""},
+	{"text": "待", "bbox": [369, 741, 401, 770], "size": "19.12", "type": "Heading", "comment": ""},
+	{"text": "季", "bbox": [369, 781, 401, 832], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "切", "bbox": [304, 743, 352, 778], "size": "25.12", "type": "Heading", "comment": ""},
+	{"text": "田踐處曰町从", "bbox": [234, 153, 283, 382], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "城下田也一曰畮郤", "bbox": [234, 574, 283, 879], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "田丁聲他頂切", "bbox": [174, 153, 222, 382], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "也从田㸔聲而縁切", "bbox": [174, 574, 222, 879], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "耕治之田也从田象", "bbox": [103, 153, 152, 500], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "畤或", "bbox": [92, 633, 149, 710], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "燒種也", "bbox": [103, 848, 152, 969], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "耕屈之形直由切", "bbox": [38, 153, 87, 448], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "省", "bbox": [42, 630, 78, 671], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "漢律曰", "bbox": [38, 848, 87, 969], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "家福也从里", "bbox": [755, 153, 810, 351], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "郊外也从里", "bbox": [755, 497, 810, 712], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "古文野", "bbox": [767, 848, 810, 969], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "彡聲里之切", "bbox": [697, 153, 746, 351], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "予聲羊者切", "bbox": [697, 497, 746, 712], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "从里省", "bbox": [697, 848, 746, 969], "size": "26.03", "type": "Heading", "comment": ""},
+	{"text": "洪章", "bbox": [951, 879, 979, 957], "size": "13.51", "type": "Heading", "comment": ""},
+	{"text": "小可丸す", "bbox": [951, 39, 979, 117], "size": "13.51", "type": "Heading", "comment": ""}
+]
+```

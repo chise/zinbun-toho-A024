@@ -1,0 +1,32 @@
+```json
+[
+	{"text": "小二百八十", "bbox": [932, 26, 954, 106], "size": "小", "type": "text", "comment": ""},
+	{"text": "文六十二", "bbox": [816, 273, 918, 471], "size": "中", "type": "text", "comment": ""},
+	{"text": "重八", "bbox": [816, 641, 918, 762], "size": "中", "type": "text", "comment": ""},
+	{"text": "幬旌旗之屬从巾", "bbox": [738, 167, 793, 418], "size": "小", "type": "text", "comment": ""},
+	{"text": "童聲宅江切", "bbox": [686, 167, 730, 374], "size": "小", "type": "text", "comment": ""},
+	{"text": "幟旌旗之屬从巾", "bbox": [738, 549, 793, 787], "size": "小", "type": "text", "comment": ""},
+	{"text": "哉聲昌志切", "bbox": [686, 549, 730, 756], "size": "小", "type": "text", "comment": ""},
+	{"text": "在", "bbox": [744, 927, 790, 969], "size": "小", "type": "text", "comment": ""},
+	{"text": "上", "bbox": [687, 927, 729, 969], "size": "小", "type": "text", "comment": ""},
+	{"text": "幗婦人首飾从巾", "bbox": [609, 375, 663, 613], "size": "小", "type": "text", "comment": ""},
+	{"text": "曰帝从巾亦", "bbox": [609, 37, 663, 247], "size": "小", "type": "text", "comment": ""},
+	{"text": "聲羊益切", "bbox": [547, 29, 602, 207], "size": "小", "type": "text", "comment": ""},
+	{"text": "國聲古對切", "bbox": [547, 375, 602, 574], "size": "小", "type": "text", "comment": ""},
+	{"text": "幑歛髮也从巾", "bbox": [609, 757, 663, 969], "size": "小", "type": "text", "comment": ""},
+	{"text": "枟聲七摇切", "bbox": [547, 757, 602, 969], "size": "小", "type": "text", "comment": ""},
+	{"text": "幎也从巾代聲", "bbox": [485, 173, 539, 424], "size": "小", "type": "text", "comment": ""},
+	{"text": "或从衣徒耐切", "bbox": [421, 173, 477, 424], "size": "小", "type": "text", "comment": ""},
+	{"text": "帊帛二幅曰帊从", "bbox": [485, 567, 539, 804], "size": "小", "type": "text", "comment": ""},
+	{"text": "巾巴聲普駕切", "bbox": [421, 567, 477, 817], "size": "小", "type": "text", "comment": ""},
+	{"text": "帊也从巾業", "bbox": [352, 29, 407, 253], "size": "小", "type": "text", "comment": ""},
+	{"text": "聲房玉切", "bbox": [290, 29, 344, 207], "size": "小", "type": "text", "comment": ""},
+	{"text": "幃車幔也从巾", "bbox": [352, 407, 407, 621], "size": "小", "type": "text", "comment": ""},
+	{"text": "憲聲虛偃切", "bbox": [290, 407, 344, 613], "size": "小", "type": "text", "comment": ""},
+	{"text": "文九", "bbox": [297, 694, 399, 825], "size": "中", "type": "text", "comment": ""},
+	{"text": "新附", "bbox": [352, 838, 407, 916], "size": "小", "type": "text", "comment": ""},
+	{"text": "市", "bbox": [167, 29, 271, 155], "size": "大", "type": "text", "comment": ""},
+	{"text": "韨也上古衣蔽前而已市以象之", "bbox": [167, 167, 271, 969], "size": "小", "type": "text", "comment": ""},
+	{"text": "天子朱市諸矦赤市大夫葱衡从", "bbox": [42, 173, 145, 969], "size": "小", "type": "text", "comment": ""}
+]
+```

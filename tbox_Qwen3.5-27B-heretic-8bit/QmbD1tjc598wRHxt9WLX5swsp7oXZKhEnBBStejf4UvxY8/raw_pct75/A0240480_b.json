@@ -1,0 +1,25 @@
+```json
+[
+	{"bbox_2d": [848, 17, 966, 274], "text": "墾 瓴適也一曰未燒也 从土𣪇聲古歴切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [844, 493, 967, 958], "text": "埳 埽除也从土弁聲 讀若糞方問切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [706, 17, 832, 323], "text": "埽 棄也从土从 帚穌老切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [706, 345, 830, 662], "text": "杜 存也从土才 聲昨代切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [706, 722, 832, 982], "text": "塋 止也从 土从留", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [576, 19, 700, 311], "text": "𡊢 省土所止也此與 雷同意徂臥切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [574, 335, 700, 483], "text": "𡊮 古文", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [574, 499, 701, 867], "text": "坻 箸也从土氏 聲諸氏切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [442, 19, 568, 421], "text": "堙 塞也从土眞聲陟 鄰切今待季切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [442, 465, 566, 763], "text": "坦 安也从土旦 聲他但切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [442, 814, 566, 984], "text": "坔 地 相", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [310, 19, 434, 399], "text": "坁 次比也衛大夫貞子名 𡊮从土比聲毗至切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [310, 426, 434, 679], "text": "堋 滯也从土是 聲丁禮切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [310, 756, 434, 984], "text": "𡋅 樂器 也以", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [178, 19, 302, 414], "text": "𡊦 土爲之六孔从 土熏聲況袁切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [176, 430, 302, 978], "text": "坶 爵諸矦之土也从𠂤从土从寸 守其制度也公矦百里伯七十", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [44, 25, 170, 425], "text": "𡊧 里子男五十里徐鍇曰各 之其土也會意府容切", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [44, 480, 168, 710], "text": "𡊡 古文 封省", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [44, 723, 170, 943], "text": "𡊣 籀文 从丰", "size": "21", "type": "heading", "comment": ""},
+	{"bbox_2d": [6, 32, 35, 126], "text": "大卅二", "size": "13", "type": "heading", "comment": ""},
+	{"bbox_2d": [13, 903, 41, 978], "text": "蔣安", "size": "13", "type": "heading", "comment": ""}
+]
+```

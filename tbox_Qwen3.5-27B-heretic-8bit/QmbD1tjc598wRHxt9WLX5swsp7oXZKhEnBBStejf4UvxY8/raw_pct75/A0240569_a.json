@@ -1,0 +1,33 @@
+```json
+[
+	{"text": "十五葉", "bbox": [912, 96, 959, 210], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "公沬切沬後改沃", "bbox": [878, 221, 947, 519], "size": "35.6", "type": "text", "comment": ""},
+	{"text": "十六葉", "bbox": [808, 94, 857, 215], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "浸渄也渄後改沃", "bbox": [773, 221, 842, 519], "size": "35.6", "type": "text", "comment": ""},
+	{"text": "十七葉六行十八葉三行漢", "bbox": [800, 527, 850, 989], "size": "28.4", "type": "comment", "comment": ""},
+	{"text": "十七葉", "bbox": [708, 94, 757, 212], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "衫洽切衫洽後改巽倦", "bbox": [669, 221, 740, 606], "size": "35.6", "type": "text", "comment": ""},
+	{"text": "字同", "bbox": [756, 527, 797, 602], "size": "28.4", "type": "comment", "comment": ""},
+	{"text": "十九葉", "bbox": [607, 94, 656, 215], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "从水草草後改革", "bbox": [568, 221, 637, 524], "size": "35.6", "type": "text", "comment": ""},
+	{"text": "第五十一", "bbox": [464, 22, 533, 328], "size": "35.6", "type": "heading", "comment": ""},
+	{"text": "二行三葉十文三三後改二", "bbox": [462, 336, 529, 596], "size": "28.4", "type": "comment", "comment": ""},
+	{"text": "五行", "bbox": [347, 94, 396, 169], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "古文靁古上後增亦字", "bbox": [355, 218, 424, 606], "size": "35.6", "type": "text", "comment": ""},
+	{"text": "六葉", "bbox": [289, 94, 338, 172], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "南陽謂霖霂霖下後增雨曰二字", "bbox": [251, 177, 322, 736], "size": "35.6", "type": "text", "comment": ""},
+	{"text": "九葉", "bbox": [188, 94, 237, 172], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "晏或从𨸙晏後改鯾", "bbox": [151, 218, 220, 560], "size": "35.6", "type": "text", "comment": ""},
+	{"text": "十二葉", "bbox": [93, 81, 142, 212], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "篆文𠮟後改𠮟○从龍合聲合後改含", "bbox": [47, 221, 116, 945], "size": "35.6", "type": "text", "comment": ""},
+	{"text": "陳喜", "bbox": [956, 923, 983, 978], "size": "13.2", "type": "signature", "comment": ""},
+	{"text": "小可七古", "bbox": [967, 28, 989, 92], "size": "10.8", "type": "signature", "comment": ""},
+	{"text": "二行", "bbox": [865, 94, 914, 172], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "九行", "bbox": [761, 94, 810, 172], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "十一行", "bbox": [658, 94, 707, 215], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "四行", "bbox": [555, 94, 604, 169], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "九行", "bbox": [248, 94, 297, 169], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "二行", "bbox": [144, 94, 193, 169], "size": "28.4", "type": "heading", "comment": ""},
+	{"text": "七行", "bbox": [41, 81, 90, 169], "size": "28.4", "type": "heading", "comment": ""}
+]
+```

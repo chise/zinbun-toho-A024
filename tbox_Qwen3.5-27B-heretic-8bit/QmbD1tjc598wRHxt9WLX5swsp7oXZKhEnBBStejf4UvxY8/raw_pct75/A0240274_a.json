@@ -1,0 +1,27 @@
+```json
+[
+	{"text": "【小三百九十三】", "bbox": [943, 24, 964, 121], "size": "small", "type": "heading"},
+	{"text": "【嚴華】", "bbox": [936, 913, 959, 970], "size": "small", "type": "heading"},
+	{"text": "【從巾妃聲於袁切】", "bbox": [817, 27, 927, 153], "size": "medium", "type": "heading"},
+	{"text": "幡書兒拭觚布也從巾番聲甫煩切", "bbox": [813, 222, 917, 615], "size": "medium", "type": "description"},
+	{"text": "幩刺也從巾刺聲盧達切", "bbox": [809, 631, 915, 970], "size": "medium", "type": "description"},
+	{"text": "幘拭也從巾籖聲精廉切", "bbox": [680, 30, 794, 373], "size": "medium", "type": "heading"},
+	{"text": "幃車弊兒從巾單聲詩曰檀車幃幃昌善切", "bbox": [680, 397, 794, 878], "size": "medium", "type": "description"},
+	{"text": "幙蓋衣也從巾冢聲莫紅切", "bbox": [549, 31, 665, 372], "size": "medium", "type": "heading"},
+	{"text": "幙蓋幙也從巾蔑聲一曰禪被莫結切", "bbox": [548, 393, 664, 816], "size": "medium", "type": "description"},
+	{"text": "覆也從巾無聲荒烏切", "bbox": [417, 27, 533, 204], "size": "medium", "type": "heading"},
+	{"text": "飯殄也從巾從人食聲讀若式一曰褖飾賞隻切", "bbox": [417, 398, 531, 780], "size": "medium", "type": "description"},
+	{"text": "幃囊也", "bbox": [415, 791, 531, 974], "size": "medium", "type": "description"},
+	{"text": "從巾韋聲許歸切", "bbox": [288, 27, 404, 204], "size": "medium", "type": "heading"},
+	{"text": "帣囊也今鹽官三斛爲一帣從巾弄聲居倦切", "bbox": [286, 357, 403, 700], "size": "medium", "type": "description"},
+	{"text": "帣糞也從又", "bbox": [286, 718, 403, 972], "size": "medium", "type": "description"},
+	{"text": "持巾埽門内古者少康初作箕帚", "bbox": [220, 28, 277, 608], "size": "medium", "type": "description"},
+	{"text": "籍也禮天子諸矦席有黼", "bbox": [218, 624, 276, 963], "size": "medium", "type": "description"},
+	{"text": "秫酒少康杜康也葬長垣支手切", "bbox": [159, 27, 215, 588], "size": "medium", "type": "description"},
+	{"text": "繡純飾從巾庶省臣鉉等曰席以待賓", "bbox": [89, 28, 146, 688], "size": "medium", "type": "description"},
+	{"text": "古文席", "bbox": [102, 705, 144, 972], "size": "medium", "type": "description"},
+	{"text": "客之禮賓客非一人故從庶祥易切", "bbox": [30, 27, 85, 628], "size": "medium", "type": "description"},
+	{"text": "從石省", "bbox": [30, 644, 83, 972], "size": "medium", "type": "description"},
+	{"text": "【說文十一】", "bbox": [944, 257, 974, 341], "size": "small", "type": "heading"}
+]
+```

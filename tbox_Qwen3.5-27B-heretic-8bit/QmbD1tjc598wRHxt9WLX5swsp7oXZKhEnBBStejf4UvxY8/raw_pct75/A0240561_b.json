@@ -1,0 +1,31 @@
+```json
+[
+	{"bbox_2d": [916, 67, 962, 199], "text_content": "十七葉"},
+	{"bbox_2d": [876, 67, 962, 635], "text_content": "將欲與物與後改予"},
+	{"bbox_2d": [869, 67, 916, 156], "text_content": "六行"},
+	{"bbox_2d": [817, 176, 864, 205], "text_content": "四葉"},
+	{"bbox_2d": [779, 175, 826, 238], "text_content": "七行"},
+	{"bbox_2d": [781, 4, 864, 730], "text_content": "弟三下凡㒳之屬皆从㒳㒳後改㒳"},
+	{"bbox_2d": [714, 68, 760, 156], "text_content": "四葉"},
+	{"bbox_2d": [675, 68, 721, 156], "text_content": "十行"},
+	{"bbox_2d": [677, 156, 760, 466], "text_content": "鬻或省鬻後改鬻"},
+	{"bbox_2d": [609, 69, 656, 199], "text_content": "四葉十"},
+	{"bbox_2d": [570, 69, 656, 649], "text_content": "陳留謂鍵爲鬻鬻後改鬻"},
+	{"bbox_2d": [561, 69, 609, 156], "text_content": "一行"},
+	{"bbox_2d": [504, 69, 550, 156], "text_content": "八葉"},
+	{"bbox_2d": [465, 69, 550, 461], "text_content": "執事也也後改者"},
+	{"bbox_2d": [457, 69, 504, 156], "text_content": "八行"},
+	{"bbox_2d": [399, 69, 446, 199], "text_content": "十葉十"},
+	{"bbox_2d": [361, 69, 446, 547], "text_content": "篆文𢘉後改𢘉"},
+	{"bbox_2d": [352, 69, 399, 156], "text_content": "三行"},
+	{"bbox_2d": [296, 69, 342, 204], "text_content": "十二葉"},
+	{"bbox_2d": [264, 69, 342, 995], "text_content": "後增𢘒殺兩篆文又增古文殺籒文殺六"},
+	{"bbox_2d": [247, 69, 294, 156], "text_content": "四行"},
+	{"bbox_2d": [165, 130, 218, 202], "text_content": "正字"},
+	{"bbox_2d": [89, 69, 135, 204], "text_content": "十二葉"},
+	{"bbox_2d": [58, 69, 135, 461], "text_content": "重三三後改五"},
+	{"bbox_2d": [40, 69, 86, 156], "text_content": "五行"},
+	{"bbox_2d": [10, 14, 32, 48], "text_content": "六九"},
+	{"bbox_2d": [12, 928, 37, 978], "text_content": "陳生"}
+]
+```

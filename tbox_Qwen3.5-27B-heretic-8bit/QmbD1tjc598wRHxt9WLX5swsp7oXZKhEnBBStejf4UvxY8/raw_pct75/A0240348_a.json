@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "小二百○三", "bbox": [952, 36, 973, 122], "size": "20.95", "type": "page", "comment": "top right"},
+	{"text": "文五", "bbox": [835, 317, 929, 410], "size": "87.34", "type": "heading", "comment": "section title"},
+	{"text": "文一", "bbox": [709, 525, 803, 598], "size": "74.0", "type": "heading", "comment": "new appendix title"},
+	{"text": "新附", "bbox": [752, 632, 809, 715], "size": "34.5", "type": "text", "comment": "label for new appendix"},
+	{"text": "兲", "bbox": [684, 27, 808, 156], "size": "130.0", "type": "character", "comment": "large seal script character"},
+	{"text": "狡兎也从兎", "bbox": [750, 178, 804, 282], "size": "34.5", "type": "text", "comment": "definition"},
+	{"text": "夬聲七旬切", "bbox": [689, 178, 743, 282], "size": "34.5", "type": "text", "comment": "phonetic and pronunciation"},
+	{"text": "茻", "bbox": [577, 27, 668, 169], "size": "90.0", "type": "character", "comment": "large seal script character"},
+	{"text": "山羊細角者从兎足苜聲凡茻之", "bbox": [577, 182, 668, 953], "size": "74.0", "type": "text", "comment": "definition"},
+	{"text": "屬皆从茻讀若丸寬字从此", "bbox": [444, 177, 535, 837], "size": "74.0", "type": "text", "comment": "continuation of definition"},
+	{"text": "臣鉉等曰苜徒結切", "bbox": [368, 184, 421, 511], "size": "34.5", "type": "text", "comment": "scholar's note"},
+	{"text": "非聲疑象形胡官切", "bbox": [307, 184, 360, 511], "size": "34.5", "type": "text", "comment": "scholar's note"},
+	{"text": "文一", "bbox": [327, 722, 413, 828], "size": "74.0", "type": "heading", "comment": "new section title"},
+	{"text": "犬", "bbox": [184, 41, 275, 182], "size": "90.0", "type": "character", "comment": "large seal script character"},
+	{"text": "狗之有縣蹏者也象形孔子曰視", "bbox": [184, 182, 280, 953], "size": "74.0", "type": "text", "comment": "definition"},
+	{"text": "犬之字如畫狗也凡犬之屬皆从", "bbox": [61, 172, 156, 957], "size": "74.0", "type": "text", "comment": "continuation of definition"},
+	{"text": "言文十一", "bbox": [957, 263, 980, 379], "size": "19.0", "type": "text", "comment": "right margin"},
+	{"text": "文", "bbox": [938, 851, 958, 870], "size": "17.5", "type": "text", "comment": "right margin"},
+	{"text": "吳慶", "bbox": [945, 903, 970, 958], "size": "17.5", "type": "text", "comment": "bottom right margin"}
+]
+```

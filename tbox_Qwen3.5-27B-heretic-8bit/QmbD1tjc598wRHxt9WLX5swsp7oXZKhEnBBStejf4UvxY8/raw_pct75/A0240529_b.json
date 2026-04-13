@@ -1,0 +1,12 @@
+```json
+[
+	{"text": "以禮爲小學元士黃門侍郎楊雄采以", "bbox": [868, 11, 983, 982], "size": "33.49pt", "type": "normal", "comment": ""},
+	{"text": "作訓纂篇凡倉頡已下十四篇凡五千", "bbox": [734, 11, 848, 991], "size": "33.49pt", "type": "normal", "comment": ""},
+	{"text": "三百四十字羣書所載略存之矣及亡", "bbox": [597, 14, 711, 981], "size": "33.49pt", "type": "normal", "comment": ""},
+	{"text": "新居攝使大司空甄豐等校文書之部", "bbox": [462, 12, 577, 988], "size": "33.49pt", "type": "normal", "comment": ""},
+	{"text": "自以爲應制作頗改定古文時有六書", "bbox": [324, 13, 440, 988], "size": "33.49pt", "type": "normal", "comment": ""},
+	{"text": "一曰古文孔子壁中書也二曰奇字即", "bbox": [188, 14, 303, 991], "size": "33.49pt", "type": "normal", "comment": ""},
+	{"text": "古文而異者也三曰篆書即小篆秦始", "bbox": [51, 14, 167, 989], "size": "33.49pt", "type": "normal", "comment": ""},
+	{"text": "陳廣", "bbox": [7, 924, 44, 988], "size": "9.55pt", "type": "normal", "comment": ""}
+]
+```

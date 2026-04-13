@@ -1,0 +1,23 @@
+```json
+[
+	{"text": "小一百九十五", "bbox": [955, 22, 985, 116], "size": "small", "type": "text", "comment": "page number"},
+	{"text": "古", "bbox": [900, 166, 948, 210], "size": "small", "type": "text", "comment": "head"},
+	{"text": "文", "bbox": [827, 166, 890, 210], "size": "small", "type": "text", "comment": "head"},
+	{"text": "文一", "bbox": [838, 396, 938, 505], "size": "large", "type": "text", "comment": "head"},
+	{"text": "重一", "bbox": [838, 647, 940, 755], "size": "large", "type": "text", "comment": "head"},
+	{"text": "花艸木華也从从亏聲凡花之屬皆", "bbox": [695, 25, 806, 982], "size": "large", "type": "text", "comment": "body"},
+	{"text": "从𠌴", "bbox": [571, 170, 664, 294], "size": "large", "type": "text", "comment": "body"},
+	{"text": "況于", "bbox": [620, 296, 680, 372], "size": "small", "type": "text", "comment": "body"},
+	{"text": "切", "bbox": [556, 296, 616, 336], "size": "small", "type": "text", "comment": "body"},
+	{"text": "𠌴或从", "bbox": [490, 158, 545, 278], "size": "small", "type": "text", "comment": "body"},
+	{"text": "艸从夸", "bbox": [431, 158, 485, 282], "size": "small", "type": "text", "comment": "body"},
+	{"text": "盛也从𠌴韋聲詩曰", "bbox": [486, 426, 543, 758], "size": "small", "type": "text", "comment": "body"},
+	{"text": "萼不韽韽于鬼切", "bbox": [425, 424, 478, 718], "size": "small", "type": "text", "comment": "body"},
+	{"text": "文二", "bbox": [305, 264, 390, 376], "size": "large", "type": "text", "comment": "head"},
+	{"text": "重一", "bbox": [305, 498, 401, 612], "size": "large", "type": "text", "comment": "head"},
+	{"text": "華榮也从艸从𠌴凡華之屬皆从華", "bbox": [165, 21, 272, 984], "size": "large", "type": "text", "comment": "body"},
+	{"text": "户瓜", "bbox": [85, 182, 145, 248], "size": "small", "type": "text", "comment": "body"},
+	{"text": "切", "bbox": [32, 182, 80, 218], "size": "small", "type": "text", "comment": "body"},
+	{"text": "祁三", "bbox": [956, 920, 985, 984], "size": "small", "type": "text", "comment": "page number"}
+]
+```

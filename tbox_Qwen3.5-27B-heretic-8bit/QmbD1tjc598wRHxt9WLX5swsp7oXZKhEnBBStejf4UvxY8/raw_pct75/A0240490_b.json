@@ -1,0 +1,13 @@
+```json
+[
+	{"text": "說文解字第十四上 漢太尉祭酒許慎記", "bbox": [859, 28, 953, 457], "size": "49.25", "type": "title", "comment": "Main title and author."},
+	{"text": "銀青光祿大夫守右散騎常侍上柱國東海縣開國子食邑五百戶徐鉉等奉", "bbox": [741, 76, 812, 985], "size": "26.0", "type": "description", "comment": "Official titles and names of contributors."},
+	{"text": "敕校定", "bbox": [608, 77, 672, 182], "size": "34.5", "type": "description", "comment": "Imperial order for collation."},
+	{"text": "五十一部 文六百三 重七十四", "bbox": [468, 98, 552, 844], "size": "39.0", "type": "description", "comment": "Summary of the section's contents."},
+	{"text": "凡八千七百一十七字", "bbox": [334, 244, 418, 744], "size": "44.0", "type": "description", "comment": "Total character count."},
+	{"text": "文十八 新附", "bbox": [199, 234, 299, 492], "size": "44.0", "type": "description", "comment": "Count of new appended characters."},
+	{"text": "金五色金也黄爲之長久藿不生衣", "bbox": [55, 27, 159, 985], "size": "47.0", "type": "description", "comment": "Definition of the character '金' (Gold)."},
+	{"text": "大十二", "bbox": [10, 30, 39, 82], "size": "10.5", "type": "description", "comment": "Page or section number in the margin."},
+	{"text": "萬松", "bbox": [10, 917, 39, 980], "size": "18.0", "type": "description", "comment": "Seal or signature in the bottom-left corner."}
+]
+```

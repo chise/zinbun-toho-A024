@@ -1,0 +1,22 @@
+```json
+[
+	{"bbox_2d": [899, 87, 955, 545], "text_content": "首葉十篆文昏𧉩後改𣈆𧉩", "size": "31.92", "type": "heading", "confidence_level": "0.9", "comment": "heading"},
+	{"bbox_2d": [863, 87, 918, 164], "text_content": "四行", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [807, 88, 860, 163], "text_content": "二葉十", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [772, 88, 843, 722], "text_content": "三行晦淫之所生也晦淫後改淫溺", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [707, 88, 762, 164], "text_content": "五葉十", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [671, 89, 743, 722], "text_content": "一行从偶凡二之屬偶下後增一字", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [607, 89, 662, 165], "text_content": "六葉", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [572, 89, 643, 462], "text_content": "二行最梏也梏後改括", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [506, 89, 561, 166], "text_content": "六葉", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [470, 89, 542, 723], "text_content": "四行地之吐生物者也生下後增萬字", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [402, 89, 457, 166], "text_content": "六葉", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [367, 89, 438, 724], "text_content": "五行地之中物出形也中下後增卄字", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [299, 89, 354, 167], "text_content": "七葉", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [264, 89, 335, 501], "text_content": "四行稻中畦也中後改田", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [199, 89, 253, 167], "text_content": "七葉", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [154, 89, 245, 495], "text_content": "六行篆文𧉪後改𧉪", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [94, 90, 149, 168], "text_content": "九葉十", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"},
+	{"bbox_2d": [48, 90, 129, 495], "text_content": "三行阮也阮後改阣", "size": "31.92", "type": "description", "confidence_level": "0.9", "comment": "description"}
+]
+```
